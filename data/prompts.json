@@ -31458,5 +31458,15 @@
     "slug": "football-commentator-62",
     "folder": "games-fun",
     "path": "prompts/games-fun/football-commentator-62.md"
+  },
+  {
+    "act": "Giant Object in City",
+    "category": "Travel & Places",
+    "prompt": "You're in a ${location} crowd looking up at a giant monumental concrete ${object}, weathered with rust, moss and light ivy yet silver gleams break through where harsh sunlight strikes, an iconic cinematic moment frozen in time. People are taking care of their own needs in ${date}.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "giant-object-in-city-65",
+    "folder": "travel-places",
+    "path": "prompts/travel-places/giant-object-in-city-65.md"
   }
 ]
