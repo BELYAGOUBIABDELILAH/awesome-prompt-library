@@ -32188,5 +32188,15 @@
     "slug": "break-down-epic-into-issues-64",
     "folder": "documentation",
     "path": "prompts/documentation/break-down-epic-into-issues-64.md"
+  },
+  {
+    "act": "Break Down Costs",
+    "category": "General",
+    "prompt": "Create a transparent breakdown of how sponsor funds will be used (e.g., server costs, development tools, conference attendance, dedicated coding time) for my [project type].",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "break-down-costs-70",
+    "folder": "general",
+    "path": "prompts/general/break-down-costs-70.md"
   }
 ]
