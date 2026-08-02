@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+Prompt+Library;3%2C230+battle-tested+AI+prompts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+Prompt+Library;3%2C231+battle-tested+AI+prompts" alt="Typing SVG" />
 
 <br/>
 
-![Prompts](https://img.shields.io/badge/prompts-3230-6E40C9?style=flat-square)
+![Prompts](https://img.shields.io/badge/prompts-3231-6E40C9?style=flat-square)
 ![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)
 ![License](https://img.shields.io/github/license/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square&color=green)
@@ -53,29 +53,29 @@ No installation. No account. Just copy and use.
 
 ## ◈ Categories
 
-> **3,230 prompts** across **19 categories** — updated regularly.
+> **3,231 prompts** across **19 categories** — updated regularly.
 
 | Category | Prompts | Browse |
 |---|---|---|
-| Coding & Development | 3,230 | [→ prompts/coding-development](prompts/coding-development) |
-| Image & Design | 3,230 | [→ prompts/image-design](prompts/image-design) |
-| Writing & Content | 3,230 | [→ prompts/writing-content](prompts/writing-content) |
-| Data & Analytics | 3,230 | [→ prompts/data-analytics](prompts/data-analytics) |
-| Marketing & Social | 3,230 | [→ prompts/marketing-social](prompts/marketing-social) |
-| General | 3,230 | [→ prompts/general](prompts/general) |
-| AI & Automation | 3,230 | [→ prompts/ai-automation](prompts/ai-automation) |
-| Business & Career | 3,230 | [→ prompts/business-career](prompts/business-career) |
-| Documentation | 3,230 | [→ prompts/documentation](prompts/documentation) |
-| Security | 3,230 | [→ prompts/security](prompts/security) |
-| Health & Wellness | 3,230 | [→ prompts/health-wellness](prompts/health-wellness) |
-| Research & Analysis | 3,230 | [→ prompts/research-analysis](prompts/research-analysis) |
-| Sales & Business | 3,230 | [→ prompts/sales-business](prompts/sales-business) |
-| Games & Fun | 3,230 | [→ prompts/games-fun](prompts/games-fun) |
-| Product & Strategy | 3,230 | [→ prompts/product-strategy](prompts/product-strategy) |
-| Travel & Places | 3,230 | [→ prompts/travel-places](prompts/travel-places) |
-| Education & Learning | 3,230 | [→ prompts/education-learning](prompts/education-learning) |
-| Food & Recipes | 3,230 | [→ prompts/food-recipes](prompts/food-recipes) |
-| Philosophy & Humanities | 3,230 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
+| Coding & Development | 3,231 | [→ prompts/coding-development](prompts/coding-development) |
+| Image & Design | 3,231 | [→ prompts/image-design](prompts/image-design) |
+| Writing & Content | 3,231 | [→ prompts/writing-content](prompts/writing-content) |
+| Data & Analytics | 3,231 | [→ prompts/data-analytics](prompts/data-analytics) |
+| Marketing & Social | 3,231 | [→ prompts/marketing-social](prompts/marketing-social) |
+| General | 3,231 | [→ prompts/general](prompts/general) |
+| AI & Automation | 3,231 | [→ prompts/ai-automation](prompts/ai-automation) |
+| Business & Career | 3,231 | [→ prompts/business-career](prompts/business-career) |
+| Documentation | 3,231 | [→ prompts/documentation](prompts/documentation) |
+| Security | 3,231 | [→ prompts/security](prompts/security) |
+| Health & Wellness | 3,231 | [→ prompts/health-wellness](prompts/health-wellness) |
+| Research & Analysis | 3,231 | [→ prompts/research-analysis](prompts/research-analysis) |
+| Sales & Business | 3,231 | [→ prompts/sales-business](prompts/sales-business) |
+| Games & Fun | 3,231 | [→ prompts/games-fun](prompts/games-fun) |
+| Product & Strategy | 3,231 | [→ prompts/product-strategy](prompts/product-strategy) |
+| Travel & Places | 3,231 | [→ prompts/travel-places](prompts/travel-places) |
+| Education & Learning | 3,231 | [→ prompts/education-learning](prompts/education-learning) |
+| Food & Recipes | 3,231 | [→ prompts/food-recipes](prompts/food-recipes) |
+| Philosophy & Humanities | 3,231 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
 
 ## ⬡ Data Exports
 
@@ -83,8 +83,8 @@ The full dataset is available in machine-readable formats.
 
 | File | Format | Records | Use case |
 |---|---|---|---|
-| [`data/prompts.json`](data/prompts.json) | JSON array | 3,230 | Build apps, query with `jq`, feed into vector DBs |
-| [`data/prompts.csv`](data/prompts.csv) | CSV UTF-8 | 3,230 | Excel, pandas, Sheets, SQL imports |
+| [`data/prompts.json`](data/prompts.json) | JSON array | 3,231 | Build apps, query with `jq`, feed into vector DBs |
+| [`data/prompts.csv`](data/prompts.csv) | CSV UTF-8 | 3,231 | Excel, pandas, Sheets, SQL imports |
 
 **JSON schema per record**
 
