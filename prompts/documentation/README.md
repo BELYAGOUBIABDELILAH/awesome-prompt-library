@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**119 prompts in this category**
+**120 prompts in this category**
 
 ## Table of Contents
 
@@ -79,6 +79,7 @@
 - [Break Down Epic into Issues](break-down-epic-into-issues-66.md)
 - [Break Down Epic into Issues](break-down-epic-into-issues-67.md)
 - [Break Down Epic into Issues](break-down-epic-into-issues-68.md)
+- [Break Down Epic into Issues](break-down-epic-into-issues-69.md)
 - [Categorize Features](categorize-features.md)
 - [CMOS Citation Verification](cmos-citation-verification.md)
 - [Convert Documentation to Code Comments](convert-documentation-to-code-comments.md)
