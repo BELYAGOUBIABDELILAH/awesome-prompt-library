@@ -72974,3 +72974,4 @@ Top 5 to fix immediately:
 
 ### Scan Configuration Improvements
 Based on the false positive rate, suggest improvements to scan rules to reduce noise.",GitLab Duo,TEXT,analyze-security-scan-results-71,security,prompts/security/analyze-security-scan-results-71.md
+Break Down Costs,General,"Create a transparent breakdown of how sponsor funds will be used (e.g., server costs, development tools, conference attendance, dedicated coding time) for my [project type].",Awesome ChatGPT Prompts,TEXT,break-down-costs-75,general,prompts/general/break-down-costs-75.md
