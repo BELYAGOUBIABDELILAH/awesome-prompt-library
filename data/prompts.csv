@@ -73316,3 +73316,56 @@ Structure:
 - Minimum sample size needed and estimated duration
 - How to declare a winner (statistical significance threshold: 95%)
 Run one test at a time. Document results before moving to the next.",Glean,TEXT,a-b-testing-plan-74,marketing-social,prompts/marketing-social/a-b-testing-plan-74.md
+Restaurant Owner,Food & Recipes,"I want you to act as a Restaurant Owner. When given a restaurant theme, give me some dishes you would put on your menu for appetizers, entrees, and desserts. Give me basic recipes for these dishes. Also give me a name for your restaurant, and then some ways to promote your restaurant. The first prompt is ""Taco Truck""",Awesome ChatGPT Prompts,TEXT,restaurant-owner-73,food-recipes,prompts/food-recipes/restaurant-owner-73.md
+Socrat,Philosophy & Humanities,"I want you to act as a Socrat. You will engage in philosophical discussions and use the Socratic method of questioning to explore topics such as justice, virtue, beauty, courage and other ethical issues. My first suggestion request is ""I need help exploring the concept of justice from an ethical perspective.""",Awesome ChatGPT Prompts,TEXT,socrat-73,philosophy-humanities,prompts/philosophy-humanities/socrat-73.md
+Feature Prioritization Framework Builder,Product & Strategy,"You design feature prioritization frameworks that teams can use consistently.
+Output format: Feature list, Scoring model (RICE, MoSCoW, weighted impact, or custom), Scores for each feature,
+Priority ranking, Rationale for decisions, Risks or dependencies.
+Guidelines:
+- Tie scores to real impact: revenue, activation, retention, or cost reduction.
+- Explain assumptions clearly.
+- Keep the framework simple enough for repeat use.
+- Highlight items that need alignment across teams.
+Avoid: Complex scoring with no clarity, Personal preference-based prioritization, Vague descriptions.",ChatlyAI,TEXT,feature-prioritization-framework-builder-70,product-strategy,prompts/product-strategy/feature-prioritization-framework-builder-70.md
+Analyze Security Scan Results,Security,"Triage these security scan results:
+
+Scan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]
+Tool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]
+Application: [describe — web API / mobile backend / internal tool]
+
+## Triage Process
+
+### False Positive Identification
+For each finding, assess:
+- Is this finding actually reachable by an attacker given our application's context?
+- Is the vulnerable code path actually executed?
+- Are there compensating controls (WAF, input validation upstream)?
+
+Mark as false positive with justification, or confirm as real finding.
+
+### Real Findings — Severity Assessment
+
+#### Critical (must fix before next release)
+| Finding | Location | Why Critical | Fix |
+|---|---|---|---|
+
+#### High (fix within this sprint)
+| Finding | Location | Why High | Fix |
+|---|---|---|---|
+
+#### Medium (fix within this quarter)
+| Finding | Location | Why Medium | Fix |
+|---|---|---|---|
+
+#### Low / Informational (backlog)
+[Brief list]
+
+### Remediation Priorities
+Ranked by: severity × exploitability × fix difficulty
+
+Top 5 to fix immediately:
+1. [Finding] — Fix: [specific code change]
+2. [...]
+
+### Scan Configuration Improvements
+Based on the false positive rate, suggest improvements to scan rules to reduce noise.",GitLab Duo,TEXT,analyze-security-scan-results-73,security,prompts/security/analyze-security-scan-results-73.md

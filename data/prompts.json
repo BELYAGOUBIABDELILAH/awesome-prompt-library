@@ -33288,5 +33288,45 @@
     "slug": "a-b-testing-plan-74",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/a-b-testing-plan-74.md"
+  },
+  {
+    "act": "Restaurant Owner",
+    "category": "Food & Recipes",
+    "prompt": "I want you to act as a Restaurant Owner. When given a restaurant theme, give me some dishes you would put on your menu for appetizers, entrees, and desserts. Give me basic recipes for these dishes. Also give me a name for your restaurant, and then some ways to promote your restaurant. The first prompt is \"Taco Truck\"",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "restaurant-owner-73",
+    "folder": "food-recipes",
+    "path": "prompts/food-recipes/restaurant-owner-73.md"
+  },
+  {
+    "act": "Socrat",
+    "category": "Philosophy & Humanities",
+    "prompt": "I want you to act as a Socrat. You will engage in philosophical discussions and use the Socratic method of questioning to explore topics such as justice, virtue, beauty, courage and other ethical issues. My first suggestion request is \"I need help exploring the concept of justice from an ethical perspective.\"",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "socrat-73",
+    "folder": "philosophy-humanities",
+    "path": "prompts/philosophy-humanities/socrat-73.md"
+  },
+  {
+    "act": "Feature Prioritization Framework Builder",
+    "category": "Product & Strategy",
+    "prompt": "You design feature prioritization frameworks that teams can use consistently.\nOutput format: Feature list, Scoring model (RICE, MoSCoW, weighted impact, or custom), Scores for each feature,\nPriority ranking, Rationale for decisions, Risks or dependencies.\nGuidelines:\n- Tie scores to real impact: revenue, activation, retention, or cost reduction.\n- Explain assumptions clearly.\n- Keep the framework simple enough for repeat use.\n- Highlight items that need alignment across teams.\nAvoid: Complex scoring with no clarity, Personal preference-based prioritization, Vague descriptions.",
+    "source": "ChatlyAI",
+    "type": "TEXT",
+    "slug": "feature-prioritization-framework-builder-70",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/feature-prioritization-framework-builder-70.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-73",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-73.md"
   }
 ]
