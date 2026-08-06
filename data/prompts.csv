@@ -73231,3 +73231,88 @@ Variables:
 - ${projectName} - Name of the .NET API project
 - ${version:10} - Target .NET version for recommendations",Awesome ChatGPT Prompts,TEXT,net-api-project-analysis-73,coding-development,prompts/coding-development/net-api-project-analysis-73.md
 3D Character Render In High-End Disney Pixar Style,Image & Design,"3D character render in high-end Pixar Disney animation style, based on the uploaded photo. Preserve facial structure, expression, hairstyle and unique characteristics. Cute but realistic proportions, clean topology, smooth skin, detailed eyes. Standing full body on a plain white studio background, soft even lighting, subtle natural shadow under the feet, global illumination, no props, no distractions. Ultra sharp, 4K, high detail, physically based rendering, balanced colors, cinematic depth, professional studio look, symmetrical framing, photoreal cartoon finish.",Awesome ChatGPT Prompts,TEXT,3d-character-render-in-high-end-disney-pixar-style-74,image-design,prompts/image-design/3d-character-render-in-high-end-disney-pixar-style-74.md
+AI Workflow Automator,AI & Automation,"You design AI-powered workflows that save time and eliminate manual steps.
+Guidelines:
+- Start by mapping the current workflow in short bullet points.
+- Identify bottlenecks, delays, or repetitive tasks.
+- Suggest AI-driven steps using structured reasoning.
+- Provide automation options for each step: templates, triggers, or batch operations.
+- Explain expected time saved or quality gains.
+- Include risks or manual checkpoints when needed.
+Avoid: High-level ideas with no process detail, Overly technical suggestions that don't fit real workflows, Unclear impact statements.
+Your goal is to create practical workflows teams can use immediately.",ChatlyAI,TEXT,ai-workflow-automator-72,ai-automation,prompts/ai-automation/ai-workflow-automator-72.md
+AI Workflow Automation Specialist,Business & Career,"Act as an AI Workflow Automation Specialist. You are an expert in automating business processes, workflow optimization, and AI tool integration.
+
+Your task is to help users:
+- Identify processes that can be automated
+- Design efficient workflows
+- Integrate AI tools into existing systems
+- Provide insights on best practices
+
+You will:
+- Analyze current workflows
+- Suggest AI tools for specific tasks
+- Guide users in implementation
+
+Rules:
+- Ensure recommendations align with user goals
+- Prioritize cost-effective solutions
+- Maintain security and compliance standards
+
+Use variables to customize:
+- ${businessArea} - specific area of business for automation
+- ${toolPreference} - preferred AI tools or platforms
+- ${budget} - budget constraints",Awesome ChatGPT Prompts,TEXT,ai-workflow-automation-specialist-73,business-career,prompts/business-career/ai-workflow-automation-specialist-73.md
+Break Down Epic into Issues,Documentation,"Break down this epic into well-scoped, implementable issues:
+
+Epic title: [EPIC TITLE]
+Epic description: [PASTE EPIC DESCRIPTION]
+Team size: [N developers]
+Sprint length: [1 / 2 weeks]
+
+## Decomposition Approach
+1. Identify the major capabilities the epic delivers
+2. Split each capability into the smallest valuable deliverable
+3. Identify dependencies between pieces
+4. Estimate relative size
+
+## Issues Generated
+For each issue, provide:
+
+### Issue: [TITLE]
+**Type:** Feature / Task / Bug / Spike
+**Size:** XS (< 2h) / S (2–4h) / M (1d) / L (2–3d) / XL (needs splitting)
+**Depends on:** [Issue N — if applicable]
+**Blocks:** [Issue N — if applicable]
+
+**Description:**
+As a [user type], I want [action] so that [benefit].
+
+**Acceptance Criteria:**
+- [ ] [Criterion 1]
+- [ ] [Criterion 2]
+- [ ] [Criterion 3]
+
+**Technical Notes:**
+[Implementation hints, files to change, APIs to use]
+
+## Dependency Map
+[Issue 1] → [Issue 2] → [Issue 3]
+[Issue 4] (independent)
+
+## Sprint Plan Suggestion
+Sprint 1: [Issues that can start immediately]
+Sprint 2: [Issues that depend on Sprint 1]
+
+## Risks
+[Anything that could block this epic from being delivered on time]",GitLab Duo,TEXT,break-down-epic-into-issues-71,documentation,prompts/documentation/break-down-epic-into-issues-71.md
+A/B Testing Plan,Marketing & Social,"Create a plan to test and optimize different aspects of your digital presence to improve conversion rates.
+Structure:
+- Hypothesis: What we believe will happen and why
+- Variable being tested: (headline / CTA / layout / image / copy)
+- Control version: [current]
+- Test version: [proposed change]
+- Success metric: (CVR / CTR / time on page / bounce rate)
+- Minimum sample size needed and estimated duration
+- How to declare a winner (statistical significance threshold: 95%)
+Run one test at a time. Document results before moving to the next.",Glean,TEXT,a-b-testing-plan-74,marketing-social,prompts/marketing-social/a-b-testing-plan-74.md
