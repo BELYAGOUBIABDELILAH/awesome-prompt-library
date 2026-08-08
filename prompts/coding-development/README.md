@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**843 prompts in this category**
+**844 prompts in this category**
 
 ## Table of Contents
 
@@ -80,6 +80,7 @@
 - [.NET API Project Analysis](net-api-project-analysis-72.md)
 - [.NET API Project Analysis](net-api-project-analysis-73.md)
 - [.NET API Project Analysis](net-api-project-analysis-74.md)
+- [.NET API Project Analysis](net-api-project-analysis-75.md)
 - [12-Month AI and Computer Vision Roadmap for Defense Applications](12-month-ai-and-computer-vision-roadmap-for-defense-applicat.md)
 - [2026 Mobile Poster Creator](2026-mobile-poster-creator.md)
 - [2026 Size Neler getirecek](2026-size-neler-getirecek.md)
