@@ -768,5 +768,15 @@
     "slug": "break-down-epic-into-issues-77",
     "folder": "documentation",
     "path": "prompts/documentation/break-down-epic-into-issues-77.md"
+  },
+  {
+    "act": "Break Down Epic into Issues",
+    "category": "Documentation",
+    "prompt": "Break down this epic into well-scoped, implementable issues:\n\nEpic title: [EPIC TITLE]\nEpic description: [PASTE EPIC DESCRIPTION]\nTeam size: [N developers]\nSprint length: [1 / 2 weeks]\n\n## Decomposition Approach\n1. Identify the major capabilities the epic delivers\n2. Split each capability into the smallest valuable deliverable\n3. Identify dependencies between pieces\n4. Estimate relative size\n\n## Issues Generated\nFor each issue, provide:\n\n### Issue: [TITLE]\n**Type:** Feature / Task / Bug / Spike\n**Size:** XS (< 2h) / S (2–4h) / M (1d) / L (2–3d) / XL (needs splitting)\n**Depends on:** [Issue N — if applicable]\n**Blocks:** [Issue N — if applicable]\n\n**Description:**\nAs a [user type], I want [action] so that [benefit].\n\n**Acceptance Criteria:**\n- [ ] [Criterion 1]\n- [ ] [Criterion 2]\n- [ ] [Criterion 3]\n\n**Technical Notes:**\n[Implementation hints, files to change, APIs to use]\n\n## Dependency Map\n[Issue 1] → [Issue 2] → [Issue 3]\n[Issue 4] (independent)\n\n## Sprint Plan Suggestion\nSprint 1: [Issues that can start immediately]\nSprint 2: [Issues that depend on Sprint 1]\n\n## Risks\n[Anything that could block this epic from being delivered on time]",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "break-down-epic-into-issues-78",
+    "folder": "documentation",
+    "path": "prompts/documentation/break-down-epic-into-issues-78.md"
   }
 ]
