@@ -34378,5 +34378,15 @@
     "slug": "net-api-project-analysis-80",
     "folder": "coding-development",
     "path": "prompts/coding-development/net-api-project-analysis-80.md"
+  },
+  {
+    "act": "3D Character Render In High-End Disney Pixar Style",
+    "category": "Image & Design",
+    "prompt": "3D character render in high-end Pixar Disney animation style, based on the uploaded photo. Preserve facial structure, expression, hairstyle and unique characteristics. Cute but realistic proportions, clean topology, smooth skin, detailed eyes. Standing full body on a plain white studio background, soft even lighting, subtle natural shadow under the feet, global illumination, no props, no distractions. Ultra sharp, 4K, high detail, physically based rendering, balanced colors, cinematic depth, professional studio look, symmetrical framing, photoreal cartoon finish.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "3d-character-render-in-high-end-disney-pixar-style-81",
+    "folder": "image-design",
+    "path": "prompts/image-design/3d-character-render-in-high-end-disney-pixar-style-81.md"
   }
 ]
