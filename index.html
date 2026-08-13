@@ -16,7 +16,15 @@
       --border:   #1e1e30;
       --accent:   #6e40c9;
       --accent2:  #9f6ef5;
-      --text:     #e2e2f0;
+      --text:     #e2e2f0;404
+File not found
+
+The site configured at this address does not contain the requested file.
+
+If this is your site, make sure that the filename case matches the URL as well as any file permissions.
+For root URLs (like http://example.com/) you must provide an index.html file.
+
+Read the full documentation for more information about using GitHub Pages
       --muted:    #6b6b8a;
       --green:    #3ecf8e;
       --code-bg:  #0a0a12;
@@ -30,6 +38,7 @@
       padding: 0 1rem;
     }
 
+    /* ── Header ── */
     header {
       max-width: 860px;
       margin: 0 auto;
@@ -98,6 +107,7 @@
     }
     .stat-label { font-size: .72rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-top: .15rem; }
 
+    /* ── Main content ── */
     main {
       max-width: 860px;
       margin: 0 auto;
@@ -115,13 +125,16 @@
 
     section { margin-bottom: 3rem; }
 
+    /* ── Quick start card ── */
     .card {
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 12px;
       padding: 1.5rem;
     }
+
     .card + .card { margin-top: 1rem; }
+
     .card h3 {
       font-size: .95rem;
       font-weight: 600;
@@ -141,6 +154,7 @@
       color: #c8bfff;
     }
 
+    /* ── Endpoint table ── */
     .endpoint-list { display: flex; flex-direction: column; gap: .75rem; }
 
     .endpoint {
@@ -181,6 +195,7 @@
       line-height: 1.5;
     }
 
+    /* ── Footer ── */
     footer {
       text-align: center;
       padding: 2rem 0 3rem;
@@ -205,7 +220,7 @@
   </div>
 
   <h1>Awesome Prompt Library</h1>
-  <p>A free, open JSON API serving curated AI prompts for ChatGPT, Claude, Gemini and more.<br/>No account. No key. No cost.</p>
+  <p>A free, open JSON API serving curated AI prompts for ChatGPT, Claude, Gemini and more. No account. No key. No cost.</p>
 
   <div class="stat-strip">
     <div class="stat">
@@ -225,6 +240,7 @@
 
 <main>
 
+  <!-- Quick start -->
   <section>
     <p class="section-title">Quick Start</p>
     <div class="card">
@@ -240,13 +256,14 @@
   .then(data => console.log(data.prompts));</pre>
     </div>
     <div class="card">
-      <h3>Paginated list</h3>
+      <h3>Paginated prompt list</h3>
       <pre>fetch('https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/index.json')
   .then(r => r.json())
   .then(data => console.log(data.prompts)); // 100 per page</pre>
     </div>
   </section>
 
+  <!-- Endpoints -->
   <section>
     <p class="section-title">Endpoints</p>
     <div class="endpoint-list">
@@ -260,43 +277,45 @@
       <div class="endpoint">
         <span class="method">GET</span>
         <span class="endpoint-path">/v1/categories/index.json</span>
-        <span class="endpoint-desc">List of all categories with prompt counts and direct URLs.</span>
+        <span class="endpoint-desc">List of all 19 categories with prompt counts and direct URLs.</span>
       </div>
 
       <div class="endpoint">
         <span class="method">GET</span>
         <span class="endpoint-path">/v1/categories/{folder}.json</span>
-        <span class="endpoint-desc">All prompts in a category, with full prompt text included.</span>
+        <span class="endpoint-desc">All prompts in a specific category, with full prompt text included.</span>
       </div>
 
       <div class="endpoint">
         <span class="method">GET</span>
         <span class="endpoint-path">/v1/index.json</span>
-        <span class="endpoint-desc">Paginated list — page 1, 100 prompts per page, summary only.</span>
+        <span class="endpoint-desc">Paginated prompt list — page 1, 100 prompts per page, summary only.</span>
       </div>
 
       <div class="endpoint">
         <span class="method">GET</span>
         <span class="endpoint-path">/v1/index/page-{n}.json</span>
-        <span class="endpoint-desc">Subsequent pages. Includes next/prev links.</span>
+        <span class="endpoint-desc">Subsequent pages of the paginated list. Includes next/prev links.</span>
       </div>
 
       <div class="endpoint">
         <span class="method">GET</span>
         <span class="endpoint-path">/v1/prompts/{id}.json</span>
-        <span class="endpoint-desc">Single prompt by stable ID. Full text, variables, and metadata.</span>
+        <span class="endpoint-desc">Single prompt by stable ID. Returns full prompt text, variables, and metadata.</span>
       </div>
 
     </div>
   </section>
 
+  <!-- Source -->
   <section>
     <p class="section-title">Source</p>
     <div class="card">
       <h3>Open source on GitHub</h3>
       <p style="color:var(--muted);font-size:.88rem;line-height:1.6;margin-bottom:1rem">
         All prompts live in <code style="font-family:'Fira Code',monospace;color:var(--accent2)">data/registry.jsonl</code>.
-        The API is rebuilt on every push via GitHub Actions and redeployed here automatically.
+        The API is rebuilt automatically on every push via GitHub Actions and deployed here via GitHub Pages.
+        Contributions welcome.
       </p>
       <a href="https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
          style="display:inline-block;background:var(--accent);color:#fff;font-size:.85rem;font-weight:600;padding:.55rem 1.2rem;border-radius:8px;text-decoration:none;">
@@ -313,14 +332,15 @@
 </footer>
 
 <script>
+  // Populate live stats from the API itself
   fetch('./v1/stats.json')
     .then(r => r.json())
     .then(d => {
-      document.getElementById('total-prompts').textContent    = d.total_prompts.toLocaleString();
-      document.getElementById('total-categories').textContent = d.total_categories;
-      document.getElementById('total-pages').textContent      = d.total_pages;
+      document.getElementById('total-prompts').textContent     = d.total_prompts.toLocaleString();
+      document.getElementById('total-categories').textContent  = d.total_categories;
+      document.getElementById('total-pages').textContent       = d.total_pages;
     })
-    .catch(() => {});
+    .catch(() => {}); // silently fail — static fallback values stay as "—"
 </script>
 
 </body>
