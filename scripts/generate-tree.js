@@ -290,7 +290,7 @@ const categorySection = [
   '<!-- GENERATED:CATEGORIES:START -->',
   '## ◈ Categories',
   '',
-  `> **${total} prompts** across **${sortedCategories.length} categories** — updated regularly.`,
+  `> **${total.toLocaleString('en-US')} canonical records** across **${sortedCategories.length} categories** — counts are rebuilt from the v1 index.`,
   '',
   '| Category | Prompts | Browse |',
   '|---|---|---|',
@@ -338,7 +338,6 @@ console.log(`  Root README updated        : yes`);
 // Replaces all hardcoded prompt count occurrences with the live `total` value.
 // Targets:
 //   - shields.io badge URL           prompts-NNNN-
-//   - typing SVG URL param           NNN%2CNNN+battle-tested+AI+prompts
 //   - plain-text category header     **N,NNN prompts**
 //   - data-exports table cell        | N,NNN |
 // ---------------------------------------------------------------------------
@@ -352,12 +351,6 @@ if (fs.existsSync(readmePath)) {
   readme = readme.replace(
     /\/badge\/prompts-\d[\d,]*-/g,
     `/badge/prompts-${total}-`
-  );
-
-  // 2. Typing SVG URL-encoded count:  2%2C106+battle-tested  →  2%2C997+battle-tested
-  readme = readme.replace(
-    /\d[\d%2C]*(?=\+battle-tested\+AI\+prompts)/gi,
-    totalUrlEncoded
   );
 
   // Category and total text are generated inside marker-scoped sections above.

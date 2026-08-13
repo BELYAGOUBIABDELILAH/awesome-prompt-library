@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+Prompt+Library;2%2C101+battle-tested+AI+prompts" alt="Typing SVG" />
+# axiom
 
-<br/>
+**A versioned prompt registry for people, IDEs, and AI tools.**
 
-![Prompts](https://img.shields.io/badge/prompts-2101-6E40C9?style=flat-square)
-![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)
 ![License](https://img.shields.io/github/license/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square&color=green)
-![Stars](https://img.shields.io/github/stars/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square)
 ![CI](https://github.com/BELYAGOUBIABDELILAH/open-prompt-library/actions/workflows/rebuild-index.yml/badge.svg)
 
-<p>A curated, open-source collection of AI prompts for developers, writers, marketers, and creators.<br/>
-Browse, copy, fork, and extend — no setup required.</p>
+<p>Stable IDs, explicit provenance, lifecycle states, and machine-readable exports.<br/>
+The source repository is public; the axiom web surface is read-only.</p>
 
 <p>
   <a href="#-categories">Browse Prompts</a> &nbsp;·&nbsp;
@@ -27,14 +23,14 @@ Browse, copy, fork, and extend — no setup required.</p>
 
 ## ✦ Quick Start
 
-No installation. No account. Just copy and use.
+No account is required to inspect the records or export the data.
 
-1. Find a prompt in the [categories table](#-categories) below
-2. Open any `.md` file — the prompt lives inside the blockquote
-3. Paste it into ChatGPT, Claude, Gemini, or any LLM
-4. Tweak and go
+1. Find a prompt in the [categories table](#-categories) below.
+2. Open the generated Markdown record or the canonical JSONL record.
+3. Read the provenance and lifecycle state before using it.
+4. Adapt the prompt to your context and keep the original record ID when sharing feedback.
 
-> **Power user tip** — clone the repo and run `grep -r "keyword" prompts/` to full-text search all prompts locally.
+> **Power user tip** — clone the repo and run `grep -r "keyword" prompts/` to search the generated Markdown records locally.
 
 ---
 
@@ -54,7 +50,7 @@ No installation. No account. Just copy and use.
 <!-- GENERATED:CATEGORIES:START -->
 ## ◈ Categories
 
-> **2101 prompts** across **19 categories** — updated regularly.
+> **2,101 canonical records** across **19 categories** — counts are rebuilt from the v1 index.
 
 | Category | Prompts | Browse |
 |---|---|---|
@@ -125,7 +121,13 @@ cd open-prompt-library
 node scripts/generate-tree.js
 ```
 
-This fully recreates every `prompts/category/*.md` file and rebuilds all README indexes from `data/prompts.json`. It is idempotent — safe to re-run anytime.
+The canonical `data/prompts/index.jsonl` is the public registry source. The generator recreates every `prompts/category/*.md` file and synchronizes the CSV export and README category index. It is idempotent — safe to re-run after validation.
+
+For a complete clean-room verification, run:
+
+```bash
+npm run bootstrap
+```
 
 ---
 
@@ -137,7 +139,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
 |---|---|
 | Single prompt | Open a PR directly |
 | Batch of prompts | Open an issue first to coordinate |
-| Found a bug or duplicate | [Open an issue](https://github.com/BELYAGOUBIABDELILAH/open-prompt-library/issues/new) |
+| Found a bug, duplicate, provenance problem, or safety issue | [Use the record report form](https://github.com/BELYAGOUBIABDELILAH/open-prompt-library/issues/new?template=record-report.yml) |
 
 > All contributions are reviewed and deduplicated before merging.
 
@@ -153,6 +155,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
 
 **[⬆ Back to top](#)**
 
-<sub>Built for the community · Open source · Always free</sub>
+<sub>Maintained in public · Open source · No account required</sub>
 
 </div>

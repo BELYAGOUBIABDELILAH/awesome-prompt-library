@@ -2,8 +2,8 @@
 
 # Contributing
 
-**Open Prompt Library** is community-driven and always open to new prompts.<br/>
-Every contribution — big or small — makes this resource better for everyone.
+**axiom** is a public prompt registry with a reviewable contribution path.<br/>
+Every accepted record must carry enough context for another person to inspect and reproduce its intended use.
 
 </div>
 
@@ -29,7 +29,7 @@ Submitting a prompt does not make it approved, tested, verified, or recommended.
 ### 1. Fork & clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/open-prompt-library.git
+  git clone https://github.com/BELYAGOUBIABDELILAH/open-prompt-library.git
 cd open-prompt-library
 ```
 

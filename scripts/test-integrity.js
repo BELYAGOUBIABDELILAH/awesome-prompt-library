@@ -35,7 +35,7 @@ function generatedCategorySection(records) {
     '<!-- GENERATED:CATEGORIES:START -->',
     '## ◈ Categories',
     '',
-    `> **${records.length} prompts** across **${counts.length} categories** — updated regularly.`,
+    `> **${records.length.toLocaleString('en-US')} canonical records** across **${counts.length} categories** — counts are rebuilt from the v1 index.`,
     '',
     '| Category | Prompts | Browse |',
     '|---|---|---|',

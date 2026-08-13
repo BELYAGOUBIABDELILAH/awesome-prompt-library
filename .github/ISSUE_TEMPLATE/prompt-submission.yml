@@ -36,7 +36,7 @@ body:
     attributes:
       label: Source URL
       description: Public URL for the original prompt or inspiration. If original, write “Original work”.
-      placeholder: https://example.com/source
+      placeholder: Optional source URL; write “Original work” when there is no external source
     validations:
       required: true
   - type: input
