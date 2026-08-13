@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Awesome Prompt Library — Free JSON API</title>
+  <meta name="description" content="Free, open JSON API for 2,000+ curated AI prompts. No key, no account, no rate limits. Hosted on GitHub Pages." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #0d0d14;
+      --surface:  #13131f;
+      --border:   #1e1e30;
+      --accent:   #6e40c9;
+      --accent2:  #9f6ef5;
+      --text:     #e2e2f0;404
+File not found
+
+The site configured at this address does not contain the requested file.
+
+If this is your site, make sure that the filename case matches the URL as well as any file permissions.
+For root URLs (like http://example.com/) you must provide an index.html file.
+
+Read the full documentation for more information about using GitHub Pages
+      --muted:    #6b6b8a;
+      --green:    #3ecf8e;
+      --code-bg:  #0a0a12;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      padding: 0 1rem;
+    }
+
+    /* ── Header ── */
+    header {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 4rem 0 2.5rem;
+      text-align: center;
+    }
+
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      justify-content: center;
+      margin-bottom: 2rem;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: .35rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: .25rem .7rem;
+      font-size: .78rem;
+      font-weight: 500;
+      color: var(--muted);
+    }
+    .badge .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); }
+    .badge.accent { border-color: var(--accent); color: var(--accent2); }
+
+    header h1 {
+      font-size: clamp(1.8rem, 5vw, 2.8rem);
+      font-weight: 700;
+      letter-spacing: -.02em;
+      background: linear-gradient(135deg, #fff 30%, var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: .75rem;
+    }
+
+    header p {
+      color: var(--muted);
+      font-size: 1.05rem;
+      max-width: 540px;
+      margin: 0 auto 1.5rem;
+      line-height: 1.65;
+    }
+
+    .stat-strip {
+      display: inline-flex;
+      gap: 2rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: .9rem 2rem;
+      margin-top: .5rem;
+    }
+
+    .stat { text-align: center; }
+    .stat-num {
+      font-size: 1.55rem;
+      font-weight: 700;
+      color: var(--accent2);
+      font-variant-numeric: tabular-nums;
+    }
+    .stat-label { font-size: .72rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-top: .15rem; }
+
+    /* ── Main content ── */
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding-bottom: 5rem;
+    }
+
+    .section-title {
+      font-size: .7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+      color: var(--accent2);
+      margin-bottom: 1rem;
+    }
+
+    section { margin-bottom: 3rem; }
+
+    /* ── Quick start card ── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem;
+    }
+
+    .card + .card { margin-top: 1rem; }
+
+    .card h3 {
+      font-size: .95rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: .75rem;
+    }
+
+    pre {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      overflow-x: auto;
+      font-family: 'Fira Code', monospace;
+      font-size: .82rem;
+      line-height: 1.7;
+      color: #c8bfff;
+    }
+
+    /* ── Endpoint table ── */
+    .endpoint-list { display: flex; flex-direction: column; gap: .75rem; }
+
+    .endpoint {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: .6rem 1rem;
+      align-items: start;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1rem 1.25rem;
+      transition: border-color .15s;
+    }
+    .endpoint:hover { border-color: var(--accent); }
+
+    .method {
+      font-family: 'Fira Code', monospace;
+      font-size: .7rem;
+      font-weight: 500;
+      background: rgba(110,64,201,.18);
+      color: var(--accent2);
+      border-radius: 4px;
+      padding: .18rem .55rem;
+      align-self: center;
+    }
+
+    .endpoint-path {
+      font-family: 'Fira Code', monospace;
+      font-size: .82rem;
+      color: var(--text);
+      word-break: break-all;
+    }
+
+    .endpoint-desc {
+      grid-column: 2;
+      font-size: .82rem;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 2rem 0 3rem;
+      color: var(--muted);
+      font-size: .8rem;
+      border-top: 1px solid var(--border);
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    footer a { color: var(--accent2); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="badge-row">
+    <span class="badge"><span class="dot"></span> API Live</span>
+    <span class="badge accent">v1</span>
+    <span class="badge">No auth required</span>
+    <span class="badge">No rate limits</span>
+  </div>
+
+  <h1>Awesome Prompt Library</h1>
+  <p>A free, open JSON API serving curated AI prompts for ChatGPT, Claude, Gemini and more. No account. No key. No cost.</p>
+
+  <div class="stat-strip">
+    <div class="stat">
+      <div class="stat-num" id="total-prompts">—</div>
+      <div class="stat-label">Prompts</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num" id="total-categories">—</div>
+      <div class="stat-label">Categories</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num" id="total-pages">—</div>
+      <div class="stat-label">Pages</div>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <!-- Quick start -->
+  <section>
+    <p class="section-title">Quick Start</p>
+    <div class="card">
+      <h3>Fetch all stats</h3>
+      <pre>fetch('https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/stats.json')
+  .then(r => r.json())
+  .then(data => console.log(data.total_prompts, 'prompts'));</pre>
+    </div>
+    <div class="card">
+      <h3>Browse a category</h3>
+      <pre>fetch('https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/coding-development.json')
+  .then(r => r.json())
+  .then(data => console.log(data.prompts));</pre>
+    </div>
+    <div class="card">
+      <h3>Paginated prompt list</h3>
+      <pre>fetch('https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/index.json')
+  .then(r => r.json())
+  .then(data => console.log(data.prompts)); // 100 per page</pre>
+    </div>
+  </section>
+
+  <!-- Endpoints -->
+  <section>
+    <p class="section-title">Endpoints</p>
+    <div class="endpoint-list">
+
+      <div class="endpoint">
+        <span class="method">GET</span>
+        <span class="endpoint-path">/v1/stats.json</span>
+        <span class="endpoint-desc">Global stats: total prompts, categories, pages, and the full endpoint map.</span>
+      </div>
+
+      <div class="endpoint">
+        <span class="method">GET</span>
+        <span class="endpoint-path">/v1/categories/index.json</span>
+        <span class="endpoint-desc">List of all 19 categories with prompt counts and direct URLs.</span>
+      </div>
+
+      <div class="endpoint">
+        <span class="method">GET</span>
+        <span class="endpoint-path">/v1/categories/{folder}.json</span>
+        <span class="endpoint-desc">All prompts in a specific category, with full prompt text included.</span>
+      </div>
+
+      <div class="endpoint">
+        <span class="method">GET</span>
+        <span class="endpoint-path">/v1/index.json</span>
+        <span class="endpoint-desc">Paginated prompt list — page 1, 100 prompts per page, summary only.</span>
+      </div>
+
+      <div class="endpoint">
+        <span class="method">GET</span>
+        <span class="endpoint-path">/v1/index/page-{n}.json</span>
+        <span class="endpoint-desc">Subsequent pages of the paginated list. Includes next/prev links.</span>
+      </div>
+
+      <div class="endpoint">
+        <span class="method">GET</span>
+        <span class="endpoint-path">/v1/prompts/{id}.json</span>
+        <span class="endpoint-desc">Single prompt by stable ID. Returns full prompt text, variables, and metadata.</span>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Source -->
+  <section>
+    <p class="section-title">Source</p>
+    <div class="card">
+      <h3>Open source on GitHub</h3>
+      <p style="color:var(--muted);font-size:.88rem;line-height:1.6;margin-bottom:1rem">
+        All prompts live in <code style="font-family:'Fira Code',monospace;color:var(--accent2)">data/registry.jsonl</code>.
+        The API is rebuilt automatically on every push via GitHub Actions and deployed here via GitHub Pages.
+        Contributions welcome.
+      </p>
+      <a href="https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library"
+         style="display:inline-block;background:var(--accent);color:#fff;font-size:.85rem;font-weight:600;padding:.55rem 1.2rem;border-radius:8px;text-decoration:none;">
+        View on GitHub →
+      </a>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  Built with GitHub Pages · No backend · No rate limits ·
+  <a href="https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library">BELYAGOUBIABDELILAH/awesome-prompt-library</a>
+</footer>
+
+<script>
+  // Populate live stats from the API itself
+  fetch('./v1/stats.json')
+    .then(r => r.json())
+    .then(d => {
+      document.getElementById('total-prompts').textContent     = d.total_prompts.toLocaleString();
+      document.getElementById('total-categories').textContent  = d.total_categories;
+      document.getElementById('total-pages').textContent       = d.total_pages;
+    })
+    .catch(() => {}); // silently fail — static fallback values stay as "—"
+</script>
+
+</body>
+</html>
