@@ -275,13 +275,13 @@ const categorySection = [
   '',
   `> **${canonicalTotal.toLocaleString('en-US')} curated prompts** across **${sortedCategories.length} categories** — updated regularly.`,
   '',
-  '</div>',
-  '',
   '| Category | Prompts | Browse |',
-  '|---|---|---|',
+  '| :---: | :---: | :---: |',
   ...sortedCategories.map(([cat, { count, folder }]) =>
     `| ${cat} | ${count} | [→ prompts/${folder}](prompts/${folder}) |`
   ),
+  '',
+  '</div>',
 ].join('\n');
 
 // Read existing README and replace only the categories section
@@ -330,8 +330,8 @@ if (fs.existsSync(readmePath)) {
 
   // 1. Typing-SVG headline count
   readme = readme.replace(
-    /lines=Open\+Prompt\+Library;[^"']+\+AI\+prompts/,
-    `lines=Open+Prompt+Library;${svgCount}+AI+prompts`
+    /lines=(Open|Awesome)\+Prompt\+Library;[^"']+\+AI\+prompts/i,
+    `lines=Awesome+Prompt+Library;${svgCount}+AI+prompts`
   );
 
   // 2. Badge URL:  prompts-3470-  →  prompts-2103-
@@ -351,6 +351,12 @@ if (fs.existsSync(readmePath)) {
     );
     readme = beforeData + dataSection;
   }
+
+  // 4. Footer sub-text prompt count
+  readme = readme.replace(
+    /<sub>\d[\d,]* curated prompts/g,
+    `<sub>${displayFormatted} curated prompts`
+  );
 
   fs.writeFileSync(readmePath, readme, 'utf8');
   console.log(`README canonical count updated → ${displayCount}`);

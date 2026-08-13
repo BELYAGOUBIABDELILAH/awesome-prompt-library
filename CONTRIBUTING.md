@@ -2,7 +2,7 @@
 
 # Contributing
 
-**Open Prompt Library** is community-driven and always open to new prompts.<br/>
+**Awesome Prompt Library** is community-driven and always open to new prompts.<br/>
 Every contribution — big or small — makes this resource better for everyone.
 
 </div>

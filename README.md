@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Open+Prompt+Library;2%2C103+AI+prompts;Free+JSON+API+included" alt="Open Prompt Library" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Awesome+Prompt+Library;2%2C103+AI+prompts;Free+JSON+API+included" alt="Awesome Prompt Library" />
 
 <br/>
 
@@ -14,6 +14,10 @@
 
 <p>An open-source prompt database — browse on GitHub or fetch any prompt programmatically via the free JSON API.<br/>
 No account. No key. No cost.</p>
+
+<p>
+  ⭐ <strong>If you found this database helpful, please leave a star on the GitHub repository!</strong> ⭐
+</p>
 
 <p>
   <a href="#quick-start">Quick Start</a> &nbsp;·&nbsp;
@@ -161,10 +165,8 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 
 > **2,103 curated prompts** across **19 categories** — updated regularly.
 
-</div>
-
 | Category | Prompts | Browse |
-|---|---|---|
+| :---: | :---: | :---: |
 | Coding & Development | 851 | [→ prompts/coding-development](prompts/coding-development) |
 | Image & Design | 471 | [→ prompts/image-design](prompts/image-design) |
 | Writing & Content | 253 | [→ prompts/writing-content](prompts/writing-content) |
@@ -184,6 +186,8 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Food & Recipes | 82 | [→ prompts/food-recipes](prompts/food-recipes) |
 | Philosophy & Humanities | 82 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
 | Education & Learning | 70 | [→ prompts/education-learning](prompts/education-learning) |
+
+</div>
 
 <!-- CATEGORIES_END -->
 
