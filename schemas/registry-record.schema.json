@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library/blob/main/schemas/registry-record.schema.json",
+  "title": "Axiom Prompt Registry Record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "slug", "title", "prompt", "category", "folder", "source_ids", "provenance_status", "lifecycle_status", "content_hash", "revision", "variables", "language", "output_format", "duplicate_count", "legacy_slugs", "legacy_paths"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^opl_[a-f0-9]{12}$" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "title": { "type": "string", "minLength": 1 },
+    "prompt": { "type": "string", "minLength": 1 },
+    "category": { "type": "string", "minLength": 1 },
+    "folder": { "type": "string", "minLength": 1 },
+    "source_ids": { "type": "array", "items": { "type": "string", "pattern": "^src_[a-f0-9]{12}$" }, "minItems": 1, "uniqueItems": true },
+    "provenance_status": { "type": "string", "enum": ["needs-review", "verified", "restricted", "unknown"] },
+    "lifecycle_status": { "type": "string", "enum": ["draft", "reviewed", "tested", "verified", "deprecated"] },
+    "content_hash": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "revision": { "type": "integer", "minimum": 1 },
+    "variables": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "default"],
+        "properties": { "name": { "type": "string", "minLength": 1 }, "default": { "type": ["string", "null"] } }
+      }
+    },
+    "language": { "type": "string", "minLength": 1 },
+    "output_format": { "type": "string", "minLength": 1 },
+    "duplicate_count": { "type": "integer", "minimum": 1 },
+    "legacy_slugs": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1, "uniqueItems": true },
+    "legacy_paths": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1, "uniqueItems": true },
+    "legacy_categories": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1, "uniqueItems": true }
+  }
+}

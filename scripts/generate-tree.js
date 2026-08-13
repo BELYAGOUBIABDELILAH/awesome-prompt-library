@@ -299,18 +299,12 @@ console.log(`  Total categories           : ${categoryReadmesWritten}`);
 console.log(`  Slug collisions detected   : ${slugCollisions}`);
 console.log(`  Root README updated        : yes`);
 
-// ── Step 6: Sync prompt count in root README ────────────────────────────────
-// Replaces all hardcoded prompt count occurrences with the live `total` value.
-// Targets:
-//   - shields.io badge URL           prompts-NNNN-
-//   - typing SVG URL param           NNN%2CNNN+battle-tested+AI+prompts
-//   - plain-text category header     **N,NNN prompts**
-//   - data-exports table cell        | N,NNN |
+// ── Step 6: Sync only the raw-export count in root README ───────────────────
+// Keep this update scoped to the data-exports section. A global replacement
+// would overwrite every category count with the total prompt count.
 // ---------------------------------------------------------------------------
 if (fs.existsSync(readmePath)) {
   const totalFormatted  = total.toLocaleString('en-US');            // e.g. "2,997"
-  const totalUrlEncoded = totalFormatted.replace(',', '%2C');       // e.g. "2%2C997"
-
   let readme = fs.readFileSync(readmePath, 'utf8');
 
   // 1. Badge URL:  prompts-2106-  →  prompts-2997-
@@ -319,23 +313,16 @@ if (fs.existsSync(readmePath)) {
     `/badge/prompts-${total}-`
   );
 
-  // 2. Typing SVG URL-encoded count:  2%2C106+battle-tested  →  2%2C997+battle-tested
-  readme = readme.replace(
-    /\d[\d%2C]*(?=\+battle-tested\+AI\+prompts)/gi,
-    totalUrlEncoded
-  );
-
-  // 3. Plain-text header:  **2,106 prompts**  →  **2,997 prompts**
-  readme = readme.replace(
-    /\*\*[\d,]+ prompts\*\*/g,
-    `**${totalFormatted} prompts**`
-  );
-
-  // 4. Data-exports table cell:  | 2,106 |  →  | 2,997 |
-  readme = readme.replace(
-    /\| [\d,]+ \|/g,
-    `| ${totalFormatted} |`
-  );
+  const dataStart = readme.indexOf('## ⬡ Data Exports');
+  if (dataStart !== -1) {
+    const beforeData = readme.slice(0, dataStart);
+    let dataSection = readme.slice(dataStart);
+    dataSection = dataSection.replace(
+      /(\| \[`data\/prompts\.json`\].*?\| )([\d,]+)(?= \|)/,
+      `$1${totalFormatted}`
+    );
+    readme = beforeData + dataSection;
+  }
 
   fs.writeFileSync(readmePath, readme, 'utf8');
   console.log(`README prompt count updated → ${total}`);

@@ -1,0 +1,32 @@
+name: Record report
+description: Report a duplicate, broken, unsafe, or incorrectly attributed prompt.
+title: "[Record report] "
+labels: ["record-report", "needs-review"]
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Prompt path or slug
+      placeholder: "prompts/coding-development/example.md"
+    validations:
+      required: true
+  - type: dropdown
+    id: report_type
+    attributes:
+      label: Report type
+      options:
+        - Duplicate or near-duplicate
+        - Broken or incomplete prompt
+        - Incorrect category or metadata
+        - Provenance or license concern
+        - Safety concern
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain the problem and include a source or suggested correction when available.
+    validations:
+      required: true

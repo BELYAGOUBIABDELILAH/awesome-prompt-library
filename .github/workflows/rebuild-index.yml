@@ -8,6 +8,7 @@ on:
       - 'data/categories/**'
       - 'data/prompts.json'
       - 'scripts/generate-tree.js'
+      - 'scripts/build-registry.js'
       - '.github/workflows/rebuild-index.yml'
   workflow_dispatch:
 
@@ -37,6 +38,12 @@ jobs:
       - name: Regenerate prompts tree
         run: node scripts/generate-tree.js
 
+      - name: Build canonical registry
+        run: node scripts/build-registry.js
+
+      - name: Validate canonical registry
+        run: node scripts/validate-registry.js
+
       - name: Commit and push generated changes
         shell: bash
         run: |
@@ -45,7 +52,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add prompts/ README.md data/prompts.json data/prompts.csv
+          git add prompts/ README.md data/prompts.json data/prompts.csv data/registry.jsonl data/sources.json data/quarantine.jsonl data/registry-stats.json
 
           if git diff --cached --quiet; then
             echo "No generated changes to commit"

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+Prompt+Library;3%2C470+battle-tested+AI+prompts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+Prompt+Library;3%2C469+AI+prompts" alt="Typing SVG" />
 
 <br/>
 
-![Prompts](https://img.shields.io/badge/prompts-3470-6E40C9?style=flat-square)
+![Prompts](https://img.shields.io/badge/prompts-3469-6E40C9?style=flat-square)
 ![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)
 ![License](https://img.shields.io/github/license/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square&color=green)
@@ -38,66 +38,57 @@ No installation. No account. Just copy and use.
 
 ---
 
-## ★ Featured Prompts
-
-| Prompt | Category | What it does |
-|---|---|---|
-| Accessibility Expert | Coding | Reviews UI for WCAG compliance |
-| Debugging Oncall Tickets | AI Automation | Triages incidents with a structured runbook |
-| Accountant | Business | Financial expert for bookkeeping & tax |
-| AI Writing Tutor | Education | Structured writing feedback like a personal coach |
-| Analyze Security Scan Results | Security | Interprets scanner output into actionable steps |
-| Beginners Guide to LLMs | Education | Step-by-step walkthrough for shipping your first LLM |
-
----
-
 ## ◈ Categories
 
-> **3,470 prompts** across **19 categories** — updated regularly.
+> **3469 prompts** across **19 categories** — updated regularly.
 
 | Category | Prompts | Browse |
 |---|---|---|
-| Coding & Development | 3,470 | [→ prompts/coding-development](prompts/coding-development) |
-| Image & Design | 3,470 | [→ prompts/image-design](prompts/image-design) |
-| Writing & Content | 3,470 | [→ prompts/writing-content](prompts/writing-content) |
-| Data & Analytics | 3,470 | [→ prompts/data-analytics](prompts/data-analytics) |
-| Marketing & Social | 3,470 | [→ prompts/marketing-social](prompts/marketing-social) |
-| General | 3,470 | [→ prompts/general](prompts/general) |
-| AI & Automation | 3,470 | [→ prompts/ai-automation](prompts/ai-automation) |
-| Business & Career | 3,470 | [→ prompts/business-career](prompts/business-career) |
-| Documentation | 3,470 | [→ prompts/documentation](prompts/documentation) |
-| Security | 3,470 | [→ prompts/security](prompts/security) |
-| Health & Wellness | 3,470 | [→ prompts/health-wellness](prompts/health-wellness) |
-| Research & Analysis | 3,470 | [→ prompts/research-analysis](prompts/research-analysis) |
-| Sales & Business | 3,470 | [→ prompts/sales-business](prompts/sales-business) |
-| Games & Fun | 3,470 | [→ prompts/games-fun](prompts/games-fun) |
-| Product & Strategy | 3,470 | [→ prompts/product-strategy](prompts/product-strategy) |
-| Travel & Places | 3,470 | [→ prompts/travel-places](prompts/travel-places) |
-| Food & Recipes | 3,470 | [→ prompts/food-recipes](prompts/food-recipes) |
-| Philosophy & Humanities | 3,470 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
-| Education & Learning | 3,470 | [→ prompts/education-learning](prompts/education-learning) |
+| Coding & Development | 850 | [→ prompts/coding-development](prompts/coding-development) |
+| Image & Design | 471 | [→ prompts/image-design](prompts/image-design) |
+| Writing & Content | 253 | [→ prompts/writing-content](prompts/writing-content) |
+| Data & Analytics | 218 | [→ prompts/data-analytics](prompts/data-analytics) |
+| Marketing & Social | 185 | [→ prompts/marketing-social](prompts/marketing-social) |
+| General | 154 | [→ prompts/general](prompts/general) |
+| AI & Automation | 140 | [→ prompts/ai-automation](prompts/ai-automation) |
+| Business & Career | 132 | [→ prompts/business-career](prompts/business-career) |
+| Documentation | 130 | [→ prompts/documentation](prompts/documentation) |
+| Security | 121 | [→ prompts/security](prompts/security) |
+| Health & Wellness | 109 | [→ prompts/health-wellness](prompts/health-wellness) |
+| Research & Analysis | 103 | [→ prompts/research-analysis](prompts/research-analysis) |
+| Sales & Business | 101 | [→ prompts/sales-business](prompts/sales-business) |
+| Games & Fun | 93 | [→ prompts/games-fun](prompts/games-fun) |
+| Product & Strategy | 88 | [→ prompts/product-strategy](prompts/product-strategy) |
+| Travel & Places | 87 | [→ prompts/travel-places](prompts/travel-places) |
+| Food & Recipes | 82 | [→ prompts/food-recipes](prompts/food-recipes) |
+| Philosophy & Humanities | 82 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
+| Education & Learning | 70 | [→ prompts/education-learning](prompts/education-learning) |
 
 ## ⬡ Data Exports
 
-The full dataset is available in machine-readable formats.
+The original export is preserved, while the canonical registry provides a deterministic, deduplicated view for future search tools and integrations.
 
 | File | Format | Records | Use case |
 |---|---|---|---|
-| [`data/prompts.json`](data/prompts.json) | JSON array | 3,470 | Build apps, query with `jq`, feed into vector DBs |
-| [`data/prompts.csv`](data/prompts.csv) | CSV UTF-8 | 3,470 | Excel, pandas, Sheets, SQL imports |
+| [`data/registry.jsonl`](data/registry.jsonl) | JSONL | Generated | Stable IDs, provenance states, variables, and deduplication |
+| [`data/prompts.json`](data/prompts.json) | JSON array | 3,469 | Original imported corpus and compatibility export |
+| [`data/prompts.csv`](data/prompts.csv) | CSV UTF-8 | 3,469 | Excel, pandas, Sheets, SQL imports |
+| [`data/sources.json`](data/sources.json) | JSON array | Generated | Source inventory and review status |
 
-**JSON schema per record**
+**Canonical registry record**
 
 ```json
 {
-  "act": "Prompt title",
-  "category": "Category name",
+  "id": "opl_0123456789ab",
+  "slug": "prompt-title",
+  "title": "Prompt title",
   "prompt": "Full prompt text",
-  "source": "Original source",
-  "type": "TEXT",
-  "slug": "url-friendly-slug",
+  "category": "Category name",
   "folder": "category-folder-name",
-  "path": "prompts/folder/slug.md"
+  "source_ids": ["src_0123456789ab"],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "revision": 1
 }
 ```
 
@@ -110,16 +101,18 @@ No dependencies required — only Node.js.
 ```bash
 git clone https://github.com/BELYAGOUBIABDELILAH/open-prompt-library.git
 cd open-prompt-library
+node scripts/build-registry.js
+node scripts/validate-registry.js
 node scripts/generate-tree.js
 ```
 
-This fully recreates every `prompts/category/*.md` file and rebuilds all README indexes from `data/prompts.json`. It is idempotent — safe to re-run anytime.
+The registry build and validation are dependency-free and idempotent. The existing generator recreates the Markdown views from `data/prompts.json`; the registry builder creates `data/registry.jsonl`, `data/sources.json`, `data/quarantine.jsonl`, and `data/registry-stats.json` without deleting source records.
 
 ---
 
 ## ◎ Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide. New submissions should include a source, license, intended use, variables, and a short example of what a good result should contain.
 
 | | |
 |---|---|
