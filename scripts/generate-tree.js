@@ -269,9 +269,13 @@ if (fs.existsSync(statsFilePath)) {
 }
 
 const categorySection = [
-  '## ◈ Categories',
+  '<div align="center">',
+  '',
+  '## Categories',
   '',
   `> **${canonicalTotal.toLocaleString('en-US')} curated prompts** across **${sortedCategories.length} categories** — updated regularly.`,
+  '',
+  '</div>',
   '',
   '| Category | Prompts | Browse |',
   '|---|---|---|',
@@ -286,20 +290,18 @@ if (!fs.existsSync(readmePath)) {
 } else {
   const readmeContent = fs.readFileSync(readmePath, 'utf8');
 
-  const START_MARKER = '## ◈ Categories';
-  const END_MARKER   = '## ⬡ Data Exports';
+  const START_MARKER = '<!-- CATEGORIES_START -->';
+  const END_MARKER   = '<!-- CATEGORIES_END -->';
 
   const startIdx = readmeContent.indexOf(START_MARKER);
   const endIdx   = readmeContent.indexOf(END_MARKER);
 
   if (startIdx === -1 || endIdx === -1) {
-    console.warn('WARN: Could not locate category section markers in README.md — writing section only.');
-    // Fallback: append to readme
-    fs.writeFileSync(readmePath, readmeContent + '\n\n' + categorySection, 'utf8');
+    console.warn('WARN: Could not locate category section markers in README.md — skipping.');
   } else {
-    const before  = readmeContent.slice(0, startIdx);
+    const before  = readmeContent.slice(0, startIdx + START_MARKER.length);
     const after   = readmeContent.slice(endIdx);
-    const updated = before + categorySection + '\n\n' + after;
+    const updated = before + '\n\n' + categorySection + '\n\n' + after;
     fs.writeFileSync(readmePath, updated, 'utf8');
     console.log('Updated README.md category section');
   }
@@ -339,7 +341,7 @@ if (fs.existsSync(readmePath)) {
   );
 
   // 3. registry.jsonl row in Data Exports table
-  const dataStart = readme.indexOf('## ⬡ Data Exports');
+  const dataStart = readme.indexOf('## Data Exports');
   if (dataStart !== -1) {
     const beforeData = readme.slice(0, dataStart);
     let dataSection  = readme.slice(dataStart);

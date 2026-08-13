@@ -1,51 +1,52 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+Prompt+Library;2%2C103+AI+prompts" alt="Open Prompt Library" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Open+Prompt+Library;2%2C103+AI+prompts;Free+JSON+API+included" alt="Open Prompt Library" />
 
 <br/>
 
 ![Prompts](https://img.shields.io/badge/prompts-2103-6E40C9?style=flat-square)
 ![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)
+![API](https://img.shields.io/badge/JSON_API-live-brightgreen?style=flat-square)
 ![License](https://img.shields.io/github/license/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square&color=green)
 ![Stars](https://img.shields.io/github/stars/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square)
 ![CI](https://github.com/BELYAGOUBIABDELILAH/open-prompt-library/actions/workflows/rebuild-index.yml/badge.svg)
 
-<p>A curated, open-source collection of AI prompts for developers, writers, marketers, and creators.<br/>
-Browse, copy, fork, and extend — no setup required.</p>
+<p>An open-source prompt database — browse on GitHub or fetch any prompt programmatically via the free JSON API.<br/>
+No account. No key. No cost.</p>
 
 <p>
-  <a href="#-quick-start">Quick Start</a> &nbsp;·&nbsp;
-  <a href="#-how-to-use">How to Use</a> &nbsp;·&nbsp;
-  <a href="#-categories">Browse Prompts</a> &nbsp;·&nbsp;
-  <a href="#-data-exports">Data Exports</a> &nbsp;·&nbsp;
-  <a href="#-contributing">Contributing</a>
+  <a href="#quick-start">Quick Start</a> &nbsp;·&nbsp;
+  <a href="#how-to-use">How to Use</a> &nbsp;·&nbsp;
+  <a href="#categories">Browse Prompts</a> &nbsp;·&nbsp;
+  <a href="#free-json-api">JSON API</a> &nbsp;·&nbsp;
+  <a href="#contributing">Contributing</a>
 </p>
 
 </div>
 
 ---
 
-## ✦ Quick Start
+## Quick Start
 
 No installation. No account. Just copy and use.
 
-1. Find a category in the [table below](#-categories)
+1. Find a category in the [table below](#categories)
 2. Open any `.md` file — the prompt lives inside the blockquote
 3. Paste it into ChatGPT, Claude, Gemini, or any LLM
 4. Tweak and go
 
-> **Power user tip** — clone the repo and run `grep -ri "keyword" prompts/` to search all prompts locally.
+> **Developer?** Skip the browsing — use the [free JSON API](#free-json-api) to fetch prompts programmatically with a single `fetch()` call.
 
 ---
 
-## ✦ How to Use
+## How to Use
 
 **No account. No API key. No setup required.**
 
 ### Browse on GitHub
 
-Click a category in the [table below](#-categories) → open any `.md` file → copy the blockquote text → paste into your LLM of choice.
+Click a category in the [table below](#categories) → open any `.md` file → copy the blockquote text → paste into your LLM of choice.
 
 ### Understand the variable syntax
 
@@ -80,9 +81,9 @@ grep "keyword" data/registry.jsonl
 
 ---
 
-## ✦ Practical Examples
+## Practical Examples
 
-These examples demonstrate the structure expected from a useful prompt: clear inputs, explicit constraints, a defined output format, and honest handling of missing evidence.
+These examples show the structure of a useful prompt: clear inputs, explicit constraints, a defined output format, and honest handling of missing evidence.
 
 ### Code review with actionable findings
 
@@ -152,9 +153,15 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 
 ---
 
-## ◈ Categories
+<!-- CATEGORIES_START -->
+
+<div align="center">
+
+## Categories
 
 > **2,103 curated prompts** across **19 categories** — updated regularly.
+
+</div>
 
 | Category | Prompts | Browse |
 |---|---|---|
@@ -178,7 +185,9 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Philosophy & Humanities | 82 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
 | Education & Learning | 70 | [→ prompts/education-learning](prompts/education-learning) |
 
-## ⬡ Data Exports
+<!-- CATEGORIES_END -->
+
+## Data Exports
 
 The canonical registry is the deduplicated, machine-readable source of truth. The original corpus files are preserved for compatibility.
 
@@ -208,7 +217,7 @@ The canonical registry is the deduplicated, machine-readable source of truth. Th
 
 ---
 
-## ⚡ Free JSON API
+## Free JSON API
 
 Every prompt is available as a structured JSON endpoint — served by GitHub Pages, no backend, no API key, no rate limits.
 
@@ -278,7 +287,7 @@ curl https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_8f
 
 ---
 
-## 🛠️ Building locally
+## Building Locally
 
 No dependencies required — only Node.js.
 
@@ -295,7 +304,7 @@ The build is dependency-free and idempotent. `build-registry.js` creates `data/r
 
 ---
 
-## ◎ Contributing
+## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide. New submissions should include a source, license, intended use, variables, and a short example of expected output.
 
@@ -309,7 +318,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide. New submissions shoul
 
 ---
 
-## ◻ License
+## License
 
 [MIT](LICENSE) · Prompt sources are credited inline in each file.
 
@@ -317,7 +326,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide. New submissions shoul
 
 <div align="center">
 
-**[⬆ Back to top](#)**
+**[Back to top](#)**
 
 [![GitHub Stars](https://img.shields.io/github/stars/BELYAGOUBIABDELILAH/open-prompt-library?style=social)](https://github.com/BELYAGOUBIABDELILAH/open-prompt-library/stargazers)
 &nbsp;·&nbsp;
@@ -327,6 +336,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide. New submissions shoul
 
 Maintained by [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) &nbsp;·&nbsp; Open source &nbsp;·&nbsp; Always free
 
-<sub>2,103 curated prompts · 19 categories · No sign-up required</sub>
+<sub>2,103 curated prompts · Free JSON API · No sign-up required</sub>
 
 </div>
