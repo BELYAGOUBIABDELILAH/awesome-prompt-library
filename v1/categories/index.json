@@ -1,120 +1,120 @@
 {
-  "last_updated": "2026-08-13T17:51:19.416Z",
+  "last_updated": "2026-08-13T17:56:28.229Z",
   "total_categories": 19,
   "categories": [
     {
       "folder": "coding-development",
       "name": "Coding & Development",
       "prompt_count": 769,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/coding-development.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/coding-development.json"
     },
     {
       "folder": "image-design",
       "name": "Image & Design",
       "prompt_count": 389,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/image-design.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/image-design.json"
     },
     {
       "folder": "writing-content",
       "name": "Writing & Content",
       "prompt_count": 253,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/writing-content.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/writing-content.json"
     },
     {
       "folder": "data-analytics",
       "name": "Data & Analytics",
       "prompt_count": 138,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/data-analytics.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/data-analytics.json"
     },
     {
       "folder": "marketing-social",
       "name": "Marketing & Social",
       "prompt_count": 104,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/marketing-social.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/marketing-social.json"
     },
     {
       "folder": "general",
       "name": "General",
       "prompt_count": 71,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/general.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/general.json"
     },
     {
       "folder": "education-learning",
       "name": "Education & Learning",
       "prompt_count": 70,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/education-learning.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/education-learning.json"
     },
     {
       "folder": "ai-automation",
       "name": "AI & Automation",
       "prompt_count": 62,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/ai-automation.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/ai-automation.json"
     },
     {
       "folder": "documentation",
       "name": "Documentation",
       "prompt_count": 52,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/documentation.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/documentation.json"
     },
     {
       "folder": "business-career",
       "name": "Business & Career",
       "prompt_count": 51,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/business-career.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/business-career.json"
     },
     {
       "folder": "security",
       "name": "Security",
       "prompt_count": 41,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/security.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/security.json"
     },
     {
       "folder": "health-wellness",
       "name": "Health & Wellness",
       "prompt_count": 27,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/health-wellness.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/health-wellness.json"
     },
     {
       "folder": "research-analysis",
       "name": "Research & Analysis",
       "prompt_count": 23,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/research-analysis.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/research-analysis.json"
     },
     {
       "folder": "sales-business",
       "name": "Sales & Business",
       "prompt_count": 19,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/sales-business.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/sales-business.json"
     },
     {
       "folder": "games-fun",
       "name": "Games & Fun",
       "prompt_count": 13,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/games-fun.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/games-fun.json"
     },
     {
       "folder": "product-strategy",
       "name": "Product & Strategy",
       "prompt_count": 11,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/product-strategy.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/product-strategy.json"
     },
     {
       "folder": "travel-places",
       "name": "Travel & Places",
       "prompt_count": 5,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/travel-places.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/travel-places.json"
     },
     {
       "folder": "food-recipes",
       "name": "Food & Recipes",
       "prompt_count": 3,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/food-recipes.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/food-recipes.json"
     },
     {
       "folder": "philosophy-humanities",
       "name": "Philosophy & Humanities",
       "prompt_count": 2,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/philosophy-humanities.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/categories/philosophy-humanities.json"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-13T17:51:19.416Z",
+  "last_updated": "2026-08-13T17:56:28.229Z",
   "page": 5,
   "per_page": 100,
   "total": 2103,
   "total_pages": 22,
-  "next": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/index/page-6.json",
-  "prev": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/index/page-4.json",
+  "next": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/index/page-6.json",
+  "prev": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/index/page-4.json",
   "prompts": [
     {
       "id": "opl_5b662d070b94",
@@ -14,7 +14,7 @@
       "category": "Security",
       "folder": "security",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5b662d070b94.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_5b662d070b94.json"
     },
     {
       "id": "opl_3f6a89cacd26",
@@ -23,7 +23,7 @@
       "category": "Documentation",
       "folder": "documentation",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3f6a89cacd26.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_3f6a89cacd26.json"
     },
     {
       "id": "opl_1c584b9a6d8c",
@@ -32,7 +32,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1c584b9a6d8c.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_1c584b9a6d8c.json"
     },
     {
       "id": "opl_6b4c42e484e0",
@@ -41,7 +41,7 @@
       "category": "Security",
       "folder": "security",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6b4c42e484e0.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_6b4c42e484e0.json"
     },
     {
       "id": "opl_168cd42cc483",
@@ -50,7 +50,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_168cd42cc483.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_168cd42cc483.json"
     },
     {
       "id": "opl_33b16c1ca364",
@@ -59,7 +59,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_33b16c1ca364.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_33b16c1ca364.json"
     },
     {
       "id": "opl_b85ea91ae011",
@@ -68,7 +68,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b85ea91ae011.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_b85ea91ae011.json"
     },
     {
       "id": "opl_6e9a9f55256a",
@@ -90,7 +90,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6e9a9f55256a.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_6e9a9f55256a.json"
     },
     {
       "id": "opl_3cef3641836e",
@@ -99,7 +99,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3cef3641836e.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_3cef3641836e.json"
     },
     {
       "id": "opl_6f1b265e0e37",
@@ -108,7 +108,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6f1b265e0e37.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_6f1b265e0e37.json"
     },
     {
       "id": "opl_0df7e07fd4d4",
@@ -130,7 +130,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0df7e07fd4d4.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_0df7e07fd4d4.json"
     },
     {
       "id": "opl_03b6d62c559a",
@@ -139,7 +139,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_03b6d62c559a.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_03b6d62c559a.json"
     },
     {
       "id": "opl_0324dedfc953",
@@ -148,7 +148,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0324dedfc953.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_0324dedfc953.json"
     },
     {
       "id": "opl_eec6bd04cec2",
@@ -157,7 +157,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_eec6bd04cec2.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_eec6bd04cec2.json"
     },
     {
       "id": "opl_c674be23f13f",
@@ -175,7 +175,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c674be23f13f.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_c674be23f13f.json"
     },
     {
       "id": "opl_1cded60f9c42",
@@ -184,7 +184,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1cded60f9c42.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_1cded60f9c42.json"
     },
     {
       "id": "opl_d31f300773e7",
@@ -206,7 +206,7 @@
           "default": "Java"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d31f300773e7.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_d31f300773e7.json"
     },
     {
       "id": "opl_9a8b9d75603c",
@@ -215,7 +215,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9a8b9d75603c.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_9a8b9d75603c.json"
     },
     {
       "id": "opl_e6899bfe64b1",
@@ -224,7 +224,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e6899bfe64b1.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_e6899bfe64b1.json"
     },
     {
       "id": "opl_219f1a675360",
@@ -233,7 +233,7 @@
       "category": "Marketing & Social",
       "folder": "marketing-social",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_219f1a675360.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_219f1a675360.json"
     },
     {
       "id": "opl_acd96440abae",
@@ -242,7 +242,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_acd96440abae.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_acd96440abae.json"
     },
     {
       "id": "opl_e09a46a529b6",
@@ -264,7 +264,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e09a46a529b6.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_e09a46a529b6.json"
     },
     {
       "id": "opl_c221d2a8599c",
@@ -282,7 +282,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c221d2a8599c.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_c221d2a8599c.json"
     },
     {
       "id": "opl_30466d429685",
@@ -304,7 +304,7 @@
           "default": "defaultSecondary"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_30466d429685.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_30466d429685.json"
     },
     {
       "id": "opl_db4384daae64",
@@ -313,7 +313,7 @@
       "category": "Writing & Content",
       "folder": "writing-content",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_db4384daae64.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_db4384daae64.json"
     },
     {
       "id": "opl_186bea499d29",
@@ -322,7 +322,7 @@
       "category": "General",
       "folder": "general",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_186bea499d29.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_186bea499d29.json"
     },
     {
       "id": "opl_51077564742c",
@@ -331,7 +331,7 @@
       "category": "Writing & Content",
       "folder": "writing-content",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_51077564742c.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_51077564742c.json"
     },
     {
       "id": "opl_34b81e7e14fb",
@@ -340,7 +340,7 @@
       "category": "General",
       "folder": "general",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_34b81e7e14fb.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_34b81e7e14fb.json"
     },
     {
       "id": "opl_c028a72bc0e1",
@@ -349,7 +349,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c028a72bc0e1.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_c028a72bc0e1.json"
     },
     {
       "id": "opl_e87bc26a20b5",
@@ -358,7 +358,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e87bc26a20b5.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_e87bc26a20b5.json"
     },
     {
       "id": "opl_67916d2513a7",
@@ -367,7 +367,7 @@
       "category": "Marketing & Social",
       "folder": "marketing-social",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_67916d2513a7.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_67916d2513a7.json"
     },
     {
       "id": "opl_4958c76337f0",
@@ -376,7 +376,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4958c76337f0.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_4958c76337f0.json"
     },
     {
       "id": "opl_854734d7130d",
@@ -385,7 +385,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_854734d7130d.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_854734d7130d.json"
     },
     {
       "id": "opl_4d6947eeec90",
@@ -394,7 +394,7 @@
       "category": "Marketing & Social",
       "folder": "marketing-social",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4d6947eeec90.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_4d6947eeec90.json"
     },
     {
       "id": "opl_68f100d207e3",
@@ -403,7 +403,7 @@
       "category": "Education & Learning",
       "folder": "education-learning",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_68f100d207e3.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_68f100d207e3.json"
     },
     {
       "id": "opl_d6f162fcacc9",
@@ -412,7 +412,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d6f162fcacc9.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_d6f162fcacc9.json"
     },
     {
       "id": "opl_af2d1d87051e",
@@ -421,7 +421,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_af2d1d87051e.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_af2d1d87051e.json"
     },
     {
       "id": "opl_b1678d0127a6",
@@ -443,7 +443,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b1678d0127a6.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_b1678d0127a6.json"
     },
     {
       "id": "opl_f3fd67d692ed",
@@ -452,7 +452,7 @@
       "category": "Research & Analysis",
       "folder": "research-analysis",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f3fd67d692ed.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_f3fd67d692ed.json"
     },
     {
       "id": "opl_355e6b5d9630",
@@ -461,7 +461,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_355e6b5d9630.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_355e6b5d9630.json"
     },
     {
       "id": "opl_b60659abbaeb",
@@ -475,7 +475,7 @@
           "default": "cuckold dynamics"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b60659abbaeb.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_b60659abbaeb.json"
     },
     {
       "id": "opl_f216b8d4dc13",
@@ -484,7 +484,7 @@
       "category": "General",
       "folder": "general",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f216b8d4dc13.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_f216b8d4dc13.json"
     },
     {
       "id": "opl_c58c489ac6af",
@@ -510,7 +510,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c58c489ac6af.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_c58c489ac6af.json"
     },
     {
       "id": "opl_5bd5683933f4",
@@ -532,7 +532,7 @@
           "default": "JavaScript"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5bd5683933f4.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_5bd5683933f4.json"
     },
     {
       "id": "opl_ad2de351f33c",
@@ -550,7 +550,7 @@
           "default": "document"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ad2de351f33c.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_ad2de351f33c.json"
     },
     {
       "id": "opl_6c669139cfb3",
@@ -564,7 +564,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6c669139cfb3.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_6c669139cfb3.json"
     },
     {
       "id": "opl_c8dda9b8c094",
@@ -573,7 +573,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c8dda9b8c094.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_c8dda9b8c094.json"
     },
     {
       "id": "opl_4efde0e3da61",
@@ -595,7 +595,7 @@
           "default": "young women 20-40"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4efde0e3da61.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_4efde0e3da61.json"
     },
     {
       "id": "opl_79efcfccb3f5",
@@ -604,7 +604,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_79efcfccb3f5.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_79efcfccb3f5.json"
     },
     {
       "id": "opl_eea30a6592e2",
@@ -654,7 +654,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_eea30a6592e2.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_eea30a6592e2.json"
     },
     {
       "id": "opl_45090acb1227",
@@ -668,7 +668,7 @@
           "default": "next js"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_45090acb1227.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_45090acb1227.json"
     },
     {
       "id": "opl_60e962801e06",
@@ -677,7 +677,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_60e962801e06.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_60e962801e06.json"
     },
     {
       "id": "opl_5db9dac2bee8",
@@ -691,7 +691,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5db9dac2bee8.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_5db9dac2bee8.json"
     },
     {
       "id": "opl_1e117e3ee1f3",
@@ -700,7 +700,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1e117e3ee1f3.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_1e117e3ee1f3.json"
     },
     {
       "id": "opl_85ebe97e6ea1",
@@ -722,7 +722,7 @@
           "default": "January"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_85ebe97e6ea1.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_85ebe97e6ea1.json"
     },
     {
       "id": "opl_283ffa6fd9f8",
@@ -736,7 +736,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_283ffa6fd9f8.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_283ffa6fd9f8.json"
     },
     {
       "id": "opl_5ba2782f877e",
@@ -745,7 +745,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5ba2782f877e.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_5ba2782f877e.json"
     },
     {
       "id": "opl_245c9122a340",
@@ -771,7 +771,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_245c9122a340.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_245c9122a340.json"
     },
     {
       "id": "opl_f39c1e1f7925",
@@ -780,7 +780,7 @@
       "category": "Education & Learning",
       "folder": "education-learning",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f39c1e1f7925.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_f39c1e1f7925.json"
     },
     {
       "id": "opl_f08b70baa5b6",
@@ -789,7 +789,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f08b70baa5b6.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_f08b70baa5b6.json"
     },
     {
       "id": "opl_dd26d5863071",
@@ -798,7 +798,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_dd26d5863071.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_dd26d5863071.json"
     },
     {
       "id": "opl_fe6b2e690902",
@@ -807,7 +807,7 @@
       "category": "Health & Wellness",
       "folder": "health-wellness",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fe6b2e690902.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_fe6b2e690902.json"
     },
     {
       "id": "opl_28b12b9adf2d",
@@ -821,7 +821,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_28b12b9adf2d.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_28b12b9adf2d.json"
     },
     {
       "id": "opl_95b689e7f66c",
@@ -830,7 +830,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_95b689e7f66c.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_95b689e7f66c.json"
     },
     {
       "id": "opl_b9ed42a7fdd5",
@@ -839,7 +839,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b9ed42a7fdd5.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_b9ed42a7fdd5.json"
     },
     {
       "id": "opl_e3bd5cb8a792",
@@ -848,7 +848,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e3bd5cb8a792.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_e3bd5cb8a792.json"
     },
     {
       "id": "opl_fd363b329a60",
@@ -857,7 +857,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fd363b329a60.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_fd363b329a60.json"
     },
     {
       "id": "opl_4263a7b9247b",
@@ -866,7 +866,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4263a7b9247b.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_4263a7b9247b.json"
     },
     {
       "id": "opl_23e8a4bb63de",
@@ -875,7 +875,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_23e8a4bb63de.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_23e8a4bb63de.json"
     },
     {
       "id": "opl_ec1f486cb52b",
@@ -884,7 +884,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ec1f486cb52b.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_ec1f486cb52b.json"
     },
     {
       "id": "opl_814063e450d9",
@@ -893,7 +893,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_814063e450d9.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_814063e450d9.json"
     },
     {
       "id": "opl_09836cffb6f0",
@@ -902,7 +902,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_09836cffb6f0.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_09836cffb6f0.json"
     },
     {
       "id": "opl_156c39995a09",
@@ -911,7 +911,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_156c39995a09.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_156c39995a09.json"
     },
     {
       "id": "opl_dc6e43ddd0d2",
@@ -920,7 +920,7 @@
       "category": "General",
       "folder": "general",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_dc6e43ddd0d2.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_dc6e43ddd0d2.json"
     },
     {
       "id": "opl_e81a9613507a",
@@ -934,7 +934,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e81a9613507a.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_e81a9613507a.json"
     },
     {
       "id": "opl_99ebe5124654",
@@ -943,7 +943,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_99ebe5124654.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_99ebe5124654.json"
     },
     {
       "id": "opl_a0bf0dda9400",
@@ -952,7 +952,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a0bf0dda9400.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_a0bf0dda9400.json"
     },
     {
       "id": "opl_ac400785d1f5",
@@ -970,7 +970,7 @@
           "default": "JavaScript"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ac400785d1f5.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_ac400785d1f5.json"
     },
     {
       "id": "opl_d16010a0bd0b",
@@ -979,7 +979,7 @@
       "category": "AI & Automation",
       "folder": "ai-automation",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d16010a0bd0b.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_d16010a0bd0b.json"
     },
     {
       "id": "opl_0da346f65ad9",
@@ -988,7 +988,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0da346f65ad9.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_0da346f65ad9.json"
     },
     {
       "id": "opl_0dbb3be5f4a5",
@@ -997,7 +997,7 @@
       "category": "Documentation",
       "folder": "documentation",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0dbb3be5f4a5.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_0dbb3be5f4a5.json"
     },
     {
       "id": "opl_d3dbec2eb019",
@@ -1011,7 +1011,7 @@
           "default": "Provide the PDF file for conversion"
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d3dbec2eb019.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_d3dbec2eb019.json"
     },
     {
       "id": "opl_7d7d69696f07",
@@ -1020,7 +1020,7 @@
       "category": "General",
       "folder": "general",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7d7d69696f07.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_7d7d69696f07.json"
     },
     {
       "id": "opl_5b2ef4418ba1",
@@ -1029,7 +1029,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5b2ef4418ba1.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_5b2ef4418ba1.json"
     },
     {
       "id": "opl_2ccd43683675",
@@ -1038,7 +1038,7 @@
       "category": "Marketing & Social",
       "folder": "marketing-social",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2ccd43683675.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_2ccd43683675.json"
     },
     {
       "id": "opl_3cd59621dfcf",
@@ -1047,7 +1047,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3cd59621dfcf.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_3cd59621dfcf.json"
     },
     {
       "id": "opl_3c110ebe6747",
@@ -1056,7 +1056,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3c110ebe6747.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_3c110ebe6747.json"
     },
     {
       "id": "opl_0937760b8e7e",
@@ -1065,7 +1065,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0937760b8e7e.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_0937760b8e7e.json"
     },
     {
       "id": "opl_fac2af51d0c6",
@@ -1074,7 +1074,7 @@
       "category": "Image & Design",
       "folder": "image-design",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fac2af51d0c6.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_fac2af51d0c6.json"
     },
     {
       "id": "opl_9928c138f3d1",
@@ -1092,7 +1092,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9928c138f3d1.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_9928c138f3d1.json"
     },
     {
       "id": "opl_9456688701fa",
@@ -1101,7 +1101,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9456688701fa.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_9456688701fa.json"
     },
     {
       "id": "opl_1f29c23b17fd",
@@ -1115,7 +1115,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1f29c23b17fd.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_1f29c23b17fd.json"
     },
     {
       "id": "opl_e17c22b81fd1",
@@ -1124,7 +1124,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e17c22b81fd1.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_e17c22b81fd1.json"
     },
     {
       "id": "opl_7d58b3bc9767",
@@ -1133,7 +1133,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7d58b3bc9767.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_7d58b3bc9767.json"
     },
     {
       "id": "opl_d783871bf47c",
@@ -1142,7 +1142,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d783871bf47c.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_d783871bf47c.json"
     },
     {
       "id": "opl_c219c7a6a62f",
@@ -1151,7 +1151,7 @@
       "category": "Marketing & Social",
       "folder": "marketing-social",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c219c7a6a62f.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_c219c7a6a62f.json"
     },
     {
       "id": "opl_3a5239d819d7",
@@ -1160,7 +1160,7 @@
       "category": "Data & Analytics",
       "folder": "data-analytics",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3a5239d819d7.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_3a5239d819d7.json"
     },
     {
       "id": "opl_850364a3b110",
@@ -1169,7 +1169,7 @@
       "category": "Coding & Development",
       "folder": "coding-development",
       "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_850364a3b110.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_850364a3b110.json"
     },
     {
       "id": "opl_585714f1ffc9",
@@ -1187,7 +1187,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_585714f1ffc9.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_585714f1ffc9.json"
     },
     {
       "id": "opl_dbb17bb3b918",
@@ -1205,7 +1205,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_dbb17bb3b918.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_dbb17bb3b918.json"
     }
   ]
 }

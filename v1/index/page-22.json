@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-13T17:51:19.416Z",
+  "last_updated": "2026-08-13T17:56:28.229Z",
   "page": 22,
   "per_page": 100,
   "total": 2103,
   "total_pages": 22,
   "next": null,
-  "prev": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/index/page-21.json",
+  "prev": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/index/page-21.json",
   "prompts": [
     {
       "id": "opl_f36eb0db09cc",
@@ -27,7 +27,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f36eb0db09cc.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_f36eb0db09cc.json"
     },
     {
       "id": "opl_5f45fcccf1e2",
@@ -41,7 +41,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5f45fcccf1e2.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_5f45fcccf1e2.json"
     },
     {
       "id": "opl_ad93e0bfc503",
@@ -63,7 +63,7 @@
           "default": null
         }
       ],
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ad93e0bfc503.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_ad93e0bfc503.json"
     }
   ]
 }
