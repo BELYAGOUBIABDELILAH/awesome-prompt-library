@@ -1,0 +1,16 @@
+{
+  "id": "opl_2bfac609cb08",
+  "slug": "explain-mr-impact-on-performance",
+  "title": "Explain MR Impact on Performance",
+  "prompt": "Analyze the performance impact of this merge request:\n\nMR diff: [PASTE or DESCRIBE CHANGES]\n\n## Performance Analysis\n\n### Algorithmic Complexity\n- Did any function's time complexity change? (Better or worse Big-O?)\n- Were any O(n²) or worse patterns introduced?\n- Are there nested loops over large collections?\n\n### Database Impact\n- New queries added? Are they indexed?\n- N+1 query patterns introduced?\n- Missing pagination on result sets?\n- Schema changes that affect query plans?\n\n### Memory Impact\n- Are large objects allocated unnecessarily?\n- Are there memory leaks (event listeners, closures, references)?\n- Increased allocation per request?\n\n### Network Impact\n- New external API calls in hot paths?\n- Missing caching for repeated calls?\n- Response payload size changes?\n\n### Concurrency Impact\n- New shared mutable state?\n- Missing synchronization?\n- Potential deadlocks?\n\n## Severity Rating\n No performance concern\n Worth monitoring in production\n Must benchmark before merging\n\n## Benchmark Recommendation\nIf yellow or red: describe the specific benchmark to run before this MR merges.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2bfac609cb08.json"
+}

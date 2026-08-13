@@ -1,0 +1,16 @@
+{
+  "id": "opl_af3506b7174d",
+  "slug": "pipeline-failure-and-duration-comparison",
+  "title": "Pipeline Failure and Duration Comparison",
+  "prompt": "Analyze pipeline performance for: [PROJECT/GROUP]\nTime range: Last [N] weeks\n\nFor each week, provide:\n- Total pipelines run\n- Success count and rate (%)\n- Failure count and rate (%)\n- Average pipeline duration (minutes)\n- Longest pipeline run\n\n## Week-over-Week Comparison Table\n| Week | Runs | Success Rate | Avg Duration | Trend |\n\n## Failure Analysis\n- Which stages fail most often?\n- Which jobs have the highest failure rate?\n- Are failures clustered on specific branches or times of day?\n\n## Duration Trends\n- Is the pipeline getting slower or faster over time?\n- Which jobs are the biggest duration contributors?\n\n## Recommendations\nList 2–3 specific actions to improve reliability or speed.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_af3506b7174d.json"
+}

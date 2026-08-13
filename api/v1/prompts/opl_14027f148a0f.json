@@ -1,0 +1,16 @@
+{
+  "id": "opl_14027f148a0f",
+  "slug": "understand-code-before-making-changes",
+  "title": "Understand Code Before Making Changes",
+  "prompt": "I'm about to modify this code and need to fully understand it first:\n\nCode to modify: [PASTE CODE]\nPlanned change: [DESCRIBE WHAT YOU WANT TO DO]\n\n## Pre-Change Analysis\n\n### What This Code Does\nExplain the current behavior completely — including the non-obvious parts.\n\n### Dependencies\n- What does this code depend on? (functions, services, state)\n- What depends on this code? (who calls it, what uses its output)\n- External dependencies (APIs, DB, config) that affect behavior?\n\n### Invariants and Assumptions\nWhat assumptions does this code make that must remain true?\n- Input constraints\n- State preconditions\n- Ordering requirements\n- Thread safety assumptions\n\n### My Planned Change — Risk Analysis\nGiven that I want to [PLANNED CHANGE]:\n- What could break?\n- Which existing tests would fail?\n- Which tests are missing that should exist before I change this?\n- Is there a safer incremental approach?\n\n### Recommended Approach\nStep-by-step plan to make the change safely:\n1. Write tests for current behavior (if missing)\n2. [Change step 1]\n3. [Change step 2]\n4. Verify no regression",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_14027f148a0f.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_761c06cf0c6f",
+  "slug": "seaside-walker",
+  "title": "Seaside walker",
+  "prompt": "{\n  \"prompt\": \"A high-quality, full-body outdoor photo of a young woman with a curvaceous yet slender physique and a very voluminous bust, standing on a sunny beach. She is captured in a three-quarter view (3/4 angle), looking toward the camera with a confident, seductive, and provocative expression. She wears a stylish purple bikini that highlights her figure and high-heeled sandals on her feet, which are planted in the golden sand. The background features a tropical beach with soft white sand, gentle turquoise waves, and a clear blue sky. The lighting is bright, natural sunlight, creating realistic shadows and highlights on her skin. The composition is professional, following the rule of thirds, with a shallow depth of field that slightly blurs the ocean background to keep the focus entirely on her.\",\n  \"scene_type\": \"Provocative beach photography\",\n  \"subjects\": [\n    {\n      \"role\": \"Main subject\",\n      \"description\": \"Young woman with a curvy but slim build, featuring a very prominent and voluminous bust.\",\n      \"wardrobe\": \"Purple bikini, high-heeled sandals.\",\n      \"pose_and_expression\": \"Three-quarter view, standing on sand, provocative and sexy attitude, confident gaze.\"\n    }\n  ],\n  \"environment\": {\n    \"setting\": \"Tropical beach\",\n    \"details\": \"Golden sand, turquoise sea, clear sky, bright daylight.\"\n  },\n  \"lighting\": {\n    \"type\": \"Natural sunlight\",\n    \"quality\": \"Bright and direct\",\n    \"effects\": \"Realistic skin textures, natural highlights\"\n  },\n  \"composition\": {\n    \"framing\": \"Full-body shot\",\n    \"angle\": \"3/4 view\",\n    \"depth_of_field\": \"Shallow (bokeh background)\"\n  },\n  \"style_and_quality_cues\": [\n    \"High-resolution photography\",\n    \"Realistic skin texture\",\n    \"Vibrant colors\",\n    \"Professional lighting\",\n    \"Sharp focus on subject\"\n  ],\n  \"negative_prompt\": \"cartoon, drawing, anime, low resolution, blurry, distorted anatomy, extra limbs, unrealistic skin, flat lighting, messy hair\"\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_761c06cf0c6f.json"
+}

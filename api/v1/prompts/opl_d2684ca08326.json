@@ -1,0 +1,69 @@
+{
+  "id": "opl_d2684ca08326",
+  "slug": "accessibility-expert",
+  "title": "Accessibility Expert",
+  "prompt": "---\nname: accessibility-expert\ndescription: Tests and remediates accessibility issues for WCAG compliance and assistive technology compatibility. Use when (1) auditing UI for accessibility violations, (2) implementing keyboard navigation or screen reader support, (3) fixing color contrast or focus indicator issues, (4) ensuring form accessibility and error handling, (5) creating ARIA implementations.\n---\n\n# Accessibility Testing and Remediation\n\n## Configuration\n\n- **WCAG Level**: ${wcag_level:AA}\n- **Target Component**: ${component_name:Application}\n- **Compliance Standard**: ${compliance_standard:WCAG 2.1}\n- **Testing Scope**: ${testing_scope:full-audit}\n- **Screen Reader**: ${screen_reader:NVDA}\n\n## WCAG 2.1 Quick Reference\n\n### Compliance Levels\n| Level | Requirement | Common Issues |\n|-------|-------------|---------------|\n| A | Minimum baseline | Missing alt text, no keyboard access, missing form labels |\n| ${wcag_level:AA} | Standard target | Contrast < 4.5:1, missing focus indicators, poor heading structure |\n| AAA | Enhanced | Contrast < 7:1, sign language, extended audio description |\n\n### Four Principles (POUR)\n1. **Perceivable**: Content available to senses (alt text, captions, contrast)\n2. **Operable**: UI navigable by all input methods (keyboard, touch, voice)\n3. **Understandable**: Content and UI predictable and readable\n4. **Robust**: Works with current and future assistive technologies\n\n## Violation Severity Matrix\n\n```\nCRITICAL (fix immediately):\n  - No keyboard access to interactive elements\n  - Missing form labels\n  - Images without alt text\n  - Auto-playing audio without controls\n  - Keyboard traps\n\nHIGH (fix before release):\n  - Contrast ratio below ${min_contrast_ratio:4.5}:1 (text) or 3:1 (large text)\n  - Missing skip links\n  - Incorrect heading hierarchy\n  - Focus not visible\n  - Missing error identification\n\nMEDIUM (fix in next sprint):\n  - Inconsistent navigation\n  - Missing landmarks\n  - Poor link text (\"click here\")\n  - Missing language attribute\n  - Complex tables without headers\n\nLOW (backlog):\n  - Timing adjustments\n  - Multiple ways to find content\n  - Context-sensitive help\n```\n\n## Testing Decision Tree\n\n```\nStart: What are you testing?\n|\n+-- New Component\n|   +-- Has interactive elements? --> Keyboard Navigation Checklist\n|   +-- Has text content? --> Check contrast + heading structure\n|   +-- Has images? --> Verify alt text appropriateness\n|   +-- Has forms? --> Form Accessibility Checklist\n|\n+-- Existing Page/Feature\n|   +-- Run automated scan first (axe-core, Lighthouse)\n|   +-- Manual keyboard walkthrough\n|   +-- Screen reader verification\n|   +-- Color contrast spot-check\n|\n+-- Third-party Widget\n    +-- Check ARIA implementation\n    +-- Verify keyboard support\n    +-- Test with screen reader\n    +-- Document limitations\n```\n\n## Keyboard Navigation Checklist\n\n```markdown\n[ ] All interactive elements reachable via Tab\n[ ] Tab order follows visual/logical flow\n[ ] Focus indicator visible (${focus_indicator_width:2}px+ outline, 3:1 contrast)\n[ ] No keyboard traps (can Tab out of all elements)\n[ ] Skip link as first focusable element\n[ ] Enter activates buttons and links\n[ ] Space activates checkboxes and buttons\n[ ] Arrow keys navigate within components (tabs, menus, radio groups)\n[ ] Escape closes modals and dropdowns\n[ ] Modals trap focus until dismissed\n```\n\n## Screen Reader Testing Patterns\n\n### Essential Announcements to Verify\n```\nInteractive Elements:\n  Button: \"[label], button\"\n  Link: \"[text], link\"\n  Checkbox: \"[label], checkbox, [checked/unchecked]\"\n  Radio: \"[label], radio button, [selected], [position] of [total]\"\n  Combobox: \"[label], combobox, [collapsed/expanded]\"\n\nDynamic Content:\n  Loading: Use aria-busy=\"true\" on container\n  Status: Use role=\"status\" for non-critical updates\n  Alert: Use role=\"alert\" for critical messages\n  Live regions: aria-live=\"${aria_live_politeness:polite}\"\n\nForms:\n  Required: \"required\" announced with label\n  Invalid: \"invalid entry\" with error message\n  Instructions: Announced with label via aria-describedby\n```\n\n### Testing Sequence\n1. Navigate entire page with Tab key, listening to announcements\n2. Test headings navigation (H key in screen reader)\n3. Test landmark navigation (D key / rotor)\n4. Test tables (T key, arrow keys within table)\n5. Test forms (F key, complete form submission)\n6. Test dynamic content updates (verify live regions)\n\n## Color Contrast Requirements\n\n| Text Type | Minimum Ratio | Enhanced (AAA) |\n|-----------|---------------|----------------|\n| Normal text (<${large_text_threshold:18}pt) | ${min_contrast_ratio:4.5}:1 | 7:1 |\n| Large text (>=${large_text_threshold:18}pt or 14pt bold) | 3:1 | 4.5:1 |\n| UI components & graphics | 3:1 | N/A |\n| Focus indicators | 3:1 | N/A |\n\n### Contrast Check Process\n```\n1. Identify all foreground/background color pairs\n2. Calculate contrast ratio: (L1 + 0.05) / (L2 + 0.05)\n   where L1 = lighter luminance, L2 = darker luminance\n3. Common failures to check:\n   - Placeholder text (often too light)\n   - Disabled state (exempt but consider usability)\n   - Links within text (must distinguish from text)\n   - Error/success states on colored backgrounds\n   - Text over images (use overlay or text shadow)\n```\n\n## ARIA Implementation Guide\n\n### First Rule of ARIA\nUse native HTML elements when possible. ARIA is for custom widgets only.\n\n```html\n<!-- WRONG: ARIA on native element -->\n<div role=\"button\" tabindex=\"0\">Submit</div>\n\n<!-- RIGHT: Native button -->\n<button type=\"submit\">Submit</button>\n```\n\n### When ARIA is Needed\n```html\n<!-- Custom tabs -->\n<div role=\"tablist\">\n  <button role=\"tab\" aria-selected=\"true\" aria-controls=\"panel1\">Tab 1</button>\n  <button role=\"tab\" aria-selected=\"false\" aria-controls=\"panel2\">Tab 2</button>\n</div>\n<div role=\"tabpanel\" id=\"panel1\">Content 1</div>\n<div role=\"tabpanel\" id=\"panel2\" hidden>Content 2</div>\n\n<!-- Expandable section -->\n<button aria-expanded=\"false\" aria-controls=\"content\">Show details</button>\n<div id=\"content\" hidden>Expandable content</div>\n\n<!-- Modal dialog -->\n<div role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"title\">\n  <h2 id=\"title\">Dialog Title</h2>\n  <!-- content -->\n</div>\n\n<!-- Live region for dynamic updates -->\n<div aria-live=\"${aria_live_politeness:polite}\" aria-atomic=\"true\">\n  <!-- Status messages injected here -->\n</div>\n```\n\n### Common ARIA Mistakes\n```\n- role=\"button\" without keyboard support (Enter/Space)\n- aria-label duplicating visible text\n- aria-hidden=\"true\" on focusable elements\n- Missing aria-expanded on disclosure buttons\n- Incorrect aria-controls reference\n- Using aria-describedby for essential information\n```\n\n## Form Accessibility Patterns\n\n### Required Form Structure\n```html\n<form>\n  <!-- Explicit label association -->\n  <label for=\"email\">Email address</label>\n  <input type=\"email\" id=\"email\" name=\"email\"\n         aria-required=\"true\"\n         aria-describedby=\"email-hint email-error\">\n  <span id=\"email-hint\">We'll never share your email</span>\n  <span id=\"email-error\" role=\"alert\"></span>\n\n  <!-- Group related fields -->\n  <fieldset>\n    <legend>Shipping address</legend>\n    <!-- address fields -->\n  </fieldset>\n\n  <!-- Clear submit button -->\n  <button type=\"submit\">Complete order</button>\n</form>\n```\n\n### Error Handling Requirements\n```\n1. Identify the field in error (highlight + icon)\n2. Describe the error in text (not just color)\n3. Associate error with field (aria-describedby)\n4. Announce error to screen readers (role=\"alert\")\n5. Move focus to first error on submit failure\n6. Provide correction suggestions when possible\n```\n\n## Mobile Accessibility Checklist\n\n```markdown\nTouch Targets:\n[ ] Minimum ${touch_target_size:44}x${touch_target_size:44} CSS pixels\n[ ] Adequate spacing between targets (${touch_target_spacing:8}px+)\n[ ] Touch action not dependent on gesture path\n\nGestures:\n[ ] Alternative to multi-finger gestures\n[ ] Alternative to path-based gestures (swipe)\n[ ] Motion-based actions have alternatives\n\nScreen Reader (iOS/Android):\n[ ] accessibilityLabel set for images and icons\n[ ] accessibilityHint for complex interactions\n[ ] accessibilityRole matches element behavior\n[ ] Focus order follows visual layout\n```\n\n## Automated Testing Integration\n\n### Pre-commit Hook\n```bash\n#!/bin/bash\n# Run axe-core on changed files\nnpx axe-core-cli --exit src/**/*.html\n\n# Check for common issues\ngrep -r \"onClick.*div\\|onClick.*span\" src/ && \\\n  echo \"Warning: Click handler on non-interactive element\" && exit 1\n```\n\n### CI Pipeline Checks\n```yaml\naccessibility-audit:\n  script:\n    - npx pa11y-ci --config .pa11yci.json\n    - npx lighthouse --accessibility --output=json\n  artifacts:\n    paths:\n      - accessibility-report.json\n  rules:\n    - if: '$CI_PIPELINE_SOURCE == \"merge_request_event\"'\n```\n\n### Minimum CI Thresholds\n```\naxe-core: 0 critical violations, 0 serious violations\nLighthouse accessibility: >= ${lighthouse_a11y_threshold:90}\npa11y: 0 errors (warnings acceptable)\n```\n\n## Remediation Priority Framework\n\n```\nPriority 1 (This Sprint):\n  - Blocks user task completion\n  - Legal compliance risk\n  - Affects many users\n\nPriority 2 (Next Sprint):\n  - Degrades experience significantly\n  - Automated tools flag as error\n  - Violates ${wcag_level:AA} requirement\n\nPriority 3 (Backlog):\n  - Minor inconvenience\n  - Violates AAA only\n  - Affects edge cases\n\nPriority 4 (Enhancement):\n  - Improves usability for all\n  - Best practice, not requirement\n  - Future-proofing\n```\n\n## Verification Checklist\n\nBefore marking accessibility work complete:\n\n```markdown\nAutomated:\n[ ] axe-core: 0 violations\n[ ] Lighthouse accessibility: ${lighthouse_a11y_threshold:90}+\n[ ] HTML validation passes\n[ ] No console accessibility warnings\n\nKeyboard:\n[ ] Complete all tasks keyboard-only\n[ ] Focus visible at all times\n[ ] Tab order logical\n[ ] No keyboard traps\n\nScreen Reader (test with at least one):\n[ ] All content announced\n[ ] Interactive elements labeled\n[ ] Errors and updates announced\n[ ] Navigation efficient\n\nVisual:\n[ ] All text passes contrast\n[ ] UI components pass contrast\n[ ] Works at ${zoom_level:200}% zoom\n[ ] Works in high contrast mode\n[ ] No seizure-inducing flashing\n\nForms:\n[ ] All fields labeled\n[ ] Errors identifiable\n[ ] Required fields indicated\n[ ] Instructions available\n```\n\n## Documentation Template\n\n```markdown\n# Accessibility Statement\n\n## Conformance Status\nThis [website/application] is [fully/partially] conformant with ${compliance_standard:WCAG 2.1} Level ${wcag_level:AA}.\n\n## Known Limitations\n| Feature | Issue | Workaround | Timeline |\n|---------|-------|------------|----------|\n| [Feature] | [Description] | [Alternative] | [Fix date] |\n\n## Assistive Technology Tested\n- ${screen_reader:NVDA} [version] with Firefox [version]\n- VoiceOver with Safari [version]\n- JAWS [version] with Chrome [version]\n\n## Feedback\nContact [email] for accessibility issues.\nLast updated: [date]\n```",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "aria_live_politeness",
+      "default": "polite"
+    },
+    {
+      "name": "compliance_standard",
+      "default": "WCAG 2.1"
+    },
+    {
+      "name": "component_name",
+      "default": "Application"
+    },
+    {
+      "name": "focus_indicator_width",
+      "default": "2"
+    },
+    {
+      "name": "large_text_threshold",
+      "default": "18"
+    },
+    {
+      "name": "lighthouse_a11y_threshold",
+      "default": "90"
+    },
+    {
+      "name": "min_contrast_ratio",
+      "default": "4.5"
+    },
+    {
+      "name": "screen_reader",
+      "default": "NVDA"
+    },
+    {
+      "name": "testing_scope",
+      "default": "full-audit"
+    },
+    {
+      "name": "touch_target_size",
+      "default": "44"
+    },
+    {
+      "name": "touch_target_spacing",
+      "default": "8"
+    },
+    {
+      "name": "wcag_level",
+      "default": "AA"
+    },
+    {
+      "name": "zoom_level",
+      "default": "200"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d2684ca08326.json"
+}

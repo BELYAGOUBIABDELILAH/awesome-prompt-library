@@ -1,0 +1,21 @@
+{
+  "id": "opl_d43e2ae9c657",
+  "slug": "a-moment-shared-with-the-wild",
+  "title": "A Moment Shared with the Wild",
+  "prompt": "Create a photorealistic image of me and a wild ${wild_animal} taking a spontaneous selfie together in the animal’s natural habitat.\nI am smiling naturally, holding a phone at arm’s length for a selfie, looking directly at the camera. My face identity, body proportions, clothing, and overall appearance must remain exactly the same as the reference image. Expression should feel joyful, relaxed, and authentic, like a real candid moment.\nThe ${wild_animal} is positioned very close to the camera, slightly turned with its head facing the lens, appearing calm, curious, relaxed, and non-aggressive. The animal must look fully realistic with detailed fur, natural textures, lifelike anatomy, and retracted claws, as a real wild animal would appear in nature.\nBoth of us are clearly posing together for a selfie, creating a relaxed but powerful presence. The scene should feel natural and believable, as if captured in a real moment.\nCamera & Composition:\n\nClose, handheld iPhone-style selfie angle, arm-length distance\nSlight wide-angle distortion typical of phone selfies\nInformal, slightly off-center framing\nShallow depth of field focused on me and the ${wild_animal}\nLighting:\n\nNatural outdoor lighting with warm tones\nSoft shadows and gentle highlights\nSubtle sunlight lens flare if appropriate\nBackground:\n\nAuthentic outdoor environment typical for the ${wild_animal} (jungle, forest, savanna, grassland, etc.)\nNatural elements softly blurred in the background\nEffects:\n\nVery subtle motion blur near the edges\nGentle photographic softness on background edges\nMinimal film-like grain for realism\nNatural color balance with a slight warm tint\nImportant rules:\n\nPreserve my face identity and clothing exactly\nKeep realistic animal anatomy and behavior\nNo third-person camera angles\nThe image must feel like a real, candid iPhone selfie taken in the wild",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [
+    {
+      "name": "wild_animal",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d43e2ae9c657.json"
+}

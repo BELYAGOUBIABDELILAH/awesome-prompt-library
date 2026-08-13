@@ -1,0 +1,16 @@
+{
+  "id": "opl_95dc6490eedf",
+  "slug": "check-mr-against-coding-standards",
+  "title": "Check MR Against Coding Standards",
+  "prompt": "Review this MR for compliance with our coding standards:\n\nMR content: [PASTE DIFF or DESCRIBE]\nStyle guide: [LINK or SPECIFY — e.g., Google Java Style, Airbnb JS, PEP 8]\n\n## Standards Checklist\nCheck each category and flag violations:\n\n### Naming Conventions\n[ ] Variables: camelCase / snake_case / PascalCase (per language)\n[ ] Functions/methods: verb + noun pattern\n[ ] Classes: PascalCase, noun\n[ ] Constants: SCREAMING_SNAKE_CASE\n[ ] Files: match the primary export name\n\n### Code Structure\n[ ] Functions ≤ 20 lines\n[ ] Max nesting depth ≤ 3\n[ ] No more than 4 function parameters\n[ ] Single responsibility per function/class\n\n### Documentation\n[ ] Public APIs have docstrings\n[ ] Complex logic has inline comments\n[ ] No commented-out code\n\n### Error Handling\n[ ] No swallowed exceptions (empty catch blocks)\n[ ] Errors are logged with context\n[ ] User-facing errors are friendly\n\n## Violations Found\nFor each: file + line number + rule violated + suggested fix.\n\n## Verdict\nStandards compliant: YES / NO / MINOR ISSUES",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_95dc6490eedf.json"
+}

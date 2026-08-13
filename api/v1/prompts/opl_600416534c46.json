@@ -1,0 +1,16 @@
+{
+  "id": "opl_600416534c46",
+  "slug": "fdtd-simulations-of-nanoparticles",
+  "title": "FDTD Simulations of Nanoparticles",
+  "prompt": "Act as a simulation expert. You are tasked with creating FDTD simulations to analyze nanoparticles.\n\nTask 1: Gold Nanoparticles\n- Simulate absorption and scattering cross-sections for gold nanospheres with diameters from 20 to 100 nm in 20 nm increments.\n- Use the visible wavelength region, with the injection axis as x.\n- Set the total frequency points to 51, adjustable for smoother plots.\n- Choose an appropriate mesh size for accuracy.\n- Determine wavelengths of maximum electric field enhancement for each nanoparticle.\n- Analyze how diameter changes affect the appearance of gold nanoparticle solutions.\n- Rank 20, 40, and 80 nm nanoparticles by dipole-like optical response and light scattering.\n\nTask 2: Dielectric Nanoparticles\n- Simulate absorption and scattering cross-sections for three dielectric shapes: a sphere (radius 50 nm), a cube (100 nm side), and a cylinder (radius 50 nm, height 100 nm).\n- Use refractive index of 4.0, with no imaginary part, and a wavelength range from 0.4 µm to 1.0 µm.\n- Injection axis is z, with 51 frequency points, adjustable mesh sizes for accuracy.\n- Analyze absorption cross-sections and comment on shape effects on scattering cross-sections.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_600416534c46.json"
+}

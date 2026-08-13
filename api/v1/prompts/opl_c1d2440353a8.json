@@ -1,0 +1,16 @@
+{
+  "id": "opl_c1d2440353a8",
+  "slug": "trace-authentication-and-authorization-flow",
+  "title": "Trace Authentication and Authorization Flow",
+  "prompt": "Map the complete authentication and authorization flow in this codebase:\n\n[PASTE CODE or specify the scope]\n\n## Authentication Flow\nTrace the complete login/token flow:\n1. How does a user authenticate? (username/password, OAuth, SSO, API key)\n2. What happens step by step when credentials are submitted?\n3. Where are credentials validated?\n4. What token/session is created on success?\n5. Where is the token stored (client-side and server-side)?\n6. How is the token validated on subsequent requests?\n7. How does logout/token revocation work?\n\n## Authorization Flow\nTrace the permission check flow:\n1. Where are permission checks performed? (middleware, service layer, model)\n2. What is the permission model? (RBAC, ABAC, ACL, scopes)\n3. How are roles/permissions assigned to users?\n4. Show a complete example: User X tries to do Y → permission check path\n\n## Security Gaps Found\n- Are there endpoints that skip authentication?\n- Are authorization checks consistently applied?\n- Is the principle of least privilege followed?\n- Are permission checks server-side (not just client-side)?\n\n## Auth Flow Diagram (Text)\nRequest → [middleware] → [token validation] → [permission check] → [handler]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c1d2440353a8.json"
+}

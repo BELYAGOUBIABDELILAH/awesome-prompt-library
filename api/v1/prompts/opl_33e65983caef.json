@@ -1,0 +1,16 @@
+{
+  "id": "opl_33e65983caef",
+  "slug": "analyze-security-scan-results",
+  "title": "Analyze Security Scan Results",
+  "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+  "category": "Security",
+  "folder": "security",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_33e65983caef.json"
+}

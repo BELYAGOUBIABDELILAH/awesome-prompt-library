@@ -1,0 +1,21 @@
+{
+  "id": "opl_a948faafcb74",
+  "slug": "subject-meditating-in-a-crystal-sphere",
+  "title": "Subject meditating in a crystal sphere",
+  "prompt": "a transparent crystal portal floating in the middle of clouds in the sky, with a ${subject}, sitting inside meditating with golden lights coming up from all their chakras, 2 other light beams are traversing their body one from top to bottom and 2 diagonally",
+  "category": "General",
+  "folder": "general",
+  "variables": [
+    {
+      "name": "subject",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a948faafcb74.json"
+}

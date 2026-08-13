@@ -1,0 +1,16 @@
+{
+  "id": "opl_066afc702673",
+  "slug": "create-technical-design-document",
+  "title": "Create Technical Design Document",
+  "prompt": "Create a comprehensive technical design document (TDD/RFC):\n\nFeature/System: [NAME]\nAuthor: [YOUR NAME]\nDate: [DATE]\nStatus: [Draft / In Review / Approved]\n\n## Technical Design Document\n\n### Summary\n[2–3 sentences: what are we building and why?]\n\n### Background and Motivation\n- Current situation: [what exists today]\n- Problem: [what's broken or missing]\n- Why now: [business driver or urgency]\n\n### Goals\n✅ In scope:\n- [Goal 1]\n- [Goal 2]\n\n❌ Out of scope:\n- [Explicit exclusion 1 — prevents scope creep]\n\n### Design\n\n#### High-Level Architecture\n[Text description of the major components and how they interact]\n[Include an ASCII diagram or describe what a diagram would show]\n\n#### Key Design Decisions\nFor each significant decision, use this format:\n\n**Decision**: [What we decided]\n**Options considered**:\n  - Option A: [pros/cons]\n  - Option B: [pros/cons]\n  - Option C: [pros/cons]\n**Chosen**: Option [X]\n**Rationale**: [Why, tied to goals and constraints]\n\n#### Data Model\n[Key entities and their relationships]\n\n#### API Design\n[Key endpoints or interfaces]\n\n#### Error Handling\n[How failures are handled and surfaced]\n\n### Success Metrics\nHow will we measure success?\n- [Metric 1]: target [value]\n- [Metric 2]: target [value]\n\n### Risks and Open Questions\n| Risk | Likelihood | Impact | Mitigation |\n|---|---|---|---|",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_066afc702673.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_e11364b84c2d",
+  "slug": "sudoku-game",
+  "title": "Sudoku Game",
+  "prompt": "Create an interactive Sudoku game using HTML5, CSS3, and JavaScript. Build a clean, accessible game board with intuitive controls. Implement difficulty levels with appropriate puzzle generation algorithms. Add hint system with multiple levels of assistance. Include note-taking functionality for candidate numbers. Implement timer with pause and resume. Add error checking with optional immediate feedback. Include game saving and loading with multiple slots. Create statistics tracking for wins, times, and difficulty levels. Add printable puzzle generation. Implement keyboard controls and accessibility features.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e11364b84c2d.json"
+}

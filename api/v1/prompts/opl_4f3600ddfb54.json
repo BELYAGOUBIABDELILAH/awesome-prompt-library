@@ -1,0 +1,16 @@
+{
+  "id": "opl_4f3600ddfb54",
+  "slug": "analyze-stack-trace",
+  "title": "Analyze Stack Trace",
+  "prompt": "Analyze this stack trace and help me find the root cause:\n\n[PASTE STACK TRACE]\n\nLanguage/Runtime: [SPECIFY]\nContext: [what the user was doing / what triggered this]\n\n## Stack Trace Analysis\n\n### Error Type and Message\n- What kind of error is this? (NullPointerException, TypeError, etc.)\n- What does the error message literally mean?\n- Translate the error into plain English.\n\n### Origin Point\n- At which line did the error originate?\n- What was the code trying to do at that exact moment?\n\n### Call Chain (Bottom-up)\nReading the stack trace from bottom (origin) to top (propagation point):\n- Frame N (origin): [what happened here]\n- Frame N-1: [how it propagated]\n- ...\n- Frame 1 (top): [where it surfaced to the user]\n\n### Root Cause\nThe actual root cause is: [explanation]\nNot to be confused with: [the symptom, which is different]\n\n### Fix\nMost likely fix:\n[code example]\n\nAlternative fixes if that doesn't work:\n1. [alternative]\n2. [alternative]\n\n### Prevention\nHow to prevent this class of error in the future.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4f3600ddfb54.json"
+}

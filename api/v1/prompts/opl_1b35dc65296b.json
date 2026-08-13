@@ -1,0 +1,16 @@
+{
+  "id": "opl_1b35dc65296b",
+  "slug": "remotion",
+  "title": "Remotion",
+  "prompt": "Minimal Countdown Scene:\nCount down from 3 → 2 → 1 using a clean, modern font.\nApply left-to-right color transitions with subtle background gradients.\nKeep the design minimal — shift font and background colors smoothly between counts.\n\nStart with a pure white background,\nThen transition quickly into lively, elegant tones: yellow, pink, blue, orange — fast, energetic transitions to build excitement.\n\nAfter the countdown, display\n“Introducing”\nIn a monospace font with a sleek text animation.\n\nNext Scene:\nCenter the Mitte.ai and Remotion logos on a white background.\nPlace them side by side — Mitte.ai on the left, Remotion on the right.\n\nFirst, fade in both logos.\nThen animate a vertical line drawing from bottom to top between them.\n\nFinal Moment:\nSlowly zoom into the logo section while shifting background colors\nWith left-to-right and right-to-left transitions in a celebratory motion.\n\nOverall Style:\nStartup vibes — elegant, creative, modern, and confident.",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1b35dc65296b.json"
+}

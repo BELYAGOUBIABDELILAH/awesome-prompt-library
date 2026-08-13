@@ -1,0 +1,16 @@
+{
+  "id": "opl_554b82a69074",
+  "slug": "monthly-updates",
+  "title": "Monthly Updates",
+  "prompt": "Create a template for monthly sponsor updates that includes progress, challenges, wins, and upcoming features for [project].",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_554b82a69074.json"
+}

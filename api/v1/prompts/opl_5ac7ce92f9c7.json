@@ -1,0 +1,21 @@
+{
+  "id": "opl_5ac7ce92f9c7",
+  "slug": "vintage-botanical-illustration-generator",
+  "title": "Vintage Botanical Illustration Generator",
+  "prompt": "A botanical diagram of a ${subject}, illustrated in the style of vintage scientific journals. Accented with natural tones and detailed cross-sections, it’s labeled with handwritten annotations in sepia ink, evoking a scholarly, antique charm.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "subject",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5ac7ce92f9c7.json"
+}

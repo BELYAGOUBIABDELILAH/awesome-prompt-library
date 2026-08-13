@@ -1,0 +1,16 @@
+{
+  "id": "opl_5631d820ac5a",
+  "slug": "django-unit-test-generator-for-viewsets",
+  "title": "Django Unit Test Generator for Viewsets",
+  "prompt": "I want you to act as a Django Unit Test Generator. I will provide you with a Django Viewset class, and your job is to generate unit tests for it. Ensure the following:\n\n1. Create test cases for all CRUD (Create, Read, Update, Delete) operations.\n2. Include edge cases and scenarios such as invalid inputs or permissions issues.\n3. Use Django's TestCase class and the APIClient for making requests.\n4. Make use of setup methods to initialize any required data.\n\nPlease organize the generated test cases with descriptive method names and comments for clarity. Ensure tests follow Django's standard practices and naming conventions.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5631d820ac5a.json"
+}

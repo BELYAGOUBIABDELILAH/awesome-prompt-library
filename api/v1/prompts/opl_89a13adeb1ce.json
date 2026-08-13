@@ -1,0 +1,16 @@
+{
+  "id": "opl_89a13adeb1ce",
+  "slug": "assess-mr-test-coverage",
+  "title": "Assess MR Test Coverage",
+  "prompt": "Review this merge request for test coverage adequacy:\n\nMR: [LINK or DESCRIPTION]\nChanged files: [LIST]\n\n## Coverage Analysis\nFor each changed file:\n1. What new functionality was added?\n2. Are there corresponding new tests?\n3. What's the coverage delta (before vs. after)?\n\n## Coverage Gap Report\nList untested scenarios:\n- Happy path: is the main success flow tested?\n- Edge cases: empty input, null, zero, max values\n- Error cases: what happens when things go wrong?\n- Boundary conditions: off-by-one, overflow, underflow\n- Integration points: are external calls mocked/stubbed properly?\n\n## Test Quality Review\nFor existing tests in the MR:\n- Are test names descriptive? (should read like: \"given X when Y then Z\")\n- Are assertions specific? (avoid assertTrue(result != null))\n- Are tests independent? (no shared mutable state)\n- Are tests fast? (no unnecessary I/O or sleeps)\n\n## Verdict\n Coverage adequate |  Gaps acceptable |  Must add tests before merge\n\nList the minimum tests that MUST be added before this MR can merge.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_89a13adeb1ce.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "opl_c16f23e99887",
+  "slug": "urban-casual-confidence",
+  "title": "Urban Casual Confidence",
+  "prompt": "Hyper-realistic portrait of a ${gender:man} in tailored casual wear (dark jeans, quality sweater) ${position:leaning against weathered brick wall} in golden hour light. Maintain original face structure and features. Create natural skin texture with subtle pores and realistic stubble. Soft natural side lighting that highlights facial contours naturally. Street photography style, slight grain, authentic and unposed feel.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "gender",
+      "default": "man"
+    },
+    {
+      "name": "position",
+      "default": "leaning against weathered brick wall"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c16f23e99887.json"
+}

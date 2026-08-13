@@ -1,0 +1,21 @@
+{
+  "id": "opl_ced657aa3d51",
+  "slug": "hyperrealistic-food-photo-creator",
+  "title": "Hyperrealistic Food Photo Creator",
+  "prompt": "Generate a hyperrealistic image of ${food_item} that captures its texture, color, and details in an appetizing composition. Ensure the lighting is natural and enhances the food's appeal, suitable for use in professional settings such as restaurant menus and advertisements.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "food_item",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ced657aa3d51.json"
+}

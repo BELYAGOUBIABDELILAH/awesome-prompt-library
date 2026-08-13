@@ -1,0 +1,16 @@
+{
+  "id": "opl_c78a93eb69b2",
+  "slug": "automate-repetitive-development-tasks",
+  "title": "Automate Repetitive Development Tasks",
+  "prompt": "I want to automate the following repetitive task:\n[DESCRIBE THE TASK]\n\nHelp me build an automation script/workflow with:\n\n## Analysis\n1. What are the exact steps being repeated?\n2. What triggers this task? (manual, schedule, event)\n3. What are the inputs and expected outputs?\n4. What could go wrong?\n\n## Implementation Plan\nWrite the automation with these requirements:\n- Input validation before execution\n- Clear error messages with actionable guidance\n- Structured logging (timestamp, step, status, duration)\n- Dry-run mode: show what would happen without making changes\n- Exit codes: 0 = success, 1 = partial failure, 2 = fatal error\n\n## Script\nProvide the complete script in: [LANGUAGE/TOOL]\n\n## Test Plan\nList 3–5 test cases covering: happy path, invalid input, partial failure.\n\n## Documentation\nWrite a README block (5–7 lines) explaining what the script does, how to run it, and required permissions.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c78a93eb69b2.json"
+}

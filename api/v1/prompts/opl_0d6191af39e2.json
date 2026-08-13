@@ -1,0 +1,29 @@
+{
+  "id": "opl_0d6191af39e2",
+  "slug": "resume-tailoring",
+  "title": "Resume tailoring",
+  "prompt": "\"Act as an expert recruiter in the [Insert Industry, e.g., Tech] industry. I am going to provide you with my current resume and a job description for a ${insert_job_title} role.\nAnalyze the attached Job Description ${paste_jd} and identify the top 10 most critical skills (hard and soft), tools, and keywords.\nCompare them to my resume ${paste_resume} and identify gaps.\nRewrite my work experience bullets and skills section to naturally incorporate these keywords. Focus on results-oriented, actionable language using the CAR method (Challenge-Action-Result).\"",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "insert_job_title",
+      "default": null
+    },
+    {
+      "name": "paste_jd",
+      "default": null
+    },
+    {
+      "name": "paste_resume",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0d6191af39e2.json"
+}

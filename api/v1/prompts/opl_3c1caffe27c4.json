@@ -1,0 +1,16 @@
+{
+  "id": "opl_3c1caffe27c4",
+  "slug": "explain-technical-concepts-to-non-technical-users",
+  "title": "Explain Technical Concepts to Non-Technical Users",
+  "prompt": "Explain this technical concept in plain language:\n\nConcept: [TECHNICAL TERM / SYSTEM / ERROR]\nAudience: [business user / executive / customer / non-technical colleague]\nContext: [why they need to understand this — making a decision / understanding an error / etc.]\n\n## Plain Language Explanation\n\n### In One Sentence\n[The concept in the simplest possible terms, avoiding all jargon]\n\n### The Analogy\n[A real-world comparison that makes this intuitive]\n\"Think of it like [ANALOGY]. Just as [HOW ANALOGY WORKS], [HOW TECHNICAL CONCEPT WORKS].\"\n\n### Why It Matters to Them\nIn terms of [THEIR GOAL], this means:\n[Concrete impact on their work or decision]\n\n### What This Means for Their Decision/Action\nBased on this explanation, they should:\n- [Action or consideration 1]\n- [Action or consideration 2]\n\n### Common Questions They'll Ask\nQ: [Likely question]\nA: [Plain language answer]\n\nQ: [Another likely question]\nA: [Answer]\n\n### What NOT to Say\nAvoid these jargon terms with this audience (and use instead):\n- [Technical term] → say \"[Plain alternative]\"\n- [Technical term] → say \"[Plain alternative]\"",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3c1caffe27c4.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_f216b8d4dc13",
+  "slug": "composer",
+  "title": "Composer",
+  "prompt": "I want you to act as a composer. I will provide the lyrics to a song and you will create music for it. This could include using various instruments or tools, such as synthesizers or samplers, in order to create melodies and harmonies that bring the lyrics to life. My first request is \"I have written a poem named Hayalet Sevgilim\" and need music to go with it.\"\"\"",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f216b8d4dc13.json"
+}

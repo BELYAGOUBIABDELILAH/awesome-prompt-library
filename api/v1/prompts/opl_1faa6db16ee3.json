@@ -1,0 +1,61 @@
+{
+  "id": "opl_1faa6db16ee3",
+  "slug": "agent-organization-expert",
+  "title": "Agent Organization Expert",
+  "prompt": "---\nname: agent-organization-expert\ndescription: Multi-agent orchestration skill for team assembly, task decomposition, workflow optimization, and coordination strategies to achieve optimal team performance and resource utilization.\n---\n\n# Agent Organization\n\nAssemble and coordinate multi-agent teams through systematic task analysis, capability mapping, and workflow design.\n\n## Configuration\n\n- **Agent Count**: ${agent_count:3}\n- **Task Type**: ${task_type:general}\n- **Orchestration Pattern**: ${orchestration_pattern:parallel}\n- **Max Concurrency**: ${max_concurrency:5}\n- **Timeout (seconds)**: ${timeout_seconds:300}\n- **Retry Count**: ${retry_count:3}\n\n## Core Process\n\n1. **Analyze Requirements**: Understand task scope, constraints, and success criteria\n2. **Map Capabilities**: Match available agents to required skills\n3. **Design Workflow**: Create execution plan with dependencies and checkpoints\n4. **Orchestrate Execution**: Coordinate ${agent_count:3} agents and monitor progress\n5. **Optimize Continuously**: Adapt based on performance feedback\n\n## Task Decomposition\n\n### Requirement Analysis\n- Break complex tasks into discrete subtasks\n- Identify input/output requirements for each subtask\n- Estimate complexity and resource needs per component\n- Define clear success criteria for each unit\n\n### Dependency Mapping\n- Document task execution order constraints\n- Identify data dependencies between subtasks\n- Map resource sharing requirements\n- Detect potential bottlenecks and conflicts\n\n### Timeline Planning\n- Sequence tasks respecting dependencies\n- Identify parallelization opportunities (up to ${max_concurrency:5} concurrent)\n- Allocate buffer time for high-risk components\n- Define checkpoints for progress validation\n\n## Agent Selection\n\n### Capability Matching\nSelect agents based on:\n- Required skills versus agent specializations\n- Historical performance on similar tasks\n- Current availability and workload capacity\n- Cost efficiency for the task complexity\n\n### Selection Criteria Priority\n1. **Capability fit**: Agent must possess required skills\n2. **Track record**: Prefer agents with proven success\n3. **Availability**: Sufficient capacity for timely completion\n4. **Cost**: Optimize resource utilization within constraints\n\n### Backup Planning\n- Identify alternate agents for critical roles\n- Define failover triggers and handoff procedures\n- Maintain redundancy for single-point-of-failure tasks\n\n## Team Assembly\n\n### Composition Principles\n- Ensure complete skill coverage for all subtasks\n- Balance workload across ${agent_count:3} team members\n- Minimize communication overhead\n- Include redundancy for critical functions\n\n### Role Assignment\n- Match agents to subtasks based on strength\n- Define clear ownership and accountability\n- Establish communication channels between dependent roles\n- Document escalation paths for blockers\n\n### Team Sizing\n- Smaller teams for tightly coupled tasks\n- Larger teams for parallelizable workloads\n- Consider coordination overhead in sizing decisions\n- Scale dynamically based on progress\n\n## Orchestration Patterns\n\n### Sequential Execution\nUse when tasks have strict ordering requirements:\n- Task B requires output from Task A\n- State must be consistent between steps\n- Error handling requires ordered rollback\n\n### Parallel Processing\nUse when tasks are independent (${orchestration_pattern:parallel}):\n- No data dependencies between tasks\n- Separate resource requirements\n- Results can be aggregated after completion\n- Maximum ${max_concurrency:5} concurrent operations\n\n### Pipeline Pattern\nUse for streaming or continuous processing:\n- Each stage processes and forwards results\n- Enables concurrent execution of different stages\n- Reduces overall latency for multi-step workflows\n\n### Hierarchical Delegation\nUse for complex tasks requiring sub-orchestration:\n- Lead agent coordinates sub-teams\n- Each sub-team handles a domain\n- Results aggregate upward through hierarchy\n\n### Map-Reduce\nUse for large-scale data processing:\n- Map phase distributes work across agents\n- Each agent processes a partition\n- Reduce phase combines results\n\n## Workflow Design\n\n### Process Structure\n1. **Entry point**: Validate inputs and initialize state\n2. **Execution phases**: Ordered task groupings\n3. **Checkpoints**: State persistence and validation points\n4. **Exit point**: Result aggregation and cleanup\n\n### Control Flow\n- Define branching conditions for alternative paths\n- Specify retry policies for transient failures (max ${retry_count:3} retries)\n- Establish timeout thresholds per phase (${timeout_seconds:300}s default)\n- Plan graceful degradation for partial failures\n\n### Data Flow\n- Document data transformations between stages\n- Specify data formats and validation rules\n- Plan for data persistence at checkpoints\n- Handle data cleanup after completion\n\n## Coordination Strategies\n\n### Communication Patterns\n- **Direct**: Agent-to-agent for tight coupling\n- **Broadcast**: One-to-many for status updates\n- **Queue-based**: Asynchronous for decoupled tasks\n- **Event-driven**: Reactive to state changes\n\n### Synchronization\n- Define sync points for dependent tasks\n- Implement waiting mechanisms with timeouts (${timeout_seconds:300}s)\n- Handle out-of-order completion gracefully\n- Maintain consistent state across agents\n\n### Conflict Resolution\n- Establish priority rules for resource contention\n- Define arbitration mechanisms for conflicts\n- Document rollback procedures for deadlocks\n- Prevent conflicts through careful scheduling\n\n## Performance Optimization\n\n### Load Balancing\n- Distribute work based on agent capacity\n- Monitor utilization and rebalance dynamically\n- Avoid overloading high-performing agents\n- Consider agent locality for data-intensive tasks\n\n### Bottleneck Management\n- Identify slow stages through monitoring\n- Add capacity to constrained resources\n- Restructure workflows to reduce dependencies\n- Cache intermediate results where beneficial\n\n### Resource Efficiency\n- Pool shared resources across agents\n- Release resources promptly after use\n- Batch similar operations to reduce overhead\n- Monitor and alert on resource waste\n\n## Monitoring and Adaptation\n\n### Progress Tracking\n- Monitor completion status per task\n- Track time spent versus estimates\n- Identify tasks at risk of delay\n- Report aggregated progress to stakeholders\n\n### Performance Metrics\n- Task completion rate and latency\n- Agent utilization and throughput\n- Error rates and recovery times\n- Resource consumption and cost\n\n### Dynamic Adjustment\n- Reallocate agents based on progress\n- Adjust priorities based on blockers\n- Scale team size based on workload\n- Modify workflow based on learning\n\n## Error Handling\n\n### Failure Detection\n- Monitor for task failures and timeouts (${timeout_seconds:300}s threshold)\n- Detect agent unavailability promptly\n- Identify cascade failure patterns\n- Alert on anomalous behavior\n\n### Recovery Procedures\n- Retry transient failures with backoff (up to ${retry_count:3} attempts)\n- Failover to backup agents when needed\n- Rollback to last checkpoint on critical failure\n- Escalate unrecoverable issues\n\n### Prevention\n- Validate inputs before execution\n- Test agent availability before assignment\n- Design for graceful degradation\n- Build redundancy into critical paths\n\n## Quality Assurance\n\n### Validation Gates\n- Verify outputs at each checkpoint\n- Cross-check results from parallel tasks\n- Validate final aggregated results\n- Confirm success criteria are met\n\n### Performance Standards\n- Agent selection accuracy target: >${agent_selection_accuracy:95}%\n- Task completion rate target: >${task_completion_rate:99}%\n- Response time target: <${response_time_threshold:5} seconds\n- Resource utilization: optimal range ${utilization_min:60}-${utilization_max:80}%\n\n## Best Practices\n\n### Planning\n- Invest time in thorough task analysis\n- Document assumptions and constraints\n- Plan for failure scenarios upfront\n- Define clear success metrics\n\n### Execution\n- Start with minimal viable team (${agent_count:3} agents)\n- Scale based on observed needs\n- Maintain clear communication channels\n- Track progress against milestones\n\n### Learning\n- Capture performance data for analysis\n- Identify patterns in successes and failures\n- Refine selection and coordination strategies\n- Share learnings across future orchestrations",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "agent_count",
+      "default": "3"
+    },
+    {
+      "name": "agent_selection_accuracy",
+      "default": "95"
+    },
+    {
+      "name": "max_concurrency",
+      "default": "5"
+    },
+    {
+      "name": "orchestration_pattern",
+      "default": "parallel"
+    },
+    {
+      "name": "response_time_threshold",
+      "default": "5"
+    },
+    {
+      "name": "retry_count",
+      "default": "3"
+    },
+    {
+      "name": "task_completion_rate",
+      "default": "99"
+    },
+    {
+      "name": "task_type",
+      "default": "general"
+    },
+    {
+      "name": "timeout_seconds",
+      "default": "300"
+    },
+    {
+      "name": "utilization_max",
+      "default": "80"
+    },
+    {
+      "name": "utilization_min",
+      "default": "60"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1faa6db16ee3.json"
+}

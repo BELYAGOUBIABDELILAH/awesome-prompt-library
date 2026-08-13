@@ -1,0 +1,16 @@
+{
+  "id": "opl_ae8be219aa17",
+  "slug": "draft-personalized-outreach-post-sale",
+  "title": "Draft Personalized Outreach Post-Sale",
+  "prompt": "Create a personalized email outreach sequence with a customer after the sale.\nSequence structure:\nEmail 1 (Day 1): Thank you + quick-start resource\nEmail 2 (Day 7): Check-in + specific tip based on their use case\nEmail 3 (Day 21): Case study relevant to their industry + upsell seed\nEmail 4 (Day 45): Health check + renewal/expansion conversation invite\nEach email: Under 100 words. One CTA. Personalize with [CUSTOMER NAME], [USE CASE], [COMPANY].",
+  "category": "Sales & Business",
+  "folder": "sales-business",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ae8be219aa17.json"
+}

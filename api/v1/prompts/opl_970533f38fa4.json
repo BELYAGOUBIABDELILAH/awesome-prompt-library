@@ -1,0 +1,16 @@
+{
+  "id": "opl_970533f38fa4",
+  "slug": "student-tier",
+  "title": "Student Tier",
+  "prompt": "Create a special $1-2 student sponsorship tier with meaningful benefits that acknowledges their support while respecting their budget.",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_970533f38fa4.json"
+}

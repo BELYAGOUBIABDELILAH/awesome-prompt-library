@@ -1,0 +1,33 @@
+{
+  "id": "opl_ed3119e45905",
+  "slug": "childs-coloring-style",
+  "title": "Childs Coloring Style",
+  "prompt": "A cartoon ${setting} scene with crayon colored ${detail1} and ${detail2} and ${detail3}, like that of a learning child.",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [
+    {
+      "name": "detail1",
+      "default": null
+    },
+    {
+      "name": "detail2",
+      "default": null
+    },
+    {
+      "name": "detail3",
+      "default": null
+    },
+    {
+      "name": "setting",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ed3119e45905.json"
+}

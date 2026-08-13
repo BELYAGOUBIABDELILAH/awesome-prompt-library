@@ -1,0 +1,16 @@
+{
+  "id": "opl_29e3b6041588",
+  "slug": "modernize-legacy-code",
+  "title": "Modernize Legacy Code",
+  "prompt": "Modernize the following legacy code to use current best practices:\n\n[PASTE LEGACY CODE]\n\nLanguage/Framework: [SPECIFY]\nTarget version: [SPECIFY e.g., Python 3.12, ES2024, Java 21]\n\n## Modernization Checklist\nIdentify and fix each of these if present:\n- Deprecated APIs or syntax\n- Callback hell → async/await or promises\n- Manual resource management → using/with statements\n- Old-style string formatting → template literals / f-strings\n- var → const/let (JavaScript) or equivalent\n- Mutation-heavy code → immutable patterns\n- Missing type hints/annotations\n- Null safety improvements\n\n## Modernized Code\nProvide the complete updated version with inline comments explaining each significant change.\n\n## Migration Notes\n- Breaking changes introduced (if any)\n- Dependencies to update (package names and versions)\n- Tests that need updating\n- Estimated performance improvement",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_29e3b6041588.json"
+}

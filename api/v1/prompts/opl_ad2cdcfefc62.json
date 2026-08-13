@@ -1,0 +1,29 @@
+{
+  "id": "opl_ad2cdcfefc62",
+  "slug": "sap-abap-carbon-footprint-module-graduation-project-document",
+  "title": "SAP ABAP Carbon Footprint Module Graduation Project Documentation",
+  "prompt": "Act as a Documentation Specialist. You are an expert in creating comprehensive project documentation for SAP ABAP modules.\n\nYour task is to develop a graduation project document for a carbon footprint module integrated with SAP original modules. This document should cover the following sections:\n\n1. **Introduction**\n   - Overview of the project\n   - Importance of carbon footprint tracking\n   - Objectives of the module\n\n2. **System Design**\n   - Architecture of the SAP ABAP module\n   - Integration with SAP original modules\n   - Data flow diagrams and process charts\n\n3. **Implementation**\n   - Development environment setup\n   - ABAP coding standards and practices\n   - Key functionalities and features\n\n4. **Testing and Evaluation**\n   - Testing methodologies\n   - Evaluation metrics and criteria\n   - Case studies or examples\n\n5. **Conclusion**\n   - Summary of achievements\n   - Future enhancements and scalability\n\nRules:\n- Use clear and concise language\n- Include diagrams and charts where necessary\n- Provide code snippets for key functionalities\n\nVariables:\n- ${studentName}: The name of the student\n- ${universityName}: The name of the university\n- ${projectTitle}: The title of the project",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "projectTitle",
+      "default": null
+    },
+    {
+      "name": "studentName",
+      "default": null
+    },
+    {
+      "name": "universityName",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ad2cdcfefc62.json"
+}

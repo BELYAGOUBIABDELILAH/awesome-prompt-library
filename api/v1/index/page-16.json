@@ -1,0 +1,984 @@
+{
+  "last_updated": "2026-08-13T17:35:47.736Z",
+  "page": 16,
+  "per_page": 100,
+  "total": 2103,
+  "total_pages": 22,
+  "next": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/index/page-17.json",
+  "prev": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/index/page-15.json",
+  "prompts": [
+    {
+      "id": "opl_860b923ba30b",
+      "slug": "prompt-output-reformatter",
+      "title": "Prompt & Output Reformatter",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_860b923ba30b.json"
+    },
+    {
+      "id": "opl_30c986f33736",
+      "slug": "prompt-architect-pro",
+      "title": "Prompt Architect Pro",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_30c986f33736.json"
+    },
+    {
+      "id": "opl_7291e2ffb88a",
+      "slug": "prompt-converter-json-to-markdown",
+      "title": "Prompt Converter - JSON To Markdown",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7291e2ffb88a.json"
+    },
+    {
+      "id": "opl_6d9b707a017d",
+      "slug": "prompt-data-identifier",
+      "title": "Prompt Data Identifier",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6d9b707a017d.json"
+    },
+    {
+      "id": "opl_cc022b5e56aa",
+      "slug": "prompt-editor-mimic-structured-output",
+      "title": "Prompt Editor - Mimic Structured Output",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_cc022b5e56aa.json"
+    },
+    {
+      "id": "opl_05c8f10ec341",
+      "slug": "prompt-eng-assistant-ideator",
+      "title": "Prompt Eng Assistant Ideator",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_05c8f10ec341.json"
+    },
+    {
+      "id": "opl_e80c3657ef46",
+      "slug": "prompt-engineering-tool-ideas",
+      "title": "Prompt Engineering Tool Ideas",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e80c3657ef46.json"
+    },
+    {
+      "id": "opl_2c2d6807e205",
+      "slug": "prompt-enhancer",
+      "title": "Prompt Enhancer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2c2d6807e205.json"
+    },
+    {
+      "id": "opl_eb04521cb11e",
+      "slug": "prompt-example-adder",
+      "title": "Prompt Example Adder",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_eb04521cb11e.json"
+    },
+    {
+      "id": "opl_0d0b7efbc537",
+      "slug": "prompt-forensics",
+      "title": "Prompt Forensics",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0d0b7efbc537.json"
+    },
+    {
+      "id": "opl_1ca211e33e28",
+      "slug": "prompt-generator",
+      "title": "Prompt Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1ca211e33e28.json"
+    },
+    {
+      "id": "opl_cb0e666a332b",
+      "slug": "prompt-generator-for-language-models",
+      "title": "Prompt Generator for Language Models",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "variableName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_cb0e666a332b.json"
+    },
+    {
+      "id": "opl_e2a8a8050eeb",
+      "slug": "prompt-improvement-agent",
+      "title": "Prompt Improvement Agent",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e2a8a8050eeb.json"
+    },
+    {
+      "id": "opl_7f5b17b400de",
+      "slug": "prompt-length-analyst",
+      "title": "Prompt Length Analyst",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7f5b17b400de.json"
+    },
+    {
+      "id": "opl_64a3cbebe42d",
+      "slug": "prompt-optimization",
+      "title": "Prompt Optimization",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_64a3cbebe42d.json"
+    },
+    {
+      "id": "opl_2a2b7f4c3611",
+      "slug": "prompt-shortener",
+      "title": "Prompt Shortener",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2a2b7f4c3611.json"
+    },
+    {
+      "id": "opl_f8adb947547e",
+      "slug": "prompt-suggestor",
+      "title": "Prompt Suggestor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f8adb947547e.json"
+    },
+    {
+      "id": "opl_be9a03ac48aa",
+      "slug": "prompt-to-llm",
+      "title": "Prompt To LLM",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_be9a03ac48aa.json"
+    },
+    {
+      "id": "opl_4fd4584543a3",
+      "slug": "prompt-to-parameters",
+      "title": "Prompt To Parameters",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4fd4584543a3.json"
+    },
+    {
+      "id": "opl_6d356a77cd16",
+      "slug": "prompt-to-platform",
+      "title": "Prompt To Platform",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6d356a77cd16.json"
+    },
+    {
+      "id": "opl_370a4b9066f6",
+      "slug": "prompt-to-tool-ideator",
+      "title": "Prompt To Tool Ideator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_370a4b9066f6.json"
+    },
+    {
+      "id": "opl_bdbbaec90fcb",
+      "slug": "prompt-writer-for-specific-project",
+      "title": "Prompt Writer for Specific Project",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "feature",
+          "default": null
+        },
+        {
+          "name": "list_specific_files_based_on_actual_project_structure",
+          "default": null
+        },
+        {
+          "name": "role",
+          "default": null
+        },
+        {
+          "name": "target_agent",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bdbbaec90fcb.json"
+    },
+    {
+      "id": "opl_b0e70325519a",
+      "slug": "prompt",
+      "title": "prompt 生成",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b0e70325519a.json"
+    },
+    {
+      "id": "opl_ebb6a41a6964",
+      "slug": "prompts-chat-promotional-video-using-remotion",
+      "title": "prompts.chat Promotional Video using Remotion",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ebb6a41a6964.json"
+    },
+    {
+      "id": "opl_a614ab89d33c",
+      "slug": "proofreader",
+      "title": "Proofreader",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a614ab89d33c.json"
+    },
+    {
+      "id": "opl_953fb3669220",
+      "slug": "proofreader-inconsistencies",
+      "title": "Proofreader - Inconsistencies",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_953fb3669220.json"
+    },
+    {
+      "id": "opl_0e84fea10d58",
+      "slug": "protocol-2084-the-alleyway-hack",
+      "title": "Protocol 2084: The Alleyway Hack",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "year",
+          "default": "2084"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0e84fea10d58.json"
+    },
+    {
+      "id": "opl_11b1d98b803d",
+      "slug": "proxmox-virtualization-expert",
+      "title": "Proxmox Virtualization Expert",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_11b1d98b803d.json"
+    },
+    {
+      "id": "opl_fec089c51205",
+      "slug": "pseudo-ai-messenger",
+      "title": "Pseudo AI Messenger",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fec089c51205.json"
+    },
+    {
+      "id": "opl_116e6ec609c9",
+      "slug": "pseudo-anti-spam-bot-mailer",
+      "title": "Pseudo Anti-Spam Bot Mailer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_116e6ec609c9.json"
+    },
+    {
+      "id": "opl_3e8cf0ac8337",
+      "slug": "pseudo-whatsapp-ai-bot",
+      "title": "Pseudo WhatsApp AI Bot",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3e8cf0ac8337.json"
+    },
+    {
+      "id": "opl_6b9b84f7dbb4",
+      "slug": "pseudo-personalisation-detective",
+      "title": "Pseudo-personalisation Detective",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6b9b84f7dbb4.json"
+    },
+    {
+      "id": "opl_291d7878880b",
+      "slug": "psychologist",
+      "title": "Psychologist",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_291d7878880b.json"
+    },
+    {
+      "id": "opl_8808aa5b467d",
+      "slug": "psychology-clinic-assistant",
+      "title": "Psychology Clinic Assistant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_8808aa5b467d.json"
+    },
+    {
+      "id": "opl_dd2e07dbe59b",
+      "slug": "pub-crawl-itinerary-creator",
+      "title": "Pub Crawl Itinerary Creator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_dd2e07dbe59b.json"
+    },
+    {
+      "id": "opl_e7ace06cca44",
+      "slug": "public-speaking-coach",
+      "title": "Public Speaking Coach",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e7ace06cca44.json"
+    },
+    {
+      "id": "opl_58d20766e1ad",
+      "slug": "pull-quote-finder",
+      "title": "Pull Quote Finder",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_58d20766e1ad.json"
+    },
+    {
+      "id": "opl_3c2c02c8eda6",
+      "slug": "pull-request-review-assistant",
+      "title": "Pull Request Review Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "gitdiff",
+          "default": null
+        },
+        {
+          "name": "jira_issue_description",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3c2c02c8eda6.json"
+    },
+    {
+      "id": "opl_61f2f6023b43",
+      "slug": "python",
+      "title": "python",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_61f2f6023b43.json"
+    },
+    {
+      "id": "opl_91aeadf434c6",
+      "slug": "python-learn-by-example",
+      "title": "Python - Learn By Example",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_91aeadf434c6.json"
+    },
+    {
+      "id": "opl_b5f1629c0586",
+      "slug": "python-coach",
+      "title": "Python Coach",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b5f1629c0586.json"
+    },
+    {
+      "id": "opl_73185b27a490",
+      "slug": "python-environment-explainer",
+      "title": "Python Environment Explainer",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_73185b27a490.json"
+    },
+    {
+      "id": "opl_b028390fd5cb",
+      "slug": "python-for-automation",
+      "title": "Python For Automation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b028390fd5cb.json"
+    },
+    {
+      "id": "opl_a3f11dad8c8c",
+      "slug": "python-helper",
+      "title": "Python Helper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a3f11dad8c8c.json"
+    },
+    {
+      "id": "opl_6e30052d809f",
+      "slug": "python-interpreter",
+      "title": "Python Interpreter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6e30052d809f.json"
+    },
+    {
+      "id": "opl_117d7f14a59d",
+      "slug": "python-package-finder",
+      "title": "Python Package Finder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_117d7f14a59d.json"
+    },
+    {
+      "id": "opl_9842a6d90eb0",
+      "slug": "python-script-generator",
+      "title": "Python Script Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9842a6d90eb0.json"
+    },
+    {
+      "id": "opl_9b4c2ad2ac23",
+      "slug": "python-tool-finder",
+      "title": "Python Tool Finder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9b4c2ad2ac23.json"
+    },
+    {
+      "id": "opl_1d35cee58a22",
+      "slug": "quantitative-factor-research-engineer",
+      "title": "Quantitative Factor Research Engineer",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1d35cee58a22.json"
+    },
+    {
+      "id": "opl_298fe192c92e",
+      "slug": "question-quality-lab-game",
+      "title": "Question Quality Lab Game",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_298fe192c92e.json"
+    },
+    {
+      "id": "opl_ed7ecf6b765e",
+      "slug": "quiet-glow",
+      "title": "Quiet Glow",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ed7ecf6b765e.json"
+    },
+    {
+      "id": "opl_788ce3359555",
+      "slug": "quizflix-app-development",
+      "title": "Quizflix App Development",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_788ce3359555.json"
+    },
+    {
+      "id": "opl_25ed4ed275e8",
+      "slug": "quizflix-mobile-app-design-for-university-students",
+      "title": "QuizFlix Mobile App Design for University Students",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_25ed4ed275e8.json"
+    },
+    {
+      "id": "opl_226f87d1647d",
+      "slug": "r-programming-interpreter",
+      "title": "R Programming Interpreter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_226f87d1647d.json"
+    },
+    {
+      "id": "opl_bb372e063446",
+      "slug": "rag-and-vector-storage-consultant",
+      "title": "RAG And Vector Storage Consultant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bb372e063446.json"
+    },
+    {
+      "id": "opl_32df1a87c7a7",
+      "slug": "rag-embedding-advisor",
+      "title": "RAG Embedding Advisor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_32df1a87c7a7.json"
+    },
+    {
+      "id": "opl_fcf931986ad2",
+      "slug": "rainy-umbrella-street-full-body",
+      "title": "Rainy Umbrella Street (full-body)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fcf931986ad2.json"
+    },
+    {
+      "id": "opl_97bbe8dccf08",
+      "slug": "ramones",
+      "title": "ramones",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_97bbe8dccf08.json"
+    },
+    {
+      "id": "opl_a83a08bdedea",
+      "slug": "random-address-generator",
+      "title": "Random Address Generator",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a83a08bdedea.json"
+    },
+    {
+      "id": "opl_091376dcdead",
+      "slug": "random-ai-assistant-ideator",
+      "title": "Random AI Assistant Ideator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_091376dcdead.json"
+    },
+    {
+      "id": "opl_8fb9e466fe46",
+      "slug": "random-email-chain",
+      "title": "Random Email Chain",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_8fb9e466fe46.json"
+    },
+    {
+      "id": "opl_3fe2801c043f",
+      "slug": "random-girl",
+      "title": "Random Girl",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3fe2801c043f.json"
+    },
+    {
+      "id": "opl_719afe1d6748",
+      "slug": "rapid-prototyper",
+      "title": "Rapid Prototyper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_719afe1d6748.json"
+    },
+    {
+      "id": "opl_1fbed991d2fd",
+      "slug": "rapper",
+      "title": "Rapper",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1fbed991d2fd.json"
+    },
+    {
+      "id": "opl_af885a5aa281",
+      "slug": "rate-this-toilet",
+      "title": "Rate This Toilet",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_af885a5aa281.json"
+    },
+    {
+      "id": "opl_d26c5dc0fb8d",
+      "slug": "readability-logic-simulator",
+      "title": "Readability Logic Simulator - 全功能翻译版",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d26c5dc0fb8d.json"
+    },
+    {
+      "id": "opl_e75aed4db22e",
+      "slug": "readme-page-generator",
+      "title": "README Page Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e75aed4db22e.json"
+    },
+    {
+      "id": "opl_0177dc22c47d",
+      "slug": "real-estate-agent",
+      "title": "Real Estate Agent",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0177dc22c47d.json"
+    },
+    {
+      "id": "opl_e0a7da6bc9ef",
+      "slug": "real-time-and-news-data",
+      "title": "Real time and news data",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e0a7da6bc9ef.json"
+    },
+    {
+      "id": "opl_636b4436d7ff",
+      "slug": "real-time-multiplayer-defense-game",
+      "title": "Real-Time Multiplayer Defense Game",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "clientTechnology",
+          "default": "JavaScript"
+        },
+        {
+          "name": "serverTechnology",
+          "default": "Node.js"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_636b4436d7ff.json"
+    },
+    {
+      "id": "opl_e52e720c5580",
+      "slug": "real-time-screen-translation-assistant",
+      "title": "Real-Time Screen Translation Assistant",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "sourceLanguage",
+          "default": "English"
+        },
+        {
+          "name": "targetLanguage",
+          "default": "Spanish"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e52e720c5580.json"
+    },
+    {
+      "id": "opl_0afedbbc65b1",
+      "slug": "realistic-amateur-vibe-candid-photography-prompt",
+      "title": "Realistic Amateur Vibe Candid Photography Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0afedbbc65b1.json"
+    },
+    {
+      "id": "opl_21721b391d32",
+      "slug": "realistic-food-image-generator",
+      "title": "Realistic Food Image Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "FOOD_NAME",
+          "default": "Fried chicken tenders with french fries"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_21721b391d32.json"
+    },
+    {
+      "id": "opl_6fa2c4d73547",
+      "slug": "realistic-mirror-selfie-scene-creation",
+      "title": "Realistic Mirror-Selfie Scene Creation",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6fa2c4d73547.json"
+    },
+    {
+      "id": "opl_c312e584d851",
+      "slug": "realistic-night-sky-portrait",
+      "title": "Realistic Night Sky Portrait",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c312e584d851.json"
+    },
+    {
+      "id": "opl_5d92abe0df1e",
+      "slug": "realistic-photo-of-a-turkish-woman-in-a-street-setting",
+      "title": "Realistic Photo of a Turkish Woman in a Street Setting",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5d92abe0df1e.json"
+    },
+    {
+      "id": "opl_df9f08228b00",
+      "slug": "realtime-ai-apps",
+      "title": "Realtime AI Apps",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_df9f08228b00.json"
+    },
+    {
+      "id": "opl_4f4c4752fe89",
+      "slug": "receipt-data-extractor",
+      "title": "Receipt Data Extractor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4f4c4752fe89.json"
+    },
+    {
+      "id": "opl_8df43b5479b4",
+      "slug": "rechargeable-battery-expert",
+      "title": "Rechargeable Battery Expert",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_8df43b5479b4.json"
+    },
+    {
+      "id": "opl_095582c166c0",
+      "slug": "recipe-finder",
+      "title": "Recipe Finder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_095582c166c0.json"
+    },
+    {
+      "id": "opl_1ce643d2c5bc",
+      "slug": "recipe-muse",
+      "title": "Recipe Muse",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1ce643d2c5bc.json"
+    },
+    {
+      "id": "opl_e6bec92474a8",
+      "slug": "recognize-sponsors",
+      "title": "Recognize Sponsors",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e6bec92474a8.json"
+    },
+    {
+      "id": "opl_82aad9634b1e",
+      "slug": "recommendation-capture-utility",
+      "title": "Recommendation Capture Utility",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_82aad9634b1e.json"
+    },
+    {
+      "id": "opl_54324a05637b",
+      "slug": "recruiter",
+      "title": "Recruiter",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_54324a05637b.json"
+    },
+    {
+      "id": "opl_3b92d416d0b9",
+      "slug": "recursive-niche-deconstruction-for-market-research",
+      "title": "Recursive Niche Deconstruction for Market Research",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "industry",
+          "default": null
+        },
+        {
+          "name": "region",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3b92d416d0b9.json"
+    },
+    {
+      "id": "opl_798a3475511d",
+      "slug": "red-dead-redemption-2-double-exposure-effect",
+      "title": "Red Dead Redemption 2 - Double Exposure Effect",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_798a3475511d.json"
+    },
+    {
+      "id": "opl_6a0f03b4e114",
+      "slug": "reduce-code-complexity",
+      "title": "Reduce Code Complexity",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6a0f03b4e114.json"
+    },
+    {
+      "id": "opl_dff4a8f7f383",
+      "slug": "refactor-for-better-readability",
+      "title": "Refactor for Better Readability",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_dff4a8f7f383.json"
+    },
+    {
+      "id": "opl_11275fa63160",
+      "slug": "reflected-self-portrait-in-an-urban-convex-traffic-mirror",
+      "title": "Reflected Self-Portrait in an Urban Convex Traffic Mirror",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_11275fa63160.json"
+    },
+    {
+      "id": "opl_b547b5c3fe3e",
+      "slug": "regex-generator",
+      "title": "RegEx Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "pattern",
+          "default": "email"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b547b5c3fe3e.json"
+    },
+    {
+      "id": "opl_c2193c8839d3",
+      "slug": "relationship-coach",
+      "title": "Relationship Coach",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c2193c8839d3.json"
+    },
+    {
+      "id": "opl_7ad20a4e65e1",
+      "slug": "relationship-summariser",
+      "title": "Relationship Summariser",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7ad20a4e65e1.json"
+    },
+    {
+      "id": "opl_de1d33a21800",
+      "slug": "remote-worker-fitness-trainer",
+      "title": "Remote Worker Fitness Trainer",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_de1d33a21800.json"
+    },
+    {
+      "id": "opl_1b35dc65296b",
+      "slug": "remotion",
+      "title": "Remotion",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1b35dc65296b.json"
+    },
+    {
+      "id": "opl_4b4ad848e15c",
+      "slug": "remove-dead-code",
+      "title": "Remove Dead Code",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4b4ad848e15c.json"
+    },
+    {
+      "id": "opl_84c0e4105ea5",
+      "slug": "removing-visual-noise-in-the-neural-network-s-response",
+      "title": "Removing visual noise in the neural network's response",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_84c0e4105ea5.json"
+    },
+    {
+      "id": "opl_bcc2951c7d8b",
+      "slug": "rephraser-with-obfuscation",
+      "title": "Rephraser with Obfuscation",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bcc2951c7d8b.json"
+    },
+    {
+      "id": "opl_a6963011296d",
+      "slug": "repo-to-blog-post",
+      "title": "Repo To Blog Post",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a6963011296d.json"
+    },
+    {
+      "id": "opl_fbd9141852b7",
+      "slug": "research-analyst",
+      "title": "Research Analyst",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fbd9141852b7.json"
+    },
+    {
+      "id": "opl_5c92d7367097",
+      "slug": "research-documents-for-a-blog-post",
+      "title": "Research Documents for a Blog Post",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5c92d7367097.json"
+    }
+  ]
+}

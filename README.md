@@ -208,6 +208,76 @@ The canonical registry is the deduplicated, machine-readable source of truth. Th
 
 ---
 
+## ⚡ Free JSON API
+
+Every prompt is available as a structured JSON endpoint — served by GitHub Pages, no backend, no API key, no rate limits.
+
+**Base URL:** `https://belyagoubiabdelilah.github.io/open-prompt-library`
+
+### Endpoints
+
+| Endpoint | Description |
+|---|---|
+| [`/v1/stats.json`](https://belyagoubiabdelilah.github.io/open-prompt-library/v1/stats.json) | Global counts, category list, all endpoint URLs |
+| [`/v1/categories/index.json`](https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/index.json) | All 19 categories with prompt counts |
+| `/v1/categories/{folder}.json` | All prompts in a category (full text) |
+| [`/v1/index.json`](https://belyagoubiabdelilah.github.io/open-prompt-library/v1/index.json) | Paginated prompt list — page 1, 100 per page |
+| `/v1/index/page-N.json` | Subsequent pages (follow `next` link) |
+| `/v1/prompts/{id}.json` | Single prompt by stable ID (full text) |
+
+### Quick start for developers
+
+```js
+// Fetch all coding prompts
+const res = await fetch(
+  'https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/coding-development.json'
+);
+const { prompts } = await res.json();
+console.log(prompts[0].prompt); // full prompt text, ready to use
+```
+
+```python
+import requests
+
+# Discover all available categories
+data = requests.get(
+    'https://belyagoubiabdelilah.github.io/open-prompt-library/v1/categories/index.json'
+).json()
+
+for cat in data['categories']:
+    print(cat['name'], cat['prompt_count'], cat['url'])
+```
+
+```bash
+# Fetch a single prompt by ID
+curl https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_8fbf9edcd378.json
+```
+
+### Prompt record shape
+
+```json
+{
+  "id":                "opl_0123456789ab",
+  "slug":              "prompt-title",
+  "title":             "Prompt title",
+  "prompt":            "Full prompt text, ready to paste into any LLM.",
+  "category":          "Coding & Development",
+  "folder":            "coding-development",
+  "variables":         [{ "name": "topic", "default": null }],
+  "provenance_status": "needs-review",
+  "lifecycle_status":  "draft",
+  "source_ids":        ["src_0123456789ab"],
+  "revision":          1,
+  "url":               "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0123456789ab.json"
+}
+```
+
+> **CORS** — GitHub Pages serves all files with open CORS headers. Calls from any browser or origin work without a proxy.
+
+> **Updates** — The API rebuilds automatically on every push to `main`. The `last_updated` field in each response tells you exactly when the snapshot was taken.
+
+---
+
 ## 🛠️ Building locally
 
 No dependencies required — only Node.js.
@@ -218,6 +288,7 @@ cd open-prompt-library
 node scripts/build-registry.js
 node scripts/validate-registry.js
 node scripts/generate-tree.js
+node scripts/build-api.js      # generates api/v1/ for local testing
 ```
 
 The build is dependency-free and idempotent. `build-registry.js` creates `data/registry.jsonl`, `data/sources.json`, `data/quarantine.jsonl`, and `data/registry-stats.json` without modifying the source records.

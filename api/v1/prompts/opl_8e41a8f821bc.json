@@ -1,0 +1,16 @@
+{
+  "id": "opl_8e41a8f821bc",
+  "slug": "profile-application-performance",
+  "title": "Profile Application Performance",
+  "prompt": "Analyze this application performance profile:\n\nProfile data: [PASTE FLAMEGRAPH / PROFILER OUTPUT / TRACE DATA]\nOr describe the performance issue: [DESCRIPTION]\n\nApplication type: [Web API / Batch job / Real-time service]\nLanguage/Runtime: [SPECIFY]\nProfiling tool used: [py-spy / async-profiler / Chrome DevTools / etc.]\n\n## Profile Analysis\n\n### Hot Path Identification\nFrom the profile, the most time is spent in:\n1. [Function/method] — [X% of total time] — in [FILE:LINE]\n2. [Function/method] — [X% of total time]\n3. [Function/method] — [X% of total time]\n\n### Bottleneck Classification\nFor each hot spot, classify as:\n- CPU-bound: computation that can be optimized or parallelized\n- I/O-bound: waiting on disk, network, or database\n- Memory-bound: excessive allocation/GC pressure\n- Lock contention: waiting for locks/mutexes\n\n### Optimization Opportunities\n\n#### High Impact (fix these first)\n1. [Optimization] — estimated improvement: [X%]\n   How: [specific change]\n\n2. [Optimization] — estimated improvement: [X%]\n   How: [specific change]\n\n#### Medium Impact\n[...]\n\n#### Low Impact (don't bother yet)\n[...]\n\n## Optimization Plan\nTotal expected improvement after fixing high-impact items: [X% reduction in latency / throughput increase]\n\n## Re-profiling\nAfter optimizations: profile again to confirm improvement and find the new bottleneck.\nMeasure: [specific metric to track improvement]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_8e41a8f821bc.json"
+}

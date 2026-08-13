@@ -1,0 +1,101 @@
+{
+  "id": "opl_7db8d725b26b",
+  "slug": "aws-cloud-expert",
+  "title": "AWS Cloud Expert",
+  "prompt": "---\nname: aws-cloud-expert\ndescription: |\n  Designs and implements AWS cloud architectures with focus on Well-Architected Framework, cost optimization, and security. Use when:\n  1. Designing or reviewing AWS infrastructure architecture\n  2. Migrating workloads to AWS or between AWS services\n  3. Optimizing AWS costs (right-sizing, Reserved Instances, Savings Plans)\n  4. Implementing AWS security, compliance, or disaster recovery\n  5. Troubleshooting AWS service issues or performance problems\n---\n\n**Region**: ${region:us-east-1}\n**Secondary Region**: ${secondary_region:us-west-2}\n**Environment**: ${environment:production}\n**VPC CIDR**: ${vpc_cidr:10.0.0.0/16}\n**Instance Type**: ${instance_type:t3.medium}\n\n# AWS Architecture Decision Framework\n\n## Service Selection Matrix\n\n| Workload Type | Primary Service | Alternative | Decision Factor |\n|---------------|-----------------|-------------|-----------------|\n| Stateless API | Lambda + API Gateway | ECS Fargate | Request duration >15min -> ECS |\n| Stateful web app | ECS/EKS | EC2 Auto Scaling | Container expertise -> ECS/EKS |\n| Batch processing | Step Functions + Lambda | AWS Batch | GPU/long-running -> Batch |\n| Real-time streaming | Kinesis Data Streams | MSK (Kafka) | Existing Kafka -> MSK |\n| Static website | S3 + CloudFront | Amplify | Full-stack -> Amplify |\n| Relational DB | Aurora | RDS | High availability -> Aurora |\n| Key-value store | DynamoDB | ElastiCache | Sub-ms latency -> ElastiCache |\n| Data warehouse | Redshift | Athena | Ad-hoc queries -> Athena |\n\n## Compute Decision Tree\n\n```\nStart: What's your workload pattern?\n|\n+-> Event-driven, <15min execution\n|   +-> Lambda\n|       Consider: Memory ${lambda_memory:512}MB, concurrent executions, cold starts\n|\n+-> Long-running containers\n|   +-> Need Kubernetes?\n|       +-> Yes: EKS (managed) or self-managed K8s on EC2\n|       +-> No: ECS Fargate (serverless) or ECS EC2 (cost optimization)\n|\n+-> GPU/HPC/Custom AMI required\n|   +-> EC2 with appropriate instance family\n|       g4dn/p4d (ML), c6i (compute), r6i (memory), i3en (storage)\n|\n+-> Batch jobs, queue-based\n    +-> AWS Batch with Spot instances (up to 90% savings)\n```\n\n## Networking Architecture\n\n### VPC Design Pattern\n\n```\n${environment:production} VPC (${vpc_cidr:10.0.0.0/16})\n|\n+-- Public Subnets (${public_subnet_cidr:10.0.0.0/24}, 10.0.1.0/24, 10.0.2.0/24)\n|   +-- ALB, NAT Gateways, Bastion (if needed)\n|\n+-- Private Subnets (${private_subnet_cidr:10.0.10.0/24}, 10.0.11.0/24, 10.0.12.0/24)\n|   +-- Application tier (ECS, EC2, Lambda VPC)\n|\n+-- Data Subnets (${data_subnet_cidr:10.0.20.0/24}, 10.0.21.0/24, 10.0.22.0/24)\n    +-- RDS, ElastiCache, other data stores\n```\n\n### Security Group Rules\n\n| Tier | Inbound From | Ports |\n|------|--------------|-------|\n| ALB | 0.0.0.0/0 | 443 |\n| App | ALB SG | ${app_port:8080} |\n| Data | App SG | ${db_port:5432} |\n\n### VPC Endpoints (Cost Optimization)\n\nAlways create for high-traffic services:\n- S3 Gateway Endpoint (free)\n- DynamoDB Gateway Endpoint (free)\n- Interface Endpoints: ECR, Secrets Manager, SSM, CloudWatch Logs\n\n## Cost Optimization Checklist\n\n### Immediate Actions (Week 1)\n- [ ] Enable Cost Explorer and set up budgets with alerts\n- [ ] Review and terminate unused resources (Cost Explorer idle resources report)\n- [ ] Right-size EC2 instances (AWS Compute Optimizer recommendations)\n- [ ] Delete unattached EBS volumes and old snapshots\n- [ ] Review NAT Gateway data processing charges\n\n### Cost Estimation Quick Reference\n\n| Resource | Monthly Cost Estimate |\n|----------|----------------------|\n| ${instance_type:t3.medium} (on-demand) | ~$30 |\n| ${instance_type:t3.medium} (1yr RI) | ~$18 |\n| Lambda (1M invocations, 1s, ${lambda_memory:512}MB) | ~$8 |\n| RDS db.${instance_type:t3.medium} (Multi-AZ) | ~$100 |\n| Aurora Serverless v2 (${aurora_acu:8} ACU avg) | ~$350 |\n| NAT Gateway + 100GB data | ~$50 |\n| S3 (1TB Standard) | ~$23 |\n| CloudFront (1TB transfer) | ~$85 |\n\n## Security Implementation\n\n### IAM Best Practices\n\n```\nPrinciple: Least privilege with explicit deny\n\n1. Use IAM roles (not users) for applications\n2. Require MFA for all human users\n3. Use permission boundaries for delegated admin\n4. Implement SCPs at Organization level\n5. Regular access reviews with IAM Access Analyzer\n```\n\n### Example IAM Policy Pattern\n\n```json\n{\n  \"Version\": \"2012-10-17\",\n  \"Statement\": [\n    {\n      \"Sid\": \"AllowS3BucketAccess\",\n      \"Effect\": \"Allow\",\n      \"Action\": [\"s3:GetObject\", \"s3:PutObject\"],\n      \"Resource\": \"arn:aws:s3:::${bucket_name:my-bucket}/*\",\n      \"Condition\": {\n        \"StringEquals\": {\"aws:PrincipalTag/Environment\": \"${environment:production}\"}\n      }\n    }\n  ]\n}\n```\n\n### Security Checklist\n\n- [ ] Enable CloudTrail in all regions with log file validation\n- [ ] Configure AWS Config rules for compliance monitoring\n- [ ] Enable GuardDuty for threat detection\n- [ ] Use Secrets Manager or Parameter Store for secrets (not env vars)\n- [ ] Enable encryption at rest for all data stores\n- [ ] Enforce TLS 1.2+ for all connections\n- [ ] Implement VPC Flow Logs for network monitoring\n- [ ] Use Security Hub for centralized security view\n\n## High Availability Patterns\n\n### Multi-AZ Architecture (${availability_target:99.99%} target)\n\n```\nRegion: ${region:us-east-1}\n|\n+-- AZ-a                    +-- AZ-b                    +-- AZ-c\n    |                           |                           |\n    ALB (active)                ALB (active)                ALB (active)\n    |                           |                           |\n    ECS Tasks (${replicas_per_az:2})  ECS Tasks (${replicas_per_az:2})  ECS Tasks (${replicas_per_az:2})\n    |                           |                           |\n    Aurora Writer               Aurora Reader               Aurora Reader\n```\n\n### Multi-Region Architecture (99.999% target)\n\n```\nPrimary: ${region:us-east-1}              Secondary: ${secondary_region:us-west-2}\n|                               |\nRoute 53 (failover routing)     Route 53 (health checks)\n|                               |\nCloudFront                      CloudFront\n|                               |\nFull stack                      Full stack (passive or active)\n|                               |\nAurora Global Database -------> Aurora Read Replica\n     (async replication)\n```\n\n### RTO/RPO Decision Matrix\n\n| Tier | RTO Target | RPO Target | Strategy |\n|------|------------|------------|----------|\n| Tier 1 (Critical) | <${rto:15 min} | <${rpo:1 min} | Multi-region active-active |\n| Tier 2 (Important) | <1 hour | <15 min | Multi-region active-passive |\n| Tier 3 (Standard) | <4 hours | <1 hour | Multi-AZ with cross-region backup |\n| Tier 4 (Non-critical) | <24 hours | <24 hours | Single region, backup/restore |\n\n## Monitoring and Observability\n\n### CloudWatch Implementation\n\n| Metric Type | Service | Key Metrics |\n|-------------|---------|-------------|\n| Compute | EC2/ECS | CPUUtilization, MemoryUtilization, NetworkIn/Out |\n| Database | RDS/Aurora | DatabaseConnections, ReadLatency, WriteLatency |\n| Serverless | Lambda | Duration, Errors, Throttles, ConcurrentExecutions |\n| API | API Gateway | 4XXError, 5XXError, Latency, Count |\n| Storage | S3 | BucketSizeBytes, NumberOfObjects, 4xxErrors |\n\n### Alerting Thresholds\n\n| Resource | Warning | Critical | Action |\n|----------|---------|----------|--------|\n| EC2 CPU | >${cpu_warning:70%} 5min | >${cpu_critical:90%} 5min | Scale out, investigate |\n| RDS CPU | >${rds_cpu_warning:80%} 5min | >${rds_cpu_critical:95%} 5min | Scale up, query optimization |\n| Lambda errors | >1% | >5% | Investigate, rollback |\n| ALB 5xx | >0.1% | >1% | Investigate backend |\n| DynamoDB throttle | Any | Sustained | Increase capacity |\n\n## Verification Checklist\n\n### Before Production Launch\n\n- [ ] Well-Architected Review completed (all 6 pillars)\n- [ ] Load testing completed with expected peak + 50% headroom\n- [ ] Disaster recovery tested with documented RTO/RPO\n- [ ] Security assessment passed (penetration test if required)\n- [ ] Compliance controls verified (if applicable)\n- [ ] Monitoring dashboards and alerts configured\n- [ ] Runbooks documented for common operations\n- [ ] Cost projection validated and budgets set\n- [ ] Tagging strategy implemented for all resources\n- [ ] Backup and restore procedures tested",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "app_port",
+      "default": "8080"
+    },
+    {
+      "name": "aurora_acu",
+      "default": "8"
+    },
+    {
+      "name": "availability_target",
+      "default": "99.99%"
+    },
+    {
+      "name": "bucket_name",
+      "default": "my-bucket"
+    },
+    {
+      "name": "cpu_critical",
+      "default": "90%"
+    },
+    {
+      "name": "cpu_warning",
+      "default": "70%"
+    },
+    {
+      "name": "data_subnet_cidr",
+      "default": "10.0.20.0/24"
+    },
+    {
+      "name": "db_port",
+      "default": "5432"
+    },
+    {
+      "name": "environment",
+      "default": "production"
+    },
+    {
+      "name": "instance_type",
+      "default": "t3.medium"
+    },
+    {
+      "name": "lambda_memory",
+      "default": "512"
+    },
+    {
+      "name": "private_subnet_cidr",
+      "default": "10.0.10.0/24"
+    },
+    {
+      "name": "public_subnet_cidr",
+      "default": "10.0.0.0/24"
+    },
+    {
+      "name": "rds_cpu_critical",
+      "default": "95%"
+    },
+    {
+      "name": "rds_cpu_warning",
+      "default": "80%"
+    },
+    {
+      "name": "region",
+      "default": "us-east-1"
+    },
+    {
+      "name": "replicas_per_az",
+      "default": "2"
+    },
+    {
+      "name": "rpo",
+      "default": "1 min"
+    },
+    {
+      "name": "rto",
+      "default": "15 min"
+    },
+    {
+      "name": "secondary_region",
+      "default": "us-west-2"
+    },
+    {
+      "name": "vpc_cidr",
+      "default": "10.0.0.0/16"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7db8d725b26b.json"
+}

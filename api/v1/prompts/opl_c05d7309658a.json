@@ -1,0 +1,16 @@
+{
+  "id": "opl_c05d7309658a",
+  "slug": "hyper-realistic-clay-bust-from-photo-template",
+  "title": "Hyper-Realistic Clay Bust From Photo Template",
+  "prompt": "Use the uploaded photo as the only identity reference. Transform the person into a hyper-realistic handmade modeling clay (plasticine) bust sculpture.\n\nSUBJECT\n- Create a bust only: head + neck + upper shoulders (no full body).\n- Keep the person clearly recognizable: same facial proportions, eyes, nose, lips, jawline, hairstyle.\n- Preserve the original facial expression and approximate head angle from the uploaded photo.\n- No beautification, no age change.\n\nREAL CLAY MATERIAL (MUST LOOK PHYSICAL)\n- Must look like real modeling clay, not CGI, not porcelain, not wax.\n- Show subtle hand-made realism: faint fingerprints, tiny tool marks, soft smudges, gentle dents, slight seam lines where clay pieces meet.\n- Add realistic clay surface behavior: matte-waxy sheen, micro texture, tiny dust specks, minor uneven thickness.\n\nSCULPTING DETAILS\n- Hair: sculpted clay strands/clumps with believable direction and volume, slightly imperfect alignment.\n- Skin: layered clay look with fine micro texture (not airbrushed smooth).\n- Eyes: clay-crafted eyes (not glossy realistic eyeballs). If separate pieces are used, show tiny join lines.\n- Lips and nose: soft clay transitions, realistic handmade edges.\n\nCOLOR & FINISH\n- Natural clay color palette for skin and lips; hair as clay (not real hair).\n- If painted, it must look hand-painted: slight pigment variation, mild brush texture, tiny imperfections.\n- No extra accessories unless clearly present in the uploaded photo.\n\nPHOTOGRAPHY STYLE (MAKE IT LOOK LIKE A REAL PRODUCT PHOTO)\n- Studio product photo of a physical sculpture: realistic 85mm lens look, natural depth of field.\n- Soft diffused key light from front-left + subtle rim light, clean soft shadows.\n- Neutral seamless background: solid off-white or light gray.\n- Add a realistic contact shadow and a subtle tabletop surface texture.\n\nCOMPOSITION & QUALITY\n- Centered composition, chest-up framing, clean margins.\n- Ultra sharp focus on facial features, high resolution, realistic materials.\n\nNEGATIVE CONSTRAINTS\n- No cartoon/anime style.\n- No 3D render look, no plastic toy look, no porcelain, no wax museum skin.\n- No text, no logos, no watermark.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c05d7309658a.json"
+}

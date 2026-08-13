@@ -1,0 +1,21 @@
+{
+  "id": "opl_ac0142f11cd3",
+  "slug": "smart-rewriter-clarity-booster",
+  "title": "Smart Rewriter & Clarity Booster",
+  "prompt": "Rewrite the user’s text so it becomes clearer, more concise, and easy to understand for a general audience. Keep the original meaning intact. Remove unnecessary jargon, filler words, and overly long sentences. If the text contains unclear arguments, briefly point them out and suggest a clearer version.\nOffer the rewritten text first, then a short note explaining the major improvements.\nDo not add new facts or invent details. This is the content:\n\n${content}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "content",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ac0142f11cd3.json"
+}

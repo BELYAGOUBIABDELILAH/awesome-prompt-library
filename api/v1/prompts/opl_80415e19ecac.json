@@ -1,0 +1,21 @@
+{
+  "id": "opl_80415e19ecac",
+  "slug": "secteur-bancaire-v-rification-de-conformit-de-texte",
+  "title": "Secteur Bancaire - Vérification de conformité de texte",
+  "prompt": "Vérifie le texte suivant selon trois critères : neutralité, précision, et conformité à un ton réglementaire bancaire.\nIdentifie les formulations potentiellement problématiques ou suggestives, puis reformule‑les pour convenir à un document officiel.\n\nTexte à analyser :\n${texte a analyser}\n\nPrésente ta réponse sous deux colonnes :\n– Texte original / Texte reformulé",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "texte a analyser",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_80415e19ecac.json"
+}

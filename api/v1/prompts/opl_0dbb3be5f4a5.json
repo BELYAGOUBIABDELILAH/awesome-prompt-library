@@ -1,0 +1,16 @@
+{
+  "id": "opl_0dbb3be5f4a5",
+  "slug": "convert-documentation-to-code-comments",
+  "title": "Convert Documentation to Code Comments",
+  "prompt": "Convert external documentation into inline code comments for this code:\n\nExternal documentation:\n[PASTE DOCS — README section, wiki page, spec, API docs]\n\nCode to annotate:\n[PASTE CODE]\n\n## Comment Strategy\nApply the right type of comment at the right level:\n\n### File-Level Comment\nAt the top of the file: purpose, main responsibilities, key dependencies.\n\n### Function/Method Comments (JSDoc / docstring format)\nFor each public function:\n\\",
+  "category": "Documentation",
+  "folder": "documentation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0dbb3be5f4a5.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_e76220148c42",
+  "slug": "photo-to-isometric-reality-slice-generator",
+  "title": "Photo-to-Isometric: Reality Slice Generator",
+  "prompt": "{\n  \"prompt\": \"Create an ultra realistic isometric diorama based strictly on the uploaded image. Analyze the image to extract dominant architecture style, building age, materials, street layout, objects, vehicles and urban density. Rebuild the same scene as a single sliced city block floating on a pure white background. Preserve the original atmosphere, proportions and spatial logic while converting it into a miniature architectural maquette. Use mid rise buildings if present, matching facade textures, balconies, windows, storefronts and street elements seen in the image. Keep only elements visible in the source image. Remove anything not present. Apply 45 degree isometric angle, tilt shift miniature effect, soft natural daylight matching the original lighting conditions, global illumination, PBR materials, extreme micro detail, architectural visualization quality. Clean studio lighting. No sky, no horizon.\",\n  \"negative_prompt\": \"invented objects, extra buildings, fantasy elements, cartoon, anime, illustration, low poly, flat shading, fisheye, distortion, surreal details, inconsistent scale, random props\",\n  \"aspect_ratio\": \"1:1\",\n  \"style\": \"photorealistic\",\n  \"quality\": \"high\"\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e76220148c42.json"
+}

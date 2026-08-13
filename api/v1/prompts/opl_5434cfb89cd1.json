@@ -1,0 +1,16 @@
+{
+  "id": "opl_5434cfb89cd1",
+  "slug": "lego-minifigure-character-transformation",
+  "title": "LEGO Minifigure Character Transformation",
+  "prompt": "Transform the subject in the reference image into a LEGO minifigure–style character.\n\nPreserve the distinctive facial features, hairstyle, clothing colors, and accessories so the subject remains clearly recognizable.\n\nThe character should be rendered as a classic LEGO minifigure with:\n- A cylindrical yellow (or skin-tone LEGO) head\n- Simple LEGO facial expression (friendly smile, dot eyes or classic LEGO eyes)\n- Blocky hands and arms with LEGO proportions\n- Short, rigid LEGO legs\n\nClothing and accessories should be translated into LEGO-printed torso designs (simple graphics, clean lines, no fabric texture).\n\nUse bright but balanced LEGO colors, smooth plastic material, subtle reflections, and studio lighting.\n\nThe final image should look like an official LEGO collectible minifigure, charming, playful, and display-ready, photographed on a clean background or LEGO diorama setting.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5434cfb89cd1.json"
+}

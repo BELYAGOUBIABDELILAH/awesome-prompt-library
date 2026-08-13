@@ -1,0 +1,16 @@
+{
+  "id": "opl_bc43de31ccab",
+  "slug": "analyze-api-contracts-and-integrations",
+  "title": "Analyze API Contracts and Integrations",
+  "prompt": "Analyze and document the API contracts and integrations in this codebase:\n\n[PASTE CODE or specify scope]\n\n## Internal API Contracts\nFor each internal API/service interface:\n- Endpoint / function signature\n- Input schema (types, required/optional, validation rules)\n- Output schema (success and error shapes)\n- Side effects (what state does it change?)\n- Consumers (who calls this?)\n\n## External API Integrations\nFor each third-party API called:\n- Service name and endpoint\n- Authentication method\n- Request format and required fields\n- Response handling (success paths and error codes)\n- Rate limits and retry strategy\n- Failure mode: what happens if this API is down?\n\n## Integration Risk Map\nIdentify the most fragile integrations:\n- Which have no error handling?\n- Which lack retry logic?\n- Which are called synchronously in user-facing flows?\n- Which have the weakest contracts (no schema validation)?\n\n## Improvement Recommendations\nList 3–5 specific improvements to make integrations more resilient.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bc43de31ccab.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_c88e55c1a24b",
+  "slug": "fancy-title-generator",
+  "title": "Fancy Title Generator",
+  "prompt": "I want you to act as a fancy title generator. I will type keywords via comma and you will reply with fancy titles. my first keywords are api,test,automation",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c88e55c1a24b.json"
+}

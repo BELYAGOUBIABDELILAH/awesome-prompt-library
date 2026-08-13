@@ -1,0 +1,16 @@
+{
+  "id": "opl_bde3892eb67d",
+  "slug": "the-gravedigger-s-vigil",
+  "title": "The Gravedigger's Vigil",
+  "prompt": "{\n  \"title\": \"The Gravedigger's Vigil\",\n  \"description\": \"A haunting portrait of a lone Victorian figure standing watch over a misty, decrepit cemetery at midnight.\",\n  \"prompt\": \"You will perform an image edit using the person from the provided photo as the main subject. Preserve his core likeness. Transform Subject 1 (male) into a solemn Victorian gravedigger standing amidst a sprawling, fog-choked necropolis. He holds a rusted lantern that casts long, uncanny shadows against the moss-covered mausoleums behind him. The composition adheres to a cinematic 1:1 aspect ratio, framing him tightly against the decaying iron gates.\",\n  \"details\": {\n    \"year\": \"1888\",\n    \"genre\": \"Gothic Horror\",\n    \"location\": \"An overgrown, crumbling cemetery gate with twisted iron bars and weeping angel statues.\",\n    \"lighting\": [\n      \"Pale, cold moonlight cutting through fog\",\n      \"Flickering, warm amber candlelight from a lantern\",\n      \"Deep, abyssal shadows\"\n    ],\n    \"camera_angle\": \"Eye-level medium shot, creating a direct and confronting connection with the viewer.\",\n    \"emotion\": [\n      \"Foreboding\",\n      \"Solitary\",\n      \"Melancholic\"\n    ],\n    \"color_palette\": [\n      \"Obsidian black\",\n      \"slate gray\",\n      \"pale moonlight blue\",\n      \"sepia tone\",\n      \"muted moss green\"\n    ],\n    \"atmosphere\": [\n      \"Eerie\",\n      \"Cold\",\n      \"Silent\",\n      \"Supernatural\",\n      \"Decaying\"\n    ],\n    \"environmental_elements\": \"Swirling ground mist that obscures the feet, twisted dead oak trees silhouetted against the moon, a lone crow perched on a headstone.\",\n    \"subject1\": {\n      \"costume\": \"A tattered, ankle-length black velvet frock coat, a weathered top hat, and worn leather gloves.\",\n      \"subject_expression\": \"A somber, pale visage with a piercing, weary gaze staring into the darkness.\",\n      \"subject_action\": \"Raising a lantern high with the right hand while gripping the handle of a spade with the left.\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"sunlight\",\n        \"blooming flowers\",\n        \"blue sky\",\n        \"modern infrastructure\",\n        \"smiling\",\n        \"lens flare\"\n      ],\n      \"exclude_styles\": [\n        \"cartoon\",\n        \"cyberpunk\",\n        \"high fantasy\",\n        \"anime\",\n        \"watercolor\",\n        \"bright pop art\"\n      ],\n      \"exclude_colors\": [\n        \"neon\",\n        \"pastel pink\",\n        \"vibrant orange\",\n        \"saturated red\"\n      ],\n      \"exclude_objects\": [\n        \"cars\",\n        \"smartphones\",\n        \"plastic\",\n        \"streetlights\"\n      ]\n    }\n  }\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bde3892eb67d.json"
+}

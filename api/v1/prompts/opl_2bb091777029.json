@@ -1,0 +1,16 @@
+{
+  "id": "opl_2bb091777029",
+  "slug": "clean-clinic-portrait",
+  "title": "Clean Clinic Portrait",
+  "prompt": "Use the uploaded photo of the person as the main subject. Keep the face, hair and identity identical.\n\nPlace the person sitting slightly reclined in a modern dentist chair, in a clean, bright dental clinic with soft white lighting. Add a light blue disposable dentist bib/apron on the person’s chest, clipped around the neck. Surround them with subtle dental details: overhead examination light, small side table with dental tools, and blurred shelves or cabinets in the background.\n\nKeep the original camera angle and approximate framing from the uploaded photo. Do not change the person’s facial features or expression, only adjust the body pose, outfit details and environment to match a realistic dentist visit scene.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2bb091777029.json"
+}

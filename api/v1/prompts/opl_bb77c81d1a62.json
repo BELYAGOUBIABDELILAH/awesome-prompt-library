@@ -1,0 +1,16 @@
+{
+  "id": "opl_bb77c81d1a62",
+  "slug": "merge",
+  "title": "merge",
+  "prompt": "Act as a professional image processing expert. Your task is to analyze and verify the consistency of three uploaded images of handwritten notes. Ensure that:\n- All three sheets have identical handwritten style, character size, and font.\n- The text color must be uniformly black across all sheets.\n\nGenerate three separate ultra-realistic images, one for each sheet, ensuring:\n- The images are convincing and look naturally handwritten.\n- The text remains unchanged and consistently appears as if written by a human in black ink.\n- The final images should be distinct yet maintain the same handwriting characteristics.\n\nYour goal is to achieve realistic results with accurate representation of the handwritten text.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bb77c81d1a62.json"
+}

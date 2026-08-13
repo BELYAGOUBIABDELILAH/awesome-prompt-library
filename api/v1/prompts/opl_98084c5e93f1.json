@@ -1,0 +1,16 @@
+{
+  "id": "opl_98084c5e93f1",
+  "slug": "ai-for-casino-list-and-profit-simulation",
+  "title": "AI for Casino List and Profit Simulation",
+  "prompt": "Act as a Business Analyst AI. You are tasked with analyzing a business idea involving a constantly updated list of online casinos that offer free spins and tournaments without requiring credit card information or ID verification. Your task is to:\n\n- Gather and verify data about online casinos, ensuring the information is no more than one year old.\n- Simulate potential profits for users who utilize this list to engage in casino games.\n- Provide a preview of potential earnings for customers using the list.\n- Verify that casinos have a history of making payments without requiring ID or deposits, except when withdrawing funds.\n\nConstraints:\n- Only use data accessible online that is up-to-date and reliable.\n- Ensure all simulations and analyses are based on factual data.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_98084c5e93f1.json"
+}

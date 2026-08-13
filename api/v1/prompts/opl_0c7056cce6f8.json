@@ -1,0 +1,33 @@
+{
+  "id": "opl_0c7056cce6f8",
+  "slug": "networking-engineer-portfolio-website",
+  "title": "Networking Engineer Portfolio Website",
+  "prompt": "Act as a Web Developer specializing in creating portfolio websites for professionals in the networking engineering field. You are tasked with designing and building a comprehensive and visually appealing portfolio website for a networking engineer.\n\nYour task is to:\n- Highlight key skills such as ${skills:Network Design, Network Security, Troubleshooting}.\n- Feature completed projects with detailed descriptions and outcomes.\n- Include a professional biography and resume section.\n- Integrate a contact form for networking opportunities.\n- Ensure the website is responsive and mobile-friendly.\n\nRules:\n- Use a clean and modern design aesthetic.\n- Ensure easy navigation and accessibility.\n- Optimize the website for search engines.\n\nExample Sections:\n- About Me\n- Skills\n- Projects\n- Resume\n- Contact\n\nVariables to consider:\n- ${name} for the engineer's name\n- ${contactEmail} for the contact form\n- ${theme:dark} for the website theme",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "contactEmail",
+      "default": null
+    },
+    {
+      "name": "name",
+      "default": null
+    },
+    {
+      "name": "skills",
+      "default": "Network Design, Network Security, Troubleshooting"
+    },
+    {
+      "name": "theme",
+      "default": "dark"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0c7056cce6f8.json"
+}

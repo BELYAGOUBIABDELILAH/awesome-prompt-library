@@ -1,0 +1,29 @@
+{
+  "id": "opl_4d0a439fcd79",
+  "slug": "linkedin-recommendation-request-message-prompt",
+  "title": "LinkedIn: Recommendation request message prompt",
+  "prompt": "Help me write a message asking my former supervisor and mentor to recommend me for the role of ${job_title} in the ${sector} in which we both worked. Be modest and respectful in asking, ‘Could you please highlight the parts of my background that are most applicable to the role of ${job_title} in ${industry}?",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "industry",
+      "default": null
+    },
+    {
+      "name": "job_title",
+      "default": null
+    },
+    {
+      "name": "sector",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4d0a439fcd79.json"
+}

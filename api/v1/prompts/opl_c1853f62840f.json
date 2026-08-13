@@ -1,0 +1,16 @@
+{
+  "id": "opl_c1853f62840f",
+  "slug": "top-failing-jobs",
+  "title": "Top Failing Jobs",
+  "prompt": "Analyze CI/CD job failure data for: [PROJECT/GROUP]\nTime range: Last [N] days\n\nIdentify the top 10 most frequently failing jobs.\n\nFor each job, provide:\n| Job Name | Stage | Failure Count | Failure Rate % | Avg Duration | Most Common Error |\n\n## Pattern Analysis\n- Are failures consistent or sporadic?\n- Do failures correlate with specific branches, times, or triggering events?\n- Are any failures clearly flaky tests vs. real failures?\n\n## Root Cause Categories\nGroup failures by likely cause:\n- Infrastructure / environment issues\n- Flaky tests\n- Code errors introduced by MRs\n- External dependency failures\n- Timeout issues\n\n## Fix Priority List\nRank the top 5 jobs to fix first, with a one-line suggested fix for each.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c1853f62840f.json"
+}

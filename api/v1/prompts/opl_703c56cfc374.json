@@ -1,0 +1,16 @@
+{
+  "id": "opl_703c56cfc374",
+  "slug": "review-code-for-security-issues",
+  "title": "Review Code for Security Issues",
+  "prompt": "Conduct a thorough security review of this code:\n\n[PASTE CODE]\n\nLanguage/Framework: [SPECIFY]\n\n## OWASP Top 10 Check\nReview for each category:\n\n1. Broken Access Control — are authorization checks comprehensive?\n2. Cryptographic Failures — is sensitive data properly protected?\n3. Injection — is all input sanitized before use?\n4. Insecure Design — are security requirements built in from the start?\n5. Security Misconfiguration — are defaults secure?\n6. Vulnerable Components — are dependencies up to date and scanned?\n7. Authentication Failures — is auth implemented correctly?\n8. Software and Data Integrity Failures — are serialization/deserialization safe?\n9. Security Logging Failures — are security events logged without leaking data?\n10. SSRF — can an attacker force the server to make unintended requests?\n\n## Findings Report\nFor each vulnerability found:\n- OWASP category\n- Severity: Critical / High / Medium / Low\n- Affected line(s)\n- Attack scenario (how could this be exploited?)\n- Recommended fix with code example",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_703c56cfc374.json"
+}

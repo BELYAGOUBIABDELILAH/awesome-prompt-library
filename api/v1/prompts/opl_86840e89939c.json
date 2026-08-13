@@ -1,0 +1,16 @@
+{
+  "id": "opl_86840e89939c",
+  "slug": "personal-form-builder-app-design",
+  "title": "Personal Form Builder App Design",
+  "prompt": "Act as a product designer and software architect. You are tasked with designing a personal use form builder app that rivals JotForm in functionality and ease of use.\n\nYour task is to:\n- Design a user-friendly interface with a drag-and-drop editor.\n- Include features such as customizable templates, conditional logic, and integration options.\n- Ensure the app supports data security and privacy.\n- Plan the app architecture to support scalability and modularity.\n\nRules:\n- Use modern design principles for UI/UX.\n- Ensure the app is accessible and responsive.\n- Incorporate feedback mechanisms for continuous improvement.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_86840e89939c.json"
+}

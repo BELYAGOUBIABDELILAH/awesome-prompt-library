@@ -1,0 +1,16 @@
+{
+  "id": "opl_52989deef86e",
+  "slug": "evaluate-technology-options",
+  "title": "Evaluate Technology Options",
+  "prompt": "Compare these technology options for our use case:\n\nDecision to make: [WHAT WE'RE CHOOSING — e.g., message queue, ORM, frontend framework]\nOur context:\n- Team experience: [languages/tools team knows]\n- Scale: [current and projected]\n- Timeline: [how fast we need to ship]\n- Budget: [OSS only / cloud cost constraints]\n- Operational maturity: [who will run this in production]\n\nOptions to evaluate:\n1. [OPTION A]\n2. [OPTION B]\n3. [OPTION C]\n\n## Comparison Matrix\n| Criterion | Option A | Option B | Option C | Weight |\n|---|---|---|---|---|\n| Learning curve | | | | 15% |\n| Performance at our scale | | | | 20% |\n| Community/ecosystem | | | | 10% |\n| Operational complexity | | | | 20% |\n| Long-term support | | | | 15% |\n| Cost | | | | 10% |\n| Fit with our stack | | | | 10% |\n| **Weighted Score** | | | | 100% |\n\n## Deep Dive: Key Differences\nThe most important differences that will affect our daily work:\n[Focus on practical differences, not spec sheet comparisons]\n\n## Recommendation\n**Choose [OPTION X]** because [2–3 specific reasons tied to our context].\n\nThe main tradeoff we're making: we're accepting [downside] in exchange for [benefit].\n\nDon't choose this if: [specific scenario where this recommendation is wrong]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_52989deef86e.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_12972b371656",
+  "slug": "create-troubleshooting-guide",
+  "title": "Create Troubleshooting Guide",
+  "prompt": "Create a troubleshooting guide for:\n\nIssue area: [DESCRIBE — e.g., login failures, sync errors, payment issues]\nAudience: [customers / support agents / developers]\nSupport tier: [L1 self-service / L2 agent / L3 engineering]\n\n## Troubleshooting Guide: [ISSUE AREA]\n\n### When to Use This Guide\nUse this guide when: [symptoms that indicate this issue]\nDo NOT use this guide if: [symptoms that indicate a different issue]\n\n### Quick Diagnosis (2 minutes)\nAnswer these questions first:\n1. [Question that quickly narrows down the cause]\n2. [Question 2]\n→ If [answer]: go to Section A\n→ If [answer]: go to Section B\n\n---\n\n### Section A: [Common Cause 1]\n**Symptoms**: [what the user/system reports]\n\n**Diagnostic steps**:\n1. Check [WHAT]: [how to check it]\n2. Look for [WHAT] in [WHERE]\n\n**Fix**:\n[Step-by-step resolution]\n\n**Verify**: After applying the fix, [how to confirm it worked]\n\n---\n\n### Section B: [Common Cause 2]\n[Same format]\n\n---\n\n### Escalation Criteria\nEscalate to [L2/L3/Engineering] if:\n- [ ] [Condition 1]\n- [ ] [Condition 2]\n- [ ] Issue persists after following all sections\n\n**When escalating, include**:\n- [Info 1]\n- [Info 2]\n- [Logs or screenshots needed]",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_12972b371656.json"
+}

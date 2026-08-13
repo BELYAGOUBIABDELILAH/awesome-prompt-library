@@ -1,0 +1,16 @@
+{
+  "id": "opl_87cb0a7d6411",
+  "slug": "debug-race-conditions",
+  "title": "Debug Race Conditions",
+  "prompt": "Help me identify and fix race conditions in this code:\n\n[PASTE CODE]\n\nSymptoms: [describe the intermittent behavior — what happens and how often]\nConcurrency model: [threads / async/await / event loop / goroutines]\n\n## Race Condition Analysis\n\n### Shared Mutable State\nIdentify all state that is:\n- Written by multiple concurrent operations\n- Read and then written (read-modify-write patterns)\n- Accessed without synchronization\n\n### TOCTOU Patterns (Time-of-Check-Time-of-Use)\nFind places where:\n1. We check a condition (is file present? is user logged in?)\n2. Something could change between the check and the use\n3. We then act on the (now potentially stale) result\n\n### Async Ordering Assumptions\nFind places where the code assumes operations complete in a specific order but doesn't enforce it.\n\n### Likely Race Condition\nBased on the code: [specific scenario]\nWhen thread/coroutine A does [X] at the same time thread/coroutine B does [Y], then [Z happens incorrectly].\n\n## Fix Options\nOption 1 (simplest): [mutex/lock/synchronization approach]\nOption 2 (concurrent-safe): [immutable data / message passing approach]\nOption 3 (architectural): [eliminate shared state entirely]\n\n## Reproduction Test\nWrite a test that reliably triggers the race condition.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_87cb0a7d6411.json"
+}

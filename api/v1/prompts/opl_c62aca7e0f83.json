@@ -1,0 +1,16 @@
+{
+  "id": "opl_c62aca7e0f83",
+  "slug": "identify-high-churn-risk-customers",
+  "title": "Identify High Churn Risk Customers",
+  "prompt": "Identify accounts with renewals due in <30 days and draft a polite, professional email informing them of the upcoming renewal.\nFor each at-risk account, include in the email:\n- Renewal date and ARR\n- Value delivered (key metrics from their usage)\n- Any open support issues to acknowledge\n- A soft escalation path if they have concerns\n- CTA: Schedule a renewal review call\nTone: Proactive and helpful. Not pushy.",
+  "category": "Sales & Business",
+  "folder": "sales-business",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c62aca7e0f83.json"
+}

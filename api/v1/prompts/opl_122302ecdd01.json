@@ -1,0 +1,16 @@
+{
+  "id": "opl_122302ecdd01",
+  "slug": "generate-issue-templates",
+  "title": "Generate Issue Templates",
+  "prompt": "Create GitLab issue templates for our project.\n\nProject type: [WEB APP / API / LIBRARY / DATA PIPELINE]\nTeam size: [SMALL <5 / MEDIUM 5-15 / LARGE 15+]\n\n## Template 1: Bug Report\nFile: .gitlab/issue_templates/bug.md\n\n\\",
+  "category": "Documentation",
+  "folder": "documentation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_122302ecdd01.json"
+}

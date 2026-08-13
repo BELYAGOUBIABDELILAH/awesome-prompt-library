@@ -1,0 +1,16 @@
+{
+  "id": "opl_f25fe22d9fa5",
+  "slug": "architectural-sketch-markup-overlay",
+  "title": "Architectural Sketch & Markup Overlay",
+  "prompt": "Based on the source image, overlay an architect's busy working process onto the entire scene. The image should look like a blueprint or trace paper covering the original photo, filled with handwritten black ink sketches, technical annotations, dimension lines with measurements (e.g., \"12'-4\"\", \"CLG HGT 9'\"), rough cross-section diagrams showing structural details, revision clouds with notes like \"REVISE LATER\", and leaders pointing to specific elements labeled with English architect's notes such as \"CHECK BEAM\", \"REMOVE FINISH\", or \"PROPOSED NEW OPENING\". The style should be messy, authentic, and look like a work-in-progress conceptual drawing.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f25fe22d9fa5.json"
+}

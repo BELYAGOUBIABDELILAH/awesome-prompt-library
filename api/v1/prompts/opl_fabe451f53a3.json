@@ -1,0 +1,45 @@
+{
+  "id": "opl_fabe451f53a3",
+  "slug": "ast-code-analysis-superpower",
+  "title": "AST Code Analysis Superpower",
+  "prompt": "---\nname: ast-code-analysis-superpower\ndescription: AST-based code pattern analysis using ast-grep for security, performance, and structural issues. Use when (1) reviewing code for security vulnerabilities, (2) analyzing React hook dependencies or performance patterns, (3) detecting structural anti-patterns across large codebases, (4) needing systematic pattern matching beyond manual inspection.\n---\n\n# AST-Grep Code Analysis\n\nAST pattern matching identifies code issues through structural recognition rather than line-by-line reading. Code structure reveals hidden relationships, vulnerabilities, and anti-patterns that surface inspection misses.\n\n## Configuration\n\n- **Target Language**: ${language:javascript}\n- **Analysis Focus**: ${analysis_focus:security}\n- **Severity Level**: ${severity_level:ERROR}\n- **Framework**: ${framework:React}\n- **Max Nesting Depth**: ${max_nesting:3}\n\n## Prerequisites\n\n```bash\n# Install ast-grep (if not available)\nnpm install -g @ast-grep/cli\n# Or: mise install -g ast-grep\n```\n\n## Decision Tree: When to Use AST Analysis\n\n```\nCode review needed?\n|\n+-- Simple code (<${simple_code_lines:50} lines, obvious structure) --> Manual review\n|\n+-- Complex code (nested, multi-file, abstraction layers)\n    |\n    +-- Security review required? --> Use security patterns\n    +-- Performance analysis? --> Use performance patterns\n    +-- Structural quality? --> Use structure patterns\n    +-- Cross-file patterns? --> Run with --include glob\n```\n\n## Pattern Categories\n\n| Category | Focus | Common Findings |\n|----------|-------|-----------------|\n| Security | Crypto functions, auth flows | Hardcoded secrets, weak tokens |\n| Performance | Hooks, loops, async | Infinite re-renders, memory leaks |\n| Structure | Nesting, complexity | Deep conditionals, maintainability |\n\n## Essential Patterns\n\n### Security: Hardcoded Secrets\n\n```yaml\n# sg-rules/security/hardcoded-secrets.yml\nid: hardcoded-secrets\nlanguage: ${language:javascript}\nrule:\n  pattern: |\n    const $VAR = '$LITERAL';\n    $FUNC($VAR, ...)\n  meta:\n    severity: ${severity_level:ERROR}\n    message: \"Potential hardcoded secret detected\"\n```\n\n### Security: Insecure Token Generation\n\n```yaml\n# sg-rules/security/insecure-tokens.yml\nid: insecure-token-generation\nlanguage: ${language:javascript}\nrule:\n  pattern: |\n    btoa(JSON.stringify($OBJ) + '.' + $SECRET)\n  meta:\n    severity: ${severity_level:ERROR}\n    message: \"Insecure token generation using base64\"\n```\n\n### Performance: ${framework:React} Hook Dependencies\n\n```yaml\n# sg-rules/performance/react-hook-deps.yml\nid: react-hook-dependency-array\nlanguage: typescript\nrule:\n  pattern: |\n    useEffect(() => {\n      $BODY\n    }, [$FUNC])\n  meta:\n    severity: WARNING\n    message: \"Function dependency may cause infinite re-renders\"\n```\n\n### Structure: Deep Nesting\n\n```yaml\n# sg-rules/structure/deep-nesting.yml\nid: deep-nesting\nlanguage: ${language:javascript}\nrule:\n  any:\n    - pattern: |\n        if ($COND1) {\n          if ($COND2) {\n            if ($COND3) {\n              $BODY\n            }\n          }\n        }\n    - pattern: |\n        for ($INIT) {\n          for ($INIT2) {\n            for ($INIT3) {\n              $BODY\n            }\n          }\n        }\n  meta:\n    severity: WARNING\n    message: \"Deep nesting (>${max_nesting:3} levels) - consider refactoring\"\n```\n\n## Running Analysis\n\n```bash\n# Security scan\nast-grep run -r sg-rules/security/\n\n# Performance scan on ${framework:React} files\nast-grep run -r sg-rules/performance/ --include=\"*.tsx,*.jsx\"\n\n# Full scan with JSON output\nast-grep run -r sg-rules/ --format=json > analysis-report.json\n\n# Interactive mode for investigation\nast-grep run -r sg-rules/ --interactive\n```\n\n## Pattern Writing Checklist\n\n- [ ] Pattern matches specific anti-pattern, not general code\n- [ ] Uses `inside` or `has` for context constraints\n- [ ] Includes `not` constraints to reduce false positives\n- [ ] Separate rules per language (JS vs TS)\n- [ ] Appropriate severity (${severity_level:ERROR}/WARNING/INFO)\n\n## Common Mistakes\n\n| Mistake | Symptom | Fix |\n|---------|---------|-----|\n| Too generic patterns | Many false positives | Add context constraints |\n| Missing `inside` | Matches wrong locations | Scope with parent context |\n| No `not` clauses | Matches valid patterns | Exclude known-good cases |\n| JS patterns on TS | Type annotations break match | Create language-specific rules |\n\n## Verification Steps\n\n1. **Test pattern accuracy**: Run on known-vulnerable code samples\n2. **Check false positive rate**: Review first ${sample_size:10} matches manually\n3. **Validate severity**: Confirm ${severity_level:ERROR}-level findings are actionable\n4. **Cross-file coverage**: Verify pattern runs across intended scope\n\n## Example Output\n\n```\n$ ast-grep run -r sg-rules/\nsrc/components/UserProfile.jsx:15: ${severity_level:ERROR} [insecure-tokens] Insecure token generation\nsrc/hooks/useAuth.js:8: ${severity_level:ERROR} [hardcoded-secrets] Potential hardcoded secret\nsrc/components/Dashboard.tsx:23: WARNING [react-hook-deps] Function dependency\nsrc/utils/processData.js:45: WARNING [deep-nesting] Deep nesting detected\n\nFound 4 issues (2 errors, 2 warnings)\n```\n\n## Project Setup\n\n```bash\n# Initialize ast-grep in project\nast-grep init\n\n# Create rule directories\nmkdir -p sg-rules/{security,performance,structure}\n\n# Add to CI pipeline\n# .github/workflows/lint.yml\n# - run: ast-grep run -r sg-rules/ --format=json\n```\n\n## Custom Pattern Templates\n\n### ${framework:React} Specific Patterns\n\n```yaml\n# Missing key in list rendering\nid: missing-list-key\nlanguage: typescript\nrule:\n  pattern: |\n    $ARRAY.map(($ITEM) => <$COMPONENT $$$PROPS />)\n  constraints:\n    $PROPS:\n      not:\n        has:\n          pattern: 'key={$_}'\n  meta:\n    severity: WARNING\n    message: \"Missing key prop in list rendering\"\n```\n\n### Async/Await Patterns\n\n```yaml\n# Missing error handling in async\nid: unhandled-async\nlanguage: ${language:javascript}\nrule:\n  pattern: |\n    async function $NAME($$$) {\n      $$$BODY\n    }\n  constraints:\n    $BODY:\n      not:\n        has:\n          pattern: 'try { $$$ } catch'\n  meta:\n    severity: WARNING\n    message: \"Async function without try-catch error handling\"\n```\n\n## Integration with CI/CD\n\n```yaml\n# GitHub Actions example\nname: AST Analysis\non: [push, pull_request]\njobs:\n  analyze:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - name: Install ast-grep\n        run: npm install -g @ast-grep/cli\n      - name: Run analysis\n        run: |\n          ast-grep run -r sg-rules/ --format=json > report.json\n          if grep -q '\"severity\": \"${severity_level:ERROR}\"' report.json; then\n            echo \"Critical issues found!\"\n            exit 1\n          fi\n```",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "analysis_focus",
+      "default": "security"
+    },
+    {
+      "name": "framework",
+      "default": "React"
+    },
+    {
+      "name": "language",
+      "default": "javascript"
+    },
+    {
+      "name": "max_nesting",
+      "default": "3"
+    },
+    {
+      "name": "sample_size",
+      "default": "10"
+    },
+    {
+      "name": "severity_level",
+      "default": "ERROR"
+    },
+    {
+      "name": "simple_code_lines",
+      "default": "50"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fabe451f53a3.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_b7f05e2b60bc",
+  "slug": "isometric-3d-cartoon-scene-with-weather-effects",
+  "title": "Isometric 3D Cartoon Scene with Weather Effects",
+  "prompt": "Act as a 3D rendering artist tasked with creating an isometric miniature cartoon scene. Your goal is to:\n- Present a clear, 45° top-down view of a vertical (9:16) composition.\n- Center iconic landmarks in the scene, ensuring precise and delicate modeling.\n- Use soft, refined textures with realistic PBR materials.\n- Integrate gentle, lifelike lighting and shadow effects.\n- Creatively incorporate weather elements into the urban architecture to enhance the dynamic interaction between the city's landscape and atmospheric conditions.\n- Retrieve current weather conditions for the specified city, Sofia, Bulgaria, before rendering.\n- Maintain a clean, unified composition with minimalistic aesthetics and a soft, solid-colored background to highlight the main content.\n- Ensure the overall visual style is fresh and soothing.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b7f05e2b60bc.json"
+}

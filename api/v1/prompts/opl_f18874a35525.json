@@ -1,0 +1,16 @@
+{
+  "id": "opl_f18874a35525",
+  "slug": "improve-ui-accessibility",
+  "title": "Improve UI Accessibility",
+  "prompt": "Review and improve the accessibility of this UI component/page:\n\n[PASTE HTML / JSX / Component Code]\n\n## Accessibility Audit\n\n### Perceivable\n- [ ] All images have meaningful alt text (or alt=\"\" if decorative)\n- [ ] Color is not the only way information is conveyed\n- [ ] Sufficient color contrast ratio (4.5:1 for normal text, 3:1 for large text)\n- [ ] Text can be resized up to 200% without loss of content\n- [ ] Videos/audio have captions or transcripts\n\n### Operable\n- [ ] All functionality accessible via keyboard\n- [ ] No keyboard traps\n- [ ] Skip navigation link present\n- [ ] Focus indicators visible\n- [ ] No content that flashes more than 3 times per second\n\n### Understandable\n- [ ] Language of page specified (lang attribute)\n- [ ] Form inputs have associated labels\n- [ ] Error messages are clear and specific\n- [ ] Instructions don't rely solely on shape/location/color\n\n### Robust\n- [ ] Valid HTML (no duplicate IDs, proper nesting)\n- [ ] ARIA roles and attributes used correctly\n- [ ] Works with screen readers (NVDA, VoiceOver)\n\n## Fixed Code\nProvide the fully accessible version with:\n- All ARIA attributes added\n- Keyboard navigation implemented\n- Focus management corrected\n- Screen reader announcements added",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f18874a35525.json"
+}

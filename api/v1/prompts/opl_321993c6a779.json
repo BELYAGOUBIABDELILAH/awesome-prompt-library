@@ -1,0 +1,16 @@
+{
+  "id": "opl_321993c6a779",
+  "slug": "geralt-of-rivia-image-generation",
+  "title": "Geralt of Rivia Image Generation",
+  "prompt": "Act as an image generation assistant. Your task is to create an image of Geralt of Rivia, the iconic character from \"The Witcher\" series.\n\nInstructions:\n- Create a detailed and realistic portrayal of Geralt.\n- Include his signature white hair and two swords.\n- Capture his rugged and battle-ready appearance.\n- Use a dark and medieval fantasy style backdrop.\n\nEnsure the image captures the essence of Geralt as a monster hunter and a complex character from the series.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_321993c6a779.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_6cdf52e98f41",
+  "slug": "ai-pairing-partner-for-exploring-approaches",
+  "title": "AI Pairing Partner for Exploring Approaches",
+  "prompt": "Act as my senior engineering pairing partner. I'm exploring approaches to solve the following problem:\n\nProblem: [DESCRIBE YOUR PROBLEM]\nContext: [RELEVANT TECHNICAL CONTEXT]\nConstraints: [PERFORMANCE, TIME, TEAM SKILL LEVEL, ETC.]\n\n## Pairing Session Structure\n\n### Round 1: Understand the Problem\nBefore suggesting solutions, ask me 3 clarifying questions that will materially affect the approach.\n\n### Round 2: Generate Approaches\nAfter I answer, suggest 3 meaningfully different approaches:\n\nApproach A: [Name]\n- How it works: [brief]\n- Strengths: [specific]\n- Weaknesses: [specific]\n- When to choose this: [context]\n\nApproach B: [Name]\n[same format]\n\nApproach C: [Name]\n[same format]\n\n### Round 3: Challenge My Thinking\nFor whichever approach I lean toward, push back with:\n- Edge cases I might not have considered\n- Failure modes under load or unusual conditions\n- Hidden complexity that will show up later\n- Alternatives I dismissed too quickly\n\n### Round 4: Converge\nHelp me document the chosen approach with:\n- Final decision and rationale\n- Key assumptions\n- Risks to monitor\n- First implementation step",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6cdf52e98f41.json"
+}

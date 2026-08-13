@@ -1,0 +1,16 @@
+{
+  "id": "opl_5c92d7367097",
+  "slug": "research-documents-for-a-blog-post",
+  "title": "Research Documents for a Blog Post",
+  "prompt": "Identify and summarize 3 key resources for a blog post on a specified topic.\nFor each resource:\n1. Title and source URL\n2. Core argument or finding (2–3 sentences)\n3. Key data point or quote worth citing\n4. Why this source is credible and relevant\n5. How it connects to the blog post angle\nOutput: A research brief I can hand to a writer or use directly to draft the post.",
+  "category": "Research & Analysis",
+  "folder": "research-analysis",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5c92d7367097.json"
+}

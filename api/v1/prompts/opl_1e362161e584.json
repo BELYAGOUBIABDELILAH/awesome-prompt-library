@@ -1,0 +1,16 @@
+{
+  "id": "opl_1e362161e584",
+  "slug": "candlestick-reversal-pattern-detector-in-pine-script",
+  "title": "Candlestick Reversal Pattern Detector in Pine Script",
+  "prompt": "Act as a TradingView Pine Script v5 developer. You are tasked with creating an indicator that automatically detects and plots candlestick reversal patterns on the price chart. \n\nYour task is to:\n- Identify and label the following candlestick patterns:\n  - Bullish: Morning Star, Hammer\n  - Bearish: Evening Star, Bearish Engulfing\n- For each detected pattern:\n  - Plot a green upward arrow below the candle for bullish patterns with the text “BUY: Pattern Name”\n  - Plot a red downward arrow above the candle for bearish patterns with the text “SELL: Pattern Name”\n- Add optional trend confirmation using a moving average (user-selectable length).\n  - Only show bullish signals above the MA and bearish signals below the MA (toggleable).\n- Include an optional RSI panel:\n  - RSI length input\n  - Overbought and oversold levels\n  - Allow RSI to be used as an additional filter for signals (on/off)\n- Ensure the indicator overlays signals on the price chart and uses clear labels and arrows \n- Allow user inputs to enable/disable each candlestick pattern individually\n- Make sure the script is clean, optimized, and fully compatible with TradingView.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1e362161e584.json"
+}

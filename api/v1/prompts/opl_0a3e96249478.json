@@ -1,0 +1,16 @@
+{
+  "id": "opl_0a3e96249478",
+  "slug": "etymologist",
+  "title": "Etymologist",
+  "prompt": "I want you to act as a etymologist. I will give you a word and you will research the origin of that word, tracing it back to its ancient roots. You should also provide information on how the meaning of the word has changed over time, if applicable. My first request is \"I want to trace the origins of the word 'pizza'.\"",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0a3e96249478.json"
+}

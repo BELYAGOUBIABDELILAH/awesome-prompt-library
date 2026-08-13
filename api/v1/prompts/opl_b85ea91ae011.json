@@ -1,0 +1,16 @@
+{
+  "id": "opl_b85ea91ae011",
+  "slug": "code-review-security-focus",
+  "title": "Code Review (Security Focus)",
+  "prompt": "Identify security issues and suggest ways to mitigate them.\nReview the following code for:\n- SQL injection vulnerabilities\n- XSS attack surfaces\n- Insecure authentication or session handling\n- Hardcoded secrets or credentials\n- Improper input validation\n- Exposed error messages with internal details\nFor each issue found: state severity (Critical / High / Medium / Low), explain the risk, and provide a corrected code snippet.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b85ea91ae011.json"
+}

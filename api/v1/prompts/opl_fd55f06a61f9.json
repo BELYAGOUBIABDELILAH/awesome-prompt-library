@@ -1,0 +1,16 @@
+{
+  "id": "opl_fd55f06a61f9",
+  "slug": "design-new-feature-architecture",
+  "title": "Design New Feature Architecture",
+  "prompt": "Design the architecture for this new feature:\n\nFeature: [NAME]\nDescription: [WHAT IT DOES]\nUsers: [WHO USES IT AND HOW OFTEN]\nPerformance requirements: [latency, throughput, availability]\n\n## Feature Architecture\n\n### Component Overview\nList every component that needs to be built or modified:\n\n| Component | Type | New/Modified | Purpose |\n|---|---|---|---|\n| [Component] | [Service/UI/DB/Job] | New | [What it does] |\n\n### Data Flow\n1. User triggers [action]\n2. [Component A] receives request and [does X]\n3. [Component B] is called to [do Y]\n4. Data is stored in [WHERE]\n5. Response returns [WHAT] to user\n\n### Integration Points\n- Integrates with: [existing services/APIs]\n- New dependencies: [external services needed]\n- Events emitted: [for other services to consume]\n\n### Database Changes\n- New tables: [list with purpose]\n- Modified tables: [list with changes]\n- Migrations required: [yes/no]\n- Indexes needed: [list]\n\n### API Changes\n- New endpoints: [list]\n- Modified endpoints: [list]\n- Breaking changes: [yes/no]\n\n### Scalability Design\nHow does this feature scale to [10× / 100× current load]?\n- Stateless components: [which ones]\n- Caching strategy: [what gets cached]\n- Async processing: [what can be background jobs]\n\n### Rollout Plan\n- Feature flag: [name]\n- Rollout stages: [1% → 10% → 50% → 100%]\n- Rollback trigger: [what metric triggers a rollback]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fd55f06a61f9.json"
+}

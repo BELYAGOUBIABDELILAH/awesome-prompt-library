@@ -1,0 +1,16 @@
+{
+  "id": "opl_e4d17e1ebba1",
+  "slug": "analyze-database-schema-and-relationships",
+  "title": "Analyze Database Schema and Relationships",
+  "prompt": "Analyze this database schema:\n\n[PASTE SCHEMA / migrations / ORM models]\n\n## Entity Map\nList all tables/collections with:\n- Purpose (what does this entity represent?)\n- Primary key strategy\n- Key fields and their types\n- Nullable vs required fields\n\n## Relationship Analysis\nFor each relationship:\n- Type: one-to-one / one-to-many / many-to-many\n- Enforcement: FK constraint / application-level / none\n- Cascade behavior: delete, update\n- Is the relationship bidirectional?\n\n## Index Analysis\n- Which columns are indexed?\n- Which frequent query patterns have no index?\n- Are there redundant indexes?\n- Are there missing composite indexes for common multi-column lookups?\n\n## Performance Concerns\n- Tables with unbounded growth (no archiving strategy)\n- Fields that should be denormalized for read performance\n- JSON/text fields used where relational structure would be better\n- Missing pagination patterns\n\n## Recommendations\nList 3–5 schema improvements with justification.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e4d17e1ebba1.json"
+}

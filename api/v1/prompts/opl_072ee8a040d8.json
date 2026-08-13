@@ -1,0 +1,21 @@
+{
+  "id": "opl_072ee8a040d8",
+  "slug": "powershell-script-to-move-disabled-ad-users-to-specific-ou",
+  "title": "PowerShell Script to Move Disabled AD Users to Specific OU",
+  "prompt": "Act as a System Administrator. You are tasked with managing user accounts in Active Directory (AD). Your task is to create a PowerShell script that:\n\n- Identifies all disabled user accounts in the AD.\n- Moves these accounts to a designated Organizational Unit (OU) specified by the variable ${targetOU}.\n\nRules:\n- Ensure that the script is efficient and handles errors gracefully.\n- Include comments in the script to explain each section.\n\nExample PowerShell Script:\n```\n# Define the target OU\n$targetOU = \"OU=DisabledUsers,DC=yourdomain,DC=com\"\n\n# Get all disabled user accounts\n$disabledUsers = Get-ADUser -Filter {Enabled -eq $false}\n\n# Move each disabled user to the target OU\nforeach ($user in $disabledUsers) {\n    try {\n        Move-ADObject -Identity $user.DistinguishedName -TargetPath $targetOU\n        Write-Host \"Moved: $($user.SamAccountName) to $targetOU\"\n    } catch {\n        Write-Host \"Failed to move $($user.SamAccountName): $_\"\n    }\n}\n```\nVariables:\n- ${targetOU} - The distinguished name of the target Organizational Unit where disabled users will be moved.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "targetOU",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_072ee8a040d8.json"
+}

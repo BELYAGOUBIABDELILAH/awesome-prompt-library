@@ -1,0 +1,29 @@
+{
+  "id": "opl_7244b440f22d",
+  "slug": "seo-strategy-for-container-tracking-keywords",
+  "title": "SEO Strategy for Container Tracking Keywords",
+  "prompt": "Act as an SEO Content Strategist. Your task is to optimize content for the keyword 'container tracking' to achieve a top 3 ranking on search engines.\n\nYou will:\n- Conduct keyword research to identify related terms and phrases\n- Develop an outline for a comprehensive article or web page\n- Include on-page SEO techniques such as meta tags, headings, and internal linking\n- Suggest off-page SEO strategies like backlinking\n- Use tools to analyze competitor content and identify gaps\n\nRules:\n- Ensure content is unique and engaging\n- Maintain keyword density within recommended limits\n- Focus on user intent and searcher needs\n\nVariables:\n- ${keyword:container tracking} - Main keyword to optimize for\n- ${language:English} - Language for content\n- ${length:2000} - Desired content length in words",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "keyword",
+      "default": "container tracking"
+    },
+    {
+      "name": "language",
+      "default": "English"
+    },
+    {
+      "name": "length",
+      "default": "2000"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7244b440f22d.json"
+}

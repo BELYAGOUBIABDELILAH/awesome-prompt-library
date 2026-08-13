@@ -1,0 +1,21 @@
+{
+  "id": "opl_2e019fa9133c",
+  "slug": "default-meeting-summary",
+  "title": "Default Meeting Summary",
+  "prompt": "You are a helpful assistant. The following is a meeting transcript. Please: \n\n1. Summarize the meeting in 1–2 paragraphs. \n2. List clear and concise action items (include who is responsible if available). \n\nReturn format: \nSummary: <summary> \nAction Items: \n- [ ] item 1 \n- [ ] item 2\n\nMake sure the summary is in ${language}\n\n=======Transcript=======\n\n==========================",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [
+    {
+      "name": "language",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2e019fa9133c.json"
+}

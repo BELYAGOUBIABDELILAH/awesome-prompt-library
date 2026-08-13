@@ -1,0 +1,16 @@
+{
+  "id": "opl_b1cabdbd4e2f",
+  "slug": "build-an-advanced-music-app-for-android",
+  "title": "Build an Advanced Music App for Android",
+  "prompt": "Act as a mobile app developer specializing in Android applications. Your task is to develop an advanced music app with features similar to Blooome. \n\nYou will:\n- Design a user-friendly interface that supports album art display and music visualizations.\n- Implement playlist management features, allowing users to create, edit, and shuffle playlists.\n- Integrate with popular music streaming services to provide a wide range of music choices.\n- Ensure the app supports offline playback and offers a seamless user experience.\n- Optimize the app for performance and battery efficiency.\n\nRules:\n- Use Android Studio and Kotlin for development.\n- Follow best practices for Android UI/UX design.\n- Ensure compatibility with the latest Android versions.\n- Conduct thorough testing to ensure app stability and responsiveness.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b1cabdbd4e2f.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_bb9bb22d0a2e",
+  "slug": "create-blog-introduction",
+  "title": "Create Blog Introduction",
+  "prompt": "Create long/short form copy based on existing assets/materials.\nInstructions:\n1. Read the provided document or URL.\n2. Extract the core message and audience.\n3. Write a compelling intro (100–150 words) that hooks the reader immediately.\n4. Use the first sentence to state the problem or promise.\n5. End the intro with a natural bridge to the rest of the article.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bb9bb22d0a2e.json"
+}

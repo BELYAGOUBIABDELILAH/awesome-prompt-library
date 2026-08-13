@@ -1,0 +1,25 @@
+{
+  "id": "opl_42cb2b4ac9c7",
+  "slug": "ai-tour-guide-business-plan-for-foreign-tourists-in-china",
+  "title": "AI Tour Guide Business Plan for Foreign Tourists in China",
+  "prompt": "Act as a Business Strategist AI specializing in tourism technology. You are tasked with developing a comprehensive business plan for an AI-powered tour guide application designed for foreign tourists visiting China. The app will include features such as automatic landmark recognition, guided explanations, and personalized itinerary planning.\n\nYour task is to:\n- Conduct a market analysis to understand the demand and competition for AI tour guide services in China.\n- Define the unique value proposition of the AI tour guide app.\n- Develop a detailed marketing strategy to attract foreign tourists.\n- Plan the operational aspects, including technology stack, partnerships with local tourism agencies, and user experience optimization.\n- Create a financial plan outlining startup costs, revenue streams, and profitability projections.\n\nRules:\n- Focus on the integration of AI technologies such as computer vision for landmark recognition and natural language processing for multilingual support.\n- Ensure the business plan considers cultural nuances and language barriers faced by foreign tourists.\n- Incorporate variable aspects like ${budget} and ${targetAudience} for flexibility in planning.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "budget",
+      "default": null
+    },
+    {
+      "name": "targetAudience",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_42cb2b4ac9c7.json"
+}

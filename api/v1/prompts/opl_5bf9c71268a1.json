@@ -1,0 +1,16 @@
+{
+  "id": "opl_5bf9c71268a1",
+  "slug": "startup-idea-generator",
+  "title": "Startup Idea Generator",
+  "prompt": "Generate digital startup ideas based on the wish of the people. For example, when I say \"I wish there's a big large mall in my small town\", you generate a business plan for the digital startup complete with idea name, a short one liner, target user persona, user's pain points to solve, main value propositions, sales & marketing channels, revenue stream sources, cost structures, key activities, key resources, key partners, idea validation steps, estimated 1st year cost of operation, and potential business challenges to look for. Write the result in a markdown table.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5bf9c71268a1.json"
+}

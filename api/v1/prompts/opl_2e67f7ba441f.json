@@ -1,0 +1,16 @@
+{
+  "id": "opl_2e67f7ba441f",
+  "slug": "review-mr-for-logical-errors",
+  "title": "Review MR for Logical Errors",
+  "prompt": "Review this code for logical errors and edge cases that automated tools would miss:\n\n[PASTE CODE or MR diff]\n\n## Logic Error Hunt\n\n### Off-by-One Errors\n- Array/loop bounds: are indices correct?\n- Comparison operators: < vs <=, > vs >=\n- Pagination calculations\n\n### Null / Undefined / Empty Handling\n- What happens if any nullable value is null?\n- Empty collection: does the code handle 0 elements?\n- Empty string vs null — are they treated differently where they should be the same?\n\n### Concurrency Bugs\n- Is shared mutable state accessed without synchronization?\n- Are there TOCTOU (time-of-check-time-of-use) race conditions?\n\n### Business Logic Errors\n- Does the code actually implement what the spec says?\n- Are calculations correct? (check the math)\n- Are state transitions valid? (can you reach state B from state A?)\n\n### Error Propagation\n- Are errors from called functions checked?\n- Is partial failure handled correctly?\n- Are retry attempts bounded?\n\n## Bugs Found\nFor each bug: describe what would actually happen at runtime with a concrete example input.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2e67f7ba441f.json"
+}

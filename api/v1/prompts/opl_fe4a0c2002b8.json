@@ -1,0 +1,16 @@
+{
+  "id": "opl_fe4a0c2002b8",
+  "slug": "orchestrate-multi-agent-workflows",
+  "title": "Orchestrate Multi-Agent Workflows",
+  "prompt": "Design a multi-agent workflow to accomplish: [GOAL]\n\n## Workflow Architecture\nDefine each agent in the pipeline:\n\nAgent 1 — [Name/Role]:\n- Trigger: [what starts it]\n- Input: [data/context it receives]\n- Task: [what it does]\n- Output: [data it produces]\n- Failure handling: [what happens if it fails]\n\nAgent 2 — [Name/Role]:\n[Same structure]\n\n[Continue for all agents]\n\n## Handoff Protocol\nSpecify the exact data format passed between agents:\n- Schema: [JSON / structured text / file]\n- Validation: how does each agent verify it received valid input?\n- Versioning: how do you handle schema changes?\n\n## Orchestration Logic\n- Sequential vs. parallel execution\n- Retry logic and backoff strategy\n- Human-in-the-loop checkpoints (where and why)\n- Circuit breakers (when to abort the workflow)\n\n## Success Criteria\nDefine what \"done\" looks like for the full pipeline.\nInclude monitoring/alerting for each agent's output quality.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fe4a0c2002b8.json"
+}

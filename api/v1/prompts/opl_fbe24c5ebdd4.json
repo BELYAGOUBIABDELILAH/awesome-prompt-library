@@ -1,0 +1,16 @@
+{
+  "id": "opl_fbe24c5ebdd4",
+  "slug": "suggest-code-improvements-in-mr",
+  "title": "Suggest Code Improvements in MR",
+  "prompt": "Provide actionable improvement suggestions for this MR:\n\n[PASTE CODE or MR DIFF]\n\nFor each suggestion, use this format:\n Location: [file:line]\n Suggestion: [what to change]\n How: [specific code change]\n Benefit: [readability / performance / maintainability / security]\n⚡ Priority: High / Medium / Low\n\n## Category: Code Quality\nSuggest improvements for:\n- Names that could be clearer\n- Functions that do too much\n- Missing abstractions\n- Repeated patterns\n\n## Category: Performance\nSuggest improvements for:\n- Unnecessary work in hot paths\n- Missing caching opportunities\n- Inefficient data structures\n\n## Category: Maintainability\nSuggest improvements for:\n- Hard-coded values that should be configurable\n- Missing documentation\n- Tight coupling that limits testability\n\n## What's Done Well\nEnd with 2–3 specific things the author did right. Code review is a teaching tool, not a criticism session.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fbe24c5ebdd4.json"
+}

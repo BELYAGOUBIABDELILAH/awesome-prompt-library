@@ -1,0 +1,16 @@
+{
+  "id": "opl_e8cff0ee7bf1",
+  "slug": "sticker",
+  "title": "Sticker",
+  "prompt": "Create an A4 vertical sticker sheet with 30 How to Train Your Dragon movie characters.\nCharacters must look exactly like the original How to Train Your Dragon films, faithful likeness, no redesign, no reinterpretation.\nCorrect original outfits and dragon designs from the movies, accurate colors and details.\nFully visible heads, eyes, ears, wings, and tails (nothing cropped or missing).\nHiccup and Toothless appear most frequently, shown in different standing or flying poses and expressions.\nOther characters and dragons included with their original movie designs unchanged.\nRandom scattered layout, collage-style arrangement, not aligned in rows or grids.\nEach sticker is clearly separated with empty space around it for offset / die-cut printing.\nPlain white background, no text, no shadows, no scenery.\nHigh resolution, clean sticker edges, print-ready.\nNEGATIVE PROMPT \nredesign, altered characters, wrong outfit, wrong dragon design, same colors for all, missing wings, missing tails, cropped wings, cropped tails, chibi, kawaii, anime style, exaggerated eyes, distorted faces, grid layout, aligned rows, background scenes, shadows, watermark, text",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e8cff0ee7bf1.json"
+}

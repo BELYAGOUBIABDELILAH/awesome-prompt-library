@@ -1,0 +1,16 @@
+{
+  "id": "opl_4ff0ddb2f7cf",
+  "slug": "develop-a-creative-dice-generator-called-ideadice",
+  "title": "Develop a creative dice generator called “IdeaDice”.",
+  "prompt": "Develop a creative dice generator called “IdeaDice”.\nFeatures an eye-catching industrial-style interface, with a fluorescent green title prominently displayed at the top of the page:“IdeaDice · Inspiration Throwing Tool”, featuring monospaced font and a futuristic design, includes a 3D rotating inspiration die with a raised texture. Each side of the die features a different keyword. Clicking the “Roll” button initiates the rotation of the die. Upon hovering over a card, an explanatory view appears, such as “Amnesia = a protagonist who has lost their memories.” The tool also supports exporting and generating posters.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4ff0ddb2f7cf.json"
+}

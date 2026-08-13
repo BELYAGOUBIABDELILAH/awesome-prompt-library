@@ -1,0 +1,16 @@
+{
+  "id": "opl_3a5239d819d7",
+  "slug": "cozy-couch-lamp-close-up-warm-tungsten",
+  "title": "Cozy Couch Lamp (close-up, warm tungsten)",
+  "prompt": "{\n  \"category\": \"COZY_COUCH_LAMP_CLOSEUP\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-27, Turkish-looking.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Messy bun with face-framing tendrils\",\n      \"texture\": \"Visible strands, natural frizz\",\n      \"movement\": \"Loose strands fall near cheeks\"\n    },\n    \"face\": {\n      \"eyes\": \"Soft eye contact, warm catchlights\",\n      \"makeup\": \"Minimal, dewy, natural\",\n      \"skin_details\": \"Pores, natural texture, no smoothing\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Casual cozy knit sweater (no text)\",\n      \"texture\": \"Knit weave visible, realistic folds\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\"Small silver hoops\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Close-up candid\",\n    \"orientation\": \"Slightly above angle, relaxed\",\n    \"hands\": \"One hand holding mug near chin (fingers correct)\",\n    \"gaze\": \"Gentle eye contact\",\n    \"expression\": \"Soft smile, cozy\"\n  },\n  \"setting\": {\n    \"environment\": \"Living room couch corner\",\n    \"background_elements\": [\n      \"Warm orange lamp glow behind\",\n      \"Blanket texture visible\",\n      \"Slight lived-in clutter blurred\"\n    ],\n    \"depth\": \"Face sharp, lamp bloom behind, soft background\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Close-up portrait\",\n    \"angle\": \"Slightly above eye level\",\n    \"focal_length_equivalent\": \"26mm phone or 50mm pro\",\n    \"framing\": \"4:5, face dominant\",\n    \"focus\": \"Eyes sharp\"\n  },\n  \"lighting\": {\n    \"source\": \"Warm tungsten lamp + faint ambient\",\n    \"direction\": \"Side/front warm\",\n    \"highlights\": \"Soft glow on cheeks and hair\",\n    \"shadows\": \"Gentle, comforting\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Relaxed, intimate, relatable\",\n    \"expression\": \"Soft smile\",\n    \"atmosphere\": \"Warm, tactile, homey\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photorealistic iPhone-candid vibe\",\n    \"imperfections\": \"Mild grain, slightly imperfect WB\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Mild phone sensor grain\",\n    \"motion_blur\": \"None on face\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"plastic skin\", \"over-smoothing\",\n    \"extra fingers\", \"warped mug\",\n    \"readable text\", \"logo\", \"watermark\"\n  ]\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3a5239d819d7.json"
+}

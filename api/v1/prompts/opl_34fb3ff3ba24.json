@@ -1,0 +1,16 @@
+{
+  "id": "opl_34fb3ff3ba24",
+  "slug": "planner-agent-for-epic-decomposition",
+  "title": "Planner Agent for Epic Decomposition",
+  "prompt": "As a planning agent, decompose this epic into a fully actionable backlog:\n\nEpic: [EPIC TITLE AND DESCRIPTION]\nTeam velocity: [N story points per sprint]\nSprint length: [N weeks]\nDeadline: [DATE or N sprints]\nTeam: [N developers + N designers + N QA]\n\n## Decomposition Output\n\n### Epic Map\nDraw the complete breakdown:\nEpic → Features → Stories → Tasks\n\n### Feature Breakdown\nFor each feature in the epic:\n\n**Feature: [NAME]**\nValue delivered: [what users can do when this is done]\nDependencies: [other features that must come first]\n\nStories:\n1. [Story: as a user, I can...]\n   Acceptance criteria: [3–5 specific, testable criteria]\n   Story points: [estimate]\n   Technical tasks: [implementation subtasks]\n\n2. [Story...]\n\n### Dependency Map\n[Story 1] → must complete before → [Story 3]\n[Story 2] → can run in parallel with → [Story 4]\n\n### Critical Path\nThe minimum set of stories that must complete for the epic to deliver core value:\n[Story 1] → [Story 3] → [Story 7]\nCritical path duration: [N sprints]\n\n### Sprint Plan\nSprint 1: [stories — N points]\nSprint 2: [stories — N points]\nSprint 3: [stories — N points]\n\n### Risks\n[Risk that could delay the epic] — mitigation: [action]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_34fb3ff3ba24.json"
+}

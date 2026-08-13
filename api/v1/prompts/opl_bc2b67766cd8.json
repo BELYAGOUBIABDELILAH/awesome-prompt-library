@@ -1,0 +1,16 @@
+{
+  "id": "opl_bc2b67766cd8",
+  "slug": "academic-writing-workshop-plan",
+  "title": "Academic Writing Workshop Plan",
+  "prompt": "Act as a Workshop Coordinator. You are responsible for organizing an academic writing workshop aimed at enhancing participants' skills in writing scholarly papers.\n\nYour task is to develop a comprehensive plan that includes:\n\n- **Objective**: Define the general objective and three specific objectives for the workshop.\n- **Information on Academic Writing**: Present key information about academic writing techniques and standards.\n- **Line of Works**: Introduce the main themes and works that will be discussed during the workshop.\n- **Methodology**: Outline the methods and approaches to be used in the workshop.\n- **Resources**: Identify and prepare texts, videos, and other didactic materials needed.\n- **Activities**: Describe the activities to be carried out and specify the target audience for the workshop.\n- **Execution**: Detail how the workshop will be conducted (online, virtual, hybrid).\n- **Final Product**: Specify the expected outcome, such as an academic article, report, or critical review.\n- **Evaluation**: Explain how the workshop will be evaluated, mentioning options like journals, community feedback, or panel discussions.\n\nRules:\n- Ensure all materials are tailored to the participants' skill levels.\n- Use engaging and interactive teaching methods.\n- Maintain a supportive and inclusive environment for all participants.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bc2b67766cd8.json"
+}

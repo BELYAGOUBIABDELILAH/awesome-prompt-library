@@ -1,0 +1,16 @@
+{
+  "id": "opl_13d6ec75822c",
+  "slug": "security-analyst-for-vulnerability-triage",
+  "title": "Security Analyst for Vulnerability Triage",
+  "prompt": "Act as a senior security analyst. Triage these vulnerabilities for our specific context:\n\nVulnerabilities to triage:\n[PASTE CVEs, SAST findings, or pen test report]\n\nOur context:\n- Application type: [public-facing web app / internal tool / API / mobile backend]\n- Data handled: [PII / financial / health / public only]\n- Internet exposure: [fully public / VPN only / internal only]\n- Authentication required: [yes / no / both]\n- WAF/security controls in place: [describe]\n\n## Vulnerability Triage\n\nFor each vulnerability, assess using CVSS + context:\n\n### Vulnerability: [NAME/CVE]\n**Base CVSS Score**: [X.X]\n**Contextual Adjustment**:\n- Attack vector in our environment: [network / adjacent / local]\n- Is the vulnerable code path reachable by unauthenticated attackers? [yes/no]\n- Compensating controls: [WAF rule / input validation / not exposed]\n- Data at risk if exploited: [describe]\n\n**Adjusted Risk**: Critical / High / Medium / Low / Acceptable\n**Exploitability**: [Easy — no auth required, public exploit / Hard — requires auth + specific conditions]\n**Business Impact if Exploited**: [describe in business terms]\n\n**Remediation**:\n- Fix: [specific action]\n- Timeline: [immediate / this sprint / this quarter]\n- Owner: [team responsible]\n\n## Prioritized Remediation List\n[Rank all vulnerabilities by adjusted risk × exploitability × business impact]\n\n## Executive Summary\n[3–4 sentences: overall risk posture, top priority, recommended timeline]",
+  "category": "Security",
+  "folder": "security",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_13d6ec75822c.json"
+}

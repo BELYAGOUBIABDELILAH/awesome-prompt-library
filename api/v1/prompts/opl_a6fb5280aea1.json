@@ -1,0 +1,16 @@
+{
+  "id": "opl_a6fb5280aea1",
+  "slug": "prioritize-review-comments",
+  "title": "Prioritize Review Comments",
+  "prompt": "Help me prioritize the following code review comments:\n\nReview comments:\n[PASTE ALL REVIEW COMMENTS]\n\nCategorize each comment into:\n\n##  MUST FIX (Blockers)\nThese prevent the MR from merging:\n- Security vulnerabilities\n- Correctness bugs\n- Broken tests\n- API contract violations\n- Data loss risks\n\n##  SHOULD FIX (Strong suggestions)\nImportant for maintainability but not merge-blocking:\n- Significant readability issues\n- Missing error handling for likely scenarios\n- Performance concerns in hot paths\n- Missing tests for critical paths\n\n##  NICE TO HAVE (Optional)\nLow-priority improvements the author can choose to address:\n- Style preferences\n- Minor naming improvements\n- Refactoring opportunities for future sprints\n- Documentation enhancements\n\n## Summary for Author\nWrite a brief message (3–4 sentences) the reviewer can send to the author explaining:\n- How many blockers need to be addressed\n- The overall quality of the MR\n- A positive note about what was done well",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a6fb5280aea1.json"
+}

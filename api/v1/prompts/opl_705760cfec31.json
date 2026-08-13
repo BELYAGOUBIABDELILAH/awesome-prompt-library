@@ -1,0 +1,16 @@
+{
+  "id": "opl_705760cfec31",
+  "slug": "museum-steps-full-body-cultural",
+  "title": "Museum Steps (full-body, cultural)",
+  "prompt": "{\n  \"category\": \"MUSEUM_STEPS_FULLBODY\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-27, Turkish-looking, artsy vibe.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Loose waves, tucked behind one ear\",\n      \"texture\": \"Natural strands, slight flyaways\"\n    },\n    \"face\": {\n      \"eyes\": \"Thoughtful, warm\",\n      \"skin_details\": \"Natural texture, no smoothing\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Minimal chic black outfit + light coat (no logos)\",\n      \"fabric\": \"Textile weave visible\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\"Silver hoops\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Seated full-body\",\n    \"orientation\": \"Sitting on steps, ankles crossed\",\n    \"hands\": \"One hand resting on knee, other near chin\",\n    \"gaze\": \"Soft eye contact, calm\",\n    \"posture\": \"Relaxed, composed\"\n  },\n  \"setting\": {\n    \"environment\": \"Museum exterior steps\",\n    \"background_elements\": [\n      \"Stone texture with realistic pores and wear\",\n      \"Soft daylight\",\n      \"No readable plaques/signage\"\n    ],\n    \"depth\": \"Subject sharp, background softly blurred\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Full-body portrait\",\n    \"angle\": \"Slightly low angle for elegance\",\n    \"focal_length_equivalent\": \"35-50mm editorial\",\n    \"framing\": \"4:5\",\n    \"focus\": \"Face + hands sharp, background soft\"\n  },\n  \"lighting\": {\n    \"source\": \"Natural daylight\",\n    \"direction\": \"Soft front-side\",\n    \"shadows\": \"Gentle, realistic\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Artsy, calm, confident\",\n    \"expression\": \"Subtle smile, thoughtful eyes\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photoreal editorial lifestyle\",\n    \"imperfections\": \"Natural hair flyaways preserved\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Very mild\",\n    \"sharpness\": \"Crisp facial detail\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"readable text\", \"logos\", \"watermark\",\n    \"extra fingers\", \"warped steps\",\n    \"plastic skin\", \"cgi\"\n  ]\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_705760cfec31.json"
+}

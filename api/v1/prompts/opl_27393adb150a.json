@@ -1,0 +1,21 @@
+{
+  "id": "opl_27393adb150a",
+  "slug": "floating-city-island-photoreal-4k-poster",
+  "title": "Floating City Island - Photoreal 4K Poster",
+  "prompt": "Design a \"floating miniature island\" shaped like the ${city:denizli} map/silhouette, gliding above white clouds. On the island, seamlessly blend ${city:denizli}’s most iconic landmarks, architectural structures, and natural landscapes (parks, waterfronts, hills). Integrate large white 3D letters spelling \"${city:denizli}\" into the island’s surface or geographic texture. Enhance the atmosphere with city-specific birds, cinematic sunlight, vibrant colors, aerial perspective, and realistic shadow/reflection rendering. Ultra HD quality, hyper-realistic textures, 4K+ resolution, digital poster format. Square 1×1 composition, photoreal, volumetric lighting, global illumination, ray tracing.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "city",
+      "default": "denizli"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_27393adb150a.json"
+}

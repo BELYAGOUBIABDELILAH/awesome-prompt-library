@@ -1,0 +1,16 @@
+{
+  "id": "opl_065e22547d50",
+  "slug": "brsorndnsg",
+  "title": "brsorndnsg",
+  "prompt": "{\n  \"shot\": {\n    \"composition\": \"medium full-body shot with the subject reclining on a white curved platform against a deep black background\",\n    \"camera_proximity\": \"medium_full_shot\",\n    \"camera_angle\": \"eye_level\",\n    \"film_grain\": \"digital_clean_no_grain\"\n  },\n  \"subject\": {\n    \"description\": \"female subject whose facial features, hair appearance, body proportions and overall look match the reference image, captured in a serene editorial pose\",\n    \"wardrobe\": \"white fuzzy tube top paired with matching shorts and oversized white fuzzy earmuffs\",\n    \"emotion_and_mood\": \"calm, elegant, minimal\",\n    \"pose\": \"reclining on the curved platform with the right arm supporting the upper body and the left arm resting softly on the thigh, gaze directed off-camera to the right\"\n  },\n  \"visual_details\": {\n    \"action\": \"static composed pose emphasizing clean lines and contrast between textures\",\n    \"props\": \"white curved platform, chunky silver bracelets worn on both wrists\"\n  },\n  \"scene\": {\n    \"location\": \"minimalist indoor studio with a black backdrop\",\n    \"time_of_day\": \"controlled studio lighting\",\n    \"environment\": \"clean modern studio space with strong contrast between white elements and dark surroundings\"\n  },\n  \"cinematography\": {\n    \"lighting\": \"soft_key\",\n    \"tone\": \"minimal\",\n    \"color_palette\": \"high_contrast_bw\"\n  },\n  \"visual_style\": {\n    \"style\": \"modern minimalist fashion editorial\",\n    \"elements\": \"soft spotlight from the front-left creating gentle highlights and shadows, smooth skin tones, crisp silhouette separation from background, refined texture contrast, no text, no logos\"\n  }\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_065e22547d50.json"
+}

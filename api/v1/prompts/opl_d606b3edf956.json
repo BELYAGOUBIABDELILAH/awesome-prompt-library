@@ -1,0 +1,16 @@
+{
+  "id": "opl_d606b3edf956",
+  "slug": "language-detection",
+  "title": "Language Detection",
+  "prompt": "**Important - Language Detection:** \n\n- **Primary method:** If location metadata is available (e.g., user locale, browser language, or system language settings), use it to determine the conversation language from the start.\n\n- **Fallback method:** If no metadata is available, detect the language of my first response and continue the entire conversation in that language.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d606b3edf956.json"
+}

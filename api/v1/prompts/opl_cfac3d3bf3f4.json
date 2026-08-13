@@ -1,0 +1,16 @@
+{
+  "id": "opl_cfac3d3bf3f4",
+  "slug": "in-flight-vacation-selfie-natural-front-camera-perspective",
+  "title": "In-Flight Vacation Selfie — Natural Front Camera Perspective",
+  "prompt": "{\n  \"subject\": {\n    \"description\": \"A young woman with a natural, relaxed appearance, captured while sitting in her airplane seat during a flight. She has a confident yet casual vacation energy. Her skin is clean with no tattoos. She wears a light vacation hat and stylish sunglasses.\",\n    \"body\": {\n      \"type\": \"Curvy, feminine silhouette.\",\n      \"details\": \"Natural proportions, relaxed posture, comfortable seated position.\",\n      \"pose\": \"Seated in an airplane seat, subtly leaning back, with the framing suggesting the camera is held by one hand slightly above head level and angled downward, as if taking a casual front-camera selfie. The phone itself is not visible in the frame.\"\n    }\n  },\n  \"wardrobe\": {\n    \"top\": \"Light summer vacation outfit such as a loose linen shirt, crop-length top, or airy blouse.\",\n    \"bottom\": \"High-waisted shorts, light fabric skirt, or relaxed summer trousers suitable for travel.\",\n    \"headwear\": \"Vacation hat or straw hat.\",\n    \"accessories\": \"Sunglasses, minimal jewelry, small necklace, wristwatch.\"\n  },\n  \"scene\": {\n    \"location\": \"Inside a commercial airplane cabin.\",\n    \"background\": \"Rows of airplane seats and other passengers visible behind her, with faces clearly visible and natural, not blurred.\",\n    \"details\": \"Realistic in-flight atmosphere with subtle cabin textures, overhead bins, and window light.\"\n  },\n  \"camera\": {\n    \"angle\": \"Front-facing camera perspective, held with one hand slightly above eye level and angled downward.\",\n    \"lens\": \"Wide-angle front camera selfie lens.\",\n    \"aspect_ratio\": \"9:16\",\n    \"depth_of_field\": \"Balanced depth of field, keeping both the subject and background passengers naturally visible.\"\n  },\n  \"lighting\": {\n    \"type\": \"Soft ambient airplane cabin lighting combined with natural daylight from the window.\",\n    \"quality\": \"Even, natural lighting with gentle highlights and realistic shadows.\"\n  }\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_cfac3d3bf3f4.json"
+}

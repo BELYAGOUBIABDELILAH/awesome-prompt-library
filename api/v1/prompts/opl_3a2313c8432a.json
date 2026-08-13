@@ -1,0 +1,16 @@
+{
+  "id": "opl_3a2313c8432a",
+  "slug": "3d-fps-game",
+  "title": "3D FPS Game",
+  "prompt": "Develop a first-person shooter game using Three.js and JavaScript. Create detailed weapon models with realistic animations and effects. Implement precise hit detection and damage systems. Design multiple game levels with various environments and objectives. Add AI enemies with pathfinding and combat behaviors. Create particle effects for muzzle flashes, impacts, and explosions. Implement multiplayer mode with team-based objectives. Include weapon pickup and inventory system. Add sound effects for weapons, footsteps, and environment. Create detailed scoring and statistics tracking. Implement replay system for kill cams and match highlights.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3a2313c8432a.json"
+}

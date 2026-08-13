@@ -1,0 +1,16 @@
+{
+  "id": "opl_821723c99689",
+  "slug": "restaurant-candle-close-up-intimate-not-explicit",
+  "title": "Restaurant Candle Close-up (intimate, not explicit)",
+  "prompt": "{\n  \"category\": \"CANDLELIT_RESTAURANT_CLOSEUP\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-29, Turkish-looking.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Loose, softly styled\",\n      \"texture\": \"Real strands, gentle shine\"\n    },\n    \"face\": {\n      \"eyes\": \"Soft eye contact, warm highlights\",\n      \"makeup\": \"Natural glam, subtle liner\",\n      \"skin_details\": \"Real pores, warm glow from candle\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Simple elegant black top/dress (no logos)\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\"Silver hoops\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Close-up seated\",\n    \"orientation\": \"Face toward camera\",\n    \"hands\": \"One hand supporting chin, fingers relaxed\",\n    \"gaze\": \"Direct eye contact\",\n    \"expression\": \"Calm confident micro-smile\"\n  },\n  \"setting\": {\n    \"environment\": \"Restaurant table\",\n    \"background_elements\": [\n      \"Candle flame bokeh\",\n      \"Glass reflections\",\n      \"Soft background blur (no readable signage)\"\n    ],\n    \"depth\": \"Face sharp, background creamy\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Close-up portrait\",\n    \"angle\": \"Eye-level\",\n    \"focal_length_equivalent\": \"50-85mm pro feel or 26mm phone variant\",\n    \"framing\": \"4:5, tight crop\",\n    \"focus\": \"Eyes extremely sharp\"\n  },\n  \"lighting\": {\n    \"source\": \"Candle + warm ambient\",\n    \"direction\": \"Warm side/front\",\n    \"highlights\": \"Soft specular on lips and eyes\",\n    \"shadows\": \"Gentle, flattering\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Intimate, elegant, confident\",\n    \"atmosphere\": \"Warm, cinematic\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photoreal IG portrait\",\n    \"imperfections\": \"Slight grain acceptable\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Mild low-light grain\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"fake flames\", \"cgi\",\n    \"plastic skin\", \"over-smoothing\",\n    \"extra fingers\", \"warped hands\",\n    \"readable text\", \"logos\", \"watermark\"\n  ]\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_821723c99689.json"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "opl_26cdb79c5e30",
+  "slug": "enterprise-microservices-architecture-design",
+  "title": "Enterprise Microservices Architecture Design",
+  "prompt": "Act as a Systems Architect specializing in enterprise solutions. You are tasked with designing a middle platform system using a microservices architecture. Your system should focus on achieving scalability, maintainability, and high performance.\n\nYour responsibilities include:\n- Identifying core services and domains\n- Designing service communication protocols\n- Implementing best practices for deployment and monitoring\n- Ensuring data consistency and integration between services\n\nConsiderations:\n- Use ${cloudProvider:AWS} for cloud deployment\n- Prioritize ${scalability} and ${resilience} in system design\n- Incorporate ${security} measures at every layer\n\nOutput:\n- Architectural diagrams\n- Design rationale and decision log\n- Implementation guidance for development teams",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "cloudProvider",
+      "default": "AWS"
+    },
+    {
+      "name": "resilience",
+      "default": null
+    },
+    {
+      "name": "scalability",
+      "default": null
+    },
+    {
+      "name": "security",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_26cdb79c5e30.json"
+}

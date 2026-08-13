@@ -1,0 +1,21 @@
+{
+  "id": "opl_a42f31092d03",
+  "slug": "untitled-2",
+  "title": "السعوديه",
+  "prompt": "# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n${${variable}}\n- Step 1: ...قم بعمل صوره للامام محمد بن سعود ال سعود يبدو عليها الفخر والاعتزاز \n- Step 2: ...قم بوضع العلم والتاريخ ومعالم من السعوديه",
+  "category": "General",
+  "folder": "general",
+  "variables": [
+    {
+      "name": "${variable",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a42f31092d03.json"
+}

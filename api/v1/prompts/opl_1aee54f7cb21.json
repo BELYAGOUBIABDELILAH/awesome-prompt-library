@@ -1,0 +1,16 @@
+{
+  "id": "opl_1aee54f7cb21",
+  "slug": "the-midnight-informant",
+  "title": "The Midnight Informant",
+  "prompt": "{\n  \"title\": \"The Midnight Informant\",\n  \"description\": \"A tense, film noir moment featuring a female private investigator waiting for a lead in a hazy, underground jazz club.\",\n  \"prompt\": \"You will perform an image edit using the person from the provided photo as the main subject. Preserve her core likeness. Transform the subject (female) into a sharp-witted 1950s private investigator seated in a booth at a dimly lit, smoke-filled jazz club. The image must be Ultra-Photorealistic and Movie-Quality, evoking the golden age of Film Noir. Use dramatic lighting to highlight skin texture and fabric details. Keywords: photorealistic, cinematic lighting, highly detailed, shot on Arri Alexa, depth of field, volumetric fog, realistic physics.\",\n  \"details\": {\n    \"year\": \"1954\",\n    \"genre\": \"Cinematic Photorealism\",\n    \"location\": \"The Velvet Note, a crowded, subterranean jazz lounge in Chicago with red velvet booths and a small stage in the hazy background.\",\n    \"lighting\": [\n      \"Chiaroscuro\",\n      \"Volumetric shafts of light cutting through smoke\",\n      \"Warm tungsten table lamps\",\n      \"Rim lighting on hair\"\n    ],\n    \"camera_angle\": \"Eye-level medium close-up, shallow depth of field focusing strictly on the subject's eyes.\",\n    \"emotion\": [\n      \"Suspicious\",\n      \"Alert\",\n      \"Melancholic\"\n    ],\n    \"color_palette\": [\n      \"Deep shadow black\",\n      \"Amber gold\",\n      \"Burgundy red\",\n      \"Tobacco brown\"\n    ],\n    \"atmosphere\": [\n      \"Sultry\",\n      \"Mysterious\",\n      \"Claustrophobic\",\n      \"Noir\"\n    ],\n    \"environmental_elements\": \"Thick swirls of cigarette smoke filling the air, a half-empty glass of amber whiskey on the table, blurred silhouette of a double bass player in the background.\",\n    \"subject1\": {\n      \"costume\": \"A structured beige trench coat worn over a dark cocktail dress, leather gloves, and a wide-brimmed fedora tilted slightly forward.\",\n      \"subject_expression\": \"A piercing, guarded gaze, eyes scanning the room, lips pressed in a tight line.\",\n      \"subject_action\": \"One hand rests on a manila folder on the table, the other hovers near her whiskey glass.\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"daylight\",\n        \"modern technology\",\n        \"smartphones\",\n        \"casual clothing\",\n        \"bright sunshine\",\n        \"blue skies\"\n      ],\n      \"exclude_styles\": [\n        \"cartoon\",\n        \"3D render\",\n        \"anime\",\n        \"sketch\",\n        \"impressionism\",\n        \"oversaturated\"\n      ],\n      \"exclude_colors\": [\n        \"Neon green\",\n        \"Hot pink\",\n        \"Cyan\"\n      ],\n      \"exclude_objects\": [\n        \"cars\",\n        \"weapons drawn\",\n        \"animals\"\n      ]\n    }\n  }\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1aee54f7cb21.json"
+}

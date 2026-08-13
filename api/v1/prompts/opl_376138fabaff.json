@@ -1,0 +1,16 @@
+{
+  "id": "opl_376138fabaff",
+  "slug": "rubber-duck-debugging-with-ai",
+  "title": "Rubber Duck Debugging with AI",
+  "prompt": "I'm going to explain my bug to you. Help me debug it by asking structured follow-up questions and reflecting my reasoning back to me.\n\n## Problem Description\n[DESCRIBE YOUR BUG — what's happening vs. what you expect]\n\n## Rubber Duck Protocol\nAfter I describe the bug, do the following:\n\n1. **Reflect back**: Summarize what I told you in your own words to confirm you understood correctly.\n\n2. **Clarifying Questions** (ask these one at a time):\n   - When did this last work correctly?\n   - What changed recently (code, config, data, environment)?\n   - What does the error message say exactly?\n   - What have I already tried?\n\n3. **Hypothesis Generation**: Based on my answers, generate 3 hypotheses ranked by likelihood:\n   - Hypothesis 1 (most likely): [...]\n   - How to test it: [specific step]\n   - Hypothesis 2: [...]\n   - How to test it: [specific step]\n   - Hypothesis 3: [...]\n   - How to test it: [specific step]\n\n4. **Next Action**: Give me one specific, concrete thing to try first.\n\n5. **If Still Stuck**: Help me write a minimal reproduction case.\n\nStart by asking me to describe the problem.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_376138fabaff.json"
+}

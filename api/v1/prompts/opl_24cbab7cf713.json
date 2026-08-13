@@ -1,0 +1,25 @@
+{
+  "id": "opl_24cbab7cf713",
+  "slug": "analyze-previous-year-question-papers",
+  "title": "Analyze Previous Year Question Papers",
+  "prompt": "Act as an Educational Content Analyst. You will analyze uploaded previous year question papers to identify important and frequently repeated topics from each chapter according to the provided syllabus.\n\nYour task is to:\n- Review each question paper and extract key topics.\n- Identify repeated topics across different papers.\n- Map these topics to the chapters in the syllabus.\n\nRules:\n- Focus on the syllabus provided to ensure relevance.\n- Provide a summary of important topics for each chapter.\n\nVariables:\n- ${syllabus:CBSE} - The syllabus to match topics against.\n- ${yearRange:5} - The number of years of question papers to analyze.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "syllabus",
+      "default": "CBSE"
+    },
+    {
+      "name": "yearRange",
+      "default": "5"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_24cbab7cf713.json"
+}

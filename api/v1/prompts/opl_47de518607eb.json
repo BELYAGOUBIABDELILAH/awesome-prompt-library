@@ -1,0 +1,16 @@
+{
+  "id": "opl_47de518607eb",
+  "slug": "troubleshoot-production-issue",
+  "title": "Troubleshoot Production Issue",
+  "prompt": "PRODUCTION INCIDENT — help me diagnose and resolve this quickly:\n\nWhat's broken: [DESCRIBE THE ISSUE]\nWho is affected: [% of users / specific customers / all users]\nSeverity: [Critical / High / Medium]\nStarted: [WHEN]\nAlerts triggered: [WHICH MONITORS FIRED]\n\n## Immediate Triage (first 5 minutes)\n\n### Is it still happening?\nCheck: [specific URL or command to verify]\n\n### Scope\n- All regions or specific? [...]\n- All users or specific segment? [...]\n- All features or specific flows? [...]\n\n### Recent Changes\nWhat deployed in the last 24 hours? [list]\nAny infra changes? [list]\n\n## Diagnosis Checklist\n[ ] Error rates: spiking in which services?\n[ ] Latency: which endpoints are slow?\n[ ] Database: connection pool exhausted? slow queries?\n[ ] External services: are 3rd-party APIs returning errors?\n[ ] Infrastructure: CPU/memory/disk normal?\n\n## Most Likely Cause\nBased on the above: [root cause hypothesis]\n\n## Mitigation Options (pick the fastest)\n1. Rollback [service] to [previous version] — ETA: [X minutes]\n2. Feature flag: disable [feature] — ETA: [X minutes]\n3. Scale up [service] — ETA: [X minutes]\n\n## Communication\nDraft a status page update: [clear, non-technical, no blame]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_47de518607eb.json"
+}

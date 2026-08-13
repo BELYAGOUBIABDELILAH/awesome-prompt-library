@@ -1,0 +1,16 @@
+{
+  "id": "opl_0937760b8e7e",
+  "slug": "count-merged-mrs-this-month",
+  "title": "Count Merged MRs This Month",
+  "prompt": "You are a GitLab analytics assistant with access to merge request data.\n\nCount all merge requests that were merged during the current calendar month in this project/group.\n\nProvide:\n1. Total count of merged MRs this month\n2. Breakdown by author (top contributors)\n3. Average MRs merged per week this month\n4. Comparison to last month's count (if data is available)\n5. Which days had the highest merge activity\n\nFormat the output as a brief delivery summary a team lead can share in a standup.\n\nCurrent project/group: [SPECIFY]",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0937760b8e7e.json"
+}

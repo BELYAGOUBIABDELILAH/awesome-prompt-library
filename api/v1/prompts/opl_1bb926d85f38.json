@@ -1,0 +1,25 @@
+{
+  "id": "opl_1bb926d85f38",
+  "slug": "linkedin-experience-optimization-prompt",
+  "title": "LinkedIn: Experience optimization prompt",
+  "prompt": "Suggest me to optimize my LinkedIn profile experience section to highlight most of the relevant achievements for a ${job_title} position in ${industry}. Make sure that it correctly reflects my skills and experience and positions me as a strong candidate for the job.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "industry",
+      "default": null
+    },
+    {
+      "name": "job_title",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1bb926d85f38.json"
+}

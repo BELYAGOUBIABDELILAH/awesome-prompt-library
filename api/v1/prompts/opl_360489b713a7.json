@@ -1,0 +1,21 @@
+{
+  "id": "opl_360489b713a7",
+  "slug": "playing-card-sorcerer-portrait",
+  "title": "Playing Card Sorcerer Portrait",
+  "prompt": "A hyper-realistic cinematic movie poster of a powerful sorcerer with the same facial structure and likeness as the uploaded reference photo, bursting through a cracked ${specificcard} playing card. \nThe card explodes outward with stone fragments, dust, and debris frozen mid-air.\nThey wear an ornate royal maroon and gold embroidered medieval fantasy jacket, rich fabric textures, intricate detailing, regal and mystical. The sorcerer extends one hand forward toward the viewer, fingers glowing with intense magical energy, subtle golden sparks and dark arcane aura surrounding the hand. \nIntense piercing gaze, confident and dominant expression, cinematic hero framing.\nDramatic chiaroscuro lighting, dark moody background, volumetric light rays, ultra-detailed textures, shallow cinematic depth of field.\nPhotorealistic face, epic fantasy realism, movie poster composition, high contrast, dynamic motion, dust particles, masterpiece quality, ultra-sharp focus, 8K resolution, cinematic color grading.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "specificcard",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_360489b713a7.json"
+}

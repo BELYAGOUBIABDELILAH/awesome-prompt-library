@@ -1,0 +1,25 @@
+{
+  "id": "opl_58afaa85eed7",
+  "slug": "dark-style-image-prompt",
+  "title": "Dark Style Image Prompt",
+  "prompt": "Create an image with a ${style:dark} aesthetic. Your image should feature:\n\n- **Lighting:** Moody and low-key, highlighting shadows.\n- **Color Palette:** Dark tones with high contrast.\n- **Elements:** Include mysterious or shadowy figures, gothic architecture, or night-time scenery.\n\nFeel free to adjust the ${elements} to match your vision of a dark style image.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "elements",
+      "default": null
+    },
+    {
+      "name": "style",
+      "default": "dark"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_58afaa85eed7.json"
+}

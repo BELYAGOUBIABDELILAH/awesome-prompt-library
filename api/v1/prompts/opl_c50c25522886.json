@@ -1,0 +1,21 @@
+{
+  "id": "opl_c50c25522886",
+  "slug": "cinematic-street-photography-prompt",
+  "title": "Cinematic Street Photography Prompt",
+  "prompt": "{\n  \"colors\": {\n    \"color_temperature\": \"warm\",\n    \"contrast_level\": \"medium\",\n    \"dominant_palette\": [\n      \"brown\",\n      \"beige\",\n      \"muted teal\",\n      \"cream\"\n    ]\n  },\n  \"composition\": {\n    \"camera_angle\": \"eye-level\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"A young ${gender} laughing\",\n    \"framing\": \"The main subject is framed by a blurred crowd in the background and a camera in the foreground. The camera's screen creates a frame-within-a-frame, emphasizing the act of photography.\"\n  },\n  \"description_short\": \"An over-the-shoulder shot of a photographer taking a picture of a joyful young ${gender} laughing heartily in the middle of a blurred crowd.\",\n  \"environment\": {\n    \"location_type\": \"outdoor\",\n    \"setting_details\": \"A busy, crowded public space, likely a city street or plaza. The background is filled with many people, all rendered as a soft blur, with some red bokeh lights visible.\",\n    \"time_of_day\": \"afternoon\",\n    \"weather\": \"cloudy\"\n  },\n  \"lighting\": {\n    \"intensity\": \"moderate\",\n    \"source_direction\": \"front\",\n    \"type\": \"natural\"\n  },\n  \"mood\": {\n    \"atmosphere\": \"A candid moment of pure joy\",\n    \"emotional_tone\": \"joyful\"\n  },\n  \"narrative_elements\": {\n    \"character_interactions\": \"A photographer is capturing a candid, happy moment of a ${gender}, suggesting a positive and comfortable rapport between them.\",\n    \"environmental_storytelling\": \"The crowded, out-of-focus background highlights the ${gender} as a singular point of happiness and calm within a bustling environment, making the moment feel personal and intimate.\",\n    \"implied_action\": \"A photoshoot is actively in progress, capturing a spontaneous reaction from the subject.\"\n  },\n  \"objects\": [\n    \"camera\",\n    \"${gender}\",\n    \"crowd\"\n  ],\n  \"people\": {\n    \"ages\": [\n      \"young adult\"\n    ],\n    \"clothing_style\": \"casual winter wear\",\n    \"count\": \"unknown\",\n    \"genders\": [\n      \"female\"\n    ]\n  },\n  \"prompt\": \"Cinematic street photography from an over-the-shoulder perspective. A photographer holds a digital camera, its screen displaying the shot. The subject is a beautiful young Asian ${gender} with wavy brown hair, who is bursting into a joyful, open-mouthed laugh. She wears a cozy cream-colored knit sweater. The background is a dense, anonymous crowd, completely blurred with soft bokeh lights. The image has a warm, vintage color grade, shallow depth of field, and captures a candid, heartwarming moment of pure happiness.\",\n  \"style\": {\n    \"art_style\": \"realistic\",\n    \"influences\": [\n      \"street photography\",\n      \"candid portraiture\",\n      \"cinematic\"\n    ],\n    \"medium\": \"photography\"\n  },\n  \"technical_tags\": [\n    \"shallow depth of field\",\n    \"bokeh\",\n    \"over-the-shoulder shot\",\n    \"candid photography\",\n    \"portrait\",\n    \"frame within a frame\",\n    \"warm tones\"\n  ],\n  \"use_case\": \"Stock photography for themes of happiness, urban life, photography, and candid moments.\",\n  \"uuid\": \"c0e1b01c-e07e-41b1-b035-f8802d8ec319\"\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "gender",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c50c25522886.json"
+}

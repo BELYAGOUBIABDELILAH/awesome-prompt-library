@@ -1,0 +1,16 @@
+{
+  "id": "opl_835166ad7289",
+  "slug": "minimal-studio-iphone-candid-pro-quality-but-awkward-framing",
+  "title": "Minimal Studio “iPhone Candid” (pro-quality but awkward framing)",
+  "prompt": "{\n  \"category\": \"STUDIO_IPHONE_CANDID_AWKWARD_FRAMING\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-27, Turkish-looking, youthful vibe but adult.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Natural loose waves\",\n      \"texture\": \"Strands visible, slight flyaways\"\n    },\n    \"face\": {\n      \"eyes\": \"Bright, direct\",\n      \"skin_details\": \"High fidelity pores, no smoothing\",\n      \"makeup\": \"Clean natural\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Simple black top (no logos)\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\"Silver hoops\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Close-up/half-body candid\",\n    \"orientation\": \"Slightly too-close crop, imperfect framing\",\n    \"hands\": \"One hand briefly in frame near hairline (fingers correct)\",\n    \"gaze\": \"Direct eye contact\",\n    \"expression\": \"Playful micro-smile\"\n  },\n  \"setting\": {\n    \"environment\": \"Plain studio wall\",\n    \"background_elements\": [\n      \"Subtle wall texture\",\n      \"No props\"\n    ],\n    \"depth\": \"Face sharp, background soft\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Phone-candid look in a clean space\",\n    \"angle\": \"Slightly above eye-level\",\n    \"focal_length_equivalent\": \"26mm phone feel\",\n    \"framing\": \"4:5 with awkward crop (slightly cutting hair/top space)\",\n    \"focus\": \"Eyes sharp\"\n  },\n  \"lighting\": {\n    \"source\": \"Soft diffused key light\",\n    \"direction\": \"Front/side gentle\",\n    \"quality\": \"Natural, not glossy\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Candid, playful, everyday\",\n    \"atmosphere\": \"Looks unplanned but still flattering\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photoreal UGC\",\n    \"imperfections\": \"Tiny noise, imperfect composition\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Mild\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"over-retouch\", \"beauty filter\",\n    \"plastic skin\", \"cgi\",\n    \"extra fingers\", \"warped hands\",\n    \"readable text\", \"logos\", \"watermark\"\n  ]\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_835166ad7289.json"
+}

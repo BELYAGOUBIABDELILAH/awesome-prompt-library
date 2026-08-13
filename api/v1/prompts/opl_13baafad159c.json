@@ -1,0 +1,16 @@
+{
+  "id": "opl_13baafad159c",
+  "slug": "generate-hardware-interface-code",
+  "title": "Generate Hardware Interface Code",
+  "prompt": "Generate hardware interface code for the following:\n\nProtocol: [I2C / SPI / UART / GPIO / PWM / ADC]\nTarget device/sensor: [PART NAME — e.g., MPU-6050, SSD1306, MAX31855]\nMicrocontroller: [SPECIFY — e.g., STM32F4, ESP32, Arduino Uno, Raspberry Pi Pico]\nLanguage: [C / C++ / MicroPython / CircuitPython]\nHAL/Framework: [bare metal / STM32 HAL / Arduino / ESP-IDF]\n\n## Interface Code\n\n### Initialization\n- Configure GPIO pins and alternate functions\n- Initialize peripheral (I2C/SPI/UART) with correct settings\n- Device-specific initialization sequence\n\n### Read Operations\n- Single register read\n- Burst/sequential read\n- With proper error checking and timeout\n\n### Write Operations\n- Single register write\n- Burst write\n- With proper error checking\n\n### Interrupt Handling\n- Configure interrupt pin (if device has one)\n- ISR (Interrupt Service Routine) — keep it short and fast\n- Main thread processing of interrupt data (use flags/queues, not processing in ISR)\n\n### Error Handling\n- Communication timeout\n- Device not responding (NAK)\n- CRC/checksum errors\n- Retry logic with exponential backoff\n\n### Example Usage\nComplete working example that initializes the device and reads data in a loop.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_13baafad159c.json"
+}

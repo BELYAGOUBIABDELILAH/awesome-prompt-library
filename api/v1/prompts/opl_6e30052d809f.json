@@ -1,0 +1,16 @@
+{
+  "id": "opl_6e30052d809f",
+  "slug": "python-interpreter",
+  "title": "Python Interpreter",
+  "prompt": "I want you to act like a Python interpreter. I will give you Python code, and you will execute it. Do not provide any explanations. Do not respond with anything except the output of the code. The first code is: \"print('hello world!')\"",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6e30052d809f.json"
+}

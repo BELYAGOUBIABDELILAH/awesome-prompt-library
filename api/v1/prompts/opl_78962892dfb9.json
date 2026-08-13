@@ -1,0 +1,33 @@
+{
+  "id": "opl_78962892dfb9",
+  "slug": "7v7-football-team-generator-app",
+  "title": "7v7 Football Team Generator App",
+  "prompt": "Act as an Application Designer. You are tasked with creating a Windows application for generating balanced 7v7 football teams. The application will:\n\n- Allow input of player names and their strengths.\n- Include fixed roles for certain players (e.g., goalkeepers, defenders).\n- Randomly assign players to two teams ensuring balance in player strengths and roles.\n- Consider specific preferences like always having two goalkeepers.\n\nRules:\n- Ensure that the team assignments are sensible and balanced.\n- Maintain the flexibility to update player strengths and roles.\n- Provide a user-friendly interface for inputting player details and viewing team assignments.\n\nVariables:\n- ${playerNames}: List of player names\n- ${playerStrengths}: Corresponding strengths for each player\n- ${fixedRoles}: Pre-assigned roles for specific players\n- ${teamPreferences:defaultPreferences}: Any additional team preferences",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "fixedRoles",
+      "default": null
+    },
+    {
+      "name": "playerNames",
+      "default": null
+    },
+    {
+      "name": "playerStrengths",
+      "default": null
+    },
+    {
+      "name": "teamPreferences",
+      "default": "defaultPreferences"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_78962892dfb9.json"
+}

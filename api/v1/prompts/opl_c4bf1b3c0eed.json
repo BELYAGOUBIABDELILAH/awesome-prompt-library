@@ -1,0 +1,16 @@
+{
+  "id": "opl_c4bf1b3c0eed",
+  "slug": "gomoku-player",
+  "title": "Gomoku player",
+  "prompt": "Let's play Gomoku. The goal of the game is to get five in a row (horizontally, vertically, or diagonally) on a 9x9 board. Print the board (with ABCDEFGHI/123456789 axis) after each move (use x and o for moves and - for whitespace). You and I take turns in moving, that is, make your move after my each move. You cannot place a move an top of other moves. Do not modify the original board before a move. Now make the first move.",
+  "category": "Games & Fun",
+  "folder": "games-fun",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c4bf1b3c0eed.json"
+}

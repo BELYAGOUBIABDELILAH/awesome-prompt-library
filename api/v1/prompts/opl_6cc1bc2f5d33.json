@@ -1,0 +1,16 @@
+{
+  "id": "opl_6cc1bc2f5d33",
+  "slug": "issue-closure-rate-comparison",
+  "title": "Issue Closure Rate Comparison",
+  "prompt": "Analyze issue closure rates across the past [N] months for: [PROJECT/GROUP]\n\nFor each month, provide:\n- Total issues opened\n- Total issues closed\n- Net change (opened - closed)\n- Closure rate percentage (closed / opened × 100)\n\nThen provide:\n\n## Trend Analysis\n- Is the team accelerating, decelerating, or stable?\n- Identify any months with notable spikes or drops\n- Highlight any correlation with sprint cadence, releases, or team size changes\n\n## Health Signal\nRate the team's throughput health as:  Healthy /  Watch /  Concern\nExplain the rating in 2 sentences.\n\nOutput as a table + short narrative. Keep it scannable.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6cc1bc2f5d33.json"
+}

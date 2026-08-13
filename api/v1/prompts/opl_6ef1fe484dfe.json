@@ -1,0 +1,16 @@
+{
+  "id": "opl_6ef1fe484dfe",
+  "slug": "terminal-velocity",
+  "title": "Terminal Velocity",
+  "prompt": "{\n  \"title\": \"Terminal Velocity\",\n  \"description\": \"A high-stakes action frame capturing a woman sprinting through a crumbling industrial tunnel amidst sparks and chaos.\",\n  \"prompt\": \"You will perform an image edit to create an Ultra-Photorealistic, Movie-Quality action shot. The result must be photorealistic, highly detailed, and feature cinematic lighting. Emulate the look of a blockbuster film shot on Arri Alexa with a shallow depth of field. Depict Subject 1 sprinting towards the camera in a dark, collapsing industrial tunnel, surrounded by flying sparks and falling debris.\",\n  \"details\": {\n    \"year\": \"Contemporary Action Thriller\",\n    \"genre\": \"Cinematic Photorealism\",\n    \"location\": \"A dilapidated, steam-filled industrial maintenance tunnel with flickering lights and exposed wiring.\",\n    \"lighting\": [\n      \"High-contrast chiaroscuro\",\n      \"Warm backlight from exploding sparks\",\n      \"Cold, gritty fluorescent ambient light\",\n      \"Volumetric lighting through steam\"\n    ],\n    \"camera_angle\": \"Low-angle frontal tracking shot with motion blur on the background.\",\n    \"emotion\": [\n      \"Adrenaline\",\n      \"Panic\",\n      \"Determination\"\n    ],\n    \"color_palette\": [\n      \"Concrete grey\",\n      \"Hazard orange\",\n      \"Steel blue\",\n      \"Deep shadow black\"\n    ],\n    \"atmosphere\": [\n      \"Chaotic\",\n      \"Explosive\",\n      \"Gritty\",\n      \"Claustrophobic\"\n    ],\n    \"environmental_elements\": \"Cascading electrical sparks, motion-blurred debris, steam venting from broken pipes, wet concrete floor reflecting the chaos.\",\n    \"subject1\": {\n      \"costume\": \"black mini skirt, white crop top, leather fingerless gloves\",\n      \"subject_expression\": \"Intense focus with mouth slightly parted in exertion, sweat glistening on skin, hair flying back.\",\n      \"subject_action\": \"running\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"sunlight\",\n        \"calm environment\",\n        \"clean surfaces\",\n        \"smiling\",\n        \"standing still\"\n      ],\n      \"exclude_styles\": [\n        \"cartoon\",\n        \"3d render\",\n        \"illustration\",\n        \"sketch\",\n        \"low resolution\"\n      ],\n      \"exclude_colors\": [\n        \"pastel pink\",\n        \"vibrant green\",\n        \"soft colors\"\n      ],\n      \"exclude_objects\": [\n        \"trees\",\n        \"sky\",\n        \"animals\",\n        \"vehicles\"\n      ]\n    }\n  }\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6ef1fe484dfe.json"
+}

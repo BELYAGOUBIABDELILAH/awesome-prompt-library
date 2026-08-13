@@ -1,0 +1,16 @@
+{
+  "id": "opl_f2960ee3443b",
+  "slug": "break-down-epic-into-issues",
+  "title": "Break Down Epic into Issues",
+  "prompt": "Break down this epic into well-scoped, implementable issues:\n\nEpic title: [EPIC TITLE]\nEpic description: [PASTE EPIC DESCRIPTION]\nTeam size: [N developers]\nSprint length: [1 / 2 weeks]\n\n## Decomposition Approach\n1. Identify the major capabilities the epic delivers\n2. Split each capability into the smallest valuable deliverable\n3. Identify dependencies between pieces\n4. Estimate relative size\n\n## Issues Generated\nFor each issue, provide:\n\n### Issue: [TITLE]\n**Type:** Feature / Task / Bug / Spike\n**Size:** XS (< 2h) / S (2–4h) / M (1d) / L (2–3d) / XL (needs splitting)\n**Depends on:** [Issue N — if applicable]\n**Blocks:** [Issue N — if applicable]\n\n**Description:**\nAs a [user type], I want [action] so that [benefit].\n\n**Acceptance Criteria:**\n- [ ] [Criterion 1]\n- [ ] [Criterion 2]\n- [ ] [Criterion 3]\n\n**Technical Notes:**\n[Implementation hints, files to change, APIs to use]\n\n## Dependency Map\n[Issue 1] → [Issue 2] → [Issue 3]\n[Issue 4] (independent)\n\n## Sprint Plan Suggestion\nSprint 1: [Issues that can start immediately]\nSprint 2: [Issues that depend on Sprint 1]\n\n## Risks\n[Anything that could block this epic from being delivered on time]",
+  "category": "Documentation",
+  "folder": "documentation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f2960ee3443b.json"
+}

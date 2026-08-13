@@ -1,0 +1,16 @@
+{
+  "id": "opl_a03d001fd94c",
+  "slug": "objection-handling",
+  "title": "Objection Handling",
+  "prompt": "Create a personalized response to a customer pain point based on their industry and role.\nFor the objection: [OBJECTION]\n1. Acknowledge the concern genuinely (1 sentence)\n2. Reframe it with relevant context (1–2 sentences)\n3. Address it with evidence: data point, case study, or feature explanation\n4. Provide a next step that reduces risk for them (trial, pilot, demo, reference call)\nKeep under 150 words. Avoid sounding defensive or salesy.",
+  "category": "Sales & Business",
+  "folder": "sales-business",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a03d001fd94c.json"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "opl_dbfe5a9befed",
+  "slug": "note-guru",
+  "title": "Note Guru",
+  "prompt": "Analyze all files in the folder named '${main_folder}` located at `${path_to_folder}`/ and perform the following tasks:\n\n## Task 1: Extract Sensitive Data\nReview every file thoroughly and identify all sensitive information including API keys, passwords, tokens, credentials, private keys, secrets, connection strings, and any other confidential data. Create a new file called `secrets.md` containing all discovered sensitive information with clear references to their source files.\n\n## Task 2: Organize by Topic\nAfter completing the secrets extraction, analyze the content of each file again. Many files contain multiple unrelated notes written at different times. Your job is to:\n\n1. Identify the '${topic_max}' most prominent topics across all files based on content frequency and importance\n2. Create '${topic_max}' new markdown files, one for each topic, named `${topic:#}.md` where you choose descriptive topic names\n3. For each note segment in the original files:\n   - Copy it to the appropriate topic file\n   - Add a reference number in the original file next to that note (e.g., `${topic:2}` or `→ Security:2`)\n   - This reference helps verify the migration later\n\n## Task 3: Archive Original Files\nOnce all notes from an original file have been copied to their respective topic files and reference numbers added, move that original file into a new folder called `${archive_folder:old}`.\n\n## Expected Final Structure\n```\n${main_folder}/\n├── secrets.md (1 file)\n├── ${topic:1}.md (topic files total)\n├── ${topic:2}.md\n├── ..... (more topic files)\n├── ${topic:#}.md\n└── ${archive_folder:old}/\n      └── (all original files)\n```\n\n## Important Guidelines\n- Be thorough in your analysis—read every file completely\n- Maintain the original content when copying to topic files\n- Choose topic names that accurately reflect the content clusters you find\n- Ensure every note segment gets categorized\n- Keep reference numbers clear and consistent\n- Only move files to the archive folder after confirming all content has been properly migrated\n\nBegin with `${path_to_folder}` and let me know when you need clarification on any ambiguous content during the organization process.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "archive_folder",
+      "default": "old"
+    },
+    {
+      "name": "main_folder",
+      "default": null
+    },
+    {
+      "name": "path_to_folder",
+      "default": null
+    },
+    {
+      "name": "topic",
+      "default": "#"
+    },
+    {
+      "name": "topic_max",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_dbfe5a9befed.json"
+}

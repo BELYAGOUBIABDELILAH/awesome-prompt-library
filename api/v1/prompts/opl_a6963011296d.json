@@ -1,0 +1,16 @@
+{
+  "id": "opl_a6963011296d",
+  "slug": "repo-to-blog-post",
+  "title": "Repo To Blog Post",
+  "prompt": "Converts user's GitHub repository README into a blog post draft, including the repository link. If the repository URL is not provided in the input, request it from user to include in the output.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a6963011296d.json"
+}

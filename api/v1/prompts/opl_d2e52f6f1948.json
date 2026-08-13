@@ -1,0 +1,16 @@
+{
+  "id": "opl_d2e52f6f1948",
+  "slug": "draft-blog-from-launch-document",
+  "title": "Draft Blog from Launch Document",
+  "prompt": "Draft a 300-word blog post intro based on the provided Launch document URL.\nFocus on: key announcement, value to the reader, and a compelling hook that drives them to read more.\nWrite in an active, direct tone. No corporate speak. Lead with the benefit, not the feature.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d2e52f6f1948.json"
+}

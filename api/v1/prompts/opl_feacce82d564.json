@@ -1,0 +1,16 @@
+{
+  "id": "opl_feacce82d564",
+  "slug": "generate-a-risk-assessment",
+  "title": "Generate a Risk Assessment",
+  "prompt": "Generate a comprehensive risk assessment for this work item:\n\nWork item: [PASTE ISSUE / EPIC / PROJECT DESCRIPTION]\n\n## Risk Assessment\n\n### Scope of Assessment\nWhat is being built/changed and what could go wrong?\n\n### Risk Register\n\nFor each risk identified, complete this entry:\n\n| # | Risk Description | Likelihood (1-5) | Impact (1-5) | Score (L×I) | Mitigation | Owner |\n|---|---|---|---|---|---|---|\n\nRisk categories to assess:\n\n**Technical Risks**\n- Implementation complexity\n- Integration failures\n- Performance degradation\n- Data integrity issues\n- Security vulnerabilities\n\n**Timeline Risks**\n- Dependency delays\n- Scope creep\n- Underestimated complexity\n- Resource availability\n\n**Business Risks**\n- User adoption\n- Regulatory compliance\n- Competitive response\n- Revenue impact\n\n**Operational Risks**\n- Deployment failures\n- Rollback complexity\n- Support burden increase\n\n### Top 3 Risks (Most Critical)\nDeep dive on the highest-scoring risks:\nRisk: [description]\nScenario: [what exactly could go wrong]\nMitigation plan: [specific steps to reduce likelihood or impact]\nContingency: [what to do if it happens anyway]\n\n### Risk Acceptance\nRisks we're accepting without mitigation (and why):\n[List with justification]",
+  "category": "Documentation",
+  "folder": "documentation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_feacce82d564.json"
+}

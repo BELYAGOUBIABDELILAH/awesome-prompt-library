@@ -1,0 +1,16 @@
+{
+  "id": "opl_7df8aee376ca",
+  "slug": "drunk-woman",
+  "title": "Drunk Woman",
+  "prompt": "{\n  \"character_profile\": {\n    \"name\": \"Natalia Martínez Ruiz\",\n    \"subject\": \"Full-body 3/4 view portrait of a 23-year-old woman\",\n    \"physical_features\": {\n      \"ethnicity\": \"Southern European\",\n      \"age_appearance\": \"Youthful, soft and fresh facial features\",\n      \"hair\": \"Dark brown, wavy, messy and disheveled\",\n      \"eyes\": \"Deep green with amber flecks, glazed and unfocused look, smudged mascara\",\n      \"complexion\": \"Olive skin tone, slightly sweaty and glowing\",\n      \"physique\": \"Slender with extremely voluminous and prominent breasts, overflowing from the neckline, very feminine and curvy proportions\",\n      \"details\": \"Gold wedding band on the right ring finger\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Extremely short and tight black silk slip dress, spaghetti straps, black lace thigh-high stockings (autoreggenti) with visible garters, black stilettos\",\n      \"condition\": \"Disordered, one strap falling off the shoulder\"\n    }\n  },\n  \"scene_details\": {\n    \"location\": \"Contemporary Roman apartment, minimalist and clean interior\",\n    \"lighting\": \"Natural cinematic light, soft daylight dominant, subtle neon reflections, artistic shadows\",\n    \"pose\": \"3/4 perspective, leaning against a white wall, legs slightly apart, head tilted back in a state of surrender\",\n    \"atmosphere\": \"Intimate, raw, hedonistic, less chaotic, sophisticated but vulnerable\"\n  },\n  \"technical_parameters\": {\n    \"camera\": \"Sony A7R IV, 35mm lens\",\n    \"style\": \"Hyper-realistic photography, high grain, cinematic film aesthetic\",\n    \"format\": \"Vertical, 9:16 aspect ratio\",\n    \"details\": \"High skin texture, visible pores, sharp focus on the subject, clean background with minimal symbolic party debris\"\n  }\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7df8aee376ca.json"
+}

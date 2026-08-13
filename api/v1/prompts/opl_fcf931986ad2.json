@@ -1,0 +1,16 @@
+{
+  "id": "opl_fcf931986ad2",
+  "slug": "rainy-umbrella-street-full-body",
+  "title": "Rainy Umbrella Street (full-body)",
+  "prompt": "{\n  \"category\": \"RAINY_CITY_UMBRELLA_FULLBODY\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-27, Turkish-looking.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Slightly damp strands, tucked behind ears\",\n      \"texture\": \"Wet sheen realistic, not greasy\",\n      \"movement\": \"A few strands stick lightly to cheek\"\n    },\n    \"face\": {\n      \"eyes\": \"Bright eye contact, reflective catchlights\",\n      \"skin_details\": \"Natural texture, slight moisture realism\",\n      \"makeup\": \"Minimal, water-resistant look\"\n    },\n    \"clothing\": {\n      \"outerwear\": \"Raincoat or trench (no logos)\",\n      \"fabric\": \"Slight wet sheen and droplets visible\"\n    },\n    \"accessories\": {\n      \"umbrella\": \"Clear umbrella with raindrops\",\n      \"jewelry\": [\"Small silver hoops\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Full-body walking candid\",\n    \"orientation\": \"Mid-stride, slight turn toward camera\",\n    \"hands\": \"One hand holding umbrella handle, other in coat pocket\",\n    \"gaze\": \"Soft smile, eye contact\",\n    \"posture\": \"Relaxed, natural walk\"\n  },\n  \"setting\": {\n    \"environment\": \"Rainy city street at dusk\",\n    \"background_elements\": [\n      \"Wet pavement reflections\",\n      \"Streetlight bokeh\",\n      \"Light drizzle visible (fine droplets, not smoke/fog)\"\n    ],\n    \"depth\": \"Subject clear, background blurred\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Full-body street photo\",\n    \"angle\": \"Eye level\",\n    \"focal_length_equivalent\": \"26mm phone or 35mm editorial\",\n    \"framing\": \"4:5, subject slightly off-center\",\n    \"focus\": \"Face sharp, motion blur minimal\"\n  },\n  \"lighting\": {\n    \"source\": \"Streetlights + ambient sky\",\n    \"direction\": \"Soft top/side glows\",\n    \"highlights\": \"Raindrop specular highlights on umbrella\",\n    \"shadows\": \"Soft, realistic\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Moody, cozy, stylish\",\n    \"expression\": \"Gentle smile, calm confidence\",\n    \"atmosphere\": \"Cinematic rain realism\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photorealistic street candid\",\n    \"imperfections\": \"Mild noise, slight blur in background only\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Phone-like grain in low light\",\n    \"motion_blur\": \"Slight in background reflections only\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"smoke\", \"fog machine look\", \"watergun splash\",\n    \"extra limbs\", \"warped umbrella spokes\",\n    \"readable signs\", \"logos\", \"watermark\"\n  ]\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fcf931986ad2.json"
+}

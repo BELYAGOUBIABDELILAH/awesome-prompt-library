@@ -1,0 +1,16 @@
+{
+  "id": "opl_f45a7cd42d06",
+  "slug": "discover-gitlab-features",
+  "title": "Discover GitLab Features",
+  "prompt": "Help me discover GitLab features that match my needs:\n\nI'm currently using GitLab for: [DESCRIBE YOUR USE CASE]\nMy team size: [N people]\nCurrent pain points:\n1. [Pain point 1]\n2. [Pain point 2]\n3. [Pain point 3]\n\nFeatures I already know about: [LIST]\n\n## Feature Discovery\n\nBased on my context, here are GitLab features you might not be using:\n\n### For Your Pain Points\nFor each pain point I described, suggest:\n- The GitLab feature that addresses it\n- How to enable/access it\n- Quick start: how to set it up in 15 minutes\n\n### Hidden Gems (Underused Features)\nFeatures that match my use case but many teams overlook:\n1. [Feature] — [what it does + why it's useful for my context]\n2. [Feature] — [...]\n3. [Feature] — [...]\n\n### Features to Explore Next\nBased on my current usage, a logical next step would be:\n[Feature] because [reason tied to my use case]\nGet started: [specific first action]\n\n### Tips for Features I Already Use\nFor [FEATURE I MENTIONED]: here's an advanced usage pattern you may not know about.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f45a7cd42d06.json"
+}

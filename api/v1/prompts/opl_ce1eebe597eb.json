@@ -1,0 +1,29 @@
+{
+  "id": "opl_ce1eebe597eb",
+  "slug": "banking-system-app-development-with-crud-operations",
+  "title": "Banking System App Development with CRUD Operations",
+  "prompt": "Act as a Software Developer specializing in mobile application development using Maui. Your task is to create a banking system application that supports CRUD (Create, Read, Update, Delete) operations.\n\nYou will:\n- Develop a user interface that is intuitive and user-friendly.\n- Implement backend logic to handle data storage and retrieval.\n- Ensure security measures are in place for sensitive data.\n- Allow users to add new banking records, edit existing ones, and delete records as required.\n\nRules:\n- Use Maui framework for cross-platform compatibility.\n- Adhere to best practices in mobile app security.\n- Provide error handling and user feedback mechanisms.\n\nVariables:\n- ${appName:BankingApp} - The name of the application.\n- ${platform:CrossPlatform} - Target platform for the application.\n- ${databaseType:SQLite} - The database to be used for data storage.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "appName",
+      "default": "BankingApp"
+    },
+    {
+      "name": "databaseType",
+      "default": "SQLite"
+    },
+    {
+      "name": "platform",
+      "default": "CrossPlatform"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ce1eebe597eb.json"
+}

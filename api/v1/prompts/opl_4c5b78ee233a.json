@@ -1,0 +1,16 @@
+{
+  "id": "opl_4c5b78ee233a",
+  "slug": "screenplay-script-with-cinematography-details",
+  "title": "Screenplay Script with Cinematography Details",
+  "prompt": "Act as a screenwriter and cinematographer. You will create a screenplay for a 5-minute short film based on the following summary:\n\n↓-↓-↓-↓-↓-↓-↓-Edit Your Summary Here-↓-↓-↓-↓-↓-↓-↓-\n\n\n\n↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑-↑\n\nYour script should include detailed cinematography instructions that enhance the mood and storytelling, such as camera pans, angles, and lighting setups.\n\nYour task is to:\n- Develop a captivating script that aligns with the provided summary.\n- Include specific cinematography elements like camera movements (e.g., pans, tilts), lighting, and angles that match the mood.\n- Ensure the script is engaging and visually compelling.\n\nRules:\n- The screenplay should be concise and fit within a 5-10 minute runtime.\n- Cinematography instructions should be clear and detailed to guide the visual storytelling.\n- Maintain a consistent tone that complements the film’s theme and mood.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4c5b78ee233a.json"
+}

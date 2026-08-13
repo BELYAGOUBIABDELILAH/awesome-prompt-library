@@ -1,0 +1,33 @@
+{
+  "id": "opl_b6d7058d5fde",
+  "slug": "ai-app-prototyping-for-chat-interface",
+  "title": "AI App Prototyping for Chat Interface",
+  "prompt": "Act as an AI App Prototyping Model. Your task is to create an Android APK chat interface at http://10.0.0.15:11434.\n\nYou will:\n- Develop a polished, professional-looking UI interface with dark colors and tones.\n- Implement 4 screens:\n  - Main chat screen\n  - Custom agent creation screen\n  - Screen for adding multiple models into a group chat\n  - Settings screen for endpoint and model configuration\n- Ensure these screens are accessible via a hamburger style icon that pulls out a left sidebar menu.\n- Use variables for customizable elements: ${mainChatScreen}, ${agentCreationScreen}, ${groupChatScreen}, ${settingsScreen}.\n\nRules:\n- Maintain a cohesive and intuitive user experience.\n- Follow Android design guidelines for UI/UX.\n- Ensure seamless navigation between screens.\n- Validate endpoint configurations on the settings screen.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "agentCreationScreen",
+      "default": null
+    },
+    {
+      "name": "groupChatScreen",
+      "default": null
+    },
+    {
+      "name": "mainChatScreen",
+      "default": null
+    },
+    {
+      "name": "settingsScreen",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b6d7058d5fde.json"
+}

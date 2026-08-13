@@ -1,0 +1,16 @@
+{
+  "id": "opl_0f110d2e237d",
+  "slug": "optimize-blog-post-for-seo",
+  "title": "Optimize Blog Post for SEO",
+  "prompt": "Suggest 5 new SEO keywords for a blog post and show how to include them.\nFor each keyword:\n1. State where to insert it (title, H2, body paragraph, meta description, alt text)\n2. Show the original sentence and the rewritten version with the keyword naturally included\n3. Confirm the keyword intent matches the article topic\nDo not keyword-stuff. Readability takes priority over density.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0f110d2e237d.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_be2657304004",
+  "slug": "generate-test-data",
+  "title": "Generate Test Data",
+  "prompt": "Generate comprehensive test data for:\n\nEntity/Schema: [PASTE schema or describe the data model]\nPurpose: [unit tests / integration tests / load tests / manual QA]\nVolume needed: [N records]\n\n## Test Data Sets\n\n### Valid Data (Happy Path)\n[N] records that represent typical real-world usage:\n\\",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_be2657304004.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_475ff12b0806",
+  "slug": "g-rsel",
+  "title": "görsel",
+  "prompt": "Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical parchment scroll unfurling across the background.\nThe scene visualizes the historical lineage and cultural heritage of ([Siirt,1890s]), with iconic ancient architecture and landmarks dynamically emerging from the scroll.\nParchment Annotations (Location-Adaptive):\nThe parchment contains handwritten explanatory notes, ink sketches, and diagrammatic drawings that automatically adapt to the location written in parentheses.\nFor each location, the parchment includes:\n\nAll texts are in Turkish.\n\n• Identity Notes:\nName of the location, known historical or alternative names, and a short defining description.\n• Time & Origin Notes:\nCentury or era of origin, founding civilization or culture, and major historical phases shown with timeline arrows.\n• Function & Usage Notes:\nOriginal purpose, changes in function over time, and present-day symbolic or cultural role.\n\n• Spatial & Architectural Notes:\nGeographic position (elevated, coastal, central, strategic), architectural character, and defining structural elements illustrated through ink sketches, cross-sections, and elevation drawings.\n• Cultural & Historical Significance Notes:\nImportant historical events, legends or myths, and broader cultural or civilizational impact.\n\nAll notes are written in calligraphic manuscript style, with parenthetical explanations, directional arrows, compass symbols, scale markings, and cartographic icons pointing toward the emerging 3D structures.\nComposition:\nThe scroll flows through space like a river of time, forming a panoramic historical narrative.\n2D black ink brushstrokes, handwritten text, and schematic drawings on the parchment seamlessly transform into high-fidelity 3D monuments rising from the paper.\n\nVisual Effect:\nInk lines morph into stone, brick, wood, and metal surfaces.\nFlat manuscript illustrations evolve into volumetric, ultra-detailed architecture while remaining visually connected to the parchment.\nDetails:\nAged parchment texture, ink bleed, floating historical calligraphy, red wax or seal stamps, atmospheric clouds and fog wrapping around the structures.\n\nLighting:\nEpic golden-hour cinematic lighting illuminating the 3D forms, dramatically contrasted against the monochrome ink-and-parchment background.\nSpecs:\n8K resolution, depth of field, Unreal Engine 5 render, grand scale, museum-quality realism.\n\n--ar 16:9 --stylize 350\n--no flat, simple, cartoon, borders, frame, table, modern buildings\n\nBitlis-1890'lar yazıyor fotoğrafta.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_475ff12b0806.json"
+}

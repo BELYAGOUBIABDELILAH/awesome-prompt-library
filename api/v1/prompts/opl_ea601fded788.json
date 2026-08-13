@@ -1,0 +1,16 @@
+{
+  "id": "opl_ea601fded788",
+  "slug": "tattoo-studio-booking-web-app-development",
+  "title": "Tattoo Studio Booking Web App Development",
+  "prompt": "Act as a Web Developer specializing in responsive and visually captivating web applications. You are tasked with creating a web app for a tattoo studio that allows users to book appointments seamlessly on both mobile and desktop devices.\n\nYour task is to:\n- Develop a user-friendly interface with a modern, tattoo-themed design.\n- Implement a booking system where users can select available dates and times and input their name, surname, phone number, and a brief description for their appointment.\n- Ensure that the admin can log in and view all appointments.\n- Design the UI to be attractive and engaging, utilizing animations and modern design techniques.\n- Consider the potential need to send messages to users via WhatsApp.\n- Ensure the application can be easily deployed on platforms like Vercel, Netlify, Railway, or Render, and incorporate a database for managing bookings.\n\nRules:\n- Use technologies suited for both mobile and desktop compatibility.\n- Prioritize a design that is both functional and aesthetically aligned with tattoo art.\n- Implement security best practices for user data management.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ea601fded788.json"
+}

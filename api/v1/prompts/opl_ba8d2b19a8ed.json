@@ -1,0 +1,16 @@
+{
+  "id": "opl_ba8d2b19a8ed",
+  "slug": "file-system-indexer-cli",
+  "title": "File System Indexer CLI",
+  "prompt": "Build a high-performance file system indexer and search tool in Go. Implement recursive directory traversal with configurable depth. Add file metadata extraction including size, dates, and permissions. Include content indexing with optional full-text search. Implement advanced query syntax with boolean operators and wildcards. Add incremental indexing for performance. Include export functionality in JSON and CSV formats. Implement search result highlighting. Add duplicate file detection using checksums. Include performance statistics and progress reporting. Implement concurrent processing for multi-core utilization.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ba8d2b19a8ed.json"
+}

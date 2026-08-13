@@ -1,0 +1,21 @@
+{
+  "id": "opl_ab6b27ada67c",
+  "slug": "budget-tracker",
+  "title": "Budget Tracker",
+  "prompt": "Develop a comprehensive budget tracking application using HTML5, CSS3, and JavaScript. Create an intuitive dashboard showing income, expenses, savings, and budget status. Implement transaction management with categories, tags, and recurring transactions. Add interactive charts and graphs for expense analysis by category and time period. Include budget goal setting with progress tracking and alerts. Support multiple accounts and transfer between accounts. Implement receipt scanning and storage using the device camera. Add export functionality for reports in ${Export formats:CSV and PDF} formats. Create a responsive design with mobile-first approach. Include data backup and restore functionality. Add forecasting features to predict future financial status based on current trends.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "Export formats",
+      "default": "CSV and PDF"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ab6b27ada67c.json"
+}

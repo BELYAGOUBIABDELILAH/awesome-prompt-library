@@ -1,0 +1,16 @@
+{
+  "id": "opl_c81741911356",
+  "slug": "understand-async-operations-and-concurrency",
+  "title": "Understand Async Operations and Concurrency",
+  "prompt": "Help me understand the asynchronous operations and concurrency in this code:\n\n[PASTE CODE]\n\n## Async Operations Map\nIdentify all asynchronous operations:\n- What triggers each async operation?\n- What does it wait for? (API call, DB query, file I/O, timer)\n- What happens when it completes?\n- What happens when it fails?\n\n## Promise / Async-Await Chain\nTrace the complete async flow:\nStep 1: [description] → awaits [what]\nStep 2: [description] → awaits [what]\n...\n\n## Concurrency Analysis\nAre multiple async operations running concurrently?\n- What runs in parallel? (Promise.all, parallel execution)\n- What must run sequentially? (depends on previous result)\n- Are there any ordering guarantees needed?\n\n## Race Condition Risk\nIdentify scenarios where:\n- Two operations could complete in unexpected order\n- Shared state could be modified concurrently\n- A cancelled operation could still affect state\n\n## Error Handling\n- Are all rejected promises caught?\n- Do unhandled rejections exist?\n- Is error propagation correct through the chain?\n\n## Suggested Improvements\n- Missing awaits\n- Missing error handling\n- Opportunities for parallelization",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c81741911356.json"
+}

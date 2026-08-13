@@ -1,0 +1,16 @@
+{
+  "id": "opl_508ebed79483",
+  "slug": "form-validation-rules-for-leave-requests",
+  "title": "Form Validation Rules for Leave Requests",
+  "prompt": "{\n  \"rules\": [\n    {\n      \"leaveType\": \"Evlilik İzni\",\n      \"validity\": \"Personelin evlenmesi halinde 3 iş günü şeklinde kullandırılır.\",\n      \"maxDays\": 3\n    },\n    {\n      \"leaveType\": \"Doğum İzni (Eş)\",\n      \"validity\": \"Personelin eşinin doğum yapması halinde 5 iş günü\",\n      \"maxDays\": 5\n    },\n    {\n      \"leaveType\": \"I.Derece Yakın Ölümü İçin İzin\",\n      \"validity\": \"Personelin ana, baba, kardeş, eş ve çocuklarının ölümü halinde 3 iş günü\",\n      \"maxDays\": 3\n    },\n    {\n      \"leaveType\": \"Doğal Afet\",\n      \"validity\": \"Doğal afet olması halinde 10 iş gününe kadar kullanılan izindir.\",\n      \"maxDays\": 10\n    },\n    {\n      \"leaveType\": \"Ücretli Doğum İzni\",\n      \"validity\": \"Gebelik ve analık halinde Kanunu’na göre islem yapılır. Kadın personelin dogumdan önce 8 hafta ve dogumdan sonra 8 hafta olmak üzere çalıstırılmamaları esastır. Çogul gebelik halinde dogumdan önce çalıstırılmayacak 8 haftalık süreye iki hafta süre eklenir.\",\n      \"preBirthWeeks\": 8,\n      \"postBirthWeeks\": 8,\n      \"extraWeeksForMultiplePregnancy\": 2,\n      \"workUntilPreWeeks\": 3\n    },\n    {\n      \"leaveType\": \"Ücretsiz Doğum İzni\",\n      \"validity\": \"Ücretli doğum izninin bitmesi durumunda çalışanın talebi üzerine 6 aya kadar verilen izindir. Parçalar halinde kullanılamaz.\",\n      \"maxMonths\": 6\n    },\n    {\n      \"leaveType\": \"Hamile Çalışan Sağlık Kontrol İzni\",\n      \"validity\": \"Hamile çalışanın hamileliğini belgelemesi durumunda aylık kontrollerinde kullanılabilen ve gün kısıtı bulunmayan izin türüdür.\",\n      \"documentationRequired\": true\n    },\n    {\n      \"leaveType\": \"Sosyal Mazeret İzni\",\n      \"validity\": \"Çalışanın bir yılda kullanabilecegi mazeret izni toplam 3 iş günüdür. 3 günü aşan izinler yıllık izinden düşürülür.\",\n      \"maxDaysPerYear\": 3\n    },\n    {\n      \"leaveType\": \"Ücretsiz İzin\",\n      \"validity\": \"Çalışanın yazılı talebi üzerine işverenin uygun görmesi durumunda kısıtı bulunmayan izin türüdür.\",\n      \"documentationRequired\": true\n    }\n  ],\n  \"generalRules\": {\n    \"duplicateCheck\": \"Daha önce aynı tarihler içinde bir izin talebi varsa kullanıcının tekrar izin talep etmemeli.\",\n    \"applicableFormId\": 1\n  }\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_508ebed79483.json"
+}

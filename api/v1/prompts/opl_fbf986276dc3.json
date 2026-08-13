@@ -1,0 +1,16 @@
+{
+  "id": "opl_fbf986276dc3",
+  "slug": "3d-mechanical-part-image-to-technical-drawing-conversion",
+  "title": "3D Mechanical Part Image to Technical Drawing Conversion",
+  "prompt": "{\n  \"task\": \"image_to_image\",\n  \"input_image\": \"3d_render_of_mechanical_part.png\",\n  \"prompt\": \"Reference scale: the outer diameter of the flange is exactly 360 mm. Mechanical engineering drawing sheet with three separate drawings of the same part placed in clearly separated rectangular areas. Drawing 1: fully dimensioned orthographic views (front, top, side) with precise numeric measurements in millimeters, diameter symbols, radius annotations, hole count notation and center lines. Drawing 2: sectional view taken through the center axis of the part, showing internal geometry with proper section hatching and wall thickness clearly visible. Drawing 3: isometric reference view of the part without any dimensions, used only for spatial understanding. ISO mechanical drafting standard, consistent line weights, monochrome black lines on white background, manufacturing-ready technical documentation, no perspective distortion.\",\n  \"negative_prompt\": \"single combined drawing, merged views, artistic rendering, perspective view, realistic lighting, shadows, textures, colors, gradients, sketch style, hand drawn look, missing dimensions, decorative presentation\",\n  \"settings\": {\n    \"model\": \"sdxl\",\n    \"sampler\": \"DPM++ 2M Karras\",\n    \"steps\": 45,\n    \"cfg_scale\": 6,\n    \"denoising_strength\": 0.45,\n    \"resolution\": {\n      \"width\": 1024,\n      \"height\": 1024\n    }\n  },\n  \"output_expectation\": \"one technical drawing sheet containing three clearly separated drawings: dimensioned orthographic views, a centered sectional view, and an undimensioned isometric reference, suitable for manufacturing reference\"\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fbf986276dc3.json"
+}

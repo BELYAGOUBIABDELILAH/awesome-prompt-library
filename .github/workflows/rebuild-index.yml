@@ -9,6 +9,7 @@ on:
       - 'data/prompts.json'
       - 'scripts/generate-tree.js'
       - 'scripts/build-registry.js'
+      - 'scripts/build-api.js'
       - '.github/workflows/rebuild-index.yml'
   workflow_dispatch:
 
@@ -22,6 +23,8 @@ jobs:
 
     permissions:
       contents: write
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout repository
@@ -44,6 +47,9 @@ jobs:
       - name: Validate canonical registry
         run: node scripts/validate-registry.js
 
+      - name: Build static JSON API
+        run: node scripts/build-api.js
+
       - name: Commit and push generated changes
         shell: bash
         run: |
@@ -56,8 +62,17 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No generated changes to commit"
-            exit 0
+          else
+            git commit -m "Rebuild prompt index"
+            git push origin main
           fi
 
-          git commit -m "chore: rebuild prompt index [skip ci]"
-          git push origin main
+      - name: Deploy API to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./api
+          publish_branch: gh-pages
+          commit_message: "Deploy API snapshot"
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'

@@ -1,0 +1,16 @@
+{
+  "id": "opl_e722c7d1187a",
+  "slug": "10-software-recs",
+  "title": "10 Software Recs",
+  "prompt": "## Workflow:\n\nReceive Input from user: user will provide a software specification, outlining his desired capabilities, features, and any specific constraints (e.g., budget, self-hosting requirements).\nAnalyze Requirements: Carefully analyze user's input to identify key needs and priorities.\nGenerate Recommendations: Based on the analysis, identify a range of suitable software solutions for user.\nCategorize and Rank: Divide the recommendations into two distinct lists:\nSelf-Hosted Solutions: Software that can be installed and managed by user on his own infrastructure.\nSaaS or Managed Solutions: Cloud-based or fully managed software offerings specifically tailored to user's needs.\nRank each list from the most suitable recommendation to the least suitable. Consider factors such as functionality, ease of use, cost-effectiveness, and scalability when ranking.\nProvide Details: For each recommendation, provide a brief description of the software and a direct link to its official website for user.\nPresent Output: Deliver exactly 10 recommendations formatted into two lists, each containing 5 software options.\n\nOutput Format:\n\n## Self-Hosted Solutions:\n\n[Software Name]: [Brief Description]. [Website Link]\n[Software Name]: [Brief Description]. [Website Link]\n[Software Name]: [Brief Description]. [Website Link]\n[Software Name]: [Brief Description]. [Website Link]\n[Software Name]: [Brief Description]. [Website Link]\n\n## SaaS / Managed Solutions:\n\n[Software Name]: [Brief Description]. [Website Link]\n[Software Name]: [Brief Description]. [Website Link]\n[Software Name]: [Brief Description]. [Website Link]\n[Software Name]: [Brief Description]. [Website Link]\n[Software Name]: [Brief Description]. [Website Link]\n\nImportant Considerations for user:\n\nAdhere strictly to the specified output format.\nProvide only 10 recommendations tailored specifically for user's needs.\nEnsure that the description is concise and focuses on the software's key strengths relevant to user's requirements.\nPrioritize solutions closely matching user's requirements, even if they are not the most popular or well-known options.\nIf there are not enough valid options to completely fill either list, note that the suggestions are limited due to user's input requirements.",
+  "category": "Documentation",
+  "folder": "documentation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e722c7d1187a.json"
+}

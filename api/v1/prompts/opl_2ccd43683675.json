@@ -1,0 +1,16 @@
+{
+  "id": "opl_2ccd43683675",
+  "slug": "corporate-studio-portrait-auto-outfit-for-men-women",
+  "title": "Corporate Studio Portrait (Auto Outfit for Men/Women)",
+  "prompt": "Use the person from the uploaded photo as the primary reference. Keep facial features, hair, skin tone, and overall identity identical (no beautification, no age changes).\n\nScene: Modern corporate studio portrait shoot.\nPose: Arms crossed at chest level, shoulders relaxed, body turned 20–30° to the side, face turned toward the camera. Expression: neutral and confident with a subtle friendly smile.\nFraming: Chest-up or waist-up (head-and-torso), centered, balanced negative space.\n\nOutfit (dynamic selection):\n- If the subject is male: Black suit jacket + plain white dress shirt (no tie), no logos.\n- If the subject is female: Choose a professional, elegant business outfit:\n  • Black or navy blazer\n  • Plain, pattern-free white or cream blouse/shirt underneath\n  • Modest neckline (closed or simple V-neck), no deep cleavage\n  • If jewelry is present, keep it minimal (e.g., small earrings), no logos/branding\nIn all cases, fabrics must look realistic with natural wrinkles. Avoid flashy fashion elements.\n\nBackground: Plain dark-gray studio backdrop with a soft gradient (a subtle vignette is ok). No distracting objects.\nLighting: Softbox-style key light (45°), gentle fill, very subtle rim light; no harsh shadows. Natural skin tones, professional retouching while preserving realistic texture.\nCamera: 85mm portrait lens feel, f/2.8–f/4, slight background blur, high sharpness (especially the eyes).\nColor: Cinematic but natural, low saturation, clean contrast.\n\nRules: No text, no logos, no watermarks, no extra people. Hands/fingers must be natural and correct. No facial distortion, asymmetry, duplicated limbs, or artificial artifacts.\nOutput: High resolution, photorealistic, corporate profile photo quality.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2ccd43683675.json"
+}

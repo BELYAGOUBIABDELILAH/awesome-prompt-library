@@ -1,0 +1,16 @@
+{
+  "id": "opl_f609cf840cf2",
+  "slug": "a-night-in-paris",
+  "title": "A night in paris",
+  "prompt": "{\n  \"subject_and_scene\": {\n    \"main_subject\": \"A young man with thick curly brown hair, wearing a sophisticated beige turtleneck sweater and a matching tailored wool blazer, displaying a contemplative and moody expression.\",\n    \"action\": \"Leaning casually against a weathered stone bridge parapet, looking away from the camera toward the Parisian cityscape.\",\n    \"environment\": \"Paris at night on the banks of the Seine; the Eiffel Tower stands prominently in the background, brilliantly illuminated in golden light, with city lights and river boats creating soft reflections on the dark water.\"\n  },\n  \"cinematography\": {\n    \"camera_model\": \"Sony Venice 2\",\n    \"sensor_type\": \"Full Frame\",\n    \"shot_type\": \"Cowboy Shot\",\n    \"camera_angle\": \"Eye Level\",\n    \"movement\": \"Static\"\n  },\n  \"optics\": {\n    \"lens_type\": \"Spherical\",\n    \"focal_length\": \"35mm (Standard Wide)\",\n    \"aperture\": \"f/2.8 (Moderate depth of field to retain background context)\",\n    \"shutter_effects\": \"Standard Shutter\"\n  },\n  \"lighting_design\": {\n    \"setup\": \"Natural Night Ambience with soft fill on subject\",\n    \"style\": \"Low-Key with high atmospheric glow\",\n    \"atmospheric_light\": \"Golden Glow from the Eiffel Tower, Rim Lighting from city lights\",\n    \"color_temperature\": \"Warm (3000K, Amber and Gold tones)\"\n  },\n  \"color_and_post\": {\n    \"film_stock\": \"Kodak Portra 400\",\n    \"color_grading\": \"Warm Nostalgic Tones, Muted Log-C\",\n    \"analog_artifacts\": \"Heavy Film Grain, soft Halation around the golden tower lights\"\n  },\n  \"rendering_and_tech\": {\n    \"engine\": \"Octane Render\",\n    \"advanced_tech\": \"Subsurface Scattering on skin, Global Illumination for water reflections\",\n    \"specs\": {\n      \"aspect_ratio\": \"2.39:1 (CinemaScope)\",\n      \"resolution\": \"8K, Photorealistic, Hyper-detailed\"\n    }\n  },\n  \"directorial_style\": \"Denis Villeneuve (Atmospheric mood and pensive composition)\"\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f609cf840cf2.json"
+}

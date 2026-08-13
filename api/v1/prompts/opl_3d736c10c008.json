@@ -1,0 +1,77 @@
+{
+  "id": "opl_3d736c10c008",
+  "slug": "accessibility-testing-superpower",
+  "title": "Accessibility Testing Superpower",
+  "prompt": "---\nname: accessibility-testing-superpower\ndescription: |\n  Performs WCAG compliance audits and accessibility remediation for web applications.\n  Use when: 1) Auditing UI for WCAG 2.1/2.2 compliance 2) Fixing screen reader or keyboard navigation issues 3) Implementing ARIA patterns correctly 4) Reviewing color contrast and visual accessibility 5) Creating accessible forms or interactive components\n---\n\n# Accessibility Testing Workflow\n\n## Configuration\n\n- **WCAG Level**: ${wcag_level:AA}\n- **Component Under Test**: ${component_name:Page}\n- **Compliance Standard**: ${compliance_standard:WCAG 2.1}\n- **Minimum Lighthouse Score**: ${lighthouse_score:90}\n- **Primary Screen Reader**: ${screen_reader:NVDA}\n- **Test Framework**: ${test_framework:jest-axe}\n\n## Audit Decision Tree\n\n```\nAccessibility request received\n|\n+-- New component/page?\n|   +-- Run automated scan first (axe-core, Lighthouse)\n|   +-- Keyboard navigation test\n|   +-- Screen reader announcement check\n|   +-- Color contrast verification\n|\n+-- Existing violation to fix?\n|   +-- Identify WCAG success criterion\n|   +-- Check if semantic HTML solves it\n|   +-- Apply ARIA only when HTML insufficient\n|   +-- Verify fix with assistive technology\n|\n+-- Compliance audit?\n    +-- Automated scan (catches ~30% of issues)\n    +-- Manual testing checklist\n    +-- Document violations by severity\n    +-- Create remediation roadmap\n```\n\n## WCAG Quick Reference\n\n### Severity Classification\n\n| Severity | Impact | Examples | Fix Timeline |\n|----------|--------|----------|--------------|\n| Critical | Blocks access entirely | No keyboard focus, empty buttons, missing alt on functional images | Immediate |\n| Serious | Major barriers | Poor contrast, missing form labels, no skip links | Within sprint |\n| Moderate | Difficult but usable | Inconsistent navigation, unclear error messages | Next release |\n| Minor | Inconvenience | Redundant alt text, minor heading order issues | Backlog |\n\n### Common Violations and Fixes\n\n**Missing accessible name**\n```html\n<!-- Violation -->\n<button><svg>...</svg></button>\n\n<!-- Fix: aria-label -->\n<button aria-label=\"Close dialog\"><svg>...</svg></button>\n\n<!-- Fix: visually hidden text -->\n<button><span class=\"sr-only\">Close dialog</span><svg>...</svg></button>\n```\n\n**Form label association**\n```html\n<!-- Violation -->\n<label>Email</label>\n<input type=\"email\">\n\n<!-- Fix: explicit association -->\n<label for=\"email\">Email</label>\n<input type=\"email\" id=\"email\">\n\n<!-- Fix: implicit association -->\n<label>Email <input type=\"email\"></label>\n```\n\n**Color contrast failure**\n```\nMinimum ratios (WCAG ${wcag_level:AA}):\n- Normal text (<${large_text_size:18}px or <${bold_text_size:14}px bold): ${contrast_ratio_normal:4.5}:1\n- Large text (>=${large_text_size:18}px or >=${bold_text_size:14}px bold): ${contrast_ratio_large:3}:1\n- UI components and graphics: 3:1\n\nTools: WebAIM Contrast Checker, browser DevTools\n```\n\n**Focus visibility**\n```css\n/* Never do this without alternative */\n:focus { outline: none; }\n\n/* Proper custom focus */\n:focus-visible {\n  outline: ${focus_outline_width:2}px solid ${focus_outline_color:#005fcc};\n  outline-offset: ${focus_outline_offset:2}px;\n}\n```\n\n## ARIA Decision Framework\n\n```\nNeed to convey information to assistive technology?\n|\n+-- Can semantic HTML do it?\n|   +-- YES: Use HTML (<button>, <nav>, <main>, <article>)\n|   +-- NO: Continue to ARIA\n|\n+-- What type of ARIA needed?\n    +-- Role: What IS this element? (role=\"dialog\", role=\"tab\")\n    +-- State: What condition? (aria-expanded, aria-checked)\n    +-- Property: What relationship? (aria-labelledby, aria-describedby)\n    +-- Live region: Dynamic content? (aria-live=\"${aria_live_mode:polite}\")\n```\n\n### ARIA Patterns for Common Widgets\n\n**Disclosure (show/hide)**\n```html\n<button aria-expanded=\"false\" aria-controls=\"content-1\">\n  Show details\n</button>\n<div id=\"content-1\" hidden>\n  Content here\n</div>\n```\n\n**Tab interface**\n```html\n<div role=\"tablist\" aria-label=\"${component_name:Settings}\">\n  <button role=\"tab\" aria-selected=\"true\" aria-controls=\"panel-1\" id=\"tab-1\">\n    General\n  </button>\n  <button role=\"tab\" aria-selected=\"false\" aria-controls=\"panel-2\" id=\"tab-2\" tabindex=\"-1\">\n    Privacy\n  </button>\n</div>\n<div role=\"tabpanel\" id=\"panel-1\" aria-labelledby=\"tab-1\">...</div>\n<div role=\"tabpanel\" id=\"panel-2\" aria-labelledby=\"tab-2\" hidden>...</div>\n```\n\n**Modal dialog**\n```html\n<div role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"dialog-title\">\n  <h2 id=\"dialog-title\">Confirm action</h2>\n  <p>Are you sure you want to proceed?</p>\n  <button>Cancel</button>\n  <button>Confirm</button>\n</div>\n```\n\n## Keyboard Navigation Checklist\n\n```\n[ ] All interactive elements focusable with Tab\n[ ] Focus order matches visual/logical order\n[ ] Focus visible on all elements\n[ ] No keyboard traps (can always Tab out)\n[ ] Skip link as first focusable element\n[ ] Escape closes modals/dropdowns\n[ ] Arrow keys navigate within widgets (tabs, menus, grids)\n[ ] Enter/Space activates buttons and links\n[ ] Custom shortcuts documented and configurable\n```\n\n### Focus Management Patterns\n\n**Modal focus trap**\n```javascript\n// On modal open:\n// 1. Save previously focused element\n// 2. Move focus to first focusable in modal\n// 3. Trap Tab within modal boundaries\n\n// On modal close:\n// 1. Return focus to saved element\n```\n\n**Dynamic content**\n```javascript\n// After adding content:\n// - Announce via aria-live region, OR\n// - Move focus to new content heading\n\n// After removing content:\n// - Move focus to logical next element\n// - Never leave focus on removed element\n```\n\n## Screen Reader Testing\n\n### Announcement Verification\n\n| Element | Should Announce |\n|---------|-----------------|\n| Button | Role + name + state (\"Submit button\") |\n| Link | Name + \"link\" (\"Home page link\") |\n| Image | Alt text OR \"decorative\" (skip) |\n| Heading | Level + text (\"Heading level 2, About us\") |\n| Form field | Label + type + state + instructions |\n| Error | Error message + field association |\n\n### Testing Commands (Quick Reference)\n\n**VoiceOver (macOS)**\n- VO = Ctrl + Option\n- VO + A: Read all\n- VO + Right/Left: Navigate elements\n- VO + Cmd + H: Next heading\n- VO + Cmd + J: Next form control\n\n**${screen_reader:NVDA} (Windows)**\n- NVDA + Down: Read all\n- Tab: Next focusable\n- H: Next heading\n- F: Next form field\n- B: Next button\n\n## Automated Testing Integration\n\n### axe-core in tests\n```javascript\n// ${test_framework:jest-axe}\nimport { axe, toHaveNoViolations } from 'jest-axe';\nexpect.extend(toHaveNoViolations);\n\ntest('${component_name:component} is accessible', async () => {\n  const { container } = render(<${component_name:MyComponent} />);\n  const results = await axe(container);\n  expect(results).toHaveNoViolations();\n});\n```\n\n### Lighthouse CI threshold\n```javascript\n// lighthouserc.js\nmodule.exports = {\n  assertions: {\n    'categories:accessibility': ['error', { minScore: ${lighthouse_score:90} / 100 }],\n  },\n};\n```\n\n## Remediation Priority Matrix\n\n```\nImpact vs Effort:\n                    Low Effort    High Effort\nHigh Impact     |   DO FIRST   |   PLAN NEXT   |\n                |   alt text   |   redesign    |\n                |   labels     |   nav rebuild |\n----------------|--------------|---------------|\nLow Impact      |   QUICK WIN  |   BACKLOG     |\n                |   contrast   |   nice-to-have|\n                |   tweaks     |   enhancements|\n```\n\n## Verification Checklist\n\nBefore marking accessibility work complete:\n\n```\nAutomated Testing:\n[ ] axe-core reports zero violations\n[ ] Lighthouse accessibility >= ${lighthouse_score:90}\n[ ] HTML validator passes (affects AT parsing)\n\nKeyboard Testing:\n[ ] Full task completion without mouse\n[ ] Visible focus at all times\n[ ] Logical tab order\n[ ] No traps\n\nScreen Reader Testing:\n[ ] Tested with at least one screen reader (${screen_reader:NVDA})\n[ ] All content announced correctly\n[ ] Interactive elements have roles/states\n[ ] Dynamic updates announced\n\nVisual Testing:\n[ ] Contrast ratios verified (${contrast_ratio_normal:4.5}:1 minimum)\n[ ] Works at ${zoom_level:200}% zoom\n[ ] No information conveyed by color alone\n[ ] Respects prefers-reduced-motion\n```",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "aria_live_mode",
+      "default": "polite"
+    },
+    {
+      "name": "bold_text_size",
+      "default": "14"
+    },
+    {
+      "name": "compliance_standard",
+      "default": "WCAG 2.1"
+    },
+    {
+      "name": "component_name",
+      "default": "Page"
+    },
+    {
+      "name": "contrast_ratio_large",
+      "default": "3"
+    },
+    {
+      "name": "contrast_ratio_normal",
+      "default": "4.5"
+    },
+    {
+      "name": "focus_outline_color",
+      "default": "#005fcc"
+    },
+    {
+      "name": "focus_outline_offset",
+      "default": "2"
+    },
+    {
+      "name": "focus_outline_width",
+      "default": "2"
+    },
+    {
+      "name": "large_text_size",
+      "default": "18"
+    },
+    {
+      "name": "lighthouse_score",
+      "default": "90"
+    },
+    {
+      "name": "screen_reader",
+      "default": "NVDA"
+    },
+    {
+      "name": "test_framework",
+      "default": "jest-axe"
+    },
+    {
+      "name": "wcag_level",
+      "default": "AA"
+    },
+    {
+      "name": "zoom_level",
+      "default": "200"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3d736c10c008.json"
+}

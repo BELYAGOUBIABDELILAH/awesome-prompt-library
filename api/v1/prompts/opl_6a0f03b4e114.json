@@ -1,0 +1,16 @@
+{
+  "id": "opl_6a0f03b4e114",
+  "slug": "reduce-code-complexity",
+  "title": "Reduce Code Complexity",
+  "prompt": "Reduce the complexity of the following code:\n\n[PASTE CODE]\n\n## Complexity Metrics (Current)\n- Cyclomatic complexity score\n- Cognitive complexity score\n- Max nesting depth\n- Function length (lines)\n- Number of parameters\n\n## Complexity Issues Found\nList each issue:\n- Deep nesting (> 3 levels)\n- Long functions (> 20 lines)\n- Too many parameters (> 4)\n- Mixed abstraction levels\n- Complex boolean conditions\n- Early returns missing\n\n## Refactoring Plan\nFor each issue, apply the appropriate technique:\n- Extract method/function\n- Replace nested conditionals with guard clauses\n- Introduce explaining variables\n- Split responsibilities into separate functions\n- Replace magic numbers with named constants\n\n## Refactored Code\nProvide the simplified version. Each function should:\n- Do exactly one thing\n- Be testable in isolation\n- Have a name that explains its purpose\n\nTarget: cyclomatic complexity ≤ 5 per function.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6a0f03b4e114.json"
+}

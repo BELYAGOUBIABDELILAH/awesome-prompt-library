@@ -1,0 +1,16 @@
+{
+  "id": "opl_1a0ac71bd729",
+  "slug": "implement-responsive-layout",
+  "title": "Implement Responsive Layout",
+  "prompt": "Make this layout fully responsive across all device sizes:\n\nCurrent layout: [PASTE HTML/CSS/JSX]\n\n## Responsive Requirements\n\n### Breakpoints to Support\n- Mobile: 320px–767px\n- Tablet: 768px–1023px\n- Desktop: 1024px–1439px\n- Wide: 1440px+\n\n### Layout Changes Per Breakpoint\nMobile:\n- Single column layout\n- Stack all elements vertically\n- Touch targets minimum 44×44px\n- Font size minimum 16px (prevents iOS zoom)\n\nTablet:\n- [describe layout change]\n\nDesktop:\n- [describe layout change]\n\n### Touch Optimization\n- Minimum touch target size: 44×44px\n- Adequate spacing between interactive elements\n- No hover-only interactions\n\n### Performance\n- Images: use srcset for different screen densities\n- Avoid layout shifts (CLS): reserve space for dynamic content\n- Avoid render-blocking resources\n\n## Responsive Implementation\nProvide the complete responsive code using:\n- CSS Grid / Flexbox (preferred over float)\n- CSS custom properties for consistent spacing\n- Mobile-first approach (min-width media queries)\n\n## Testing Checklist\nTest at: 320px, 375px, 768px, 1024px, 1440px",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1a0ac71bd729.json"
+}

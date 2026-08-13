@@ -1,0 +1,16 @@
+{
+  "id": "opl_6f7aea501545",
+  "slug": "create-integration-test-scenarios",
+  "title": "Create Integration Test Scenarios",
+  "prompt": "Design integration test scenarios for:\n\nComponents being integrated: [LIST — e.g., \"API ↔ Payment Service ↔ Database\"]\nIntegration type: [REST API / Event-driven / Database / Queue / Third-party service]\nFramework: [SPECIFY — pytest / Jest / RSpec / JUnit]\n\n## Integration Test Scenarios\n\n### Happy Path Scenarios\nTest the complete successful flow:\n\n**Scenario 1: [Name]**\nSetup: [preconditions — data in DB, mocked services]\nAction: [what triggers the integration]\nExpected: [what should happen end-to-end]\nVerify: [assertions on DB state, response, events emitted]\n\n### Error Handling Scenarios\nTest failure modes of each dependency:\n\n**Scenario: Database unavailable**\nSetup: database connection fails / pool exhausted\nAction: make request\nExpected: 503 response with retry-after header, no data corruption\nVerify: error is logged with correlation ID, request is not partially committed\n\n**Scenario: External service timeout**\nSetup: mock external service to delay [N seconds]\nAction: make request\nExpected: request fails gracefully within [timeout] seconds\nVerify: timeout is logged, circuit breaker trips if threshold exceeded\n\n**Scenario: Invalid response from downstream**\nSetup: mock external service to return malformed response\nAction: make request\nExpected: 502 response, error logged with raw response\nVerify: upstream caller is not exposed to raw external error\n\n### Idempotency Tests\nTest that retrying doesn't cause duplicate side effects:\n**Scenario: Duplicate request**\nAction: send same request twice (simulating retry)\nExpected: same response, no duplicate record, no double charge\n\n### Load/Concurrency Tests\n**Scenario: N concurrent requests**\nAction: send [N] simultaneous requests\nExpected: all succeed, no race conditions, correct result for each",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6f7aea501545.json"
+}

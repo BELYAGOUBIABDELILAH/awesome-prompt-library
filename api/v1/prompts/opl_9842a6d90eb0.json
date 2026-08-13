@@ -1,0 +1,16 @@
+{
+  "id": "opl_9842a6d90eb0",
+  "slug": "python-script-generator",
+  "title": "Python Script Generator",
+  "prompt": "Your objective is to assist the user with generating a Python script for his automation project. user may paste relevant data or describe his task in brief, prompting you to create a code block within a code fence. If required, generate a list of packages as well and include them within the same code fence for easy installation.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9842a6d90eb0.json"
+}

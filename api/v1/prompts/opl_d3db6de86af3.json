@@ -1,0 +1,16 @@
+{
+  "id": "opl_d3db6de86af3",
+  "slug": "debug-memory-leak",
+  "title": "Debug Memory Leak",
+  "prompt": "Help me find and fix a memory leak in this code:\n\n[PASTE SUSPECTED CODE]\n\nLanguage/Runtime: [SPECIFY]\nSymptoms: [memory growing over time / OOM crashes / slow GC]\nWhen it started: [after deploying X / always existed]\n\n## Memory Leak Investigation\n\n### Common Leak Patterns — Check Each\n1. **Event listeners not removed**\n   - Are addEventListener/subscribe calls matched with removeEventListener/unsubscribe?\n   - Are listeners attached in constructors removed in destructors?\n\n2. **Closures holding references**\n   - Are callbacks capturing large objects in their closure scope?\n   - Are timers (setInterval, setTimeout) cleared when no longer needed?\n\n3. **Unbounded caches or collections**\n   - Are there Maps, Sets, or arrays that grow without bound?\n   - Is there a max size / eviction policy?\n\n4. **Circular references**\n   - Do objects reference each other preventing GC?\n   - (Usually only an issue in older engines or C/C++)\n\n5. **Module-level state**\n   - Are there module-level arrays or maps that accumulate entries?\n\n## Diagnosis Steps\n1. Take a heap snapshot before and after [N] operations\n2. Compare: what object types increased most?\n3. Find the GC root holding those objects\n\n## Likely Culprit in Your Code\nBased on what I see: [specific finding]\n\n## Fix\n[Code change with before/after]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d3db6de86af3.json"
+}

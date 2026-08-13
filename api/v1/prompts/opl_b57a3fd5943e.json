@@ -1,0 +1,16 @@
+{
+  "id": "opl_b57a3fd5943e",
+  "slug": "generate-release-notes-from-mrs",
+  "title": "Generate Release Notes from MRs",
+  "prompt": "Generate release notes from the following merged MRs:\n\nMR list:\n[PASTE MR TITLES, DESCRIPTIONS, AND LABELS]\n\nRelease version: [vX.Y.Z]\nRelease date: [DATE]\nAudience: [end users / developers / internal team]\n\n## Release Notes\n\n---\n\n# v[X.Y.Z] — [Date]\n\n## ✨ New Features\n[Group MRs labeled as feature/enhancement]\n- **[Feature Name]**: [1–2 sentence description of what users can now do] (#MR)\n\n##  Bug Fixes\n[Group MRs labeled as bug]\n- **[Fix description]**: [What was broken and what now works correctly] (#MR)\n\n## ⚠️ Breaking Changes\n[Group MRs with breaking change label]\n- **[What changed]**: [Old behavior → New behavior]\n  **Migration**: [What users need to do to adapt]\n\n##  Performance Improvements\n- [Description of improvement and measured/expected impact] (#MR)\n\n##  Internal Changes\n[Dependency updates, refactors, CI changes — brief]\n- [Description] (#MR)\n\n##  Documentation\n- [Description] (#MR)\n\n---\n\n**Full Changelog**: [COMPARE URL]\n**How to upgrade**: [UPGRADE GUIDE LINK or inline instructions]",
+  "category": "Documentation",
+  "folder": "documentation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b57a3fd5943e.json"
+}

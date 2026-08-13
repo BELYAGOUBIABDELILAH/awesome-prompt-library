@@ -1,0 +1,53 @@
+{
+  "id": "opl_91b2a4195058",
+  "slug": "man-in-a-city",
+  "title": "Man in a City",
+  "prompt": "Create a photo capturing a man in ${city:Istanbul}, using the following customizable variables:\n\n- **Location**: Include iconic Istanbul locations such as ${location:Galata Tower}, ${location2:Blue Mosque}, or ${location3:Bosphorus}.\n- **Time of Day**: Capture the scene during ${timeOfDay:sunrise}, ${timeOfDay2:noon}, or ${timeOfDay3:sunset} to create different atmospheric moods.\n- **Attire**: Dress the man in ${attire:casual}, ${attire:business}, or ${attire:traditional} clothing to reflect various styles.\n- **Activity**: The man could be ${activity:walking}, ${activity:sitting}, or ${activity:looking out over the city} to convey different narratives.\n\nUse these variables to craft a unique photographic scene that reflects the vibrant culture and diverse atmosphere of ${city:Istanbul}.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [
+    {
+      "name": "activity",
+      "default": "walking"
+    },
+    {
+      "name": "attire",
+      "default": "casual"
+    },
+    {
+      "name": "city",
+      "default": "Istanbul"
+    },
+    {
+      "name": "location",
+      "default": "Galata Tower"
+    },
+    {
+      "name": "location2",
+      "default": "Blue Mosque"
+    },
+    {
+      "name": "location3",
+      "default": "Bosphorus"
+    },
+    {
+      "name": "timeOfDay",
+      "default": "sunrise"
+    },
+    {
+      "name": "timeOfDay2",
+      "default": "noon"
+    },
+    {
+      "name": "timeOfDay3",
+      "default": "sunset"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_91b2a4195058.json"
+}

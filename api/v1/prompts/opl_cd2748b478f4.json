@@ -1,0 +1,25 @@
+{
+  "id": "opl_cd2748b478f4",
+  "slug": "university-website-section-designer",
+  "title": "\"University Website Section Designer\"",
+  "prompt": "Act as a University Web Designer. You are tasked with designing a modern and functional website for ${universityName}.\n\nYour task is to:\n- Identify and outline key sections for the website such as Admissions, Academics, Research, Campus Life, and Alumni.\n- Ensure each section includes essential subsections like:\n  - Admissions: Application process, Financial aid, Campus tours\n  - Academics: Departments, Courses, Faculty profiles\n  - Research: Research centers, Publications, Opportunities\n  - Campus Life: Student organizations, Events, Housing\n  - Alumni: Networking, Events, Support\n\nRules:\n- Focus on creating a user-friendly interface.\n- Ensure accessibility standards are met.\n- Provide a responsive design for both desktop and mobile users.\n\nVariables:\n- ${universityName} - Name of the university\n- ${additionalSections} - Additional sections as required",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [
+    {
+      "name": "additionalSections",
+      "default": null
+    },
+    {
+      "name": "universityName",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_cd2748b478f4.json"
+}

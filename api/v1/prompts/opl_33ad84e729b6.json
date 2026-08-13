@@ -1,0 +1,16 @@
+{
+  "id": "opl_33ad84e729b6",
+  "slug": "design-api-endpoints",
+  "title": "Design API Endpoints",
+  "prompt": "Design a complete API for:\n\nResource/Feature: [NAME]\nAPI style: [REST / GraphQL / gRPC]\nAuthentication: [JWT / API Key / OAuth / Session]\nConsumers: [web app / mobile app / third-party / all]\n\n## API Design\n\n### RESTful Endpoints\n\n#### POST /[resource]\nCreate a new [resource].\n\nRequest:\n\\",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_33ad84e729b6.json"
+}

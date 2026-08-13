@@ -1,0 +1,16 @@
+{
+  "id": "opl_ac83ce32e8cd",
+  "slug": "generate-security-documentation",
+  "title": "Generate Security Documentation",
+  "prompt": "Generate security documentation for auditors:\n\nSystem: [NAME AND DESCRIPTION]\nAudience: [External auditor / Security team / Board / Customers]\nFramework: [SOC2 / ISO27001 / Custom]\n\n## Security Documentation\n\n### System Security Overview\n[2–3 paragraphs: what the system does, what data it handles, and the overall security philosophy]\n\n### Security Controls\n\n#### Access Control\n- Authentication method: [MFA / SSO / passwords + MFA]\n- Authorization model: [RBAC / ABAC / ACL]\n- Privileged access management: [how admin access is controlled]\n- Access review frequency: [quarterly / annually]\n\n#### Data Protection\n- Data at rest encryption: [AES-256 / TDE / field-level]\n- Data in transit encryption: [TLS 1.3]\n- Key management: [KMS / HSM / manual rotation]\n- PII handling: [classification, minimization, retention]\n\n#### Infrastructure Security\n- Network controls: [VPC, security groups, firewall rules]\n- Vulnerability management: [scan frequency, patching SLA]\n- Container/image security: [base image policy, scanning]\n- Secrets management: [Vault / AWS Secrets Manager / etc.]\n\n#### Monitoring and Incident Response\n- Logging: [what is logged, retention period]\n- Alerting: [what triggers an alert]\n- Incident response plan: [reference or summarize]\n- Mean time to detect: [target metric]\n- Mean time to respond: [target metric]\n\n### Evidence of Controls\nFor each control: specify the evidence artifact available for audit\n| Control | Evidence Type | Location |\n|---|---|---|",
+  "category": "Security",
+  "folder": "security",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ac83ce32e8cd.json"
+}

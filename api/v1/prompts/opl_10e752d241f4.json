@@ -1,0 +1,29 @@
+{
+  "id": "opl_10e752d241f4",
+  "slug": "present",
+  "title": "Present",
+  "prompt": "### Context\n[Why are we doing the change?]\n\n### Desired Behavior\n[What is the desired behavior ?]\n\n### Instruction\nExplain your comprehension of the requirements.\nList 5 hypotheses you would like me to validate.\nCreate a plan to implement the ${desired_behavior}\n\n### Symbol and action\n➕ Add : Represent the creation of a new file\n✏️ Edit : Represent the edition of an existing file\n❌ Delete : Represent the deletion of an existing file\n\n\n### Files to be modified\n* The list of files list the files you request to add, modify or delete\n* Use the ${symbol_and_action} to represent the operation\n* Display the ${symbol_and_action} before the file name\n* The symbol and the action must always be displayed together.\n** For exemple you display “➕ Add : GameModePuzzle.tsx”\n** You do NOT display “➕ GameModePuzzle.tsx”\n* Display only the file name\n** For exemple, display “➕ Add : GameModePuzzle.tsx”\n* DO NOT display the path of the file.\n** For example, do not display “➕ Add : components/game/GameModePuzzle.tsx”\n\n\n### Plan\n* Identify the name of the plan as a title.\n* The title must be in bold.\n* Do not precede the name of the plan with \"Name :\"\n* Present your plan as a numbered list.\n* Each step title must be in bold.\n* Focus on the user functional behavior with the app\n* Always use plain English rather than technical terms.\n* Strictly avoid writing out function signatures (e.g., myFunction(arg: type): void).\n* DO NOT include specific code syntax, function signatures, or variable types in the plan steps.\n* When mentioning file names, use bold text.\n\n**After the plan, provide**\n* Confidence level (0 to 100%).\n* Risk assessment (likelihood of breaking existing features).\n* Impacted files (See ${files_to_be_modified})\n\n\n### Constraints\n* DO NOT GENERATE CODE YET.\n* Wait for my explicit approval of the plan before generating the actual code changes.\n* Designate this plan as the “Current plan”",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "desired_behavior",
+      "default": null
+    },
+    {
+      "name": "files_to_be_modified",
+      "default": null
+    },
+    {
+      "name": "symbol_and_action",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_10e752d241f4.json"
+}

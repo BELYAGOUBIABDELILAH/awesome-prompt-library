@@ -1,0 +1,37 @@
+{
+  "id": "opl_8c44d18ca139",
+  "slug": "tarih-olay-g-rsel-olu-turma",
+  "title": "Tarih-olay- Görsel oluşturma",
+  "prompt": "{\n  \"meta\": {\n    \"model\": \"nano-banana-pro\",\n    \"mode\": \"thinking\",\n    \"use_search_grounding\": true,\n    \"language\": \"tr\"\n  },\n  \"input\": {\n    \"location\": \"${Location: Location}\",\n    \"date\": \"${Date: YYYY-MM-DD}\",\n    \"aspectRatio\": \"${Aspect Ratio: 16:9 | 4:3 | 1:1 | 9:16}\",\n    \"timeOfDay\": \"${Time of the Day}\",\n    \"mood\": \"${Mood: epic | solemn | celebratory | tense | melancholic}\"\n  },\n  \"prompt\": {\n    \"positive\": \"Konum: ${Location: Location}\\nTarih: ${Date: YYYY-MM-DD}\\n\\nÖnce güvenilir kaynaklarla arama yap ve bu tarihte bu konumda gerçekleşen en önemli tarihsel olayı belirle. Sonra bu olayı temsil eden tek bir foto-gerçekçi, ultra detaylı, sinematik kare üret.\\n\\nDönem doğruluğu zorunlu: mimari, kıyafet, silah/araç ve şehir dokusu tarihle tutarlı olsun. Modern hiçbir obje, bina, araç veya tabela görünmesin. Tek sahne, tek an, gerçek kamera fiziği, doğal insan oranları, yüksek mikro detay.\",\n    \"negative\": \"modern buildings, cars, asphalt, neon, smartphones, wrong era clothing/armor, fantasy, anime, cartoon, text overlay, blurry, low-res, extra limbs\"\n  },\n  \"render\": {\n    \"quality\": \"ultra\",\n    \"resolution\": \"4k\"\n  },\n  \"name\": \"My Workflow\",\n  \"steps\": []\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "Aspect Ratio",
+      "default": " 16:9 | 4:3 | 1:1 | 9:16"
+    },
+    {
+      "name": "Date",
+      "default": " YYYY-MM-DD"
+    },
+    {
+      "name": "Location",
+      "default": " Location"
+    },
+    {
+      "name": "Mood",
+      "default": " epic | solemn | celebratory | tense | melancholic"
+    },
+    {
+      "name": "Time of the Day",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_8c44d18ca139.json"
+}

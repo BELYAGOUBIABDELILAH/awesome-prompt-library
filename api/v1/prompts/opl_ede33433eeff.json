@@ -1,0 +1,16 @@
+{
+  "id": "opl_ede33433eeff",
+  "slug": "map-component-dependencies",
+  "title": "Map Component Dependencies",
+  "prompt": "Map the dependency relationships between components in this codebase:\n\nScope: [MODULE / SERVICE / FULL REPO]\n\n## Dependency Map\nFor each major component/module:\n- Direct dependencies (what it imports/requires)\n- Direct dependents (what depends on it)\n- Transitive dependencies (key indirect dependencies)\n\n## Dependency Graph (Text Format)\nComponentA\n  ├── ComponentB (direct)\n  │   ├── ComponentD (transitive)\n  │   └── ComponentE (transitive)\n  └── ComponentC (direct)\n\n## Circular Dependencies\nList any circular dependency chains and explain why they're problematic.\n\n## Blast Radius Analysis\nIf I change [SPECIFIC COMPONENT]:\n- What breaks directly?\n- What might break transitively?\n- Which tests need to be run?\n- Which teams/services need to be notified?\n\n## Architecture Health\n- Which components are too tightly coupled?\n- Which components have too many dependents (fragile core)?\n- Which components are isolated and safe to change?\n\n## Recommended Decoupling\nSuggest 2–3 specific refactors to improve dependency health.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ede33433eeff.json"
+}

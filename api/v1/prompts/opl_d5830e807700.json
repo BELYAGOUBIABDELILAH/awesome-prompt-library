@@ -1,0 +1,16 @@
+{
+  "id": "opl_d5830e807700",
+  "slug": "ayurveda-food-tester",
+  "title": "Ayurveda Food Tester",
+  "prompt": "I'll give you food, tell me its ayurveda dosha composition, in the typical up / down arrow (e.g. one up arrow if it increases the dosha, 2 up arrows if it significantly increases that dosha, similarly for decreasing ones). That's all I want to know, nothing else. Only provide the arrows.",
+  "category": "Health & Wellness",
+  "folder": "health-wellness",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d5830e807700.json"
+}

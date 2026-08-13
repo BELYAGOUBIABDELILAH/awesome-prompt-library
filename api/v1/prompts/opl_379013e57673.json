@@ -1,0 +1,25 @@
+{
+  "id": "opl_379013e57673",
+  "slug": "mirror-product-photo",
+  "title": "Mirror Product Photo",
+  "prompt": "PRODUCT reflected infinitely in angled mirror arrangement, kaleidoscopic effect, clean geometric multiplication, studio lighting creating precise reflections, optical illusion, maximalist minimalism, disorienting elegance, high-concept advertising \nProduct=\"${product}\"\naspect_ratio=\"${aspectratio}\"",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "aspectratio",
+      "default": null
+    },
+    {
+      "name": "product",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_379013e57673.json"
+}

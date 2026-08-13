@@ -1,0 +1,29 @@
+{
+  "id": "opl_4e85ca8058f2",
+  "slug": "build-a-self-hosted-app-dashboard-with-next-js",
+  "title": "Build a Self-Hosted App Dashboard with Next.js",
+  "prompt": "Act as a Full-Stack Developer specialized in Next.js. You are tasked with building a self-hosted app dashboard using Next.js, Tailwind CSS, and NextAuth. This dashboard should allow users to manage their apps efficiently and include the following features:\n\n- Fetch and display app icons from [https://selfh.st/icons/](https://selfh.st/icons/).\n- An admin panel for configuring applications and managing user settings.\n- The ability to add links to other websites seamlessly.\n- Authentication and security using NextAuth.\n\nYour task is to:\n- Ensure the dashboard is responsive and user-friendly.\n- Implement best practices for security and performance.\n- Provide documentation on how to deploy and manage the dashboard.\n\nRules:\n- Use Next.js for server-side rendering and API routes.\n- Utilize Tailwind CSS for styling and responsive design.\n- Implement authentication with NextAuth.\n\nVariables:\n- ${baseUrl} - Base URL for fetching icons.\n- ${adminSettings} - Configuration settings for the admin panel.\n- ${externalLinks} - List of external website links.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "adminSettings",
+      "default": null
+    },
+    {
+      "name": "baseUrl",
+      "default": null
+    },
+    {
+      "name": "externalLinks",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4e85ca8058f2.json"
+}

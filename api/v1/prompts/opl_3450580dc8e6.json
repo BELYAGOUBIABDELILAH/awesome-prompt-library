@@ -1,0 +1,16 @@
+{
+  "id": "opl_3450580dc8e6",
+  "slug": "identify-security-issues-in-mr",
+  "title": "Identify Security Issues in MR",
+  "prompt": "Perform a security-focused review of this merge request:\n\nMR diff: [PASTE CHANGES]\n\n## Security Vulnerability Scan\n\n### Injection Vulnerabilities\n- SQL injection: are all queries parameterized?\n- Command injection: is user input passed to system calls?\n- LDAP/XPath injection: are queries sanitized?\n\n### XSS (Cross-Site Scripting)\n- Is user input rendered to HTML without escaping?\n- Are innerHTML or dangerouslySetInnerHTML used unsafely?\n- Is Content-Security-Policy maintained?\n\n### Authentication & Authorization\n- Are new endpoints protected with proper auth checks?\n- Are authorization rules enforced server-side (not just UI)?\n- Are privilege escalation paths introduced?\n\n### Data Exposure\n- Are sensitive fields (passwords, tokens, PII) logged?\n- Are error messages leaking internal details?\n- Is sensitive data returned in API responses unnecessarily?\n\n### Cryptography\n- Are secrets hardcoded?\n- Are weak hashing algorithms used (MD5, SHA1 for passwords)?\n- Is random number generation cryptographically secure?\n\n### Dependency Security\n- Are new dependencies added? Have they been scanned?\n- Are any known-vulnerable versions introduced?\n\n## Risk Rating per Finding\nCritical / High / Medium / Low + suggested fix for each.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3450580dc8e6.json"
+}

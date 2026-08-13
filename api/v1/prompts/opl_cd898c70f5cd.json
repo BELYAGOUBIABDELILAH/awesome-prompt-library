@@ -1,0 +1,16 @@
+{
+  "id": "opl_cd898c70f5cd",
+  "slug": "create-social-media-copy-for-employees",
+  "title": "Create Social Media Copy for Employees",
+  "prompt": "Create social media posts for employees to use for key marketing and product launches and campaigns.\nFormat:\n- LinkedIn version (professional tone, 150–200 words)\n- Twitter/X version (punchy, under 280 characters)\n- Include 3–5 relevant hashtags per version\n- Provide a suggested image description for the post\nKeep the voice authentic — employees sharing, not corporate broadcasting.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_cd898c70f5cd.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "opl_0e84fea10d58",
+  "slug": "protocol-2084-the-alleyway-hack",
+  "title": "Protocol 2084: The Alleyway Hack",
+  "prompt": "{\n  \"prompt\": \"You will perform an image edit transforming the male subject into a fugitive netrunner in a gritty, high-tech future. The result must be an Ultra-Photorealistic, Movie-Quality image resembling a frame from an IMAX blockbuster. The scene is set in a rain-slicked neon alleyway where the subject is hiding. Ensure the image is highly detailed, utilizing cinematic lighting and realistic physics, shot on Arri Alexa with a shallow depth of field to isolate the subject from the chaotic background.\",\n  \"details\": {\n    \"year\": \"${year:2084}\",\n    \"genre\": \"Cinematic Photorealism\",\n    \"location\": \"A narrow, debris-strewn alleyway in a vertically built cyberpunk mega-city. The ground is wet asphalt reflecting the chaotic glow of neon kanji signs from skyscrapers above.\",\n    \"lighting\": [\n      \"Volumetric neon blue and magenta backlighting\",\n      \"Soft cool fill light on face\",\n      \"High-contrast shadows\",\n      \"Specular highlights on wet surfaces\"\n    ],\n    \"camera_angle\": \"Eye-level medium shot with shallow depth of field (bokeh background) to focus on the subject's intense expression.\",\n    \"emotion\": [\n      \"Paranoid\",\n      \"Focused\",\n      \"Urgent\"\n    ],\n    \"color_palette\": [\n      \"Electric Cyan\",\n      \"Neon Pink\",\n      \"Deep Shadow Black\",\n      \"Rain Silver\",\n      \"Cold Blue\"\n    ],\n    \"atmosphere\": [\n      \"Dystopian\",\n      \"Claustrophobic\",\n      \"Wet\",\n      \"Gritty\",\n      \"High-Tech Low-Life\"\n    ],\n    \"environmental_elements\": \"Falling rain droplets frozen in time, swirling steam rising from vents, flickering holographic advertisements reflecting in muddy puddles.\",\n    \"subject1\": {\n      \"costume\": \"A heavily textured, waterproof black tech-wear windbreaker with illuminated geometric patterns, fingerless tactical gloves, and a metallic neural interface port visible on the temple.\",\n      \"subject_expression\": \"Intense concentration mixed with anxiety, sweat and rain dripping down the face.\",\n      \"subject_action\": \"Rapidly typing on a floating holographic keyboard projected from a wrist-mounted cyberdeck while glancing over his shoulder.\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"daylight\",\n        \"sunshine\",\n        \"blue sky\",\n        \"clean surfaces\",\n        \"dryness\",\n        \"warm lighting\"\n      ],\n      \"exclude_styles\": [\n        \"cartoon\",\n        \"anime\",\n        \"3D render\",\n        \"painting\",\n        \"low resolution\",\n        \"blurry\",\n        \"sketch\"\n      ],\n      \"exclude_colors\": [\n        \"warm sepia\",\n        \"pastels\",\n        \"bright white\",\n        \"beige\"\n      ],\n      \"exclude_objects\": [\n        \"cars\",\n        \"trees\",\n        \"pets\",\n        \"flowers\"\n      ]\n    }\n  }\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "year",
+      "default": "2084"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0e84fea10d58.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "opl_b6df8926fcb9",
+  "slug": "build-a-ddqn-snake-game-with-tensorflow-js-in-a-single-html",
+  "title": "Build a DDQN Snake Game with TensorFlow.js in a Single HTML File",
+  "prompt": "Act as a TensorFlow.js expert. You are tasked with building a Deep Q-Network (DDQN) based Snake game using the latest TensorFlow.js API, all within a single HTML file. \n\nYour task is to:\n1. Set up the HTML structure to include TensorFlow.js and other necessary libraries.\n2. Implement the Snake game logic using JavaScript, ensuring the game is fully playable.\n3. Use a Double DQN approach to train the AI to play the Snake game.\n4. Ensure the game can be played and trained directly within a web browser.\n\nYou will:\n- Use TensorFlow.js's latest API features.\n- Implement the game logic and AI in a single, self-contained HTML file.\n- Ensure the code is efficient and well-documented.\n\nRules:\n- The entire implementation must be contained within one HTML file.\n- Use variables like ${canvasWidth:400}, ${canvasHeight:400} for configurable options.\n- Provide comments and documentation within the code to explain the logic and TensorFlow.js usage.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "canvasHeight",
+      "default": "400"
+    },
+    {
+      "name": "canvasWidth",
+      "default": "400"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b6df8926fcb9.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "opl_d3dbec2eb019",
+  "slug": "convert-pdf-to-markdown",
+  "title": "Convert PDF to Markdown",
+  "prompt": "---\nplaform: https://aistudio.google.com/\nmodel: gemini 2.5\n---\n\nPrompt:\n\nAct as a highly specialized data conversion AI. You are an expert in transforming PDF documents into Markdown files with precision and accuracy.\n\nYour task is to:\n\n- Convert the provided PDF file into a clean and accurate Markdown (.md) file.\n- Ensure the Markdown output is a faithful textual representation of the PDF content, preserving the original structure and formatting.\n\nRules:\n\n1. Identical Content: Perform a direct, one-to-one conversion of the text from the PDF to Markdown.\n   - NO summarization.\n   - NO content removal or omission (except for the specific exclusion mentioned below).\n   - NO spelling or grammar corrections. The output must mirror the original PDF's text, including any errors.\n   - NO rephrasing or customization of the content.\n\n2. Logo Exclusion:\n   - Identify and exclude any instance of a school logo, typically located in the header of the document. Do not include any text or image links related to this logo in the Markdown output.\n\n3. Formatting for GitHub:\n   - The output must be in a Markdown format fully compatible and readable on GitHub.\n   - Preserve structural elements such as:\n     - Headings: Use appropriate heading levels (#, ##, ###, etc.) to match the hierarchy of the PDF.\n     - Lists: Convert both ordered (1., 2.) and unordered (*, -) lists accurately.\n     - Bold and Italic Text: Use **bold** and *italic* syntax to replicate text emphasis.\n     - Tables: Recreate tables using GitHub-flavored Markdown syntax.\n     - Code Blocks: If any code snippets are present, enclose them in appropriate code fences (```).\n     - Links: Preserve hyperlinks from the original document.\n     - Images: If the PDF contains images (other than the excluded logo), represent them using the Markdown image syntax.\n\n- Note: Specify how the user should provide the image URLs or paths.\n\nInput:\n- ${input:Provide the PDF file for conversion}\n\nOutput:\n- A single Markdown (.md) file containing the converted content.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "input",
+      "default": "Provide the PDF file for conversion"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d3dbec2eb019.json"
+}

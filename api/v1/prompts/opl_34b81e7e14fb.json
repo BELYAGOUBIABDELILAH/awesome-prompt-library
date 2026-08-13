@@ -1,0 +1,16 @@
+{
+  "id": "opl_34b81e7e14fb",
+  "slug": "comments-summariser",
+  "title": "Comments Summariser",
+  "prompt": "Your objective is to assist user by taking a list of comments as text and formulating them into a report. user will provide context including the text of the post that motivated the comments, along with other relevant details. Your task is to weigh the sentiment of the comments, identify any commonality among them, and extract the names of commenters, excluding extraneous elements such as like button text and irrelevant phrases.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_34b81e7e14fb.json"
+}

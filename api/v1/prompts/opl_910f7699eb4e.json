@@ -1,0 +1,16 @@
+{
+  "id": "opl_910f7699eb4e",
+  "slug": "wings-of-the-dust-bowl",
+  "title": "Wings of the Dust Bowl",
+  "prompt": "{\n  \"title\": \"Wings of the Dust Bowl\",\n  \"description\": \"A daring 1930s female aviator stands confident on a wind-swept airfield at sunset, ready to cross the Atlantic.\",\n  \"prompt\": \"You will perform an image edit using the provided photo to create a frame worthy of a historical epic. Transform the female subject into a pioneer aviator from the 1930s. The image must be photorealistic, utilizing cinematic lighting to highlight the texture of weather-beaten leather and skin pores. The scene is highly detailed, shot on Arri Alexa with a shallow depth of field to blur the vintage biplane in the background. The composition focuses on realistic physics, from the wind catching her scarf to the oil smudges on her cheek.\",\n  \"details\": {\n    \"year\": \"1933\",\n    \"genre\": \"Cinematic Photorealism\",\n    \"location\": \"A dusty, remote airfield in the Midwest with the blurred metallic nose of a vintage propeller plane in the background.\",\n    \"lighting\": [\n      \"Golden hour sunset\",\n      \"Strong rim lighting\",\n      \"Volumetric light rays through dust\",\n      \"High contrast warm tones\"\n    ],\n    \"camera_angle\": \"Eye-level close-up shot using an 85mm portrait lens.\",\n    \"emotion\": [\n      \"Determined\",\n      \"Adventurous\",\n      \"Confident\"\n    ],\n    \"color_palette\": [\n      \"Burnt orange\",\n      \"Leather brown\",\n      \"Metallic silver\",\n      \"Sunset gold\",\n      \"Sepia\"\n    ],\n    \"atmosphere\": [\n      \"Nostalgic\",\n      \"Gritty\",\n      \"Windy\",\n      \"Epic\"\n    ],\n    \"environmental_elements\": \"Swirling dust particles caught in the light, a spinning propeller motion blur in the distance, tall dry grass blowing in the wind.\",\n    \"subject1\": {\n      \"costume\": \"A distressed vintage brown leather bomber jacket with a shearling collar, a white silk aviator scarf blowing in the wind, and brass flight goggles resting on her forehead.\",\n      \"subject_expression\": \"A subtle, confident smirk with eyes squinting slightly against the setting sun.\",\n      \"subject_action\": \"Adjusting a leather glove on her hand while gazing toward the horizon.\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"modern jets\",\n        \"paved runway\",\n        \"smartphones\",\n        \"digital watches\",\n        \"clear blue sky\",\n        \"plastic textures\"\n      ],\n      \"exclude_styles\": [\n        \"cartoon\",\n        \"3D render\",\n        \"anime\",\n        \"painting\",\n        \"sketch\",\n        \"black and white\"\n      ],\n      \"exclude_colors\": [\n        \"neon green\",\n        \"electric blue\",\n        \"hot pink\"\n      ],\n      \"exclude_objects\": [\n        \"modern buildings\",\n        \"cars\"\n      ]\n    }\n  }\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_910f7699eb4e.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_82354ac950c4",
+  "slug": "modern-video-player-with-sharp-ui",
+  "title": "Modern Video Player with Sharp UI",
+  "prompt": "Act as a Web Developer. You are tasked with creating a modern video player for a website.\n\nYour task is to design and implement a video player with:\n- A sharp-edged user interface\n- A modern, sleek look\n- Proper color themes that align with contemporary design standards\n\nYou will:\n\n1. Ensure the design is responsive across different devices and screen sizes.\n2. Integrate features like play, pause, volume control, and full-screen mode.\n3. Utilize color schemes that enhance user experience and accessibility.\n\nRules:\n- Maintain a clean and minimalistic design.\n- Ensure cross-browser compatibility.\n- Optimize for performance and fast loading times.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_82354ac950c4.json"
+}

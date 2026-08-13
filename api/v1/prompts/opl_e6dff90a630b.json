@@ -1,0 +1,16 @@
+{
+  "id": "opl_e6dff90a630b",
+  "slug": "plan-database-schema-changes",
+  "title": "Plan Database Schema Changes",
+  "prompt": "Plan safe database schema changes:\n\nProposed changes: [DESCRIBE WHAT NEEDS TO CHANGE]\nDatabase: [PostgreSQL / MySQL / SQLite]\nTable sizes: [N rows in affected tables]\nDeployment window: [zero-downtime required / maintenance window allowed]\n\n## Schema Change Plan\n\n### Change Classification\nFor each change:\n| Change | Type | Risk | Backwards Compatible |\n|---|---|---|---|\n| [Change] | Additive/Destructive/Modifying | Low/Med/High | Yes/No |\n\n### Migration Strategy\n\n**For zero-downtime deployments, use the expand-contract pattern:**\n\nPhase 1 — Expand (deploy to production, no code change needed):\n\\",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e6dff90a630b.json"
+}

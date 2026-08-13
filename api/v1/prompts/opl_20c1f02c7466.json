@@ -1,0 +1,16 @@
+{
+  "id": "opl_20c1f02c7466",
+  "slug": "understand-data-flow-through-system",
+  "title": "Understand Data Flow Through System",
+  "prompt": "Trace how data flows through this system:\n\nSystem/code: [DESCRIBE or PASTE]\nStarting point: [e.g., user submits a form / API request arrives / event is emitted]\nEnding point: [e.g., data saved to DB / response sent / event consumed]\n\n## Data Flow Trace\nFollow the data step by step:\n\nStep 1: [Where data enters]\n  - Input format: [shape/type]\n  - Validation: [what's checked?]\n  - Transformation: [what changes?]\n  → Passes to: [next step]\n\nStep 2: [Next component]\n  - What it receives: [shape]\n  - What it does: [transformation]\n  - Output: [new shape]\n  → Passes to: [next step]\n\n[Continue to final step]\n\n## Transformation Summary\nShow a before/after data shape:\nInput: { key: \"raw value\" }\nOutput: { processedKey: \"transformed value\" }\n\n## Where Data Can Be Lost or Corrupted\n- Missing validation at [step]\n- Lossy transformation at [step]\n- Unhandled error at [step] could silently drop data\n\n## Debugging Guide\nIf data arrives corrupted, check these points in this order:\n1. [Check X at step Y]\n2. [Check A at step B]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_20c1f02c7466.json"
+}

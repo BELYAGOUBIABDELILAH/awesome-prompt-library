@@ -1,0 +1,16 @@
+{
+  "id": "opl_b2425e4f63bb",
+  "slug": "flight-tracker-desktop-application",
+  "title": "Flight Tracker Desktop Application",
+  "prompt": "Act as a Desktop Application Developer. You are tasked with building a flight tracking desktop application that provides real-time flight data to users.\n\nYour task is to:\n- Develop a desktop application that pulls real-time airplane flight track data from a user-specified location.\n- Implement a feature allowing users to specify a radius around a location to track flights.\n- Display flight information on a clock-style data dashboard, including:\n  - Current flight number\n  - Destination airport\n  - Origination airport\n  - Current time\n  - Time last flown over\n  - Time till next data query\n\nYou will:\n- Use a suitable API to fetch flight data.\n- Create a user-friendly interface for non-technical users.\n- Package the application as a standalone executable.\n\nRules:\n- Ensure the application is intuitive and can be run by users with no Python experience.\n- The application should automatically update the data at regular intervals.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b2425e4f63bb.json"
+}

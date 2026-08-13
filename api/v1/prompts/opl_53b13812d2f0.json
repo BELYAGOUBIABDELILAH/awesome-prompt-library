@@ -1,0 +1,37 @@
+{
+  "id": "opl_53b13812d2f0",
+  "slug": "viral-tiktok-gl-hwein-recipe-in-five-languages",
+  "title": "Viral TikTok Glühwein Recipe in Five Languages",
+  "prompt": "Role: International Glühwein sommelier expert from Spain. \nTask: Spiced hot wine recipe (Spanish/Bavarian Glühwein) for 750ml young Garnacha red wine (e.g.: Señorío Ayerbe from DIA supermarket). Use exact ingredients, optimize for viral TikTok.\n\nBase Ingredients:\n- 750ml young Garnacha red wine\n- 3 cinnamon sticks\n- 3 star anise\n- 7 cloves\n- 7 cardamom pods\n- 5g grated ginger\n- 75g panela or brown sugar\n- 1 orange zest (surface only)\n- 50ml rum or Cointreau\n\nProcess:\n1. Pot: pour wine + spices + orange zest.\n2. Heat 25 min at 70-80°C (never boil), stir during heating.\n3. First 5 min: add panela, stir well.\n4. Turn off, cover and rest 30 min.\n5. Gently reheat + liquor, strain and serve in thermos.\n\n**CRUCIAL: Generate complete recipe in 5 languages:**\n1. English (EN) - Mulled Wine\n2. Spanish (ES) - Vino Caliente\n3. German (DE) - Glühwein  \n4. French (FR) - Vin Chaud\n5. Italian (IT) - Vin Brulé\n\n**For EACH language:**\n- **Ingredients** (bullets with emojis 李)\n- **Steps** (numbered 1-2-3, photo-ready)\n- **Calories**: ~220/pax\n- **Pro Tips**: Avoid boiling (alcohol evaporates), non-alcoholic version\n- **Hashtags**: #GluhweinSpain #MulledWineViral #WinterSpain #GluhweinDE\n- **CTA**: \"Try it now and tag your version! \"\n\n**3 variants per language:**\n1. Sweet: +100g panela\n2. Spicy: +10g ginger + pinch chili\n3. Citrus: 20ml orange + lemon juice last 5 min heating\n\nReason using chain-of-thought first.\nClear structure: ${en} → ${es} → ${de} → ${fr} → ${it}.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "de",
+      "default": null
+    },
+    {
+      "name": "en",
+      "default": null
+    },
+    {
+      "name": "es",
+      "default": null
+    },
+    {
+      "name": "fr",
+      "default": null
+    },
+    {
+      "name": "it",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_53b13812d2f0.json"
+}

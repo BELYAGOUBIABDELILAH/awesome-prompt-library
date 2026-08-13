@@ -1,0 +1,16 @@
+{
+  "id": "opl_81b193b71f1f",
+  "slug": "find-where-functions-are-called",
+  "title": "Find Where Functions Are Called",
+  "prompt": "Find all call sites for the following function/method:\n\nFunction name: [FUNCTION NAME]\nDefined in: [FILE PATH]\n\n## Direct Call Sites\nList every location where this function is called:\n| File | Line | Caller function | Arguments passed |\n\n## Call Chain (Upstream)\nTrace who calls the callers — build the call graph 2–3 levels up:\nFunction A → calls our function\nFunction B → calls Function A → calls our function\n\n## Usage Patterns\nFrom the call sites, identify:\n- What arguments are typically passed?\n- Are there any unusual call patterns?\n- Is it called synchronously or asynchronously?\n- Is the return value used? Ignored?\n\n## Refactoring Impact\nIf I change the signature of this function:\n- How many files need updating?\n- Which callers would require the most work?\n- Are any call sites in tests only (lower risk)?\n\n## Dynamic Invocation Check\nAre there any places where this function might be called dynamically?\n(eval, reflection, string-based dispatch, event handlers)\n\nSafe to refactor: YES / NO / NEEDS INVESTIGATION",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_81b193b71f1f.json"
+}

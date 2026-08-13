@@ -1,0 +1,16 @@
+{
+  "id": "opl_915a2023c06a",
+  "slug": "airport-corridor-walk-full-body",
+  "title": "Airport Corridor Walk (full-body)",
+  "prompt": "{\n  \"category\": \"AIRPORT_CORRIDOR_FULLBODY\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-27, Turkish-looking.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Low ponytail, travel-day casual\",\n      \"texture\": \"Natural strands, slight flyaways\",\n      \"movement\": \"Subtle motion from walking\"\n    },\n    \"face\": {\n      \"eyes\": \"Bright, awake\",\n      \"skin_details\": \"Real texture, no filter\",\n      \"makeup\": \"Minimal travel-friendly look\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Travel chic: coat + comfy pants + sneakers (no logos)\",\n      \"fabric\": \"Realistic wrinkles at knees/elbows\"\n    },\n    \"accessories\": {\n      \"items\": [\"Rolling suitcase (no branding)\", \"Small tote (no logos)\"],\n      \"jewelry\": [\"Small silver hoops\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Full-body walking candid\",\n    \"orientation\": \"Mid-stride, slight lookback\",\n    \"hands\": \"One hand on suitcase handle, other holding tote strap\",\n    \"gaze\": \"Lookback toward camera, subtle smile\",\n    \"posture\": \"Relaxed, confident traveler\"\n  },\n  \"setting\": {\n    \"environment\": \"Airport corridor\",\n    \"background_elements\": [\n      \"Soft overhead lights\",\n      \"Motion blur in distant travelers (no faces identifiable)\",\n      \"Glossy floor reflections\"\n    ],\n    \"depth\": \"Subject sharp; background softened with motion\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Full-body travel photo\",\n    \"angle\": \"Eye-level\",\n    \"focal_length_equivalent\": \"26mm phone or 35mm editorial\",\n    \"framing\": \"4:5\",\n    \"focus\": \"Face readable, outfit sharp\"\n  },\n  \"lighting\": {\n    \"source\": \"Overhead airport lighting\",\n    \"highlights\": \"Natural reflections on floor\",\n    \"shadows\": \"Soft, realistic\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Travel-day stylish, candid\",\n    \"expression\": \"Friendly micro-smile\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photorealistic UGC travel\",\n    \"imperfections\": \"Slight tilt, mild noise\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Mild\",\n    \"motion_blur\": \"Background only\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"readable signage\", \"logos\",\n    \"extra limbs\", \"warped suitcase\",\n    \"plastic skin\", \"cgi\"\n  ]\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_915a2023c06a.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_695b5ce93b76",
+  "slug": "customer-feedback-analysis",
+  "title": "Customer Feedback Analysis",
+  "prompt": "Analyze customer feedback over the past six months, highlighting key themes, positive feedback, and areas for improvement.\nStructure:\n1. Top 5 themes by frequency (positive and negative)\n2. Representative quotes for each theme\n3. Severity ranking: which themes most impact retention or satisfaction\n4. Recommended actions per theme\n5. Metrics: NPS impact, ticket volume, feature request count\nOutput: An executive-ready summary + a detailed breakdown by theme.",
+  "category": "Research & Analysis",
+  "folder": "research-analysis",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_695b5ce93b76.json"
+}
