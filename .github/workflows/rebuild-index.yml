@@ -1,56 +1,43 @@
-name: Rebuild Prompt Index
+name: Verify published prompt registry
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'data/categories/**'
-      - 'data/prompts.json'
-      - 'scripts/generate-tree.js'
-      - '.github/workflows/rebuild-index.yml'
+      - 'data/**'
+      - 'scripts/**'
+      - 'schemas/**'
+      - 'prompts/**'
+      - 'README.md'
+      - 'privacy.md'
+      - 'package.json'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 concurrency:
-  group: rebuild-prompt-index
-  cancel-in-progress: false
+  group: verify-prompt-registry
+  cancel-in-progress: true
+
+permissions:
+  contents: read
 
 jobs:
-  rebuild:
+  verify:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24'
+          node-version: '20'
 
-      - name: Regenerate prompts tree
-        run: node scripts/generate-tree.js
+      - name: Run registry quality checks
+        run: npm run quality
 
-      - name: Commit and push generated changes
-        shell: bash
-        run: |
-          set -euo pipefail
-
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add prompts/ README.md data/prompts.json data/prompts.csv
-
-          if git diff --cached --quiet; then
-            echo "No generated changes to commit"
-            exit 0
-          fi
-
-          git commit -m "chore: rebuild prompt index [skip ci]"
-          git push origin main
+      - name: Ensure generated output is committed
+        run: git diff --exit-code -- README.md data/prompts.csv data/prompts/index.jsonl prompts reports

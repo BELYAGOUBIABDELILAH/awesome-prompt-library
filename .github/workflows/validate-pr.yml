@@ -1,0 +1,55 @@
+name: Validate prompt registry
+
+on:
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+      - 'schemas/**'
+      - 'prompts/**'
+      - 'README.md'
+      - 'privacy.md'
+      - 'package.json'
+      - '.github/workflows/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Phase 0 quality pipeline
+        run: npm run quality
+
+      - name: Publish validation summary
+        if: always()
+        run: |
+          count=$(wc -l < data/prompts/index.jsonl)
+          {
+            echo '## Prompt registry validation'
+            echo
+            echo "- Canonical index: ${count} records"
+            echo '- Exact duplicate groups are reported for review; conflicting metadata is quarantined'
+            echo '- Unverified provenance remains in `draft` status'
+            echo '- Generated output must be committed and reproducible'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Reject stale or uncommitted generated output
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo 'Generated output is stale or uncommitted:'
+            git status --short
+            exit 1
+          fi

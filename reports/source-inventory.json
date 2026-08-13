@@ -1,0 +1,26 @@
+{
+  "total_records": 3467,
+  "unique_source_count": 5,
+  "sources": [
+    {
+      "display_name": "Awesome ChatGPT Prompts",
+      "count": 1969
+    },
+    {
+      "display_name": "danielrosehill",
+      "count": 778
+    },
+    {
+      "display_name": "GitLab Duo",
+      "count": 277
+    },
+    {
+      "display_name": "ChatlyAI",
+      "count": 260
+    },
+    {
+      "display_name": "Glean",
+      "count": 183
+    }
+  ]
+}

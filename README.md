@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+Prompt+Library;3%2C467+battle-tested+AI+prompts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+Prompt+Library;2%2C101+battle-tested+AI+prompts" alt="Typing SVG" />
 
 <br/>
 
-![Prompts](https://img.shields.io/badge/prompts-3467-6E40C9?style=flat-square)
+![Prompts](https://img.shields.io/badge/prompts-2101-6E40C9?style=flat-square)
 ![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)
 ![License](https://img.shields.io/github/license/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square&color=green)
@@ -51,55 +51,67 @@ No installation. No account. Just copy and use.
 
 ---
 
+<!-- GENERATED:CATEGORIES:START -->
 ## ◈ Categories
 
-> **3,467 prompts** across **19 categories** — updated regularly.
+> **2101 prompts** across **19 categories** — updated regularly.
 
 | Category | Prompts | Browse |
 |---|---|---|
-| Coding & Development | 3,467 | [→ prompts/coding-development](prompts/coding-development) |
-| Image & Design | 3,467 | [→ prompts/image-design](prompts/image-design) |
-| Writing & Content | 3,467 | [→ prompts/writing-content](prompts/writing-content) |
-| Data & Analytics | 3,467 | [→ prompts/data-analytics](prompts/data-analytics) |
-| Marketing & Social | 3,467 | [→ prompts/marketing-social](prompts/marketing-social) |
-| General | 3,467 | [→ prompts/general](prompts/general) |
-| AI & Automation | 3,467 | [→ prompts/ai-automation](prompts/ai-automation) |
-| Business & Career | 3,467 | [→ prompts/business-career](prompts/business-career) |
-| Documentation | 3,467 | [→ prompts/documentation](prompts/documentation) |
-| Security | 3,467 | [→ prompts/security](prompts/security) |
-| Health & Wellness | 3,467 | [→ prompts/health-wellness](prompts/health-wellness) |
-| Research & Analysis | 3,467 | [→ prompts/research-analysis](prompts/research-analysis) |
-| Sales & Business | 3,467 | [→ prompts/sales-business](prompts/sales-business) |
-| Games & Fun | 3,467 | [→ prompts/games-fun](prompts/games-fun) |
-| Product & Strategy | 3,467 | [→ prompts/product-strategy](prompts/product-strategy) |
-| Travel & Places | 3,467 | [→ prompts/travel-places](prompts/travel-places) |
-| Food & Recipes | 3,467 | [→ prompts/food-recipes](prompts/food-recipes) |
-| Philosophy & Humanities | 3,467 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
-| Education & Learning | 3,467 | [→ prompts/education-learning](prompts/education-learning) |
+| Coding & Development | 768 | [→ prompts/coding-development](prompts/coding-development) |
+| Image & Design | 389 | [→ prompts/image-design](prompts/image-design) |
+| Writing & Content | 252 | [→ prompts/writing-content](prompts/writing-content) |
+| Data & Analytics | 138 | [→ prompts/data-analytics](prompts/data-analytics) |
+| Marketing & Social | 104 | [→ prompts/marketing-social](prompts/marketing-social) |
+| General | 71 | [→ prompts/general](prompts/general) |
+| Education & Learning | 70 | [→ prompts/education-learning](prompts/education-learning) |
+| AI & Automation | 62 | [→ prompts/ai-automation](prompts/ai-automation) |
+| Documentation | 52 | [→ prompts/documentation](prompts/documentation) |
+| Business & Career | 51 | [→ prompts/business-career](prompts/business-career) |
+| Security | 41 | [→ prompts/security](prompts/security) |
+| Health & Wellness | 27 | [→ prompts/health-wellness](prompts/health-wellness) |
+| Research & Analysis | 23 | [→ prompts/research-analysis](prompts/research-analysis) |
+| Sales & Business | 19 | [→ prompts/sales-business](prompts/sales-business) |
+| Games & Fun | 13 | [→ prompts/games-fun](prompts/games-fun) |
+| Product & Strategy | 11 | [→ prompts/product-strategy](prompts/product-strategy) |
+| Travel & Places | 5 | [→ prompts/travel-places](prompts/travel-places) |
+| Food & Recipes | 3 | [→ prompts/food-recipes](prompts/food-recipes) |
+| Philosophy & Humanities | 2 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
+
+<!-- GENERATED:CATEGORIES:END -->
 
 ## ⬡ Data Exports
 
-The full dataset is available in machine-readable formats.
+The canonical v1 registry is available in machine-readable formats. It uses immutable IDs, explicit provenance states, content hashes, revision numbers, and legacy-slug preservation.
 
 | File | Format | Records | Use case |
-|---|---|---|---|
-| [`data/prompts.json`](data/prompts.json) | JSON array | 3,467 | Build apps, query with `jq`, feed into vector DBs |
-| [`data/prompts.csv`](data/prompts.csv) | CSV UTF-8 | 3,467 | Excel, pandas, Sheets, SQL imports |
+|---|---|---:|---|
+| [`data/prompts/index.jsonl`](data/prompts/index.jsonl) | JSONL v1 | 2,101 | Canonical registry for apps, CLIs, IDEs, and AI tools |
+| [`data/sources.json`](data/sources.json) | JSON array | 5 | Source names, URL/licence review state, and redistribution status |
+| [`data/prompts.json`](data/prompts.json) | Legacy JSON array | 3,467 | Original import retained for audit and migration review |
+| [`data/prompts.csv`](data/prompts.csv) | CSV UTF-8 | 2,101 | Spreadsheet, pandas, and SQL-friendly export |
 
-**JSON schema per record**
+**Canonical record shape**
 
 ```json
 {
-  "act": "Prompt title",
-  "category": "Category name",
-  "prompt": "Full prompt text",
-  "source": "Original source",
-  "type": "TEXT",
-  "slug": "url-friendly-slug",
-  "folder": "category-folder-name",
-  "path": "prompts/folder/slug.md"
+  "id": "opl_7b2a9f3e1c5d",
+  "slug": "api-review",
+  "title": "API Review",
+  "summary": null,
+  "prompt": "Full prompt text with explicit variables",
+  "category": "Coding & Development",
+  "language": "unknown",
+  "variables": [],
+  "source_ids": ["awesome-chatgpt-prompts"],
+  "provenance_status": "needs-review",
+  "status": "draft",
+  "revision": 1,
+  "content_hash": "sha256…"
 }
 ```
+
+Records whose provenance is not verified remain `draft` and are visibly marked as such in downstream products.
 
 ---
 

@@ -39,11 +39,14 @@ const CATEGORY_MAP = {
 // ---------------------------------------------------------------------------
 // Paths
 // ---------------------------------------------------------------------------
-const repoRoot   = path.resolve(__dirname, '..');
-const dataFile   = path.join(repoRoot, 'data', 'prompts.json');
-const csvFile    = path.join(repoRoot, 'data', 'prompts.csv');
-const promptsDir = path.join(repoRoot, 'prompts');
-const readmePath = path.join(repoRoot, 'README.md');
+const repoRoot        = path.resolve(__dirname, '..');
+const dataDir         = path.join(repoRoot, 'data');
+const dataFile        = path.join(dataDir, 'prompts.json');
+const canonicalFile   = path.join(dataDir, 'prompts', 'index.jsonl');
+const sourcesFile     = path.join(dataDir, 'sources.json');
+const csvFile         = path.join(dataDir, 'prompts.csv');
+const promptsDir      = path.join(repoRoot, 'prompts');
+const readmePath      = path.join(repoRoot, 'README.md');
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -81,44 +84,74 @@ function csvEscape(val) {
 }
 
 // ---------------------------------------------------------------------------
-// Load and Merge Data
+// Load canonical or legacy data
 // ---------------------------------------------------------------------------
-if (!fs.existsSync(dataFile)) {
-  console.error('ERROR: data/prompts.json not found. Run xlsx-to-json.js first.');
-  process.exit(1);
+function loadCanonicalRecords() {
+  const canonical = fs.readFileSync(canonicalFile, 'utf8')
+    .split('\n')
+    .map(line => line.trim())
+    .filter(Boolean)
+    .map(line => JSON.parse(line));
+
+  const sources = fs.existsSync(sourcesFile)
+    ? JSON.parse(fs.readFileSync(sourcesFile, 'utf8'))
+    : [];
+  const sourceNames = new Map(sources.map(source => [source.source_id, source.display_name]));
+
+  return canonical.map(record => ({
+    ...record,
+    act: record.title,
+    source: record.source_ids.map(id => sourceNames.get(id) || id).join(', '),
+    type: String(record.prompt_type || 'unknown').toUpperCase(),
+    folder: record.category_folder,
+    path: `prompts/${record.category_folder}/${record.slug}.md`
+  }));
 }
 
-const records = JSON.parse(fs.readFileSync(dataFile, 'utf8'));
-console.log(`Loaded ${records.length} base records from data/prompts.json`);
+function loadLegacyRecords() {
+  if (!fs.existsSync(dataFile)) {
+    console.error('ERROR: neither data/prompts/index.jsonl nor data/prompts.json exists.');
+    process.exit(1);
+  }
 
-const categoriesDir = path.join(repoRoot, 'data', 'categories');
-let newPromptsAdded = 0;
+  const records = JSON.parse(fs.readFileSync(dataFile, 'utf8'));
+  console.log(`Loaded ${records.length} legacy records from data/prompts.json`);
 
-if (fs.existsSync(categoriesDir)) {
-  const existingSlugs = new Set(records.map(r => r.slug));
-  const categoryFiles = fs.readdirSync(categoriesDir).filter(f => f.endsWith('.json'));
-  
-  for (const file of categoryFiles) {
-    const filePath = path.join(categoriesDir, file);
-    try {
-      const catData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      for (const r of catData) {
-        if (!existingSlugs.has(r.slug)) {
-          records.push(r);
-          existingSlugs.add(r.slug);
-          newPromptsAdded++;
+  const categoriesDir = path.join(repoRoot, 'data', 'categories');
+  let newPromptsAdded = 0;
+  if (fs.existsSync(categoriesDir)) {
+    const existingSlugs = new Set(records.map(r => r.slug));
+    const categoryFiles = fs.readdirSync(categoriesDir).filter(f => f.endsWith('.json'));
+    for (const file of categoryFiles) {
+      const filePath = path.join(categoriesDir, file);
+      try {
+        const catData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        for (const record of catData) {
+          if (!existingSlugs.has(record.slug)) {
+            records.push(record);
+            existingSlugs.add(record.slug);
+            newPromptsAdded++;
+          }
         }
+      } catch (e) {
+        console.warn(`WARN: Failed to parse ${file}: ${e.message}`);
       }
-    } catch (e) {
-      console.warn(`WARN: Failed to parse ${file}: ${e.message}`);
     }
   }
+
+  if (newPromptsAdded > 0) {
+    console.log(`Merged ${newPromptsAdded} new prompts from data/categories/`);
+    fs.writeFileSync(dataFile, JSON.stringify(records, null, 2), 'utf8');
+  }
+  return records;
 }
 
-if (newPromptsAdded > 0) {
-  console.log(`Merged ${newPromptsAdded} new prompts from data/categories/`);
-  fs.writeFileSync(dataFile, JSON.stringify(records, null, 2), 'utf8');
-  console.log('Synchronized data/prompts.json');
+const canonicalMode = fs.existsSync(canonicalFile);
+const records = canonicalMode ? loadCanonicalRecords() : loadLegacyRecords();
+console.log(`Loaded ${records.length} ${canonicalMode ? 'canonical' : 'legacy'} records`);
+
+if (canonicalMode) {
+  console.log('Canonical mode: retained legacy data/prompts.json for auditability');
 }
 
 // ---------------------------------------------------------------------------
@@ -254,6 +287,7 @@ const sortedCategories = Object.entries(categoryStats)
 const total = records.length;
 
 const categorySection = [
+  '<!-- GENERATED:CATEGORIES:START -->',
   '## ◈ Categories',
   '',
   `> **${total} prompts** across **${sortedCategories.length} categories** — updated regularly.`,
@@ -261,8 +295,9 @@ const categorySection = [
   '| Category | Prompts | Browse |',
   '|---|---|---|',
   ...sortedCategories.map(([cat, { count, folder }]) =>
-    `| ${cat} | ${count} | [→ prompts/${folder}](prompts/${folder}) |`
-  ),
+    `| ${cat} | ${count} | [→ prompts/${folder}](prompts/${folder}) |`),
+  '',
+  '<!-- GENERATED:CATEGORIES:END -->'
 ].join('\n');
 
 // Read existing README and replace only the categories section
@@ -271,8 +306,8 @@ if (!fs.existsSync(readmePath)) {
 } else {
   const readmeContent = fs.readFileSync(readmePath, 'utf8');
 
-  const START_MARKER = '## ◈ Categories';
-  const END_MARKER   = '## ⬡ Data Exports';
+  const START_MARKER = '<!-- GENERATED:CATEGORIES:START -->';
+  const END_MARKER   = '<!-- GENERATED:CATEGORIES:END -->';
 
   const startIdx = readmeContent.indexOf(START_MARKER);
   const endIdx   = readmeContent.indexOf(END_MARKER);
@@ -283,8 +318,8 @@ if (!fs.existsSync(readmePath)) {
     fs.writeFileSync(readmePath, readmeContent + '\n\n' + categorySection, 'utf8');
   } else {
     const before  = readmeContent.slice(0, startIdx);
-    const after   = readmeContent.slice(endIdx);
-    const updated = before + categorySection + '\n\n' + after;
+    const after   = readmeContent.slice(endIdx + END_MARKER.length);
+    const updated = before + categorySection + after;
     fs.writeFileSync(readmePath, updated, 'utf8');
     console.log('Updated README.md category section');
   }
@@ -325,17 +360,8 @@ if (fs.existsSync(readmePath)) {
     totalUrlEncoded
   );
 
-  // 3. Plain-text header:  **2,106 prompts**  →  **2,997 prompts**
-  readme = readme.replace(
-    /\*\*[\d,]+ prompts\*\*/g,
-    `**${totalFormatted} prompts**`
-  );
-
-  // 4. Data-exports table cell:  | 2,106 |  →  | 2,997 |
-  readme = readme.replace(
-    /\| [\d,]+ \|/g,
-    `| ${totalFormatted} |`
-  );
+  // Category and total text are generated inside marker-scoped sections above.
+  // Do not perform global numeric replacements: they can corrupt unrelated tables.
 
   fs.writeFileSync(readmePath, readme, 'utf8');
   console.log(`README prompt count updated → ${total}`);

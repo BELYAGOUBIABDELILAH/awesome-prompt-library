@@ -1,0 +1,48 @@
+{
+  "count": 5,
+  "records": [
+    {
+      "legacy_index": 52,
+      "slug": "cascading-failure-simulator",
+      "title": "Cascading Failure Simulator",
+      "category": "Business & Career",
+      "reason": "empty-prompt"
+    },
+    {
+      "legacy_index": 436,
+      "slug": "sales",
+      "title": "Sales",
+      "category": "Coding & Development",
+      "content_hash": "bc40d6e025755d9cc9ceb6dc67098de662f276e50a6ee4baf57287c5d7ebb45d",
+      "reason": "duplicate-metadata-conflict",
+      "note": "Exact prompt content matches another record, but title, category, or source metadata differs. Human review is required before publication."
+    },
+    {
+      "legacy_index": 442,
+      "slug": "selar-ideas-for-automation",
+      "title": "Selar ideas for automation",
+      "category": "Coding & Development",
+      "content_hash": "bc40d6e025755d9cc9ceb6dc67098de662f276e50a6ee4baf57287c5d7ebb45d",
+      "reason": "duplicate-metadata-conflict",
+      "note": "Exact prompt content matches another record, but title, category, or source metadata differs. Human review is required before publication."
+    },
+    {
+      "legacy_index": 952,
+      "slug": "ultra-realistic-noir-portrait-creation",
+      "title": "Ultra-Realistic Noir Portrait Creation",
+      "category": "Image & Design",
+      "content_hash": "263c1125d237c5ea2e61f70e75309b6cc3f89766b8d5f870dcda6051f5929d03",
+      "reason": "duplicate-metadata-conflict",
+      "note": "Exact prompt content matches another record, but title, category, or source metadata differs. Human review is required before publication."
+    },
+    {
+      "legacy_index": 1105,
+      "slug": "ai-new",
+      "title": "Ai new",
+      "category": "Writing & Content",
+      "content_hash": "263c1125d237c5ea2e61f70e75309b6cc3f89766b8d5f870dcda6051f5929d03",
+      "reason": "duplicate-metadata-conflict",
+      "note": "Exact prompt content matches another record, but title, category, or source metadata differs. Human review is required before publication."
+    }
+  ]
+}

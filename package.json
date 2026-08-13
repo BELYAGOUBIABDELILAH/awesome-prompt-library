@@ -1,0 +1,21 @@
+{
+  "name": "open-prompt-library",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A trustworthy, versioned prompt registry for people, IDEs, and AI tools.",
+  "type": "commonjs",
+  "scripts": {
+    "report": "node scripts/normalize-and-report.js",
+    "review:merges": "node scripts/create-merge-review.js",
+    "migrate": "node scripts/migrate-schema.js",
+    "validate": "node scripts/validate-index.js",
+    "validate:source-sync": "node scripts/validate-source-sync.js",
+    "generate": "node scripts/generate-tree.js",
+    "test:integrity": "node scripts/test-integrity.js",
+    "bootstrap": "npm run report && npm run review:merges && npm run migrate && npm run validate && npm run validate:source-sync && npm run generate && npm run test:integrity",
+    "quality": "npm run report && npm run review:merges && npm run validate && npm run validate:source-sync && npm run generate && npm run test:integrity"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
