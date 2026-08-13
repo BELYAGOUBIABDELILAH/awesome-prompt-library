@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+Prompt+Library;3%2C469+AI+prompts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+Prompt+Library;3%2C470+AI+prompts" alt="Typing SVG" />
 
 <br/>
 
@@ -17,6 +17,7 @@ Browse, copy, fork, and extend — no setup required.</p>
 <p>
   <a href="#-categories">Browse Prompts</a> &nbsp;·&nbsp;
   <a href="#-quick-start">Quick Start</a> &nbsp;·&nbsp;
+  <a href="#-practical-examples">Examples</a> &nbsp;·&nbsp;
   <a href="#-data-exports">Data Exports</a> &nbsp;·&nbsp;
   <a href="#-contributing">Contributing</a>
 </p>
@@ -34,7 +35,79 @@ No installation. No account. Just copy and use.
 3. Paste it into ChatGPT, Claude, Gemini, or any LLM
 4. Tweak and go
 
-> **Power user tip** — clone the repo and run `grep -r "keyword" prompts/` to full-text search all prompts locally.
+> **Power user tip** — clone the repo and run `grep -i "keyword" data/registry.jsonl` to search the canonical records locally.
+
+---
+
+## ✦ Practical Examples
+
+These examples are deliberately small and reusable. They are not ratings or test results; they demonstrate the structure expected from a useful prompt: clear inputs, explicit constraints, a defined output contract, and honest handling of missing evidence.
+
+### Code review with actionable findings
+
+```text
+You are a senior code reviewer.
+
+Review this change:
+- Diff: ${diff}
+- Project context: ${context}
+- Risk priorities: ${risk_priorities:correctness,security,maintainability}
+
+Rules:
+1. Identify only issues supported by the diff or project context.
+2. Do not invent files, tests, APIs, or runtime behavior.
+3. Separate blocking issues from suggestions.
+4. If evidence is insufficient, say so explicitly.
+
+Return Markdown with exactly these sections:
+## Summary
+## Blocking issues
+## Non-blocking suggestions
+## Missing evidence
+
+For every issue, include: severity, file and line when available, why it matters, and a concrete fix.
+```
+
+### Reliable document-to-JSON extraction
+
+```text
+Extract the requested facts from ${document}.
+
+Return one valid JSON object matching this shape:
+{
+  "entities": [{"name": "string", "type": "string", "value": "string"}],
+  "dates": [{"label": "string", "value": "YYYY-MM-DD or null"}],
+  "uncertain_items": ["string"]
+}
+
+Use null or an empty array when the document does not provide a value. Do not infer facts from general knowledge. Preserve the document's wording in `uncertain_items`. Return JSON only, with no Markdown fences or commentary.
+```
+
+### Evidence-first research brief
+
+```text
+Prepare a concise research brief about ${topic} for ${audience:technical decision-makers}.
+
+Use the supplied sources: ${sources}. For each important claim, include its source URL. Separate:
+- verified facts directly supported by a source;
+- reasonable interpretations;
+- open questions or missing evidence.
+
+Do not present an estimate, opinion, or single-source claim as an established fact. If the sources are insufficient, state what cannot be concluded. End with three decision-relevant questions, not a generic conclusion.
+```
+
+### Translation that preserves structure
+
+```text
+Translate ${text} from ${source_language:English} to ${target_language:French}.
+
+Preserve exactly:
+- Markdown headings, lists, links, code blocks, and HTML tags;
+- variables such as ${name} and `${format:json}`;
+- product names, file paths, and code identifiers.
+
+Do not translate code or alter placeholder names. If a phrase has two materially different translations, choose the most natural one for the target locale and add one short note after the translated text. Otherwise, return only the translation.
+```
 
 ---
 
@@ -72,7 +145,7 @@ The original export is preserved, while the canonical registry provides a determ
 |---|---|---|---|
 | [`data/registry.jsonl`](data/registry.jsonl) | JSONL | Generated | Stable IDs, provenance states, variables, and deduplication |
 | [`data/prompts.json`](data/prompts.json) | JSON array | 3,470 | Original imported corpus and compatibility export |
-| [`data/prompts.csv`](data/prompts.csv) | CSV UTF-8 | 3,469 | Excel, pandas, Sheets, SQL imports |
+| [`data/prompts.csv`](data/prompts.csv) | CSV UTF-8 | 3,470 | Excel, pandas, Sheets, SQL imports |
 | [`data/sources.json`](data/sources.json) | JSON array | Generated | Source inventory and review status |
 
 **Canonical registry record**
