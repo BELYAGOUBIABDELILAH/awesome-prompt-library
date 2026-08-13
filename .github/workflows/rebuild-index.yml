@@ -10,6 +10,7 @@ on:
       - 'scripts/generate-tree.js'
       - 'scripts/build-registry.js'
       - 'scripts/build-api.js'
+      - 'api/index.html'
       - '.github/workflows/rebuild-index.yml'
   workflow_dispatch:
 
