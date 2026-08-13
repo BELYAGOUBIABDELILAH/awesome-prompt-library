@@ -1,0 +1,16 @@
+{
+  "id": "opl_acd96440abae",
+  "slug": "cold-start-safe-architecture",
+  "title": "Cold Start Safe Architecture",
+  "prompt": "Act as a Senior Expo + Supabase Architect.\n\nImplement a “cold-start safe” architecture using:\n- Expo (React Native) client\n- Supabase Postgres + Storage + Realtime\n- Supabase Edge Functions ONLY for lightweight gating + job enqueue\n- A separate Worker service for heavy AI generation and storage writes\n\nDeliver:\n1) Database schema (SQL migrations) for: jobs, generations, entitlements (credits/is_paid), including indexes and RLS notes\n2) Edge Functions:\n   - ping (HEAD/GET)\n   - enqueue_generation (validate auth, check is_paid/credits, create job, return jobId)\n   - get_job_status (light read)\n   Keep imports minimal; no heavy SDKs.\n3) Expo client flow:\n   - non-blocking warm ping on app start\n   - Generate button uses optimistic UI + placeholder\n   - subscribe to job updates via Realtime or implement polling fallback\n   - final generation replaces placeholder in gallery list\n4) Worker responsibilities (describe interface and minimal endpoints/logic, do not overbuild):\n   - fetch queued jobs\n   - run AI generation\n   - upload to storage\n   - update jobs + insert generations\n   - retry policy and idempotency\n\nConstraints:\n- Do NOT block app launch on any Edge call\n- Do NOT run AI calls inside Edge Functions\n- Ensure failed jobs still create a generation record with original input visible\n- Keep the solution production-friendly but minimal\n\nOutput must be structured as:\nA) Architecture summary\nB) Migrations (SQL)\nC) Edge function file structure + key code blocks\nD) Expo integration notes + key code blocks\nE) Worker outline + pseudo-code",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_acd96440abae.json"
+}

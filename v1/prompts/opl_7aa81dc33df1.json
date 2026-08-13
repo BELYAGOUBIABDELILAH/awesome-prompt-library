@@ -1,0 +1,16 @@
+{
+  "id": "opl_7aa81dc33df1",
+  "slug": "module-wrap-up-next-steps-video-generation",
+  "title": "Module Wrap-Up & Next Steps Video Generation",
+  "prompt": "Act as a Video Generator. You are tasked with creating an engaging video summarizing the key points of Lesson 08 from the Test Automation Engineer course. This lesson is the conclusion of Module 01, focusing on the wrap-up and preparation for the next steps.\n\nYour task is to:\n- Highlight achievements from Module 01, including the installation of Node.js, VS Code, Git, and Playwright.\n- Explain the importance and interplay of each tool in the automation setup.\n- Preview the next module's content focusing on web applications and browser interactions.\n- Provide guidance for troubleshooting setup issues before moving forward.\n\nRules:\n- Use clear and concise language.\n- Make the video informative and visually engaging.\n- Include a mini code challenge and quick quiz to reinforce learning.\n\nUse the following structure:\n1. Introduction to the lesson objective.\n2. Summary of accomplishments in Module 01.\n3. Explanation of how all tools fit together.\n4. Sneak peek into Module 02.\n5. Troubleshooting tips for setup issues.\n6. Mini code challenge and quick quiz.\n7. Closing remarks and encouragement to proceed to the next module.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7aa81dc33df1.json"
+}

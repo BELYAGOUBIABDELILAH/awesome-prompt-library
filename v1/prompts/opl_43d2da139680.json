@@ -1,0 +1,16 @@
+{
+  "id": "opl_43d2da139680",
+  "slug": "research-problems-faced-by-a-user-persona",
+  "title": "Research Problems Faced by a User Persona",
+  "prompt": "Identify and analyze top problems faced by a user persona in a specific activity.\nPersona: [DEFINE — role, company size, industry, goals]\nActivity: [DEFINE — what they're trying to accomplish]\nOutput:\n1. Top 5 problems ranked by severity and frequency\n2. Current workarounds they use (and why those fall short)\n3. Emotional frustrations associated with each problem\n4. Jobs-to-be-done framing for each problem\n5. Opportunity areas for a solution to capture",
+  "category": "Research & Analysis",
+  "folder": "research-analysis",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_43d2da139680.json"
+}

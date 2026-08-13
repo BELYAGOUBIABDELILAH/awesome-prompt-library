@@ -1,0 +1,16 @@
+{
+  "id": "opl_b96954b6855a",
+  "slug": "draft-a-memo",
+  "title": "Draft a memo",
+  "prompt": "Draft a clear, professional memo on the following topic:\n\nTo: [RECIPIENTS — team / department / leadership]\nFrom: [YOUR NAME / ROLE]\nSubject: [TOPIC]\nContext: [WHY THIS MEMO IS NEEDED]\n\n## Memo Structure\n\n**DATE:** [Today's date]\n**TO:** [Recipients]\n**FROM:** [Sender]\n**SUBJECT:** [Clear, specific subject line]\n\n---\n\n### Background\n[2–3 sentences: why are you writing this now? What prompted it?]\n\n### Objective\nState clearly what this memo is trying to accomplish:\n- Inform and no action required?\n- Requesting a decision?\n- Proposing a change?\n- Documenting an agreement?\n\n### Key Points\n[3–5 bullet points — the essential information, each self-contained]\n\n### Success Criteria\nHow will we know this objective was achieved?\n- [Measurable criterion 1]\n- [Measurable criterion 2]\n\n### Required Actions\n| Action | Owner | Deadline |\n|---|---|---|\n| [Action] | [Name] | [Date] |\n\n### Questions / Feedback\n[How recipients should respond — reply by email / attend meeting / no response needed]\n\n---\nKeep the memo to one page. Every sentence should earn its place.",
+  "category": "Documentation",
+  "folder": "documentation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b96954b6855a.json"
+}

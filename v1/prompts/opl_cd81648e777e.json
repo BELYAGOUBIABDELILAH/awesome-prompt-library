@@ -1,0 +1,16 @@
+{
+  "id": "opl_cd81648e777e",
+  "slug": "generate-crud-operations",
+  "title": "Generate CRUD Operations",
+  "prompt": "Generate complete CRUD operations for:\n\nEntity: [ENTITY NAME — e.g., User, Product, Order]\nLanguage/Framework: [SPECIFY]\nDatabase: [SPECIFY]\nORM/Query builder: [SPECIFY if applicable]\n\n## Generate All Five Operations\n\n### CREATE\n- Input validation (required fields, types, constraints)\n- Duplicate detection if applicable\n- Return the created entity with generated ID\n- Error: 400 for invalid input, 409 for duplicate\n\n### READ (single)\n- Fetch by ID\n- Return 404 if not found\n- Handle soft-deleted records appropriately\n\n### LIST (with pagination)\n- Accept: page, limit, sort field, sort direction\n- Return: items array + total count + pagination metadata\n- Default: page=1, limit=20, sort=createdAt desc\n- Max limit: 100\n\n### UPDATE (partial)\n- Accept partial updates (PATCH semantics)\n- Validate only the fields being updated\n- Return the updated entity\n- Error: 404 if not found, 400 if invalid\n\n### DELETE (soft delete preferred)\n- Soft delete: set deletedAt timestamp\n- Return 204 No Content on success\n- Error: 404 if not found\n\n## Tests\nGenerate tests for each operation covering:\n- Happy path\n- Validation errors\n- Not found\n- Boundary conditions",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_cd81648e777e.json"
+}

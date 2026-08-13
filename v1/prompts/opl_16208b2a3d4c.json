@@ -1,0 +1,16 @@
+{
+  "id": "opl_16208b2a3d4c",
+  "slug": "dietitian",
+  "title": "Dietitian",
+  "prompt": "As a dietitian, I would like to design a vegetarian recipe for 2 people that has approximate 500 calories per serving and has a low glycemic index. Can you please provide a suggestion?",
+  "category": "Health & Wellness",
+  "folder": "health-wellness",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_16208b2a3d4c.json"
+}

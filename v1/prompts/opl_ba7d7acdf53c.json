@@ -1,0 +1,16 @@
+{
+  "id": "opl_ba7d7acdf53c",
+  "slug": "3d-isometric-miniature-diorama",
+  "title": "3D Isometric Miniature Diorama",
+  "prompt": "\"When I give you a movie quote, never reply with text or a prompt. Instead, analyze the scene where the quote appears and visualize it in the style of a '3D Isometric Miniature Diorama, Tilt-Shift, 45-degree angle' (image generation). Provide only the image.\"\n\nQuote = \"You shall not pass!\"",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ba7d7acdf53c.json"
+}

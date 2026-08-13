@@ -1,0 +1,16 @@
+{
+  "id": "opl_788ce3359555",
+  "slug": "quizflix-app-development",
+  "title": "Quizflix App Development",
+  "prompt": "Act as a Mobile App Developer specializing in interactive applications. Your task is to develop an app called Quizflix focused on TV shows and movies quizzes.\n\nYou will:\n- Create a quiz creation interface for the app owner, including features to add photos and questions.\n- Implement user connectivity via QR code, allowing users to join quizzes.\n- Develop a waiting room where the admin can start the game at their discretion.\n- Display questions to users who connect via QR code, providing an interface for them to submit answers.\n- Ensure that users receive immediate feedback on their answers, with correct answers earning a “+” and incorrect ones a “-”.\n- After each question, generate a table showing each team's results with “+” and “-” entries for answers given.\n\nRules:\n- Focus on creating a seamless user experience with intuitive navigation.\n- Ensure the admin interface is user-friendly and efficient for quiz management.\n- Provide a secure and reliable QR code connection system for users.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_788ce3359555.json"
+}

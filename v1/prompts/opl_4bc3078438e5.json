@@ -1,0 +1,16 @@
+{
+  "id": "opl_4bc3078438e5",
+  "slug": "a-wrinkle-in-time",
+  "title": "A Wrinkle in Time",
+  "prompt": "{\n  \"prompt\": \"You will perform an image edit using the person from the provided photo as the main subject. Preserve his core likeness. Transform Subject 1 (male) into a Victorian time traveler who has just materialized in a dense, prehistoric jungle. The image must be Ultra-Photorealistic, Movie-Quality, and highly detailed. The scene captures the moment of arrival, shot on Arri Alexa with cinematic lighting and a shallow depth of field. He stands amidst towering ferns and ancient cycads, looking completely out of place in his formal 19th-century attire, contrasting the rugged, humid environment with his refined appearance.\",\n  \"details\": {\n    \"year\": \"1895 / 65 Million BC\",\n    \"genre\": \"Cinematic Photorealism\",\n    \"location\": \"A dense, steaming Cretaceous jungle floor filled with giant ferns, ancient conifers, and thick atmospheric fog.\",\n    \"lighting\": [\n      \"Volumetric god rays piercing through the canopy\",\n      \"Dappled sunlight\",\n      \"High dynamic range\"\n    ],\n    \"camera_angle\": \"Medium close-up at eye level, focusing on the subject with the background falling into soft bokeh.\",\n    \"emotion\": [\n      \"Disbelief\",\n      \"Awe\",\n      \"Scientific curiosity\",\n      \"Fear\"\n    ],\n    \"color_palette\": [\n      \"Deep emerald greens\",\n      \"Earthy mud browns\",\n      \"Burnished brass\",\n      \"Tweed grey\"\n    ],\n    \"atmosphere\": [\n      \"Humid\",\n      \"Primordial\",\n      \"Claustrophobic\",\n      \"Mysterious\"\n    ],\n    \"environmental_elements\": \"Floating pollen particles, massive prehistoric insects buzzing in the background, a large ominous silhouette of a dinosaur visible through the thick mist.\",\n    \"subject1\": {\n      \"costume\": \"A bespoke three-piece Victorian tweed suit, a slightly askew cravat, and intricate brass steampunk goggles pushed up onto his forehead.\",\n      \"subject_expression\": \"Wide-eyed shock mixed with fascination, mouth slightly open, sweat beading on his brow.\",\n      \"subject_action\": \"Clutching a glowing, smoking brass chronometer device in one hand while tentatively reaching out to touch a massive, alien-looking fern frond with the other.\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"modern buildings\",\n        \"paved roads\",\n        \"cars\",\n        \"cell phones\",\n        \"contemporary fashion\",\n        \"cleanliness\"\n      ],\n      \"exclude_styles\": [\n        \"cartoon\",\n        \"3D render\",\n        \"illustration\",\n        \"painting\",\n        \"low resolution\",\n        \"blur\",\n        \"sketch\"\n      ],\n      \"exclude_colors\": [\n        \"neon\",\n        \"pastel pinks\",\n        \"artificial brights\"\n      ],\n      \"exclude_objects\": [\n        \"spaceships\",\n        \"aliens\",\n        \"modern weapons\"\n      ]\n    }\n  }\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4bc3078438e5.json"
+}

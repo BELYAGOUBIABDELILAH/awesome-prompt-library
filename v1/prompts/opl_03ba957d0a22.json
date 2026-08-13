@@ -1,0 +1,16 @@
+{
+  "id": "opl_03ba957d0a22",
+  "slug": "blue-hour-bridge-full-body-cinematic-but-still-ig",
+  "title": "“Blue Hour Bridge” (full-body, cinematic but still IG)",
+  "prompt": "{\n  \"category\": \"BLUE_HOUR_BRIDGE_FULLBODY\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-29, Turkish-looking, calm confident vibe.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Loose waves, slightly wind-touched\",\n      \"texture\": \"Individual strands visible\",\n      \"movement\": \"Small motion in hair tips\"\n    },\n    \"face\": {\n      \"eyes\": \"Calm direct gaze\",\n      \"skin_details\": \"Natural texture, no smoothing\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Minimal black coat + fitted top, no logos\",\n      \"fabric\": \"Coat texture visible, slight wrinkles\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\"Silver hoops\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Full-body leaning on railing\",\n    \"orientation\": \"Body angled, head turned to camera\",\n    \"hands\": \"Hands resting on railing, fingers correct\",\n    \"gaze\": \"Direct eye contact\",\n    \"expression\": \"Neutral calm confidence\"\n  },\n  \"setting\": {\n    \"environment\": \"Bridge at blue hour\",\n    \"background_elements\": [\n      \"City lights bokeh\",\n      \"Cool dusk ambience\",\n      \"Railing texture visible\"\n    ],\n    \"depth\": \"Subject sharp, background bokeh\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Full-body portrait\",\n    \"angle\": \"Eye-level\",\n    \"focal_length_equivalent\": \"35mm editorial\",\n    \"framing\": \"4:5, subject off-center\",\n    \"focus\": \"Face sharp, background creamy\"\n  },\n  \"lighting\": {\n    \"source\": \"Ambient dusk + city light bounce\",\n    \"direction\": \"Soft front fill from environment\",\n    \"highlights\": \"Controlled, subtle\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Cinematic, calm, premium\",\n    \"atmosphere\": \"Blue hour dreamy realism\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photoreal social/editorial\",\n    \"imperfections\": \"Slight low-light noise allowed\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Mild low-light grain\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"fake skyline\", \"cgi\",\n    \"plastic skin\", \"over-smoothing\",\n    \"extra fingers\", \"warped railing\",\n    \"readable text\", \"logos\", \"watermark\"\n  ]\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_03ba957d0a22.json"
+}

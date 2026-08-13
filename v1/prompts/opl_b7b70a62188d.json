@@ -1,0 +1,16 @@
+{
+  "id": "opl_b7b70a62188d",
+  "slug": "design-app-store-style-icons",
+  "title": "Design App Store Style Icons",
+  "prompt": "Reconstruct the central object of the given 2D image as a true 3D wireframe model.\n\n- Interpret the 2D shape as volumetric geometry and extrude it into depth.\n\n- Build visible 3D structure with wireframe mesh lines wrapping around the form (front, sides, and curvature).\n\n- Use thin, precise, glowing white wireframe lines only, no solid surfaces, no flat fills.\n\n- Apple App Store style icon, premium iOS design language, WWDC-inspired.\n\n- Rounded square app icon, centered and symmetrical.\n\n- Soft blue gradient background, subtle glow.\n\n- Clean orthographic front view with clear depth cues (z-axis wireframe).\n\n- High-resolution, futuristic UI icon.\n\n- No text, no logos, no illustration style\n\n\nNegatives:\n\n2D flat design, flat icon, illustration, lighting-only depth, fake 3D, gradients on object, shading, shadows, cartoon style, sketch, photorealism, textures, noise, grain",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b7b70a62188d.json"
+}

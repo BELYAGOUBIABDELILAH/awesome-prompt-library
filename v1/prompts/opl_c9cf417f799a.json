@@ -1,0 +1,25 @@
+{
+  "id": "opl_c9cf417f799a",
+  "slug": "football-player-introduction-poster-template",
+  "title": "Football Player Introduction Poster Template",
+  "prompt": "Situation\nYou are creating a visual template for a football club to welcome and introduce a newly signed player. This poster will be displayed across the club's social media, stadium, and promotional materials to build excitement among fans and stakeholders about the new addition to the team. The poster serves as a formal introduction of the player to the club's community while simultaneously showcasing the club's identity and values.\n\nTask\nDesign a football player introduction poster template that prominently features the player while incorporating the club's visual identity. The poster should communicate a warm welcome to the player, introduce them to the fanbase, and convey professionalism befitting a major sports announcement. The design must balance three key elements: player prominence, club branding, and a welcoming atmosphere.\n\nObjective\nCreate a reusable template that clubs can easily customize with different player information, photos, and club branding while maintaining a cohesive, high-impact design that generates fan engagement and excitement around player signings. The poster should simultaneously welcome the player to the organization and introduce the player to the club's supporters.\n\nKnowledge\nThe template should include designated spaces for:\n\nPlayer photograph (full-body or headshot)\n\nPlayer name and jersey number\n\nPlayer position\n\nClub logo and colors\n\nA welcoming headline or tagline addressing the player (e.g., \"Welcome to ${club_name}, ${player_name}\")\n\n\n\nBackground design that reflects the club's aesthetic (stadium elements, club colors, dynamic patterns)",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "club_name",
+      "default": null
+    },
+    {
+      "name": "player_name",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c9cf417f799a.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_9b5e072a011f",
+  "slug": "mom-and-boy",
+  "title": "Mom and boy",
+  "prompt": "Couple photo;\nRegular photography\nRealistic;\nSame angle as the reference photo;\nThe boy's face is 100% identical.\nPhoto pose; Young adult woman and child sitting side by side on the sofa in the reference photo;\nWoman's outfit: White shirt with red flower embroidery, long red flared skirt, red scarf;\nChild's outfit: White dress and jeans\n3-year-old child, 1 meter tall\nWoman's accessories: 4 cm gold bracelet, gold necklace\nWith hijab - hair visible from under the scarf and exactly unchanged as in the reference (same color, length, hairline, hair loss); 100% original face preserved with natural skin texture/pores; 100% made from facial features without changing the reference photo; Soft and warm interior lighting; No text, no logo, no watermark.\nPay attention to all the sentences and implement them.\nThe child's face should be copied exactly\nThe proportions of the mother and child should be maintained: mother's height is 165 cm, child's height is 100 cm\nChoose a beautiful mother and son photo pose for them",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9b5e072a011f.json"
+}

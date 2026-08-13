@@ -1,0 +1,16 @@
+{
+  "id": "opl_af17ad31ce69",
+  "slug": "lego-movie-style-prompt",
+  "title": "Lego Movie Style Prompt",
+  "prompt": "{\n  \"TASK\": \"Reimagine as a scene from The LEGO Movie.\",\n  \"VISUAL_ID\": \"Macro photography of plastic bricks. Stop-motion feel.\",\n  \"CHARACTERS\": \"Lego Minifigures. C-shaped hands, cylindrical heads, painted faces.\",\n  \"SURFACE\": \"Glossy plastic texture, fingerprints, scratches on plastic.\",\n  \"BG\": \"Built entirely of Lego bricks. Depth of field focus.\",\n  \"NEG\": \"Human skin, cloth texture, realistic anatomy, 2d, drawing, cartoon, anime, soft.\"\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_af17ad31ce69.json"
+}

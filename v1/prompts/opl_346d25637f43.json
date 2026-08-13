@@ -1,0 +1,16 @@
+{
+  "id": "opl_346d25637f43",
+  "slug": "image-style-imitation",
+  "title": "Image Style Imitation",
+  "prompt": "Upload your image to transform it by imitating a specified style. The image will be adjusted to match the chosen aesthetic, such as:\n\n- **Style Options:** Vintage sepia, modern abstract, watercolor painting, etc.\n- **Adjustments:** Color palette, texture, contrast, and other visual elements to achieve the desired look.\n\nPlease specify the style you want to imitate to get the best results.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_346d25637f43.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_5c4a2b100170",
+  "slug": "health-metrics-calculator",
+  "title": "Health Metrics Calculator",
+  "prompt": "Build a comprehensive health metrics calculator with HTML5, CSS3 and JavaScript based on medical standards. Create a clean, accessible interface with step-by-step input forms. Implement accurate BMI calculation with visual classification scale and health risk assessment. Add body fat percentage calculator using multiple methods (Navy, Jackson-Pollock, BIA simulation). Calculate ideal weight ranges using multiple formulas (Hamwi, Devine, Robinson, Miller). Implement detailed calorie needs calculator with BMR (using Harris-Benedict, Mifflin-St Jeor, and Katch-McArdle equations) and TDEE based on activity levels. Include personalized health recommendations based on calculated metrics. Support both metric and imperial units with seamless conversion. Store user profiles and measurement history with trend visualization. Generate interactive progress charts showing changes over time. Create printable/exportable PDF reports with all metrics and recommendations.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5c4a2b100170.json"
+}

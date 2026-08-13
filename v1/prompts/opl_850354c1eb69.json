@@ -1,0 +1,16 @@
+{
+  "id": "opl_850354c1eb69",
+  "slug": "secteur-bancaire-analyse-rapide-d-un-tableau-de-donn-es",
+  "title": "Secteur Bancaire - Analyse rapide d’un tableau de données",
+  "prompt": "Analyse le tableau suivant et identifie :\n– Les principales tendances\n– Les évolutions remarquables\n– Les points d’attention éventuels\n\nPrésente ensuite un résumé exécutif de 5 à 7 phrases adapté à un public financier.\n\nDonnées à analyser :",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_850354c1eb69.json"
+}

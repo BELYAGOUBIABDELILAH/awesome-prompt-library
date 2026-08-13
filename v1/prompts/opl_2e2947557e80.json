@@ -1,0 +1,16 @@
+{
+  "id": "opl_2e2947557e80",
+  "slug": "architecture-design-discussion",
+  "title": "Architecture Design Discussion",
+  "prompt": "Let's discuss and challenge this architectural design:\n\nProposed architecture: [DESCRIBE or PASTE DIAGRAM]\nProblem it solves: [BUSINESS PROBLEM]\nScale requirements: [users, requests/sec, data volume]\nTeam: [size and experience level]\n\n## Architecture Review\n\n### Understanding the Design\nFirst, let me confirm I understand the proposal:\n[Summarize the architecture in plain language]\n\n### Strengths\nWhat this architecture gets right:\n1. [Strength with specific reasoning]\n2. [Strength]\n3. [Strength]\n\n### Failure Mode Analysis\nFor each component, what happens when it fails?\n| Component | Failure Mode | Impact | Mitigation |\n|---|---|---|---|\n\n### Scaling Concerns\nAt 10× current load:\n- Where does this architecture break first?\n- What's the first bottleneck?\n- What changes are needed to scale?\n\n### Hidden Complexity\nWhat complexity is this design introducing that might not be obvious now?\n- Distributed system issues (split-brain, network partition)\n- Operational complexity (deployment, monitoring, debugging)\n- Data consistency challenges\n\n### Assumptions to Challenge\nThe design assumes [X]. What if [X] is wrong?\n\n### Alternative Approaches\nHave you considered [ALTERNATIVE]? It would be simpler because [reason].\n\n### My Recommendation\n[Honest assessment: is this the right architecture, or should it be reconsidered?]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2e2947557e80.json"
+}

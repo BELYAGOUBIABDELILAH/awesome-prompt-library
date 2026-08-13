@@ -1,0 +1,16 @@
+{
+  "id": "opl_b95275537831",
+  "slug": "break-down-costs",
+  "title": "Break Down Costs",
+  "prompt": "Create a transparent breakdown of how sponsor funds will be used (e.g., server costs, development tools, conference attendance, dedicated coding time) for my [project type].",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b95275537831.json"
+}

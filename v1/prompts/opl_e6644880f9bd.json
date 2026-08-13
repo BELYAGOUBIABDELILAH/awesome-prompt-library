@@ -1,0 +1,16 @@
+{
+  "id": "opl_e6644880f9bd",
+  "slug": "create-design-system-documentation",
+  "title": "Create Design System Documentation",
+  "prompt": "Create comprehensive documentation for this UI component:\n\nComponent: [COMPONENT NAME]\nCode: [PASTE COMPONENT CODE]\nDesign system: [SPECIFY — Material, Tailwind, custom]\n\n## Component Documentation\n\n### Overview\nWhat is this component? When should you use it vs. alternatives?\n\n### Props / API Reference\n| Prop | Type | Required | Default | Description |\n|---|---|---|---|---|\n\n### Usage Examples\n\\",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e6644880f9bd.json"
+}

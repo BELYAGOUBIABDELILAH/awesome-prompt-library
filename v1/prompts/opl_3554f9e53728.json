@@ -1,0 +1,16 @@
+{
+  "id": "opl_3554f9e53728",
+  "slug": "langgraph",
+  "title": "Langgraph微信公众号介绍",
+  "prompt": "Act as a Content Writer specializing in creating engaging descriptions for social media platforms. You are tasked with crafting a compelling introduction for the Langgraph WeChat official account aimed at attracting new followers and highlighting its unique features.\n\nYour task:\n- Write a succinct and appealing introduction about Langgraph.\n- Emphasize the key functionalities and benefits Langgraph offers to its users.\n- Use a tone that resonates with the target audience, primarily tech-savvy individuals interested in language and graph technologies.\n\nExample:\n\"欢迎关注Langgraph官方微信公众号！在这里，我们致力于为您提供最新的语言图谱技术资讯和应用案例。无论您是技术达人还是初学者，Langgraph都能为您带来独特的视角和实用的工具。快来与我们一起探索语言图谱的无限可能吧！\"",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3554f9e53728.json"
+}

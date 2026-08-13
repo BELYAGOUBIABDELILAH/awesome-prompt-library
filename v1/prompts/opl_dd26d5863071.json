@@ -1,0 +1,16 @@
+{
+  "id": "opl_dd26d5863071",
+  "slug": "consolidate-duplicate-code",
+  "title": "Consolidate Duplicate Code",
+  "prompt": "Analyze the following code for duplication and apply DRY principles:\n\n[PASTE CODE]\n\n## Step 1: Identify Duplicates\nList every instance of duplicated logic:\n- Exact duplicates (copy-pasted code)\n- Near-duplicates (same logic, different variable names)\n- Structural duplicates (same pattern, different implementations)\n\nFor each: show both locations and the % similarity.\n\n## Step 2: Refactoring Plan\nFor each duplication group:\n1. Proposed abstraction name and location\n2. Parameters needed to generalize it\n3. Impact: which files/functions will change?\n4. Risk level: Low / Medium / High (with reason)\n\n## Step 3: Refactored Code\nProvide the complete refactored version:\n- New shared utility/component\n- Updated call sites\n- Before/after line count comparison\n\n## Step 4: Verification\nList tests that should pass before and after the refactor to confirm behavior is preserved.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_dd26d5863071.json"
+}

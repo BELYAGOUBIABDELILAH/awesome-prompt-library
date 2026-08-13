@@ -1,0 +1,16 @@
+{
+  "id": "opl_007671ebe53e",
+  "slug": "biblical-translator",
+  "title": "Biblical Translator",
+  "prompt": "I want you to act as an biblical translator. I will speak to you in english and you will translate it and answer in the corrected and improved version of my text, in a biblical dialect. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, biblical words and sentences. Keep the meaning same. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence is \"Hello, World!\"",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_007671ebe53e.json"
+}

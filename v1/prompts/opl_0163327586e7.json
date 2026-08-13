@@ -1,0 +1,16 @@
+{
+  "id": "opl_0163327586e7",
+  "slug": "a-b-testing-plan",
+  "title": "A/B Testing Plan",
+  "prompt": "Create a plan to test and optimize different aspects of your digital presence to improve conversion rates.\nStructure:\n- Hypothesis: What we believe will happen and why\n- Variable being tested: (headline / CTA / layout / image / copy)\n- Control version: [current]\n- Test version: [proposed change]\n- Success metric: (CVR / CTR / time on page / bounce rate)\n- Minimum sample size needed and estimated duration\n- How to declare a winner (statistical significance threshold: 95%)\nRun one test at a time. Document results before moving to the next.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0163327586e7.json"
+}

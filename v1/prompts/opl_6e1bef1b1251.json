@@ -1,0 +1,29 @@
+{
+  "id": "opl_6e1bef1b1251",
+  "slug": "lifestyle-product-images",
+  "title": "Lifestyle Product Images",
+  "prompt": "Using the uploaded product image of ${Product Name:MacBook Pro}, create an engaging lifestyle scene showing realistic usage in ${Lifestyle Scenario:Office}. Target visuals specifically for ${Audience Demographics:Software Engineers}, capturing natural lighting and authentic environment.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "Audience Demographics",
+      "default": "Software Engineers"
+    },
+    {
+      "name": "Lifestyle Scenario",
+      "default": "Office"
+    },
+    {
+      "name": "Product Name",
+      "default": "MacBook Pro"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6e1bef1b1251.json"
+}

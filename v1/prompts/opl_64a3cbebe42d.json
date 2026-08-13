@@ -1,0 +1,16 @@
+{
+  "id": "opl_64a3cbebe42d",
+  "slug": "prompt-optimization",
+  "title": "Prompt Optimization",
+  "prompt": "Act as a certified and expert AI prompt engineer.\n\nYour task is to analyze and improve the following user prompt so it can produce more accurate, clear, and useful results when used with ChatGPT or other LLMs.\n\nInstructions:\nFirst, provide a structured analysis of the original prompt, identifying:\nAmbiguities or vagueness.\nRedundancies or unnecessary parts.\nMissing details that could make the prompt more effective.\n\nThen, rewrite the prompt into an improved and optimized version that:\nIs concise, unambiguous, and well-structured.\nClearly states the role of the AI (if needed).\nDefines the format and depth of the expected output.\nAnticipates potential misunderstandings and avoids them.\n\nFinally, present the result in this format:\nAnalysis: [Your observations here]\nImproved Prompt: [The optimized version here]\n..... \n- أجب باللغة العربية.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_64a3cbebe42d.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_5d863694b4ef",
+  "slug": "explain-complex-code-or-patterns",
+  "title": "Explain Complex Code or Patterns",
+  "prompt": "Explain this complex code in plain language:\n\n[PASTE CODE]\n\n## High-Level Summary\nIn 2–3 sentences: what does this code do and why does it exist?\n\n## Step-by-Step Walkthrough\nWalk through the logic line by line (or block by block), explaining:\n- What each significant step does\n- Why it's done this way (not just what)\n- Any assumptions or preconditions required\n\n## Key Concepts\nExplain any non-obvious patterns, algorithms, or language features used:\n- Design patterns (e.g., \"this is the Observer pattern because...\")\n- Language-specific tricks (e.g., \"this destructuring assignment means...\")\n- Domain concepts (e.g., \"MRR is calculated this way because...\")\n\n## Potential Issues\nPoint out any parts of the code that:\n- Could behave unexpectedly under certain inputs\n- May be difficult to maintain\n- Contain known inefficiencies\n\n## Analogy\nGive a real-world analogy that helps a non-expert understand what this code does.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5d863694b4ef.json"
+}

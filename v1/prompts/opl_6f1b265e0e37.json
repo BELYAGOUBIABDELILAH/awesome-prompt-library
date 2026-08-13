@@ -1,0 +1,16 @@
+{
+  "id": "opl_6f1b265e0e37",
+  "slug": "code-review-discussion",
+  "title": "Code Review Discussion",
+  "prompt": "Help me understand the design decisions in this merge request:\n\nMR: [LINK or PASTE DIFF]\n\nI want to understand:\n\n## What Changed and Why\n1. What problem does this MR solve?\n2. Why was this approach chosen over alternatives?\n3. What assumptions does the implementation make?\n\n## Architecture Decisions\n- What design patterns were applied?\n- How does this fit into the existing architecture?\n- What contracts/interfaces does this change?\n\n## Tradeoffs Made\nFor each significant decision in this MR:\n- What was gained? (performance, readability, simplicity)\n- What was sacrificed? (flexibility, complexity, technical debt)\n- Was this the right tradeoff for our context?\n\n## Questions to Ask the Author\nGenerate 3–5 thoughtful review questions that:\n- Challenge assumptions without being confrontational\n- Explore edge cases the author may not have considered\n- Invite explanation of non-obvious choices\n\n## What I'd Do Differently (if anything)\nBe specific. If the current approach is fine, say so.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6f1b265e0e37.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_85d7af9b3764",
+  "slug": "estimate-implementation-effort",
+  "title": "Estimate Implementation Effort",
+  "prompt": "Help me estimate the implementation effort for:\n\nFeature/Task: [DESCRIPTION]\nTeam: [N developers, skill level: junior/mid/senior mix]\n\n## Work Breakdown Structure\n\nBreak the work into tasks:\n\n| # | Task | Type | Complexity | Estimate |\n|---|---|---|---|---|\n| 1 | [Task] | [Backend/Frontend/DB/Infra/Testing] | [Low/Med/High] | [hours] |\n\n**Complexity guide:**\n- Low: well-understood pattern, similar to existing code\n- Medium: some unknowns, requires some design\n- High: significant unknowns or first time doing this\n\n## Estimate by Category\n| Category | Hours |\n|---|---|\n| Design / Architecture | |\n| Implementation | |\n| Unit Testing | |\n| Integration Testing | |\n| Code Review iterations | |\n| Bug fixes post-review | |\n| Documentation | |\n| Deployment / DevOps | |\n| **Total** | |\n\n## Uncertainty Adjustments\n- Best case (everything goes smoothly): [N hours]\n- Most likely (realistic): [N hours]\n- Worst case (major unknowns materialize): [N hours]\n\n## Risks That Could Blow the Estimate\n1. [Risk] — could add [N hours]\n2. [Risk] — could add [N hours]\n\n## Recommendation\nSprint plan: this fits in [N sprints] if we start with [PRIORITY ORDER]\nDependencies that must be done first: [list]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_85d7af9b3764.json"
+}

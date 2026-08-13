@@ -1,0 +1,16 @@
+{
+  "id": "opl_3c599f702129",
+  "slug": "postmortem",
+  "title": "postmortem",
+  "prompt": "create a new markdown file that as a postmortem/analysis original message, what happened, how it happened, the chronological steps that you took to fix the problem. The commands that you used, what you did in the end. Have a section for technical terms used, future thoughts, recommended next steps etc.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3c599f702129.json"
+}

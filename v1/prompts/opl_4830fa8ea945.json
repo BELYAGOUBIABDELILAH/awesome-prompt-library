@@ -1,0 +1,85 @@
+{
+  "id": "opl_4830fa8ea945",
+  "slug": "create-a-detailed-travel-itinerary-in-html-format",
+  "title": "Create a detailed travel itinerary in HTML format",
+  "prompt": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Travel Itinerary: Nanjing to Changchun</title>\n    <style>\n        body { font-family: Arial, sans-serif; }\n        .itinerary { margin: 20px; }\n        .day { margin-bottom: 20px; }\n        .header { font-size: 24px; font-weight: bold; }\n        .sub-header { font-size: 18px; font-weight: bold; }\n    </style>\n</head>\n<body>\n    <div class=\"itinerary\">\n        <div class=\"header\">Travel Itinerary: Nanjing to Changchun</div>\n        <div class=\"sub-header\">Dates: ${startDate} to ${endDate}</div>\n        <div class=\"sub-header\">Budget: ${budget} RMB</div>\n\n        <div class=\"day\">\n            <div class=\"sub-header\">Day 1: Arrival in Changchun</div>\n            <p><strong>Flight:</strong> ${flightDetails}</p>\n            <p><strong>Hotel:</strong> ${hotelName} - Located in city center, comfortable and affordable</p>\n            <p><strong>Weather:</strong> ${weatherForecast}</p>\n            <p><strong>Packing Tips:</strong> ${packingRecommendations}</p>\n        </div>\n\n        <div class=\"day\">\n            <div class=\"sub-header\">Day 2: Exploring Changchun</div>\n            <p><strong>Attractions:</strong> ${attraction1} (Ticket: ${ticketPrice1}, Open: ${openTime1})</p>\n            <p><strong>Lunch:</strong> Try local cuisine at ${restaurant1}</p>\n            <p><strong>Afternoon:</strong> Visit ${attraction2} (Ticket: ${ticketPrice2}, Open: ${openTime2})</p>\n            <p><strong>Dinner:</strong> Enjoy a meal at ${restaurant2}</p>\n            <p><strong>Transportation:</strong> ${transportDetails}</p>\n        </div>\n\n        <!-- Repeat similar blocks for Day 3, Day 4, etc. -->\n        \n        <div class=\"day\">\n            <div class=\"sub-header\">Day 5: Departure</div>\n            <p><strong>Return Flight:</strong> ${returnFlightDetails}</p>\n        </div>\n\n    </div>\n</body>\n</html>",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "attraction1",
+      "default": null
+    },
+    {
+      "name": "attraction2",
+      "default": null
+    },
+    {
+      "name": "budget",
+      "default": null
+    },
+    {
+      "name": "endDate",
+      "default": null
+    },
+    {
+      "name": "flightDetails",
+      "default": null
+    },
+    {
+      "name": "hotelName",
+      "default": null
+    },
+    {
+      "name": "openTime1",
+      "default": null
+    },
+    {
+      "name": "openTime2",
+      "default": null
+    },
+    {
+      "name": "packingRecommendations",
+      "default": null
+    },
+    {
+      "name": "restaurant1",
+      "default": null
+    },
+    {
+      "name": "restaurant2",
+      "default": null
+    },
+    {
+      "name": "returnFlightDetails",
+      "default": null
+    },
+    {
+      "name": "startDate",
+      "default": null
+    },
+    {
+      "name": "ticketPrice1",
+      "default": null
+    },
+    {
+      "name": "ticketPrice2",
+      "default": null
+    },
+    {
+      "name": "transportDetails",
+      "default": null
+    },
+    {
+      "name": "weatherForecast",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4830fa8ea945.json"
+}

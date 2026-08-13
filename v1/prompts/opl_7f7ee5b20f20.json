@@ -1,0 +1,16 @@
+{
+  "id": "opl_7f7ee5b20f20",
+  "slug": "implement-design-pattern",
+  "title": "Implement Design Pattern",
+  "prompt": "Implement the following design pattern:\n\nPattern: [PATTERN NAME — e.g., Repository, Observer, Factory, Strategy, Command]\nLanguage: [SPECIFY]\nContext: [what problem I'm trying to solve]\n\n## Pattern Explanation\nBefore implementation:\n1. What problem does this pattern solve?\n2. When should I use it? When should I avoid it?\n3. What are the participants (classes/interfaces involved)?\n\n## Complete Implementation\n\n### Interfaces / Abstract Classes\n[Define the contracts]\n\n### Concrete Implementations\n[Implement 2–3 concrete examples]\n\n### Client Code\n[Show how to use the pattern from calling code]\n\n## Real-World Example\nApply this pattern to my specific context: [DESCRIBE YOUR USE CASE]\nShow the complete working implementation for my use case.\n\n## Tests\nWrite tests that verify the pattern works correctly:\n- Test the abstraction (not implementation details)\n- Test that implementations are interchangeable\n- Test edge cases\n\n## Anti-Patterns to Avoid\nList 2–3 common mistakes when implementing this pattern.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7f7ee5b20f20.json"
+}

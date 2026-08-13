@@ -1,0 +1,16 @@
+{
+  "id": "opl_1a1550b4f327",
+  "slug": "categorize-features",
+  "title": "Categorize Features",
+  "prompt": "Categorize the following feature list using MoSCoW prioritization:\n\nFeatures to categorize:\n[PASTE YOUR FEATURE LIST]\n\nContext for prioritization:\n- Product vision: [DESCRIBE]\n- Target users: [DESCRIBE]\n- Release deadline: [DATE]\n- Team capacity: [N developer-weeks]\n- Business constraint: [REVENUE / COMPLIANCE / COMPETITIVE / etc.]\n\n## MoSCoW Categorization\n\n###  MUST HAVE\nNon-negotiable for launch. Without these, the product fails.\n[List features with 1-line justification each]\n\n###  SHOULD HAVE\nImportant but not critical. Include if capacity allows.\n[List features with 1-line justification each]\n\n###  COULD HAVE\nNice-to-have. Include only if MUST and SHOULD are complete.\n[List features with 1-line justification each]\n\n### ⚪ WON'T HAVE (this release)\nExplicitly out of scope. Document for future roadmap.\n[List features with 1-line justification each]\n\n## Capacity Check\nMUST HAVE effort: [X developer-weeks]\nSHOULD HAVE effort: [X developer-weeks]\nAvailable capacity: [X developer-weeks]\nVerdict: [Can we fit SHOULD? How much buffer?]\n\n## Prioritization Rationale\n[2–3 sentences explaining the overall logic of these decisions]",
+  "category": "Documentation",
+  "folder": "documentation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1a1550b4f327.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_51077564742c",
+  "slug": "commentariat",
+  "title": "Commentariat",
+  "prompt": "I want you to act as a commentariat. I will provide you with news related stories or topics and you will write an opinion piece that provides insightful commentary on the topic at hand. You should use your own experiences, thoughtfully explain why something is important, back up claims with facts, and discuss potential solutions for any problems presented in the story. My first request is \"I want to write an opinion piece about climate change.\"",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_51077564742c.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_fbbf6ce6fde3",
+  "slug": "understand-error-handling-patterns",
+  "title": "Understand Error Handling Patterns",
+  "prompt": "Analyze the error handling patterns throughout this codebase:\n\n[PASTE CODE or specify scope]\n\n## Error Handling Inventory\nFind all error handling code:\n- try/catch blocks\n- .catch() handlers\n- Error middleware\n- Global error handlers\n- Circuit breakers\n\n## Pattern Analysis\n\n### What's Consistent\nWhat error handling patterns are used consistently and correctly?\n\n### What's Inconsistent\nWhere does error handling deviate from the pattern?\n- Some functions throw, others return error objects\n- Inconsistent error logging (sometimes with context, sometimes without)\n- Mixing error styles in the same codebase\n\n### What's Missing\nWhere are errors not handled at all?\n- Unhandled promise rejections\n- Missing try/catch in async operations\n- Silent failures (error caught but not logged or surfaced)\n\n## Error Classification\nDoes the codebase distinguish between:\n- Operational errors (expected: invalid input, network timeout)\n- Programming errors (bugs: null reference, type error)\n- Are they handled differently? (they should be)\n\n## Recommended Error Handling Standard\nPropose a consistent error handling pattern for this codebase with code examples.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fbbf6ce6fde3.json"
+}

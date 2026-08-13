@@ -1,0 +1,16 @@
+{
+  "id": "opl_71374abc34e9",
+  "slug": "beach-walk-golden-hour-full-body-travel",
+  "title": "Beach Walk Golden Hour (full-body, travel)",
+  "prompt": "{\n  \"category\": \"BEACH_WALK_GOLDEN_HOUR_FULLBODY\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-29, Turkish-looking, travel influencer vibe.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Loose waves, wind-touched\",\n      \"texture\": \"Natural strands, flyaways\",\n      \"movement\": \"Hair moving lightly with sea breeze\"\n    },\n    \"face\": {\n      \"eyes\": \"Happy, squinting slightly in sun\",\n      \"skin_details\": \"Realistic texture, sun-kissed glow (not oily)\",\n      \"makeup\": \"Minimal beach look\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Linen dress or beach cover-up (no logos)\",\n      \"fabric\": \"Linen weave visible, gentle wrinkles\",\n      \"movement\": \"Dress hem moving naturally\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\"Silver hoops\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Full-body walking candid\",\n    \"orientation\": \"Mid-step along shoreline\",\n    \"hands\": \"One hand holding dress hem, other brushing hair back\",\n    \"gaze\": \"Looking down laughing, then glancing toward camera vibe\",\n    \"posture\": \"Carefree, relaxed\"\n  },\n  \"setting\": {\n    \"environment\": \"Beach shoreline\",\n    \"background_elements\": [\n      \"Soft sunset reflections on water\",\n      \"Footprints in sand\",\n      \"Subtle haze (natural sea air, not smoke)\"\n    ],\n    \"depth\": \"Subject sharp, background softly blurred\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Full-body travel photo\",\n    \"angle\": \"Eye-level\",\n    \"focal_length_equivalent\": \"26mm phone or 35mm editorial\",\n    \"framing\": \"4:5\",\n    \"focus\": \"Face readable; motion blur minimal\"\n  },\n  \"lighting\": {\n    \"source\": \"Golden hour sunlight\",\n    \"direction\": \"Back/side rim light on hair and shoulders\",\n    \"highlights\": \"Controlled sun flare\",\n    \"shadows\": \"Soft, warm\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Dreamy, carefree, warm\",\n    \"expression\": \"Natural laughter\",\n    \"atmosphere\": \"Wanderlust candid\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photoreal travel influencer\",\n    \"imperfections\": \"Slight motion blur on dress hem allowed; face stays detailed\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Low to mild\",\n    \"motion_blur\": \"Subtle in fabric only\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"watergun splash\", \"fake water texture\",\n    \"extra limbs\", \"warped horizon\",\n    \"readable text\", \"logos\", \"watermark\"\n  ]\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_71374abc34e9.json"
+}

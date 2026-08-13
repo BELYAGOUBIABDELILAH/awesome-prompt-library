@@ -1,0 +1,16 @@
+{
+  "id": "opl_29e94698a289",
+  "slug": "design-user-interface-components",
+  "title": "Design User Interface Components",
+  "prompt": "Build a UI component based on these specifications:\n\nComponent name: [NAME]\nDescription: [WHAT IT DOES]\nDesign reference: [FIGMA LINK or DESCRIPTION]\n\n## Component Requirements\n\n### Visual Specification\n- Dimensions: [width, height, or responsive behavior]\n- Colors: [background, text, border, hover, active, disabled states]\n- Typography: [font, size, weight]\n- Spacing: [padding, margin, gap]\n- Border radius / shadows: [specify]\n\n### Interactive States\nBuild all states:\n- Default\n- Hover\n- Active/Pressed\n- Focus (keyboard navigation)\n- Disabled\n- Loading (if applicable)\n- Error (if applicable)\n\n### Responsiveness\n- Mobile (< 768px): [behavior]\n- Tablet (768px–1024px): [behavior]\n- Desktop (> 1024px): [behavior]\n\n### Accessibility Requirements\n- ARIA label or role needed?\n- Keyboard navigation: Tab, Enter, Space, Arrow keys?\n- Screen reader announcement needed?\n\n### Implementation\nFramework: [React / Vue / Angular / HTML+CSS]\nStyling approach: [CSS modules / Tailwind / styled-components]\n\nProvide the complete, production-ready component code.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_29e94698a289.json"
+}

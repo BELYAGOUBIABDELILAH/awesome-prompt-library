@@ -1,0 +1,16 @@
+{
+  "id": "opl_fd9b6ea823c4",
+  "slug": "integrate-with-enterprise-sso",
+  "title": "Integrate with Enterprise SSO",
+  "prompt": "Implement enterprise SSO integration:\n\nProtocol: [SAML 2.0 / OIDC / OAuth 2.0]\nIdentity Provider: [Okta / Azure AD / Google Workspace / PingFederate / Generic]\nApplication type: [Web app / API / SPA]\nLanguage/Framework: [SPECIFY]\n\n## SSO Integration\n\n### Protocol Overview\nExplain the chosen protocol flow step by step:\n[SP-initiated SAML flow / OIDC Authorization Code flow / etc.]\n\n### Configuration Required\n\n#### Identity Provider Side (what to configure in the IdP):\n- Application type to register\n- Redirect URI(s) to whitelist\n- Attribute mappings needed\n- Signing certificate setup\n\n#### Application Side (what we configure):\n- Entity ID / Client ID\n- IdP metadata URL or config values\n- Certificate/secret setup\n- Attribute claim mapping\n\n### Implementation\n\n#### Login Flow\n1. User clicks \"Login with [IdP]\"\n2. [Step-by-step with code]\n3. [Token validation]\n4. [User session creation]\n5. [Redirect to application]\n\n#### Logout Flow (important for enterprise!)\n- SP-initiated logout\n- IdP-initiated logout\n- Session cleanup\n\n#### Just-in-Time (JIT) Provisioning\nWhen a user logs in for the first time:\n- Create user account with IdP attributes\n- Assign default role based on IdP group membership\n- Log provisioning event\n\n### Security Checklist\n- [ ] State parameter validated (CSRF protection)\n- [ ] Redirect URI strictly validated\n- [ ] ID token signature verified\n- [ ] Token expiry checked\n- [ ] HTTPS enforced throughout",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fd9b6ea823c4.json"
+}

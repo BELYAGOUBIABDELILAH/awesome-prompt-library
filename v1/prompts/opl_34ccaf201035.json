@@ -1,0 +1,21 @@
+{
+  "id": "opl_34ccaf201035",
+  "slug": "theme-based-art-style-fusion-meta-prompt",
+  "title": "Theme based Art Style Fusion Meta-Prompt",
+  "prompt": "Theme=\"${theme}\" \nStyle=\"the most interesting fusion of 3 or more art styles to best capture the theme\"",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "theme",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_34ccaf201035.json"
+}

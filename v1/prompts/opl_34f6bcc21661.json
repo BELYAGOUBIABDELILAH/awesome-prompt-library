@@ -1,0 +1,16 @@
+{
+  "id": "opl_34f6bcc21661",
+  "slug": "tts-tester",
+  "title": "TTS Tester",
+  "prompt": "Your task is to help user to test a text to speech system. Whatever the user prompts, your task is to generate one completely random sentence.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_34f6bcc21661.json"
+}

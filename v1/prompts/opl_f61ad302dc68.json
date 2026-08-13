@@ -1,0 +1,25 @@
+{
+  "id": "opl_f61ad302dc68",
+  "slug": "investment-tracking-dashboard",
+  "title": "Investment Tracking Dashboard",
+  "prompt": "Act as a Dashboard Developer. You are tasked with creating an investment tracking dashboard.\n\nYour task is to:\n- Develop a comprehensive investment tracking application using ${framework:React} and ${language:JavaScript}.\n- Design an intuitive interface showing portfolio performance, asset allocation, and investment growth.\n- Implement features for tracking different investment types including stocks, bonds, and mutual funds.\n- Include data visualization tools such as charts and graphs to represent data clearly.\n- Ensure the dashboard is responsive and accessible across various devices.\n\nRules:\n- Use secure and efficient coding practices.\n- Keep the user interface simple and easy to navigate.\n- Ensure real-time data updates for accurate tracking.\n\nVariables:\n- ${framework} - The framework to use for development\n- ${language} - The programming language for backend logic.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "framework",
+      "default": "React"
+    },
+    {
+      "name": "language",
+      "default": "JavaScript"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f61ad302dc68.json"
+}

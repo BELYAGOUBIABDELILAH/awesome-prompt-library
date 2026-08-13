@@ -1,0 +1,16 @@
+{
+  "id": "opl_bf2073b81864",
+  "slug": "professional-badge-photo-ready-to-use",
+  "title": "Professional Badge Photo, Ready to Use",
+  "prompt": "Create a modern corporate ID photo of the person from the uploaded image, suitable for company badges and internal systems.\nKeep the face identical to the uploaded image, with realistic proportions, no beautification or age adjustment.\n\nFraming:\n• Neutral, centered head and shoulders\n• Subject looking straight at the camera with a neutral but friendly expression\n\nBackground:\n• Plain, uniform background in [BACKGROUND_COLOR], no texture, no gradient\n• No props, no text, no logos\n\nStyle:\n• Even, soft lighting with minimal shadows\n• High clarity and sharpness around the face, natural skin tones, high-resolution\n\nOutfit:\n• Transform clothing into [OUTFIT_STYLE] that matches a corporate environment\n• No visible logos, patterns or distracting accessories\n\nMake the result look like an upgraded, well-lit, professional version of a corporate ID or access badge photo, ready to be dropped into internal tools, email accounts or passes.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bf2073b81864.json"
+}

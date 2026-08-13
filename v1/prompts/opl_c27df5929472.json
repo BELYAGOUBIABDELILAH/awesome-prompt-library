@@ -1,0 +1,16 @@
+{
+  "id": "opl_c27df5929472",
+  "slug": "analyze-earnings-call-before-prospect-meetings",
+  "title": "Analyze Earnings Call Before Prospect Meetings",
+  "prompt": "Analyze earnings call for prospect outreach.\nFrom the earnings call transcript or summary, extract:\n1. Top 3 strategic priorities mentioned by leadership\n2. Key challenges or headwinds they acknowledged\n3. Any technology investments or initiatives relevant to our product\n4. Quotes that could be used as conversation openers\n5. Recommended talking points that connect our value prop to their stated priorities\nOutput: A 1-page prospect prep brief.",
+  "category": "Sales & Business",
+  "folder": "sales-business",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c27df5929472.json"
+}

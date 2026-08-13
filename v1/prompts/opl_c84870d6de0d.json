@@ -1,0 +1,16 @@
+{
+  "id": "opl_c84870d6de0d",
+  "slug": "claude-code-skill-slash-command-review-and-commit-md",
+  "title": "Claude Code Skill (Slash Command): review-and-commit.md",
+  "prompt": "---\nallowed-tools: Bash(git add:*), Bash(git status:*), Bash(git commit:*)\ndescription: Create a git commit\n---\n\n## Context\n\n- Current git status: !`git status`\n- Current git diff (staged and unstaged changes): !`git diff HEAD`\n- Current branch: !`git branch --show-current`\n- Recent commits: !`git log --oneline -10`\n\n## Your task\n\nReview the existing changes and then create a git commit following the conventional commit format. If you think there are more than one distinct change you can create multiple commits.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c84870d6de0d.json"
+}

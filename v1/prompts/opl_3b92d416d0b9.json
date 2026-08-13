@@ -1,0 +1,25 @@
+{
+  "id": "opl_3b92d416d0b9",
+  "slug": "recursive-niche-deconstruction-for-market-research",
+  "title": "Recursive Niche Deconstruction for Market Research",
+  "prompt": "{\n  \"industry\": \"${industry}\",\n  \"region\": \"${region}\",\n  \"tree\": {\n    \"level\": \"Macro\",\n    \"name\": \"...\",\n    \"market_valuation\": \"$X\",\n    \"top_players\": [\n      {\n        \"name\": \"Company A\",\n        \"type\": \"Incumbent\",\n        \"focus\": \"Broad\"\n      },\n      {\n        \"name\": \"Company B\",\n        \"type\": \"Incumbent\",\n        \"focus\": \"Broad\"\n      }\n    ],\n    \"children\": [\n      {\n        \"level\": \"Sub-Niche/Micro\",\n        \"name\": \"...\",\n        \"narrowing_variable\": \"...\",\n        \"market_valuation\": \"$X\",\n        \"top_players\": [\n          {\n            \"name\": \"Startup C\",\n            \"type\": \"Specialist\",\n            \"focus\": \"Verticalized\"\n          },\n          {\n            \"name\": \"Tool D\",\n            \"type\": \"Micro-SaaS\",\n            \"focus\": \"Hyper-Specific\"\n          }\n        ],\n        \"children\": []\n      }\n    ]\n  },\n  \"keyword_analysis\": {\n    \"monthly_traffic\": \"{region-specific traffic data}\",\n    \"competitiveness\": \"{region-specific competitiveness data}\",\n    \"potential_keywords\": [\n      {\n        \"keyword\": \"...\",\n        \"traffic\": \"...\",\n        \"competition\": \"...\"\n      }\n    ]\n  }\n}",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "industry",
+      "default": null
+    },
+    {
+      "name": "region",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3b92d416d0b9.json"
+}

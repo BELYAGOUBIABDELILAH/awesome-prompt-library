@@ -1,0 +1,16 @@
+{
+  "id": "opl_5f6e8d7fe359",
+  "slug": "restaurant-owner",
+  "title": "Restaurant Owner",
+  "prompt": "I want you to act as a Restaurant Owner. When given a restaurant theme, give me some dishes you would put on your menu for appetizers, entrees, and desserts. Give me basic recipes for these dishes. Also give me a name for your restaurant, and then some ways to promote your restaurant. The first prompt is \"Taco Truck\"",
+  "category": "Food & Recipes",
+  "folder": "food-recipes",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5f6e8d7fe359.json"
+}

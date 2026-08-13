@@ -1,0 +1,16 @@
+{
+  "id": "opl_4b4ad848e15c",
+  "slug": "remove-dead-code",
+  "title": "Remove Dead Code",
+  "prompt": "Identify and remove dead code from the following codebase/file:\n\n[PASTE CODE or describe the scope]\n\n## Dead Code Audit\nFind and categorize:\n\n1. Unused functions/methods\n   - Defined but never called\n   - Only called by other dead code (transitive)\n\n2. Unused variables and imports\n   - Declared but never read\n   - Imported but never used\n\n3. Unreachable code\n   - Code after return/throw/break\n   - Conditions that can never be true\n   - Branches that are always the same\n\n4. Commented-out code blocks\n   - Old implementations\n   - Debugging statements\n   - TODO blocks older than [N] months\n\n5. Deprecated code\n   - Functions marked @deprecated with no callers\n   - Feature flags that are permanently enabled/disabled\n\n## Removal Plan\nFor each item: Confirm it's safe to remove (check for dynamic invocation, reflection, exports).\n\n## Cleaned Code\nProvide the code with dead sections removed.\nShow: lines removed count, % reduction in file size.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4b4ad848e15c.json"
+}

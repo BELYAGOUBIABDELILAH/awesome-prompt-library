@@ -1,0 +1,16 @@
+{
+  "id": "opl_ed57dd00d567",
+  "slug": "generate-boilerplate-code",
+  "title": "Generate Boilerplate Code",
+  "prompt": "Enable users to set up the foundational structure of a REST API using the specified language and framework.\nGenerate boilerplate for:\n- Project structure (folders, entry point, config)\n- Basic CRUD routes with proper HTTP verbs and status codes\n- Input validation layer\n- Error handling middleware\n- Environment variable setup (.env.example)\n- Basic README with setup instructions\nLanguage: [SPECIFY] | Framework: [SPECIFY] | Database: [SPECIFY]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ed57dd00d567.json"
+}

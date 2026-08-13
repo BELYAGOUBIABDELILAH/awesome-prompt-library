@@ -1,0 +1,16 @@
+{
+  "id": "opl_f7d0da66aece",
+  "slug": "tech-desk-builder-half-body-cozy-monitor-glow",
+  "title": "Tech Desk “Builder” (half-body, cozy monitor glow)",
+  "prompt": "{\n  \"category\": \"TECH_DESK_BUILDER_HALF_BODY\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-29, Turkish-looking, creator vibe.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Low ponytail or loose waves\",\n      \"texture\": \"Strands visible, slight flyaways\"\n    },\n    \"face\": {\n      \"eyes\": \"Focused but friendly\",\n      \"skin_details\": \"Real texture, no smoothing\",\n      \"makeup\": \"Minimal\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Casual black top + light cardigan, no logos\",\n      \"fabric\": \"Real knit weave, subtle wrinkles\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\"Silver hoops\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Half-body seated\",\n    \"orientation\": \"Body slightly angled, shoulders relaxed\",\n    \"hands\": \"One hand near trackpad, other tucking hair behind ear\",\n    \"gaze\": \"Looking at camera with small smirk\",\n    \"posture\": \"Relaxed confident\"\n  },\n  \"setting\": {\n    \"environment\": \"Minimal desk setup\",\n    \"background_elements\": [\n      \"Laptop/monitor with generic blurred UI (NO readable text)\",\n      \"Warm desk lamp + cool monitor glow mix\",\n      \"Plant in corner, small clutter blurred\"\n    ],\n    \"depth\": \"Face sharp, background bokeh\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Half-body lifestyle portrait\",\n    \"angle\": \"Slightly above eye level\",\n    \"focal_length_equivalent\": \"26mm phone or 50mm pro\",\n    \"framing\": \"4:5\",\n    \"focus\": \"Eyes sharp\"\n  },\n  \"lighting\": {\n    \"source\": \"Warm lamp + cool monitor glow\",\n    \"direction\": \"Soft mixed lighting with gentle shadows\",\n    \"highlights\": \"Natural facial speculars\",\n    \"shadows\": \"Soft, realistic\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Cozy creator, confident\",\n    \"expression\": \"Micro-smirk\",\n    \"atmosphere\": \"Late-night build session vibe\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photorealistic lifestyle\",\n    \"imperfections\": \"Mild noise, slight imperfect WB\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Mild\",\n    \"resolution\": \"High\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true,\n    \"no_readable_screens\": true\n  },\n  \"negative_prompt\": [\n    \"readable UI text\", \"logos\", \"watermark\",\n    \"plastic skin\", \"cgi\",\n    \"extra fingers\", \"warped hands\"\n  ]\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f7d0da66aece.json"
+}

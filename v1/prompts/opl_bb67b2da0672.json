@@ -1,0 +1,16 @@
+{
+  "id": "opl_bb67b2da0672",
+  "slug": "framework-upgrade-impact-analysis",
+  "title": "Framework Upgrade Impact Analysis",
+  "prompt": "Analyze the impact of upgrading this framework/dependency:\n\nCurrent version: [VERSION]\nTarget version: [VERSION]\nFramework: [NAME]\nCodebase size: [estimated N files / N KLOC]\n\n## Breaking Change Analysis\n\n### Official Breaking Changes\nList all breaking changes between current and target version:\n[From changelog / migration guide]\n\nFor each breaking change:\n- **Change**: [what changed]\n- **Our code affected**: [yes/no → where]\n- **Migration action**: [what to change]\n- **Effort**: [hours/days]\n\n### Deprecated Features We Use\n- Feature: [NAME] — deprecated in [version] — removed in [version]\n- Our usage: [N occurrences in N files]\n- Replacement: [what to use instead]\n\n### New Features We Should Adopt\nAfter upgrading, take advantage of:\n1. [Feature]: [benefit for us]\n2. [Feature]: [benefit for us]\n\n## Migration Plan\n\n### Phase 1: Preparation (before upgrade)\n- [ ] Add tests covering areas that will change\n- [ ] Update CI to test against new version\n- [ ] Review migration guide completely\n\n### Phase 2: Upgrade\n- [ ] Update package version\n- [ ] Fix type errors / compile errors\n- [ ] Run test suite, fix failures\n\n### Phase 3: Cleanup\n- [ ] Remove deprecated usage\n- [ ] Adopt new APIs\n\n## Effort Estimate\n| Task | Files | Hours |\n|---|---|---|\n| Breaking change fixes | N | N |\n| Deprecated API migration | N | N |\n| Testing | — | N |\n| **Total** | | **N** |",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bb67b2da0672.json"
+}

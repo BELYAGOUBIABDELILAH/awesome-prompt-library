@@ -1,0 +1,16 @@
+{
+  "id": "opl_b3cb1214e9e8",
+  "slug": "cinematic-thriller-silhouette",
+  "title": "Cinematic Thriller Silhouette",
+  "prompt": "{\n  \"prompt_content\": {\n    \"positive_prompt\": \"cinematic shot, view through green textured wire reinforced glass, frosted glass effect, silhouette of a person pressing palms against the glass, hands distinctively visible pressing on wet glass, mysterious atmosphere, dim lighting, greenish yellow color palette, grid pattern texture, psychological thriller vibe, photorealistic, 8k, highly detailed textures, mosaic glass distortion\",\n    \"negative_prompt\": \"clear glass, cartoon, illustration, anime, bright lighting, low resolution, blurry, text, watermark, deformed hands, missing fingers, extra fingers, dry glass, blue tones\",\n    \"parameters\": {\n      \"aspect_ratio\": \"1:1\",\n      \"steps\": 30,\n      \"cfg_scale\": 7.0,\n      \"sampler\": \"DPM++ 2M Karras\"\n    }\n  },\n  \"visual_analysis\": {\n    \"subject\": \"Silhouette behind textured glass\",\n    \"action\": \"Hands pressing against surface\",\n    \"atmosphere\": \"Claustrophobic, mysterious\",\n    \"dominant_colors\": [\"#4a6b45\", \"#8c9c5e\", \"#2e3a24\"]\n  }\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b3cb1214e9e8.json"
+}

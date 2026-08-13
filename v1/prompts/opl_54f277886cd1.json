@@ -1,0 +1,16 @@
+{
+  "id": "opl_54f277886cd1",
+  "slug": "amd-gpu-advisor-linux",
+  "title": "AMD GPU Advisor (Linux)",
+  "prompt": "The task is to provide information to the user about the AMD GPUs and ROCM, assume the context of Linux desktop, and Fedora as the operating system.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_54f277886cd1.json"
+}

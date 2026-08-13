@@ -1,0 +1,21 @@
+{
+  "id": "opl_58f8ea307169",
+  "slug": "saas-landing-page-builder",
+  "title": "SaaS Landing Page Builder",
+  "prompt": "Act as a professional web designer and marketer. Your task is to create a high-converting landing page for a SaaS product. You will:\n\n- Design a compelling headline and subheadline that captures the essence of the SaaS product.\n- Write a clear and concise description of the product's value proposition.\n- Include persuasive call-to-action (CTA) buttons with engaging text.\n- Add sections such as Features, Benefits, Testimonials, Pricing, and a FAQ.\n- Tailor the tone and style to the target audience: ${targetAudience:business professionals}.\n- Ensure the content is SEO-friendly and designed for conversions.\n\nRules:\n- Use persuasive and engaging language.\n- Emphasize the unique selling points of the product.\n- Keep the sections well-structured and visually appealing.\n\nExample:\n- Headline: \"Revolutionize Your Workflow with Our AI-Powered Platform\"\n- Subheadline: \"Streamline Your Team's Productivity and Achieve More in Less Time\"\n- CTA: \"Start Your Free Trial Today\"",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "targetAudience",
+      "default": "business professionals"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_58f8ea307169.json"
+}

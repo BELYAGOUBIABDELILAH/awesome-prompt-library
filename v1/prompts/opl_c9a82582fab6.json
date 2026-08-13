@@ -1,0 +1,16 @@
+{
+  "id": "opl_c9a82582fab6",
+  "slug": "optimize-algorithm-performance",
+  "title": "Optimize Algorithm Performance",
+  "prompt": "Analyze and optimize the following algorithm:\n\n[PASTE CODE]\n\n## Current Complexity Analysis\n- Time complexity: O(?)\n- Space complexity: O(?)\n- Identify the bottleneck operation\n- Profile the hot path (which lines execute most frequently)\n\n## Optimization Strategy\nSuggest optimizations in order of impact:\n1. Algorithmic improvement (better Big-O)\n2. Data structure changes\n3. Caching / memoization opportunities\n4. Loop optimizations\n5. Memory allocation reduction\n\n## Optimized Implementation\nProvide the optimized code with:\n- Inline comments explaining each optimization\n- New time complexity: O(?)\n- New space complexity: O(?)\n- Trade-offs made (readability, memory, etc.)\n\n## Benchmarking\nProvide a benchmark test that compares old vs. new implementation on:\n- Small input (n=100)\n- Medium input (n=10,000)\n- Large input (n=1,000,000)\n\nNOTE: Correctness first. Only optimize after proving the algorithm is correct.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c9a82582fab6.json"
+}

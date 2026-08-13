@@ -1,0 +1,16 @@
+{
+  "id": "opl_3d72e5b6b961",
+  "slug": "the-aether-prince-at-the-crystal-gala",
+  "title": "The Aether Prince at the Crystal Gala",
+  "prompt": "{\n  \"title\": \"The Aether Prince at the Crystal Gala\",\n  \"description\": \"A breathtaking cinematic shot of a regal nobleman standing on the balcony of a translucent palace hovering above the clouds.\",\n  \"prompt\": \"You will perform an image edit using the person from the provided photo as the main subject. Preserve his core likeness. Transform Subject 1 (male) into a high-society aristocrat attending a royal ball inside a floating crystal palace. He stands near a transparent balustrade, with the grand ballroom behind him and a sea of clouds stretching out to the horizon. The image must be ultra-photorealistic, utilizing cinematic lighting to capture the refraction of light through the crystal structures. The scene is highly detailed, shot on Arri Alexa, featuring a shallow depth of field that blurs the dancing guests in the background while keeping the subject sharpness pristine.\",\n  \"details\": {\n    \"year\": \"Timeless Fantasy Era\",\n    \"genre\": \"Cinematic Photorealism\",\n    \"location\": \"A grand ballroom constructed entirely of diamond and glass, floating high in the stratosphere at sunset.\",\n    \"lighting\": [\n      \"Golden hour sunlight refracting through crystal prisms\",\n      \"Soft volumetric glow\",\n      \"Caustic reflections\"\n    ],\n    \"camera_angle\": \"Medium shot at eye level, capturing the subject against the vast sky.\",\n    \"emotion\": [\n      \"Regal\",\n      \"Contemplative\",\n      \"Serene\"\n    ],\n    \"color_palette\": [\n      \"Champagne gold\",\n      \"prismatic white\",\n      \"sky blue\",\n      \"sunset orange\"\n    ],\n    \"atmosphere\": [\n      \"Opulent\",\n      \"Ethereal\",\n      \"Majestic\",\n      \"Airy\"\n    ],\n    \"environmental_elements\": \"Floating anti-gravity chandeliers, clouds drifting past open arches, blurred silhouettes of dancers in formal wear.\",\n    \"subject1\": {\n      \"costume\": \"A futuristic formal white tuxedo with intricate gold filigree embroidery and a silk sash.\",\n      \"subject_expression\": \"A calm, confident gaze with a hint of aristocratic detachment.\",\n      \"subject_action\": \"Resting one hand elegantly on the crystal railing, holding a flute of sparkling nectar.\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"darkness\",\n        \"dirt\",\n        \"grime\",\n        \"industrial machinery\",\n        \"ground level terrain\"\n      ],\n      \"exclude_styles\": [\n        \"cartoon\",\n        \"sketch\",\n        \"oil painting\",\n        \"anime\",\n        \"CGI 3D render look\"\n      ],\n      \"exclude_colors\": [\n        \"neon green\",\n        \"muddy brown\",\n        \"pitch black\"\n      ],\n      \"exclude_objects\": [\n        \"cars\",\n        \"modern streetlights\",\n        \"weapons\"\n      ]\n    }\n  }\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3d72e5b6b961.json"
+}

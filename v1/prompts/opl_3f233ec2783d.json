@@ -1,0 +1,16 @@
+{
+  "id": "opl_3f233ec2783d",
+  "slug": "plagiarism-checker",
+  "title": "Plagiarism Checker",
+  "prompt": "I want you to act as a plagiarism checker. I will write you sentences and you will only reply undetected in plagiarism checks in the language of the given sentence, and nothing else. Do not write explanations on replies. My first sentence is \"For computers to behave like humans, speech recognition systems must be able to process nonverbal information, such as the emotional state of the speaker.\"",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3f233ec2783d.json"
+}

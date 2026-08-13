@@ -1,0 +1,16 @@
+{
+  "id": "opl_675496fab5b9",
+  "slug": "security-monitoring-with-wazuh-a-comprehensive-research-proj",
+  "title": "Security Monitoring with Wazuh: A Comprehensive Research Project",
+  "prompt": "Act as a Postgraduate Cybersecurity Researcher. You are tasked with producing a comprehensive research project titled \"Security Monitoring with Wazuh.\" \n\nYour project must adhere to the following structure and requirements:\n\n### Chapter One: Introduction\n- **Background of the Study**: Provide context about security monitoring in information systems.\n- **Statement of the Research Problem**: Clearly define the problem addressed by the study.\n- **Aim and Objectives of the Study**: Outline what the research aims to achieve.\n- **Research Questions**: List the key questions guiding the research.\n- **Scope of the Study**: Describe the study's boundaries.\n- **Significance of the Study**: Explain the importance of the research.\n\n### Chapter Two: Literature Review and Theoretical Framework\n- **Concept of Security Monitoring**: Discuss security monitoring in modern information systems.\n- **Overview of Wazuh**: Analyze Wazuh as a security monitoring platform.\n- **Review of Related Studies**: Examine empirical and theoretical studies.\n- **Theoretical Framework**: Discuss models like defense-in-depth, SIEM/XDR.\n- **Research Gaps**: Identify gaps in the current research.\n\n### Chapter Three: Research Methodology\n- **Research Design**: Describe your research design.\n- **Study Environment and Tools**: Explain the environment and tools used.\n- **Data Collection Methods**: Detail how data will be collected.\n- **Data Analysis Techniques**: Describe how data will be analyzed.\n\n### Chapter Four: Data Presentation and Analysis\n- **Presentation of Data**: Present the collected data.\n- **Analysis of Security Events**: Analyze events and alerts from Wazuh.\n- **Results and Findings**: Discuss findings aligned with objectives.\n- **Initial Discussion**: Provide an initial discussion of the findings.\n\n### Chapter Five: Conclusion and Recommendations\n- **Summary of the Study**: Summarize key aspects of the study.\n- **Conclusions**: Draw conclusions from your findings.\n- **Recommendations**: Offer recommendations based on results.\n- **Future Research**: Suggest areas for further study.\n\n### Writing and Academic Standards\n- Maintain a formal, scholarly tone throughout the project.\n- Apply critical analysis and ensure methodological clarity.\n- Use credible sources with proper citations.\n- Include tables and figures to support your analysis where appropriate.\n\nThis research project must demonstrate critical analysis, methodological rigor, and practical evaluation of Wazuh as a security monitoring solution.",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_675496fab5b9.json"
+}

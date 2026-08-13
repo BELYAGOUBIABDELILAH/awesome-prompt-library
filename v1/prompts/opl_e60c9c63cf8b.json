@@ -1,0 +1,16 @@
+{
+  "id": "opl_e60c9c63cf8b",
+  "slug": "miniature-claymation-adventures-on-the-mushroom-cap",
+  "title": "Miniature Claymation Adventures on the Mushroom Cap",
+  "prompt": "{\n  \"prompt\": \"You will perform an image edit using the people from the provided photos as the main subjects. Preserve their core likeness but render them as charming, handcrafted clay models. Transform Subject 1 (male) and Subject 2 (female) into miniature adventurers resting on the cap of a giant red mushroom. The scene should look like a freeze-frame from a high-budget stop-motion film, complete with visible thumbprints on the clay surfaces and uneven, sculpted textures.\",\n  \"details\": {\n    \"year\": \"Timeless Whimsy\",\n    \"genre\": \"Claymation\",\n    \"location\": \"A macro-scale forest floor, centered on top of a large, red Fly Agaric mushroom with white spots.\",\n    \"lighting\": [\n      \"Soft studio lighting\",\n      \"Warm key light\",\n      \"Simulated rim lighting to highlight clay edges\"\n    ],\n    \"camera_angle\": \"Slight high-angle macro shot with a shallow depth of field to simulate a miniature set.\",\n    \"emotion\": [\n      \"Joyful\",\n      \"Cozy\",\n      \"Wonder\"\n    ],\n    \"color_palette\": [\n      \"Vibrant red\",\n      \"moss green\",\n      \"canary yellow\",\n      \"earthy brown\",\n      \"sky blue\"\n    ],\n    \"atmosphere\": [\n      \"Playful\",\n      \"Handcrafted\",\n      \"Tactile\",\n      \"Charming\"\n    ],\n    \"environmental_elements\": \"Oversized blades of grass made of flattened green clay, a snail with a spiral shell made of rolled play-dough, and cotton-ball clouds in the background.\",\n    \"subject1\": {\n      \"costume\": \"A textured hiker's vest made of matte clay, a plaid shirt with painted lines, and chunky brown boots.\",\n      \"subject_expression\": \"A wide, friendly grin with slightly exaggerated, rounded features.\",\n      \"subject_action\": \"Sitting on the edge of the mushroom, dangling his legs and pointing at a clay butterfly.\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"photorealistic skin\",\n        \"human proportions\",\n        \"hair strands\",\n        \"digital gloss\"\n      ],\n      \"exclude_styles\": [\n        \"CGI\",\n        \"2D cartoon\",\n        \"sketch\",\n        \"anime\",\n        \"watercolor\"\n      ],\n      \"exclude_colors\": [\n        \"neon\",\n        \"grayscale\",\n        \"dark moody tones\"\n      ],\n      \"exclude_objects\": [\n        \"modern technology\",\n        \"cars\",\n        \"buildings\"\n      ]\n    },\n    \"subject2\": {\n      \"costume\": \"A yellow raincoat with a smooth, glossy finish and oversized red rain boots.\",\n      \"subject_expression\": \"A cheerful look with sculpted laugh lines and bright eyes.\",\n      \"subject_action\": \"Kneeling on the mushroom cap, holding a giant, sculpted blueberry with both hands.\"\n    }\n  }\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e60c9c63cf8b.json"
+}

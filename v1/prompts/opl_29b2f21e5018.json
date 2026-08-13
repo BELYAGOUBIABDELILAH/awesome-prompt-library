@@ -1,0 +1,16 @@
+{
+  "id": "opl_29b2f21e5018",
+  "slug": "understand-class-hierarchy-and-inheritance",
+  "title": "Understand Class Hierarchy and Inheritance",
+  "prompt": "Map the class hierarchy for this object-oriented code:\n\n[PASTE CODE]\n\n## Inheritance Tree\nDraw the complete class hierarchy:\nBaseClass\n  ├── ChildClassA\n  │   └── GrandchildClassX\n  └── ChildClassB\n\nFor each class: purpose in one sentence.\n\n## Method Inheritance Analysis\nFor each method in the hierarchy:\n| Method | Defined In | Overridden In | Override Purpose |\n|---|---|---|---|\n\nHighlight:\n- Methods meant to be overridden (abstract/template methods)\n- Methods never overridden (could be final/static)\n- Methods incorrectly overridden (breaks Liskov Substitution Principle)\n\n## Polymorphism Map\nWhere is polymorphism used?\n- Interface/type used: [X]\n- Concrete implementations: [A, B, C]\n- How is the right implementation selected?\n\n## Design Issues\n- Inheritance used where composition would be better?\n- Deep inheritance chains (> 3 levels)?\n- \"God classes\" with too many responsibilities?\n- Violations of Liskov Substitution Principle?\n\n## Refactoring Suggestions\nIf the hierarchy is problematic, suggest concrete improvements.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_29b2f21e5018.json"
+}

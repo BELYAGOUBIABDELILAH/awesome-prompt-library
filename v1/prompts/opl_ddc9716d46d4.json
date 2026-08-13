@@ -1,0 +1,25 @@
+{
+  "id": "opl_ddc9716d46d4",
+  "slug": "custom-ai-image-creation",
+  "title": "Custom AI Image Creation",
+  "prompt": "Create an AI-generated picture. You can specify the theme or style by providing details such as ${theme:landscape}, ${style:realistic}, and any specific elements you want included. The AI will use these inputs to craft a unique visual masterpiece.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "style",
+      "default": "realistic"
+    },
+    {
+      "name": "theme",
+      "default": "landscape"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ddc9716d46d4.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_597dca6af505",
+  "slug": "summarize-recent-changes-to-mr-issue",
+  "title": "Summarize Recent Changes to MR/Issue",
+  "prompt": "Summarize recent activity on this MR/Issue so I can get caught up quickly:\n\nMR/Issue: [LINK or PASTE CONTENT]\nI was last active: [DATE] or \"I'm coming in fresh\"\n\n## Executive Summary (30 seconds)\nWhat's the current status? What's the single most important thing I need to know right now?\n\n## What's Changed Since [DATE]\nTimeline of significant events:\n- [Date]: [What happened — decision made, code changed, blocker found]\n- [Date]: [...]\n\n## Key Decisions Made\nWhat was debated and what was decided?\n- Decision: [X] — Reason: [Y] — Decided by: [Z]\n\n## Current Blockers\nWhat's preventing progress right now?\n- Blocker: [description] — Owner: [who needs to act] — ETA: [if known]\n\n## My Action Items\nBased on the current state, what do I need to do?\n1. [Action]\n2. [Action]\n\n## Context I Need\nWhat background do I need to contribute meaningfully to this MR/Issue?",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_597dca6af505.json"
+}

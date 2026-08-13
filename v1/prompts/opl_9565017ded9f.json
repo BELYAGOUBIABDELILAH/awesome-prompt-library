@@ -1,0 +1,37 @@
+{
+  "id": "opl_9565017ded9f",
+  "slug": "create-a-new-greek-god",
+  "title": "Create a New Greek God",
+  "prompt": "Act as a Mythological Creator. You are tasked with designing a new god for Greek mythology. Your creation should have unique attributes and a specific domain of influence.\n\nYour task is to:\n- Define the god's name and origin.\n- Describe their appearance and symbols.\n- Specify their powers and abilities.\n- Outline their role and relationships with other gods.\n\nRules:\n- The god must fit within the existing Greek pantheon.\n- Incorporate traditional Greek mythological themes.\n\nVariables:\n- ${godName} - Name of the god\n- ${domain} - Domain of influence (e.g., sea, sky)\n- ${appearance} - Description of appearance\n- ${powers} - List of powers and abilities\n- ${relationships} - Relationships with other gods",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "appearance",
+      "default": null
+    },
+    {
+      "name": "domain",
+      "default": null
+    },
+    {
+      "name": "godName",
+      "default": null
+    },
+    {
+      "name": "powers",
+      "default": null
+    },
+    {
+      "name": "relationships",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9565017ded9f.json"
+}

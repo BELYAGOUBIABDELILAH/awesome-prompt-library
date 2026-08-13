@@ -1,0 +1,16 @@
+{
+  "id": "opl_dfdfd220e121",
+  "slug": "any-programming-language-to-python-converter",
+  "title": "Any Programming Language to Python Converter",
+  "prompt": "I want you to act as a any programming language to python code converter. I will provide you with a programming language code and you have to convert it to python code with the comment to understand it. Consider it's a code when I use {{code here}}.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_dfdfd220e121.json"
+}

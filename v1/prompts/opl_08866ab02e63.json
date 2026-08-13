@@ -1,0 +1,16 @@
+{
+  "id": "opl_08866ab02e63",
+  "slug": "summarize-peer-feedback",
+  "title": "Summarize Peer Feedback",
+  "prompt": "Summarize peer feedback for a performance review and align it with job expectations.\nStructure:\n1. Themes: What are 3–5 recurring observations across reviewers?\n2. Strengths: Specific behaviors mentioned positively (with frequency)\n3. Development areas: Specific behaviors to improve (with context)\n4. Alignment check: Map feedback to role expectations and competencies\n5. Manager narrative: 2–3 paragraph summary written in the manager's voice, ready to use in the review\nBe objective. Preserve the signal. Remove the noise.",
+  "category": "Research & Analysis",
+  "folder": "research-analysis",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_08866ab02e63.json"
+}

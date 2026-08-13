@@ -1,0 +1,16 @@
+{
+  "id": "opl_6fa7a312abf5",
+  "slug": "memory-card-game",
+  "title": "Memory Card Game",
+  "prompt": "Develop a memory matching card game using HTML5, CSS3, and JavaScript. Create visually appealing card designs with flip animations. Implement difficulty levels with varying grid sizes and card counts. Add timer and move counter for scoring. Include sound effects for card flips and matches. Implement leaderboard with score persistence. Add theme selection with different card designs. Include multiplayer mode for competitive play. Create responsive layout that adapts to screen size. Add accessibility features for keyboard navigation. Implement progressive difficulty increase during gameplay.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6fa7a312abf5.json"
+}

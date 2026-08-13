@@ -1,0 +1,33 @@
+{
+  "id": "opl_fb8d3cb9d2e6",
+  "slug": "sticker-image-generator",
+  "title": "Sticker Image Generator",
+  "prompt": "{\n  \"role\": \"Image Designer\",\n  \"task\": \"Create a detailed sticker image with a transparent background.\",\n  \"style\": \"Colorful, vibrant, similar to Stickermule\",\n  \"variables\": {\n    \"text\": \"Custom text for the sticker\",\n    \"icon\": \"Icon to be included in the sticker\",\n    \"colorPalette\": \"Color palette to be used for the sticker\"\n  },\n  \"constraints\": [\n    \"Must have a transparent background\",\n    \"Should be colorful and vibrant\",\n    \"Text should be readable regardless of the background\",\n    \"Icon should complement the text style\"\n  ],\n  \"output_format\": \"PNG\",\n  \"examples\": [\n    {\n      \"text\": \"${text:Hello World}\",\n      \"icon\": \"${icon:smiley_face}\",\n      \"colorPalette\": \"${colorPalette:vibrant}\",\n      \"result\": \"A colorful sticker with '${text:Hello World}' text and a ${icon:smiley_face} icon using a ${colorPalette:vibrant} color palette. It's an image of ${details}\"\n    }\n  ],\n  \"details\": {\n    \"resolution\": \"300 DPI\",\n    \"dimensions\": \"1024x1024 pixels\",\n    \"layers\": \"Text and icon should be on separate layers for easy editing\"\n  }\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "colorPalette",
+      "default": "vibrant"
+    },
+    {
+      "name": "details",
+      "default": null
+    },
+    {
+      "name": "icon",
+      "default": "smiley_face"
+    },
+    {
+      "name": "text",
+      "default": "Hello World"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fb8d3cb9d2e6.json"
+}

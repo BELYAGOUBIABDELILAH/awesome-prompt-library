@@ -1,0 +1,25 @@
+{
+  "id": "opl_af176ba1811e",
+  "slug": "harry-potter-marauder-s-map",
+  "title": "Harry Potter / Marauder’s Map",
+  "prompt": "Render the city of ${city_name} as a hidden magical wizarding world map inspired by the Harry Potter universe, in the style of the Marauder’s Map.\n\nPreserve the real geographic layout, roads, districts, coastline, rivers and landmarks of ${city_name}, but reinterpret them as enchanted locations within a secret wizarding realm concealed from the muggle world.\n\nGovernment districts appear as the Ministry of Magical Affairs, with enchanted towers, floating runes and protective wards.\nUniversities and schools become Wizarding Academies, spell libraries, observatories and arcane towers.\nHistoric and old town areas transform into Ancient Wizard Quarters, secret alleys, cursed ruins, hidden chambers and forgotten passages.\nIndustrial zones are depicted as Potion Breweries, Enchanted Workshops, Magical Foundries and alchemical factories.\nParks, forests, hills and valleys become Forbidden Forests, Herbology Grounds, Sacred Groves and Magical Creature Habitats.\nCommercial districts appear as Diagon Alley–style magical markets, wizard shops, inns, taverns and trading corridors.\nStadiums and large arenas are transformed into Grand Quidditch Pitches.\nAirports, ports and major transit hubs become Portkey Stations, Floo Network Gates, Sky Docks and Dragon Arrival Towers.\n\nInclude living magical map elements: moving footprints, glowing ink runes, whispered annotations, secret passage indicators, spell circles, magical wards, shifting pathways, hidden rooms, creature lairs, danger warnings, enchanted symbols and animated markings that feel alive and mysterious.\n\nArt style: hand-drawn ink illustration, aged parchment texture, warm sepia tones, sketchy and whimsical linework, subtle magical glow, slightly imperfect hand-drawn look.\nTypography: handwritten magical calligraphy, uneven ink strokes, old wizard script.\nDecorative elements: ornate parchment borders, magical seals, wax stamps, enchanted footprints crossing paths, classic wizarding compass rose.\n\nNo modern elements, no sci-fi, no contemporary typography.\nAspect ratio: ${aspect_ratio}.\nThe map should feel like a living, enchanted artifact — a secret wizard’s map created by ancient witches and wizards.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "aspect_ratio",
+      "default": null
+    },
+    {
+      "name": "city_name",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_af176ba1811e.json"
+}

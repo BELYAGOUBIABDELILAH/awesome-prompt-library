@@ -1,0 +1,41 @@
+{
+  "id": "opl_14435876d11e",
+  "slug": "web-application",
+  "title": "Web Application",
+  "prompt": "---\nname: web-application\ndescription: Optimize the prompt for an advanced AI web application builder to develop a fully functional ${applicationType:travel booking} web application. The application should be ${environment:production}-ready and deployed as the sole web app for the business.\n---\n\n# Web Application \n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: Select the desired ${technologyStack} technology stack for the application based on the user's preferred hosting space, ${hostingSpace}.\n- Step 2: Outline the key features such as ${features:booking system, payment gateway}.\n- Step 3: Ensure deployment is suitable for the ${environment:production} environment.\n- Step 4: Set a timeline for project completion by ${deadline}.",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [
+    {
+      "name": "applicationType",
+      "default": "travel booking"
+    },
+    {
+      "name": "deadline",
+      "default": null
+    },
+    {
+      "name": "environment",
+      "default": "production"
+    },
+    {
+      "name": "features",
+      "default": "booking system, payment gateway"
+    },
+    {
+      "name": "hostingSpace",
+      "default": null
+    },
+    {
+      "name": "technologyStack",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_14435876d11e.json"
+}

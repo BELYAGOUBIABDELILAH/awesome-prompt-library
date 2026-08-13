@@ -1,0 +1,16 @@
+{
+  "id": "opl_17f50738b28f",
+  "slug": "legebdary-exploded-view-prompt-for-nanobanana",
+  "title": "Legebdary Exploded View Prompt For nanobanana",
+  "prompt": "{\n  \"name\": \"My Workflow\",\n  \"steps\": []\n}{\n  \"promptDetails\": {\n    \"description\": \"Ultra-detailed exploded technical infographic of {OBJECT_NAME}, shown in a 3/4 front isometric view. The object is partially transparent and opened, with its key internal and external components separated and floating around the main body in a clean exploded-view layout. Show all major parts typical for {OBJECT_NAME}: outer shell/panels, structural frame, primary electronics/boards, power system/battery or PSU, ports/connectors, display or interface elements if present, input controls/buttons, mechanical modules (motors/gears/fans/hinges) if applicable, speakers/microphones if applicable, cables/flex ribbons, screws/brackets, and EMI/thermal shielding. Use thin white callout leader lines and numbered labels in a minimalist sans-serif font. Background: smooth dark gray studio backdrop. Lighting: soft, even, high-end product render lighting with subtle reflections. Style: photoreal 3D CAD render, industrial design presentation, high contrast, razor-sharp, 8K, clean composition, no clutter.\",\n    \"styleTags\": [\n      \"Exploded View\",\n      \"Technical Infographic\",\n      \"Photoreal 3D CAD Render\",\n      \"Industrial Design Presentation\",\n      \"Minimalist Labels\",\n      \"Dark Studio Background\"\n    ]\n  },\n  \"negativePrompt\": \"no people, no messy layout, no extra components, no brand logos, no text blur, no cartoon, no low-poly, no watermark, no distorted perspective, no heavy noise\",\n  \"generationHints\": {\n    \"aspectRatio\": \"2:3\",\n    \"detailLevel\": \"ultra\",\n    \"stylization\": \"low-medium\",\n    \"camera\": {\n      \"angle\": \"3/4 front isometric\",\n      \"lens\": \"product render perspective\"\n    },\n    \"lighting\": \"soft even studio lighting, subtle reflections\",\n    \"background\": \"smooth dark gray seamless backdrop\"\n  }\n}",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_17f50738b28f.json"
+}

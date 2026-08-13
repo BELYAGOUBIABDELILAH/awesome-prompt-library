@@ -1,0 +1,16 @@
+{
+  "id": "opl_eeb5364a6a12",
+  "slug": "manhattan-mirage",
+  "title": "Manhattan Mirage",
+  "prompt": "{\n  \"title\": \"Manhattan Mirage\",\n  \"description\": \"A high-octane, cinematic moment capturing a woman's confident stride through a steam-filled New York intersection during golden hour.\",\n  \"prompt\": \"You will perform an image edit using the provided photo. Create an Ultra-Photorealistic image of the female subject. The style is highly detailed, resembling a frame shot on Arri Alexa with a cinematic 1:1 aspect ratio. Apply heavy depth of field to blur the busy background while keeping the subject sharp. Use cinematic lighting with strong backlight. The subject is wearing a red mini skirt and is walking on the street.\",\n  \"details\": {\n    \"year\": \"1999\",\n    \"genre\": \"Cinematic Photorealism\",\n    \"location\": \"A gritty, bustling New York City intersection at sunset, with steam rising from manholes and blurred yellow taxis in the background.\",\n    \"lighting\": [\n      \"Golden hour backlight\",\n      \"Lens flares\",\n      \"High contrast volumetric lighting\"\n    ],\n    \"camera_angle\": \"Low-angle tracking shot, centered composition.\",\n    \"emotion\": [\n      \"Confident\",\n      \"Empowered\",\n      \"Aloof\"\n    ],\n    \"color_palette\": [\n      \"Crimson red\",\n      \"Asphalt grey\",\n      \"Golden yellow\",\n      \"Deep black\"\n    ],\n    \"atmosphere\": [\n      \"Urban\",\n      \"Dynamic\",\n      \"Cinematic\",\n      \"Energetic\"\n    ],\n    \"environmental_elements\": \"Steam plumes rising from the ground, motion-blurred traffic, flying pigeons, wet pavement reflecting the sunset.\",\n    \"subject1\": {\n      \"costume\": \"red mini skirt\",\n      \"subject_expression\": \"A fierce, confident gaze with slightly parted lips, perhaps wearing vintage sunglasses.\",\n      \"subject_action\": \"walking on the street\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"empty streets\",\n        \"studio background\",\n        \"overexposed sky\",\n        \"static pose\"\n      ],\n      \"exclude_styles\": [\n        \"cartoon\",\n        \"3D render\",\n        \"illustration\",\n        \"anime\",\n        \"sketch\"\n      ],\n      \"exclude_colors\": [\n        \"neon green\",\n        \"pastel pink\"\n      ],\n      \"exclude_objects\": [\n        \"smartphones\",\n        \"modern cars\",\n        \"futuristic gadgets\"\n      ]\n    }\n  }\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_eeb5364a6a12.json"
+}

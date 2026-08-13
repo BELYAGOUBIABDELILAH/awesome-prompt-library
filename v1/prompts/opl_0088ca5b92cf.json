@@ -1,0 +1,37 @@
+{
+  "id": "opl_0088ca5b92cf",
+  "slug": "master-app-store-localization-aso-prompt-2025-full-metadata",
+  "title": "Master App Store Localization & ASO Prompt (2025) – Full Metadata Generator",
+  "prompt": "Assume the role of a **senior global ASO strategist** specializing in metadata optimization, keyword strategy, and multilingual localization.  \nYour primary goal is **maximum discoverability and conversion**, strictly following Apple’s 2025 App Store guidelines.\nYou will generate **all App Store metadata fields** for every locale listed below.\n\n---\n# **APP INFORMATION**\n\n- **Brand Name:** ${app_name}\n- **Concept:** ${describe_your_app}\n- **Themes:** ${app_keywords}\n- **Target Audience:** ${target_audience}\n- **Competitors:** ${competitor_apps}\n---\n# **OUTPUT FIELDS REQUIRED FOR EACH LOCALE**\nFor **each** locale, generate:\n### **1. App Name (Title) — Max 30 chars**\n**Updated rules merged from all prompts:**\n- Must **always** include the brand name “DishBook”.\n- **Brand must appear at the END** of the App Name.\n- May add 1–2 high-value keywords **before** the brand using separators:  \n    `–` `:` or `|`\n- Use **full 30-character limit** when possible.\n- Must be **SEO-maximized**, **non-repetitive**, **localized**, and **culturally natural**.\n- **No keyword stuffing**, no ALL CAPS.\n- Avoid “best, free, #1, official” and competitor names.\n- Critical keywords should appear within the **first 25 characters**.\n- Always remain clear, readable, memorable.\n---\n### **2. Subtitle — Max 30 chars**\n- Use full character limit.\n- Must include **secondary high-value keywords** _not present in the App Name._\n- Must highlight **core purpose or benefit**.\n- Must be **localized**, not directly translated.\n- No repeated words from App Name.\n- No hype words (“best”, “top”, “#1”, “official”, etc).\n- Natural, human, semantic phrasing.\n---\n\n### **3. Promotional Text — Max 170 chars**\n- Action-oriented, high-SEO, high-conversion message.\n- Fully localized & culturally adapted.\n- Highlight value, benefits, use cases.\n- No placeholders or fluff.\n---\n\n### **4. Description — Max 4000 chars**\n- Professional, SEO-rich, fully localized.\n- Use line breaks, paragraphs, bullet points.\n- Prioritize clarity and value.\n- Must feel **native** to each locale’s reading style.\n- Region-appropriate terminology, food culture references, meal-planning norms.\n- Avoid claims that violate Apple guidelines.\n---\n\n### **5. Keywords Field — Max 100 chars**\n\n**This section integrates your FULL KEYWORD FIELD OPTIMIZATION PROMPT.**\n\nRules:\n\n- Up to **100 characters**, including commas.\n- **Comma-separated, no spaces**, e.g. `recipe,dinner,mealplan`\n- **lowercase only.**\n- **Singular forms only.**\n- **Do not repeat any word**.\n- No brand names or trademarks.\n- No filler words (“app”, “best”, “free”, “top”, etc).\n- Include misspellings/slang **only if high search volume**.\n- Apply **cross-localization (Super-Geo)** where beneficial.\n- Every locale’s keyword list must be:\n    - Unique\n    - High-volume\n    - Regionally natural\n    - Strategically clustered (semantic adjacency)\n- Fill character limit as close as possible to 100 without exceeding.\n- Plan for iterative optimization every 4–6 weeks.\n---\n# **LOCALES TO GENERATE FOR (in this order)**\n\n```\nen-US\nen-GB\nen-CA\nen-AU\nar-SA\nca-ES\nzh-Hans\nzh-Hant\nhr-HR\ncs-CZ\nda-DK\nnl-NL\nfi-FI\nfr-FR\nfr-CA\nde-DE\nel-GR\nhe-IL\nhi-IN\nhu-HU\nid-ID\nit-IT\nja-JP\nko-KR\nms-MY\nno\npl-PL\npt-BR\npt-PT\nro-RO\nru-RU\nsk-SK\nes-MX\nes-ES\nsv-SE\nth-TH\ntr-TR\nuk-UA\nvi-VN\n```\n\n---\n\n# **FINAL OUTPUT FORMAT**\nReturn one single **JSON object** strictly formatted as follows:\n\n```json\n{\n  \"en-US\": {\n    \"name\": \"…\",\n    \"subtitle\": \"…\",\n    \"promotional_text\": \"…\",\n    \"description\": \"…\",\n    \"keywords\": \"…\"\n  },\n  \"en-GB\": {\n    \"name\": \"…\",\n    \"subtitle\": \"…\",\n    \"promotional_text\": \"…\",\n    \"description\": \"…\",\n    \"keywords\": \"…\"\n  },\n  \"en-CA\": { … },\n  ...\n  \"vi-VN\": { … }\n}\n```\n\n- No explanation text.\n- No commentary.\n- No placeholders.\n- Ensure every field complies with its character limit.\n---\n\n# **EXECUTION**\nWhen I provide the metadata generation request, produce the **complete final JSON** exactly as specified above.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "app_keywords",
+      "default": null
+    },
+    {
+      "name": "app_name",
+      "default": null
+    },
+    {
+      "name": "competitor_apps",
+      "default": null
+    },
+    {
+      "name": "describe_your_app",
+      "default": null
+    },
+    {
+      "name": "target_audience",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0088ca5b92cf.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_e7167ff6f657",
+  "slug": "generate-customer-facing-error-messages",
+  "title": "Generate Customer-Facing Error Messages",
+  "prompt": "Transform these technical errors into user-friendly messages:\n\nTechnical errors to translate:\n[PASTE INTERNAL ERROR MESSAGES, STACK TRACES, OR ERROR CODES]\n\nUser context: [what the user was trying to do]\nApplication: [describe]\nTone: [professional / friendly / formal]\n\n## User-Friendly Error Messages\n\nFor each error, provide:\n\n### Error: [TECHNICAL ERROR]\n\n**User-facing message**:\n> [What went wrong, in plain language. Never show the technical error.]\n> [What they can do about it.]\n> [If there's nothing they can do: reassure them and offer a path forward.]\n\n**Error code shown to user**: [SHORT-CODE — for reference when contacting support]\n\n**Help link**: [URL to relevant help article if applicable]\n\n**Support message** (if they contact support):\n\"Error: [SHORT-CODE] at [timestamp] during [action]\"\n\n---\n\n## Error Writing Rules Applied\n✅ Use \"we\" language for system errors (\"We couldn't load your files\")\n✅ Explain what happened in terms of what the user was doing\n✅ Give a specific next step when possible\n✅ Avoid technical terms: no \"500\", \"null pointer\", \"timeout\", \"exception\"\n✅ Don't blame the user\n✅ Don't give false reassurance (\"This never happens\") — it clearly just did",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e7167ff6f657.json"
+}

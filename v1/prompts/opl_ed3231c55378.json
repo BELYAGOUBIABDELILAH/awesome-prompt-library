@@ -1,0 +1,16 @@
+{
+  "id": "opl_ed3231c55378",
+  "slug": "implement-data-retention-policies",
+  "title": "Implement Data Retention Policies",
+  "prompt": "Implement automated data retention policies:\n\nSystem: [DATABASE / FILE STORE / LOGGING SYSTEM]\nData types covered: [LIST DATA CATEGORIES]\nApplicable regulations: [GDPR 7 years / HIPAA 6 years / custom]\n\n## Retention Policy Configuration\n\n### Policy Definitions\nFor each data type:\n| Data Type | Retention Period | Legal Basis | Action at Expiry |\n|---|---|---|---|\n| [Type] | [N days/years] | [Regulation/Business need] | Delete / Archive / Anonymize |\n\n## Implementation\n\n### Retention Enforcement Job\nCreate a scheduled job that:\n1. Queries for records past their retention date\n2. Verifies legal holds are not active\n3. Executes the appropriate action (delete / archive / anonymize)\n4. Logs each action with: timestamp, record ID, data type, action taken, operator\n5. Generates a report of what was processed\n\n### Legal Hold System\nMechanism to pause retention enforcement for:\n- Litigation holds\n- Regulatory investigations\n- Audit requirements\n\n### Anonymization (preferred over deletion for analytics data)\nReplace PII fields with:\n- Pseudonymized tokens (consistent but non-reversible)\n- NULL for non-essential fields\n- Aggregated/bucketed values for analytics fields\n\n### Code Implementation\nLanguage: [SPECIFY]\nDatabase: [SPECIFY]\n\nProvide the complete implementation with tests.\n\n### Audit Trail\nEvery retention action must be logged in an immutable audit log.",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ed3231c55378.json"
+}

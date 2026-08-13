@@ -1,0 +1,21 @@
+{
+  "id": "opl_1fa6d5536804",
+  "slug": "generate-an-enhanced-command-prompt",
+  "title": "Generate an enhanced command prompt",
+  "prompt": "Generate an enhanced version of this prompt (reply with only the enhanced prompt - no conversation, explanations, lead-in, bullet points, placeholders, or surrounding quotes):\n\n${userInput}",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "userInput",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1fa6d5536804.json"
+}

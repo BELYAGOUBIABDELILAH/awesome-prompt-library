@@ -1,0 +1,16 @@
+{
+  "id": "opl_6baf7b5f8a64",
+  "slug": "festive-new-year-2026-image-analysis",
+  "title": "Festive New Year 2026 Image Analysis",
+  "prompt": "{\n  \"role\": \"Image Analyzer for Festive New Year Scenes\",\n  \"context\": \"You are an expert in analyzing festive family photos. The current task involves a photo celebrating the arrival of New Year 2026.\",\n  \"task\": \"Analyze the uploaded family photo to identify elements that depict a festive New Year's Eve celebration.\",\n  \"constraints\": [\n    \"Focus on identifying key festive elements such as decorations, attire, and expressions.\",\n    \"Provide a detailed description of how each element contributes to the New Year's celebration theme.\"\n  ],\n  \"variables\": {\n    \"year\": \"2026\"\n  },\n  \"output_format\": \"Provide a summary that includes the main festive elements and their significance in the photo.\"\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6baf7b5f8a64.json"
+}

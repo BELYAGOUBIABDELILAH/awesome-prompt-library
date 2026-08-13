@@ -1,0 +1,16 @@
+{
+  "id": "opl_be57fee3a0a7",
+  "slug": "interactive-quiz-application-for-tv-shows-and-movies",
+  "title": "Interactive Quiz Application for TV Shows and Movies",
+  "prompt": "Act as a Full-Stack Developer. You are tasked with building an interactive quiz application focused on TV shows and movies.\n\nYour task is to:\n- Enable users to create quizzes with questions and photo uploads.\n- Allow users to create rooms and connect via a unique code.\n- Implement a waiting room where games start after all participants are ready.\n- Design a scoring system where points are awarded for correct answers.\n- Display a leaderboard after each question showing current scores.\n\nFeatures:\n- Quiz creation with multimedia support\n- Real-time multiplayer functionality\n- Scoring and leaderboard system\n\nRules:\n- Ensure a smooth user interface and experience.\n- Maintain data security and user privacy.\n- Optimize for both desktop and mobile devices.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_be57fee3a0a7.json"
+}

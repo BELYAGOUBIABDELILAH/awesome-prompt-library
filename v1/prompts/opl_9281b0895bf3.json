@@ -1,0 +1,16 @@
+{
+  "id": "opl_9281b0895bf3",
+  "slug": "open-issues-by-priority-and-health-status",
+  "title": "Open Issues by Priority and Health Status",
+  "prompt": "Provide a breakdown of all currently open issues in: [PROJECT/GROUP]\n\n## By Priority\nGroup issues into: Critical / High / Medium / Low / No Priority\nShow count and percentage for each tier.\n\n## By Health Status\nGroup issues by their health label: On Track / Needs Attention / At Risk / No Status\nShow count for each.\n\n## Priority × Health Matrix\nCreate a 2D view showing which priority issues are most at risk.\n\n## Top 5 Issues Needing Immediate Attention\nList the 5 highest-priority issues that are either \"At Risk\" or have had no activity in 7+ days.\nFormat: Issue title · Priority · Days since last activity · Assignee\n\n## Recommendation\nIn 2–3 sentences, summarize where the team should focus this sprint.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9281b0895bf3.json"
+}

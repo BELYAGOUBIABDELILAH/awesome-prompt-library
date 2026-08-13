@@ -1,0 +1,16 @@
+{
+  "id": "opl_db7593a0c2a0",
+  "slug": "implement-ci-cd-best-practices",
+  "title": "Implement CI/CD Best Practices",
+  "prompt": "Review and improve this CI/CD pipeline configuration:\n\nCurrent pipeline: [PASTE .gitlab-ci.yml]\nProject type: [web app / library / microservice / monorepo]\nDeployment target: [Kubernetes / Docker / VM / Serverless / PaaS]\n\n## Pipeline Audit\n\n### Speed Optimizations\n- [ ] Caching: are dependencies cached between runs?\n- [ ] Parallel jobs: what can run in parallel vs. must be sequential?\n- [ ] Docker layer caching: is the Dockerfile optimized for cache hits?\n- [ ] Artifact size: are we passing only what's needed between stages?\n\n### Security\n- [ ] Secrets: are all secrets in CI/CD variables (not hardcoded)?\n- [ ] SAST: static analysis job present?\n- [ ] Dependency scanning: checking for vulnerable packages?\n- [ ] Container scanning: Docker images scanned?\n- [ ] Secret detection: scanning for accidentally committed secrets?\n\n### Reliability\n- [ ] Retries: are flaky jobs configured to retry?\n- [ ] Timeouts: are jobs protected against hanging?\n- [ ] Rollback: is there a way to rollback a bad deploy quickly?\n- [ ] Deployment verification: is the deploy verified after completion?\n\n### Best Practices\n- [ ] Rules/only/except: correct trigger conditions?\n- [ ] Environments: properly configured with deployment tracking?\n- [ ] Review apps: automatic preview environments for MRs?\n\n## Improved Pipeline\nProvide the complete improved .gitlab-ci.yml with comments explaining each change.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_db7593a0c2a0.json"
+}

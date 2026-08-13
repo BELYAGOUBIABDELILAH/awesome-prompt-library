@@ -1,0 +1,25 @@
+{
+  "id": "opl_ac1e6354b03d",
+  "slug": "linkedin-profile-enhancing",
+  "title": "Linkedin profile enhancing",
+  "prompt": "Can you help me craft a catchy headline for my LinkedIn profile that would help me get noticed by recruiters looking to fill a ${job_title:data engineer} in ${industry:data engineering}? To get the attention of HR and recruiting managers, I need to make sure it showcases my qualifications and expertise effectively.",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [
+    {
+      "name": "industry",
+      "default": "data engineering"
+    },
+    {
+      "name": "job_title",
+      "default": "data engineer"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ac1e6354b03d.json"
+}

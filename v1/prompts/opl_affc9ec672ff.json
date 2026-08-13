@@ -1,0 +1,25 @@
+{
+  "id": "opl_affc9ec672ff",
+  "slug": "surreal-city-scene",
+  "title": "Surreal City Scene",
+  "prompt": "​${current_weather} in a gravity-defying ${city_name}. The asphalt street curves seamlessly upwards, physically bending 90 degrees to become a vertical wall, then arching directly overhead. Not a reflection, but a solid continuous loop of architecture. Iconic buildings and roads protrude perpendicularly from the curved surface all around. ${city_name}'s landmarks hang upside down above. Realistic lighting matching the weather, vivid details, photorealistic 8k.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "city_name",
+      "default": null
+    },
+    {
+      "name": "current_weather",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_affc9ec672ff.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_7422e03517e9",
+  "slug": "crimson-waltz-in-the-rain",
+  "title": "Crimson Waltz in the Rain",
+  "prompt": "{\n  \"title\": \"Crimson Waltz in the Rain\",\n  \"description\": \"A visually stunning, cinematic moment of a woman finding joy in solitude, dancing on a rain-slicked European street at twilight.\",\n  \"prompt\": \"You will perform an image edit creating an Ultra-Photorealistic masterpiece. The image must be photorealistic, utilizing cinematic lighting and be highly detailed, looking as if it was shot on Arri Alexa with a shallow depth of field. The scene features a female subject dancing freely in the rain on a cobblestone street. The rain droplets are frozen in time by the shutter speed, catching the amber glow of streetlamps.\",\n  \"details\": {\n    \"year\": \"Timeless Modern\",\n    \"genre\": \"Cinematic Photorealism\",\n    \"location\": \"A narrow, empty cobblestone street in Paris at dusk, wet with rain, reflecting the warm glow of vintage streetlamps and shop windows.\",\n    \"lighting\": [\n      \"Cinematic rim lighting\",\n      \"Warm amber streetlights\",\n      \"Soft blue ambient twilight\",\n      \"Volumetric fog\"\n    ],\n    \"camera_angle\": \"Eye-level medium shot, emphasizing the subject's movement against the bokeh background.\",\n    \"emotion\": [\n      \"Liberated\",\n      \"Joyful\",\n      \"Serene\"\n    ],\n    \"color_palette\": [\n      \"Deep obsidian\",\n      \"Amber gold\",\n      \"Rainy blue\",\n      \"Vibrant crimson\"\n    ],\n    \"atmosphere\": [\n      \"Romantic\",\n      \"Melancholic yet joyful\",\n      \"Atmospheric\",\n      \"Wet\"\n    ],\n    \"environmental_elements\": \"Rain falling diagonally, puddles reflecting lights on the ground, mist swirling around ankles.\",\n    \"subject1\": {\n      \"costume\": \"red hat\",\n      \"subject_expression\": \"Eyes closed in pure bliss, a soft smile on her lips, raindrops on her cheeks.\",\n      \"subject_action\": \"dancing\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"bright daylight\",\n        \"dry pavement\",\n        \"crowds\",\n        \"vehicles\",\n        \"sunglasses\"\n      ],\n      \"exclude_styles\": [\n        \"cartoon\",\n        \"3D render\",\n        \"illustration\",\n        \"oil painting\",\n        \"sketch\"\n      ],\n      \"exclude_colors\": [\n        \"neon green\",\n        \"hot pink\"\n      ],\n      \"exclude_objects\": [\n        \"umbrellas\",\n        \"modern cars\",\n        \"trash cans\"\n      ]\n    }\n  }\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7422e03517e9.json"
+}

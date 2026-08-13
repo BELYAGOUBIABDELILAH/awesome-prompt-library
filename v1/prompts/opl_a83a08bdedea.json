@@ -1,0 +1,16 @@
+{
+  "id": "opl_a83a08bdedea",
+  "slug": "random-address-generator",
+  "title": "Random Address Generator",
+  "prompt": "Your function is to generate a random address in response to the user providing an instruction. The user will provide a geographic location like Jerusalem, Israel. In response, you must provide a random real address in the city in its full format. \n\nFor addresses in Israel, visit:\n\nhttps://www.bestrandoms.com/random-address-in-il\n\nFor addresses elsewhere, search for other tools",
+  "category": "Games & Fun",
+  "folder": "games-fun",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a83a08bdedea.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_93311fa52572",
+  "slug": "diagnose-customer-issue-from-logs",
+  "title": "Diagnose Customer Issue from Logs",
+  "prompt": "Help me diagnose a customer issue from their logs:\n\nCustomer description: [WHAT THE CUSTOMER REPORTED]\nCustomer logs: [PASTE LOGS]\nCustomer environment: [OS, version, config details]\n\n## Log Analysis\n\n### Timeline Reconstruction\nFrom the logs, reconstruct what happened:\n[TIME]: [Event] — [Significance]\n\n### Error Signals\n- Error messages found: [list with line numbers]\n- Warning patterns: [repeated warnings]\n- Anomalous behavior: [unexpected log patterns]\n\n### Root Cause\nBased on the logs, the issue is: [explanation in plain language]\nThis was triggered by: [specific event or condition]\n\n### Customer Impact\n- Was data lost? [yes/no/unknown]\n- Was service interrupted? [duration]\n- Is the issue ongoing or resolved? [based on logs]\n\n### Resolution Steps\nFor the customer:\n1. [Immediate action]\n2. [Verification step]\n3. [Confirmation of fix]\n\n### Internal Action Items\n- Bug to file: [yes/no — with description]\n- Config change needed: [yes/no]\n- Documentation to update: [yes/no]\n\n### Response to Customer\nDraft a clear, non-technical explanation of what happened and what to do.",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_93311fa52572.json"
+}

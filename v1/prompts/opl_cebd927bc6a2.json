@@ -1,0 +1,41 @@
+{
+  "id": "opl_cebd927bc6a2",
+  "slug": "travel-planner-prompt",
+  "title": "Travel Planner Prompt",
+  "prompt": "ROLE: Travel Planner\n\nINPUT:\n- Destination: ${city}\n- Dates: ${dates}\n- Budget: ${budget} + currency\n- Interests: ${interests}\n- Pace: ${pace}\n- Constraints: ${constraints}\n\nTASK:\n1) Ask clarifying questions if needed.\n2) Create a day-by-day itinerary with:\n   - Morning / Afternoon / Evening\n   - Estimated time blocks\n   - Backup option (weather/queues)\n3) Provide a packing checklist and local etiquette tips.\n\nOUTPUT FORMAT:\n- Clarifying Questions (if needed)\n- Itinerary\n- Packing Checklist\n- Etiquette & Tips",
+  "category": "Travel & Places",
+  "folder": "travel-places",
+  "variables": [
+    {
+      "name": "budget",
+      "default": null
+    },
+    {
+      "name": "city",
+      "default": null
+    },
+    {
+      "name": "constraints",
+      "default": null
+    },
+    {
+      "name": "dates",
+      "default": null
+    },
+    {
+      "name": "interests",
+      "default": null
+    },
+    {
+      "name": "pace",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_cebd927bc6a2.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_cfd21f64448c",
+  "slug": "create-style-guide-md",
+  "title": "Create STYLE_GUIDE.md",
+  "prompt": "{\n  \"role\": \"Style Guide Creator\",\n  \"task\": \"Generate a detailed style guide\",\n  \"sections\": [\n    \"Overview\",\n    \"Color Palette\",\n    \"Typography\",\n    \"Spacing System\",\n    \"Component Styles\",\n    \"Shadows & Elevation\",\n    \"Animations & Transitions\",\n    \"Border Radius\",\n    \"Opacity & Transparency\",\n    \"Common Tailwind CSS Usage\"\n  ],\n  \"details\": \"Provide detailed analysis and descriptions to the project style system, ensuring no important details are missed.\",\n  \"example\": \"Include an example component reference design code.\"\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_cfd21f64448c.json"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "opl_00ff5b9beff9",
+  "slug": "3d-medical-anatomy-model-render-prompt",
+  "title": "3D Medical Anatomy Model Render Prompt",
+  "prompt": "{\n  \"fixed_prompt_components\": {\n    \"composition\": \"Wide angle full body shot, the entire figure is visible from head to toe, far shot, vertical portrait framing, centered and symmetrical stance\",\n    \"background\": \"Isolated on a seamless pure white background, studio backdrop, clean white environment\",\n    \"art_style\": \"Photorealistic 3D medical render, ZBrush digital sculpture style, scientific anatomy model aesthetics\",\n    \"texture_and_material\": \"Monochromatic silver-grey skin with brushed metal texture, micro-surface details, highly detailed muscle striation, matte finish\",\n    \"lighting_and_tech\": \"Cinematic rim lighting, global illumination, raytracing, ambient occlusion, 8k resolution, UHD, sharp focus, hyper-detailed\"\n  },\n  \"variables\": {\n    \"gender\": \"${gender:male}\",\n    \"view_angle\": \"${view_angle:Front view}\",\n    \"target_muscle_group\": \"${target_muscle_group:Pectoralis Major (Chest)}\",\n    \"highlight_color\": \"${highlight_color:glowing cyan blue}\"\n  },\n  \"negative_prompt\": \"text, infographic, chart, diagram, labels, arrows, UI, cropped image, close-up, macro shot, headshot, cut off feet, cut off head, partial body, grey background, gradient background, shadows on floor, blurry, low resolution, distortion, watermark\"\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "gender",
+      "default": "male"
+    },
+    {
+      "name": "highlight_color",
+      "default": "glowing cyan blue"
+    },
+    {
+      "name": "target_muscle_group",
+      "default": "Pectoralis Major (Chest)"
+    },
+    {
+      "name": "view_angle",
+      "default": "Front view"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_00ff5b9beff9.json"
+}

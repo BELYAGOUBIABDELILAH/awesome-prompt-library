@@ -1,0 +1,16 @@
+{
+  "id": "opl_a6e3a433d4c6",
+  "slug": "draft-social-media-post-for-event",
+  "title": "Draft Social Media Post for Event",
+  "prompt": "From an event brief, write a social media post promoting the event with a specific CTA.\nRules:\n- Hook in the first line (before any truncation).\n- State the value the attendee gets — not just what the event is.\n- Include date, format (virtual/in-person), and a clear CTA.\n- Keep it under 280 characters for Twitter/X. Expand for LinkedIn/Facebook.\n- End with a link placeholder: [REGISTER LINK]",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a6e3a433d4c6.json"
+}

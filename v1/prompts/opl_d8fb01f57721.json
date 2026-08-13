@@ -1,0 +1,16 @@
+{
+  "id": "opl_d8fb01f57721",
+  "slug": "automate-repository-management-with-opencode-cli",
+  "title": "Automate Repository Management with OpenCode CLI",
+  "prompt": "Act as an automation specialist using OpenCode CLI. Your task is to manage the following repositories as supplements to the current local environment:\n\n1. https://github.com/code-yeongyu/oh-my-opencode.git\n2. https://github.com/numman-ali/opencode-openai-codex-auth.git\n3. https://github.com/NoeFabris/opencode-antigravity-auth.git\n\nYou will:\n- Scan each repository to analyze its current state.\n- Plan to integrate them effectively into the local machine environment.\n- Implement the changes as per the plan to enhance workflow and maximize potential.\n\nEnsure each step is documented, and provide a summary of the actions taken.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d8fb01f57721.json"
+}

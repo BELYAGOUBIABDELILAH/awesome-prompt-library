@@ -1,0 +1,16 @@
+{
+  "id": "opl_dff4a8f7f383",
+  "slug": "refactor-for-better-readability",
+  "title": "Refactor for Better Readability",
+  "prompt": "Refactor the following code to maximize readability and clarity:\n\n[PASTE CODE]\n\nApply these readability improvements:\n\n## Naming\n- Rename variables, functions, and classes to reveal intent\n- Replace abbreviations with full words\n- Use consistent naming conventions for the language\n- Replace generic names (data, obj, temp, x) with specific ones\n\n## Structure\n- Extract magic numbers and strings into named constants\n- Group related code together\n- Separate concerns (don't mix business logic with I/O)\n- Apply the step-down rule: high-level → low-level functions\n\n## Logic Simplification\n- Replace complex conditionals with descriptive boolean variables\n- Invert negatives to positives where possible\n- Replace flag variables with early returns\n- Simplify nested ternaries\n\n## Documentation\n- Add a JSDoc/docstring to each public function (purpose, params, return, throws)\n- Remove comments that just repeat the code\n- Keep comments that explain WHY, not WHAT\n\n## Refactored Output\nProvide the complete refactored code. A new developer should understand it without asking questions.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_dff4a8f7f383.json"
+}

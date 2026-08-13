@@ -1,0 +1,16 @@
+{
+  "id": "opl_1fafca0126e0",
+  "slug": "explain-unfamiliar-code-or-mr",
+  "title": "Explain Unfamiliar Code or MR",
+  "prompt": "Help me quickly understand this unfamiliar code or MR:\n\n[PASTE CODE or MR LINK]\n\nI need to understand this because: [reviewing it / modifying it / debugging it / onboarding]\n\n## TL;DR (30 seconds)\nIn 3 sentences: what is this, what does it do, and why does it exist?\n\n## Architecture Context\n- Which layer of the system is this in? (data / business logic / API / UI)\n- What other components does this interact with?\n- Who created this and when? (if visible)\n\n## Code Flow\nWalk me through the execution path from entry point to exit, focusing on the main scenario.\n\n## The Tricky Parts\nHighlight the 2–3 most confusing sections and explain them clearly.\n\n## Before I Modify This\nWhat should I know before making changes?\n- What could break if I change X?\n- Are there tests that cover this?\n- Are there related files I need to update together?",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1fafca0126e0.json"
+}

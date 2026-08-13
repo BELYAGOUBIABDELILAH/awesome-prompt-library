@@ -1,0 +1,16 @@
+{
+  "id": "opl_ba22669b005e",
+  "slug": "gopro-action",
+  "title": "GoPro Action",
+  "prompt": "{\n  \"prompt\": \"You will perform an image edit using the people from the provided photos as the main subjects. Preserve their core likeness. Transform Subject 1 (male) and Subject 2 (male) into adrenaline-junkie urban explorers atop a massive skyscraper. The image is a high-energy, wide-angle POV selfie taken by Subject 1, capturing both men precariously perched on the edge of a rooftop ledge with a dizzying vertical drop to the city streets below. Adhere strictly to a cinematic 1:1 aspect ratio.\",\n  \"details\": {\n    \"year\": \"Present Day\",\n    \"genre\": \"GoPro\",\n    \"location\": \"The rooftop ledge of a 100-story skyscraper in a dense metropolis.\",\n    \"lighting\": [\n      \"Golden hour sunlight\",\n      \"Direct harsh flares\",\n      \"Natural outdoor exposure\"\n    ],\n    \"camera_angle\": \"Extreme wide-angle fisheye POV (selfie angle), high distortion on the edges, tilting downwards to show the street far below.\",\n    \"emotion\": [\n      \"Exhilarated\",\n      \"Fearless\",\n      \"Adrenaline-fueled\"\n    ],\n    \"color_palette\": [\n      \"Sky blue\",\n      \"Sunset orange\",\n      \"Concrete grey\",\n      \"Vivid sportswear neons\"\n    ],\n    \"atmosphere\": [\n      \"Vertigo-inducing\",\n      \"Windy\",\n      \"Epic\",\n      \"Dangerous\"\n    ],\n    \"environmental_elements\": \"Tiny cars visible on the grid-like streets below, lens flare artifacts, birds flying beneath the subjects, wind blowing their clothes.\",\n    \"subject1\": {\n      \"costume\": \"A technical windbreaker jacket, fingerless grip gloves, and a backward baseball cap.\",\n      \"subject_expression\": \"A wide, shouting grin of pure excitement, looking into the lens.\",\n      \"subject_action\": \"Holding the camera arm extended (selfie style) while leaning out over the void.\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"ground level view\",\n        \"interiors\",\n        \"studio lighting\",\n        \"tripod stability\",\n        \"bokeh\",\n        \"flat lens\"\n      ],\n      \"exclude_styles\": [\n        \"oil painting\",\n        \"sketch\",\n        \"vintage film\",\n        \"studio portrait\"\n      ],\n      \"exclude_colors\": [\n        \"sepia\",\n        \"monochrome\"\n      ],\n      \"exclude_objects\": [\n        \"safety railings\",\n        \"fences\"\n      ]\n    },\n    \"subject2\": {\n      \"costume\": \"A hooded athletic vest, cargo joggers, and climbing shoes.\",\n      \"subject_expression\": \"Intense focus mixed with a daredevil smirk.\",\n      \"subject_action\": \"Balancing on one leg on the very edge of the cornice, throwing a 'peace' sign towards the camera.\"\n    }\n  }\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ba22669b005e.json"
+}

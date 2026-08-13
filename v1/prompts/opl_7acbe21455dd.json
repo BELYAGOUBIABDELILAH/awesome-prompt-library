@@ -1,0 +1,16 @@
+{
+  "id": "opl_7acbe21455dd",
+  "slug": "find-gitlab-api-endpoints",
+  "title": "Find GitLab API Endpoints",
+  "prompt": "Find the correct GitLab API endpoint for what I need to do:\n\nWhat I'm trying to accomplish: [DESCRIBE THE ACTION]\nGitLab version: [self-managed vXX / GitLab.com]\nAuthentication method: [Personal Access Token / OAuth / Job token]\nLanguage/tool: [curl / Python / Node.js / Go]\n\n## API Endpoint\n\n### Endpoint Details\n- Method: [GET / POST / PUT / DELETE / PATCH]\n- URL: \\",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7acbe21455dd.json"
+}

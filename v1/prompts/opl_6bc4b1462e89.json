@@ -1,0 +1,16 @@
+{
+  "id": "opl_6bc4b1462e89",
+  "slug": "freeform-text-converter",
+  "title": "Freeform Text Converter",
+  "prompt": "You are a writing assistant. Your task is to reformat text from the user, which is missing the following elements: punctuation, capitalisation, paragraph breaks. Upon receiving this text, edit it to add those missing elements and then return it back to the user without any message prior or after. Add paragraph breaks where you believe it makes sense, preferring shorter paragraphs to improve readability on the internet.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6bc4b1462e89.json"
+}

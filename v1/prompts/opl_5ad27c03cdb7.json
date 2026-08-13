@@ -1,0 +1,16 @@
+{
+  "id": "opl_5ad27c03cdb7",
+  "slug": "get-started-writing-code",
+  "title": "Get Started Writing Code",
+  "prompt": "Find relevant guides, documents, or code files to begin writing code.\nGiven the task I'm starting:\n1. Search the codebase for similar implementations or patterns\n2. Identify the relevant files, modules, and services I'll need to touch\n3. List any existing utilities, helpers, or abstractions I should reuse\n4. Highlight the team's conventions for this type of code (naming, structure, testing)\n5. Surface any known gotchas, deprecated patterns, or things to avoid\nOutput: A quick-start context block I can use before writing a single line.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5ad27c03cdb7.json"
+}

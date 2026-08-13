@@ -1,0 +1,16 @@
+{
+  "id": "opl_9db571502ee7",
+  "slug": "navigate-large-codebase-quickly",
+  "title": "Navigate Large Codebase Quickly",
+  "prompt": "Help me navigate this large codebase to find what I need:\n\nI'm looking for: [DESCRIBE WHAT YOU NEED TO FIND]\nMy goal: [e.g., fix a bug in X, add feature Y, understand how Z works]\nCodebase: [DESCRIBE — language, framework, rough size]\n\n## Quick Orientation\n1. What's the directory structure pattern?\n2. What naming convention do files follow?\n3. Where do I find: controllers / services / models / tests / config?\n\n## Finding What I Need\nBased on what I described, the code I need is most likely in:\n1. [Most likely location] — because [reason]\n2. [Second likely location] — because [reason]\n3. [Where to find tests for this area]\n\n## Navigation Strategy\nTo find the right file without searching randomly:\n- Start at [ENTRY POINT]\n- Follow [METHOD/EVENT/IMPORT] to reach [TARGET]\n- Key files to read in order: [1, 2, 3]\n\n## Shortcuts\n- Useful grep/search terms to find relevant code: [list]\n- Test file naming pattern: [pattern]\n- How the codebase is organized by feature vs. by layer: [explain]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9db571502ee7.json"
+}

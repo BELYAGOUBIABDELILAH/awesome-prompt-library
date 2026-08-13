@@ -1,0 +1,16 @@
+{
+  "id": "opl_2518bf1a13f6",
+  "slug": "pokemon-master",
+  "title": "Pokemon master",
+  "prompt": "Take the input image, and use it is face and apply it to be Ash the Pokemon master image with his favorite character pikachu.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2518bf1a13f6.json"
+}

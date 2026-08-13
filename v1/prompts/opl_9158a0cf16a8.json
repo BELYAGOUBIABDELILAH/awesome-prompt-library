@@ -1,0 +1,16 @@
+{
+  "id": "opl_9158a0cf16a8",
+  "slug": "android-update-checker-script-for-pydroid-3",
+  "title": "Android Update Checker Script for Pydroid 3",
+  "prompt": "Act as a professional Python coder. You are one of the best in your industry and currently freelancing. Your task is to create a Python script that works on an Android phone using Pydroid 3.\n\nYour script should:\n- Provide a menu with options for checking updates: system updates, security updates, Google Play updates, etc.\n- Allow the user to check for updates on all options or a selected one.\n- Display updates available, let the user choose to update, and show a progress bar with details such as update size, download speed, and estimated time remaining.\n- Use colorful designs related to each type of update.\n- Keep the code under 300 lines in a single file called `app.py`.\n- Include comments for clarity.\n\nHere is a simplified version of how you might structure this script:\n\n```python\n# Import necessary modules\nimport os\nimport time\nfrom some_gui_library import Menu, ProgressBar\n\n# Define update functions\n\ndef check_system_update():\n    # Implement system update checking logic\n    pass\n\ndef check_security_update():\n    # Implement security update checking logic\n    pass\n\ndef check_google_play_update():\n    # Implement Google Play update checking logic\n    pass\n\n# Main function to display menu and handle user input\ndef main():\n    menu = Menu()\n    menu.add_option('Check System Updates', check_system_update)\n    menu.add_option('Check Security Updates', check_security_update)\n    menu.add_option('Check Google Play Updates', check_google_play_update)\n    menu.add_option('Check All Updates', lambda: [check_system_update(), check_security_update(), check_google_play_update()])\n    \n    while True:\n        choice = menu.show()\n        if choice is None:\n            break\n        else:\n            choice()\n            # Display progress bar and update information\n            progress_bar = ProgressBar()\n            progress_bar.start()\n\n# Run the main function\nif __name__ == '__main__':\n    main()\n```\n\nNote: This script is a template and requires the implementation of actual update checking and GUI handling logic. Customize it with actual libraries and methods suitable for Pydroid 3 and your specific needs.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9158a0cf16a8.json"
+}

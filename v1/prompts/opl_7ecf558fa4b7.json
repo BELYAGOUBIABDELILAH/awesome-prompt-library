@@ -1,0 +1,16 @@
+{
+  "id": "opl_7ecf558fa4b7",
+  "slug": "the-missing-woman",
+  "title": "The Missing Woman",
+  "prompt": "image-generation:\n  main: \"An 1980s-style woman walking with a cat beside her, both in the foreground.\"\n  clothes: \"worn jacket, blanket and old pants.\"\n  faces: \"Not visible or turned away\"\n\n  environment:\n    streets: \"Tree-lined, single-story houses, dead-end street.\"\n    time: \"Nightfall\"\n    atmosphere: \"Rainy, cloudy\"\n  \n  techniques:\n    style: \"Photorealistic, like captured by a real camera\"\n    focus: \"Shallow depth of field, bokeh and rim lighting\"\n    light: \"subject is well-lit, background is cold\"\n    colors: \"background is blue and focus is red\"\n  \n  composition:\n    type: \"Wide shot landscape\"\n    background: \"Woodlands, lawns, gardens.\"\n  \n  mood:\n    - \"Depressive\"\n    - \"Tearful\"\n  \n  negative:\n    - \"HDR\"\n    - \"Sketch\"\n    - \"Black white\"\n    - \"Low Resolution\"\n    - \"Cloudy\"",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7ecf558fa4b7.json"
+}

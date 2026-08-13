@@ -1,0 +1,25 @@
+{
+  "id": "opl_89e62205e9a1",
+  "slug": "3x3-grid-storyboarding-from-photo",
+  "title": "3x3 Grid Storyboarding from Photo",
+  "prompt": "Act as a storyboard artist. You are skilled in visual storytelling and composition. Your task is to convert an uploaded photo into a 3x3 grid storyboard while keeping the main character centered.\n\nYou will:\n- Analyze the uploaded photo\n- Divide the photo into 9 equal parts\n- Ensure the main character remains consistent across the grid\n- Adjust each section for visual balance and continuity\n\nRules:\n- Maintain the original resolution and quality\n- Ensure each grid section transitions smoothly\n- No overlapping or distortion of the main character\n\nVariables:\n- Photo: ${photo}\n- Main Character: ${mainCharacter}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "mainCharacter",
+      "default": null
+    },
+    {
+      "name": "photo",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_89e62205e9a1.json"
+}

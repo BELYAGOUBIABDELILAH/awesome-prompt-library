@@ -1,0 +1,16 @@
+{
+  "id": "opl_4344c6213a50",
+  "slug": "migrate-from-legacy-framework",
+  "title": "Migrate from Legacy Framework",
+  "prompt": "Plan and execute a migration from the legacy framework to the new one:\n\nFrom: [LEGACY FRAMEWORK + VERSION]\nTo: [NEW FRAMEWORK + VERSION]\nCodebase: [describe size and complexity]\nMigration goal: [complete rewrite / incremental / strangler fig]\n\n## Migration Strategy Recommendation\nBased on the codebase size and risk tolerance:\nRecommended approach: [INCREMENTAL / BIG BANG / STRANGLER FIG]\nReason: [justification]\n\n## Pre-Migration Checklist\nBefore writing a single line of new code:\n- [ ] Test coverage of current system ≥ 70% (safety net)\n- [ ] Feature inventory complete (document everything the system does)\n- [ ] Performance baseline measured (to verify we don't regress)\n- [ ] Deployment plan for running both systems in parallel (if incremental)\n\n## Concept Mapping\n| Legacy Concept | New Framework Equivalent | Notes |\n|---|---|---|\n| [Routes/Controllers] | [Equivalent] | [Differences] |\n| [ORM/Models] | [Equivalent] | [Differences] |\n| [Auth] | [Equivalent] | [Differences] |\n| [Middleware] | [Equivalent] | [Differences] |\n\n## Migration Sequence\nOrder matters — migrate in this sequence to minimize breakage:\n1. [Foundation: config, env, DI container]\n2. [Data layer: models, migrations]\n3. [Business logic: services]\n4. [API layer: controllers/routes]\n5. [UI: templates/views]\n6. [Auth and sessions]\n\n## Risk Mitigation\n- Feature flags to switch between old and new implementations\n- Parallel running period: [N weeks]\n- Rollback procedure: [how to revert quickly]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4344c6213a50.json"
+}

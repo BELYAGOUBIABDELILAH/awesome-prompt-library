@@ -1,0 +1,37 @@
+{
+  "id": "opl_d59fc45f1841",
+  "slug": "secteur-bancaire-email-professionnel",
+  "title": "Secteur Bancaire - Email Professionnel",
+  "prompt": "Rédige un e‑mail professionnel destiné à ${type de client} pour lui présenter ${object du mail}.\nLe ton doit être courtois, précis et concis.\n\nVoici les éléments à intégrer :\n– Thème principal : ${theme}\n– Points clés à mentionner : ${points clés}\n– Action attendue : ${action attendue}\n\nTermine par une phrase de conclusion professionnelle adaptée au contexte bancaire.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "action attendue",
+      "default": null
+    },
+    {
+      "name": "object du mail",
+      "default": null
+    },
+    {
+      "name": "points clés",
+      "default": null
+    },
+    {
+      "name": "theme",
+      "default": null
+    },
+    {
+      "name": "type de client",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d59fc45f1841.json"
+}

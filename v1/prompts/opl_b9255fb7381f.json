@@ -1,0 +1,33 @@
+{
+  "id": "opl_b9255fb7381f",
+  "slug": "secteur-bancaire-cr-ation-d-un-texte-marketing-simple",
+  "title": "Secteur Bancaire - Création d’un texte marketing simple",
+  "prompt": "Rédige un texte marketing clair, professionnel et éthique pour promouvoir ${nom_du_produit_financier}.\n\nContraintes :\n– 100 à 130 mots maximum\n– Style : crédible, institutionnel et orienté bénéfices client\n– Éviter les superlatifs excessifs ou les termes à promesse non vérifiable\n\nMets en avant :\n– ${atout_principal}\n– ${public_cible}\n– ${valeur_ajoute_de_loffre}\n\nTermine par une phrase d’appel à l’action appropriée (ex. invitation à contacter un conseiller).",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "atout_principal",
+      "default": null
+    },
+    {
+      "name": "nom_du_produit_financier",
+      "default": null
+    },
+    {
+      "name": "public_cible",
+      "default": null
+    },
+    {
+      "name": "valeur_ajoute_de_loffre",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_b9255fb7381f.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_e9001d204e81",
+  "slug": "implement-role-based-access-control",
+  "title": "Implement Role-Based Access Control",
+  "prompt": "Implement a complete Role-Based Access Control (RBAC) system:\n\nApplication: [DESCRIBE]\nLanguage/Framework: [SPECIFY]\nDatabase: [SPECIFY]\n\n## RBAC Design\n\n### Permission Model\nDefine the structure:\n- Resources: [ENTITY1, ENTITY2, ENTITY3]\n- Actions: create, read, update, delete, [custom actions]\n- Roles: [Admin, Manager, User, Viewer, Guest, etc.]\n\n### Permission Matrix\n| Role | Resource:Action | Granted |\n|---|---|---|\n| Admin | *:* | ✅ All |\n| Manager | Projects:CRUD | ✅ |\n| [etc.] | | |\n\n## Implementation\n\n### Database Schema\n- roles table (id, name, description)\n- permissions table (id, resource, action)\n- role_permissions table (role_id, permission_id)\n- user_roles table (user_id, role_id, granted_by, granted_at, expires_at)\n\n### Permission Check Middleware\n\\",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e9001d204e81.json"
+}

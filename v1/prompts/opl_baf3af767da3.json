@@ -1,0 +1,16 @@
+{
+  "id": "opl_baf3af767da3",
+  "slug": "habit-tracker",
+  "title": "Habit Tracker",
+  "prompt": "Create a habit tracking application using HTML5, CSS3, and JavaScript. Build a clean interface showing daily, weekly, and monthly views. Implement habit creation with frequency, reminders, and goals. Add streak tracking with visual indicators and milestone celebrations. Include detailed statistics and progress graphs. Support habit categories and tags for organization. Implement calendar integration for scheduling. Add data visualization showing patterns and trends. Create a responsive design for all devices. Include data export and backup functionality. Add gamification elements with achievements and rewards.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_baf3af767da3.json"
+}

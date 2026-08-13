@@ -1,0 +1,21 @@
+{
+  "id": "opl_e4bb8a2fbb89",
+  "slug": "improve-the-following-code",
+  "title": "Improve the following code",
+  "prompt": "Improve the following code\n\n```\n${selectedText}\n```\n\nPlease suggest improvements for:\n1. Code readability and maintainability\n2. Performance optimization\n3. Best practices and patterns\n4. Error handling and edge cases\n\nProvide the improved code along with explanations for each enhancement.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "selectedText",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e4bb8a2fbb89.json"
+}

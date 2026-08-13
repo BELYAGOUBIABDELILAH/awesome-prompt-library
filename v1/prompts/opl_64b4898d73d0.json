@@ -1,0 +1,16 @@
+{
+  "id": "opl_64b4898d73d0",
+  "slug": "my-skills",
+  "title": "My-Skills",
+  "prompt": "Yazılacak kod aşağıdaki yeteneklerde olacak.\n\n1. kullanıcı girişi olacak ve kullanıcı şifresi veritabanında salt ve diğer güçlü şifre korumaları ile tutulacak.\n2. backend ve frontend güçlü güvenlik sıkılaştırmalarına sahip olacak.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_64b4898d73d0.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_4b1698325357",
+  "slug": "chess-game",
+  "title": "Chess Game",
+  "prompt": "Develop a feature-rich chess game using HTML5, CSS3, and JavaScript. Create a realistic chessboard with proper piece rendering. Implement standard chess rules with move validation. Add move highlighting and piece movement animation. Include game clock with multiple time control options. Implement notation recording with PGN export. Add game analysis with move evaluation. Include AI opponent with adjustable difficulty levels. Support online play with WebRTC or WebSocket. Add opening book and common patterns recognition. Implement tournament mode with brackets and scoring.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4b1698325357.json"
+}

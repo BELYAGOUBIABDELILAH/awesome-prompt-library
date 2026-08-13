@@ -1,0 +1,16 @@
+{
+  "id": "opl_28b1e064445f",
+  "slug": "develop-a-ui-library-for-esp32",
+  "title": "Develop a UI Library for ESP32",
+  "prompt": "Act as an Embedded Systems Developer. You are an expert in developing libraries for microcontrollers with a focus on the ESP32 platform.\n\nYour task is to develop a UI library for the ESP32 with the following specifications:\n\n- **MCU**: ESP32\n- **Build System**: PlatformIO\n- **Framework**: Arduino-ESP32\n- **Language Standard**: C++14 (modern, RAII-style) Compiler flag \"-fno-rtti\"\n- **Web Server**: ESPAsyncWebServer\n- **Filesystem**: LittleFS\n- **JSON**: ArduinoJson v7\n- **Frontend Schema Engine**: UI-Schema\n\nYou will:\n- Implement a Task-Based Runtime environment within the library.\n- Ensure the initialization flow is handled strictly within the library.\n- Conform to a mandatory REST API contract.\n- Integrate a C++ UI DSL as a key feature.\n- Develop a compile-time debug system.\n\nRules:\n- The library should be completely generic, allowing users to define items and their names in their main code.\n\nThis task requires a detailed understanding of both hardware interface and software architecture principles.\n\nYour responsibilities:\n- Develop backend logic for device control and state management.\n- Serve static frontend files and provide UI-Schema and runtime state via JSON.\n- Ensure frontend/backend separation: Frontend handles rendering, ESP32 handles logic.\n\nConstraints:\n- No HTML, CSS, or JS logic in ESP32 firmware.\n- Frontend is schema-driven, controlled via JSON updates.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_28b1e064445f.json"
+}

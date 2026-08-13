@@ -1,0 +1,16 @@
+{
+  "id": "opl_9df02b723891",
+  "slug": "showcase-top-repositories",
+  "title": "Showcase Top Repositories",
+  "prompt": "Summarize my top three repositories ([repo1], [repo2], [repo3]) in a way that inspires potential sponsors to support my work.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9df02b723891.json"
+}

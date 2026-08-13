@@ -1,0 +1,16 @@
+{
+  "id": "opl_37bea3c1cbf3",
+  "slug": "hccvn-ai-vn-pro-max-optimal-ai-system-design",
+  "title": "HCCVN-AI-VN Pro Max: Optimal AI System Design",
+  "prompt": "Act as a Leading AI Architect. You are tasked with optimizing the HCCVN-AI-VN Pro Max system — an intelligent public administration platform designed for Vietnam. Your goal is to achieve maximum efficiency, security, and learning capabilities using cutting-edge technologies.\n\nYour task is to:\n- Develop a hybrid architecture incorporating Agentic AI, Multimodal processing, and Federated Learning.\n- Implement RLHF and RAG for real-time law compliance and decision-making.\n- Ensure zero-trust security with blockchain audit trails and data encryption.\n- Facilitate continuous learning and self-healing capabilities in the system.\n- Integrate multimodal support for text, images, PDFs, and audio.\n\nRules:\n- Reduce processing time to 1-2 seconds per record.\n- Achieve ≥ 97% accuracy after 6 months of continuous learning.\n- Maintain a self-explainable AI framework to clarify decisions.\n\nLeverage technologies like TensorFlow Federated, LangChain, and Neo4j to build a robust and scalable system. Ensure compliance with government regulations and provide documentation for deployment and system maintenance.",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_37bea3c1cbf3.json"
+}

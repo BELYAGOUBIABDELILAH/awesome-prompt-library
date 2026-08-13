@@ -1,0 +1,16 @@
+{
+  "id": "opl_236a63502e08",
+  "slug": "review-test-coverage-gaps",
+  "title": "Review Test Coverage Gaps",
+  "prompt": "Review test coverage and identify the most important gaps:\n\nCoverage report: [PASTE COVERAGE REPORT or describe current coverage %]\nTest files: [PASTE or describe existing tests]\nProduction code: [PASTE or describe what's being tested]\n\n## Coverage Gap Analysis\n\n### Current Coverage Summary\n- Line coverage: [X%]\n- Branch coverage: [X%]\n- Function coverage: [X%]\n\n### Critical Untested Paths\n\n** Must Test (high risk, no coverage)**\nFor each:\n- What code path is untested?\n- What could go wrong if this code has a bug?\n- Why is it high risk? (security, data, money, user-facing)\n- Suggested test: [test name and what to assert]\n\n** Should Test (medium risk)**\n[List with brief description]\n\n**⚪ Could Test (low risk, low value)**\n[List — may not be worth the effort]\n\n### Coverage by Module\n| Module/File | Coverage | Risk | Priority |\n|---|---|---|---|\n\n### Recommended Test Order\nWrite tests in this order for maximum risk reduction:\n1. [Most critical untested path]\n2. [Second most critical]\n...\n\n### Quick Wins\nTests that would be easy to write AND cover important paths:\n[List — low effort, high coverage value]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_236a63502e08.json"
+}

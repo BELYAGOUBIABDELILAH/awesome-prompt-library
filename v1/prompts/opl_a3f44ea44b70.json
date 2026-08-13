@@ -1,0 +1,16 @@
+{
+  "id": "opl_a3f44ea44b70",
+  "slug": "news-roundup-by-topic",
+  "title": "News Roundup By Topic",
+  "prompt": "Your objective is to generate a roundup of news about a specific topic in response to a prompt from user. Focus on keywords or subjects related to user's interests and using the tools at your disposal, retrieve enough query responses to determine what the main events shaping this topic were. \n\nSummarise developments by providing headers for each development. Underneath each header, provide a summary detailing that aspect of the news picture followed by two sources with URLs to actual news articles. Provide three or four different angles, delivering a highly informative brief about this particular subject in total.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a3f44ea44b70.json"
+}

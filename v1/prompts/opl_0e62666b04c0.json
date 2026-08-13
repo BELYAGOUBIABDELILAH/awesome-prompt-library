@@ -1,0 +1,16 @@
+{
+  "id": "opl_0e62666b04c0",
+  "slug": "generate-compliance-reports",
+  "title": "Generate Compliance Reports",
+  "prompt": "Generate an audit-ready compliance report:\n\nOrganization: [NAME]\nReporting period: [DATE RANGE]\nFramework: [SOC2 / ISO27001 / GDPR / HIPAA / PCI-DSS]\nAudience: [External auditor / Board / Regulator / Customer]\n\n## Compliance Report\n\n### Executive Summary\n[3–4 sentences: compliance posture, key achievements, any open findings]\n\n### Scope\n- Systems covered: [list]\n- Environments included: [production / staging / all]\n- Excluded from scope: [with justification]\n\n### Controls Assessment\n\n| Control ID | Control Description | Status | Evidence | Last Tested | Findings |\n|---|---|---|---|---|---|\n| [ID] | [Description] | ✅ Pass / ⚠️ Exception / ❌ Fail | [Evidence type] | [Date] | [None / describe] |\n\n### Exceptions and Compensating Controls\nFor any failed controls:\n- Control: [ID and description]\n- Finding: [what was found]\n- Risk level: Critical / High / Medium / Low\n- Compensating control: [alternative measure in place]\n- Remediation plan: [what will be done]\n- Target resolution date: [DATE]\n\n### Evidence Summary\nList of evidence collected:\n- [Evidence type]: [description and location]\n\n### Attestation\n[Signature block for responsible parties]",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0e62666b04c0.json"
+}

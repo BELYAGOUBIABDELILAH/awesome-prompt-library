@@ -1,0 +1,16 @@
+{
+  "id": "opl_7bcef7c46dc5",
+  "slug": "cinematic-vertical-portrait-of-vintage-car-radio-at-night",
+  "title": "Cinematic Vertical Portrait of Vintage Car Radio at Night",
+  "prompt": "Create a high-resolution *VERTICAL (portrait)* photograph of a vintage car radio screen at night. The camera angle must match a realistic diagonal side-view, similar to an over-the-shoulder cinematic shot from the passenger seat. Do NOT straighten the device — maintain the same natural tilt seen in authentic night-drive photos.\n\nTEXT ON THE LED DISPLAY (amber pixel font):\nWeather4Fly\n\nSTYLE & LIGHTING:\n– Warm orange LED glow, soft bloom around each segmented character.  \n– Dark car interior with minimal ambient light.  \n– Deep shadows, shallow depth of field, soft bokeh highlights.  \n– Subtle scratches on the plastic display cover and gentle dust particles.  \n– High contrast, moody, cinematic night-drive aesthetic.\n\nCOMPOSITION:\n– Frame must be *tall*, extending above and below the radio to create a portrait orientation.  \n– The radio stays in the middle-to-upper section, angled exactly as in a real car dashboard.  \n– Include side knobs, buttons, and part of the dashboard fading into shadow.  \n– Keep the asymmetrical composition and natural perspective distortion.\n\nDETAIL REQUIREMENTS:\n– LED characters must look segmented and authentic.  \n– Slight reflections on the display surface.  \n– Warm tones only — no neon or artificial color shifts.\n\nNEGATIVE PROMPT:\nhorizontal layout, straight-on view, blue or white LED, modern touchscreen radio, missing text, wrong names, overly sharp digital look, unrealistic symmetry, cartoon rendering.\n\nOUTPUT:\nA cinematic vertical portrait photograph of an angled vintage radio display showing the specified names.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7bcef7c46dc5.json"
+}

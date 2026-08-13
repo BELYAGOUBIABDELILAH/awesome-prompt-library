@@ -1,0 +1,21 @@
+{
+  "id": "opl_12b393c2e24d",
+  "slug": "neon-silence",
+  "title": "Neon Silence",
+  "prompt": "{\n  \"task\": \"style_transfer_portrait_poster\",\n  \"input\": {\n    \"reference_image\": \"${reference_image_url_or_path}\",\n    \"use_reference_as\": \"content_and_pose\",\n    \"preserve\": [\n      \"yüz ifadesi ve bakış yönü\",\n      \"saç/siluet ve kıyafet formu\",\n      \"kadraj (üst gövde portre)\",\n      \"ışık yönü ve gölge dağılımı\"\n    ]\n  },\n  \"prompt\": {\n    \"language\": \"tr\",\n    \"style_goal\": \"Referans görseldeki kişiyi/konuyu, aynı kompozisyonu koruyarak yüksek kontrastlı neon-ink poster illüstrasyonu stiline dönüştür.\",\n    \"main\": \"Dikey (9:16) sinematik portre illüstrasyonu: referans görseldeki ana konu (kişi/figür) aynı poz ve kadrajda kalsın. Stil: koyu lacivert/siyah mürekkep dokuları ve kalın konturlar; yüz ve kıyafet üzerinde oyma/gravür benzeri ince çizgisel gölgelendirme (etched shading), cel-shading ile birleşen poster estetiği. Arka plan: düz, çok doygun sıcak neon pembe/kırmızı zemin; etrafında sıvı mürekkep/duman girdapları, akışkan alevimsi kıvrımlar ve parçacık sıçramaları. Vurgu rengi olarak neon pembe/kırmızı lekeler: yüzde çizik/iz gibi küçük vurgular, giyside ve duman dokusunda serpiştirilmiş parlak damlacıklar. Yüksek kontrast, sert kenarlar, dramatik karanlık tonlar, minimal ama güçlü renk paleti (koyu soğuk tonlar + neon sıcak arka plan). Hafif baskı grain’i ve poster dokusu; ultra net, yüksek çözünürlüklü kapak/poster görünümü.\",\n    \"content_rules\": [\n      \"Marka, model, logo, rozet, imza, watermark veya okunabilir metin EKLEME.\",\n      \"Referans görselde yazı/logolar varsa okunabilirliğini kaldır: bulanıklaştır, soyut şekle çevir veya sil.\",\n      \"Yeni kişi/obje ekleme; sadece referanstaki içeriği stilize et.\",\n      \"Yüz anatomi oranlarını bozma; doğal ama stilize kalsın.\"\n    ]\n  },\n  \"negative_prompt\": [\n    \"photorealistic\",\n    \"lowres\",\n    \"blurry\",\n    \"muddy shading\",\n    \"extra people\",\n    \"extra limbs\",\n    \"deformed face\",\n    \"uncanny\",\n    \"new text\",\n    \"brand names\",\n    \"logos\",\n    \"watermark\",\n    \"signature\",\n    \"busy background details\",\n    \"washed out neon\",\n    \"color banding\",\n    \"jpeg artifacts\"\n  ],\n  \"generation\": {\n    \"mode\": \"image_to_image\",\n    \"strength\": 0.6,\n    \"style_transfer_weight\": 0.85,\n    \"composition_lock\": 0.8,\n    \"detail_level\": \"high\",\n    \"resolution\": {\n      \"width\": 1080,\n      \"height\": 1920\n    },\n    \"guidance\": {\n      \"cfg_scale\": 7.0\n    },\n    \"sampler\": \"auto\",\n    \"seed\": \"auto\"\n  },\n  \"postprocess\": {\n    \"sharpen\": \"medium_low\",\n    \"grain\": \"subtle\",\n    \"contrast\": \"high\",\n    \"saturation\": \"high\"\n  }\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "reference_image_url_or_path",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_12b393c2e24d.json"
+}

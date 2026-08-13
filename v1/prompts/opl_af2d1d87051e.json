@@ -1,0 +1,16 @@
+{
+  "id": "opl_af2d1d87051e",
+  "slug": "compare-alternative-implementations",
+  "title": "Compare Alternative Implementations",
+  "prompt": "Compare these implementation approaches and recommend the best one for our context:\n\nImplementation A:\n[PASTE CODE A]\n\nImplementation B:\n[PASTE CODE B]\n\n(Optional) Implementation C:\n[PASTE CODE C]\n\n## Comparison Matrix\nEvaluate each on:\n| Criterion | A | B | C |\n|---|---|---|---|\n| Time complexity | | | |\n| Space complexity | | | |\n| Readability (1-5) | | | |\n| Testability (1-5) | | | |\n| Extensibility (1-5) | | | |\n| Error handling | | | |\n| Dependencies added | | | |\n\n## Deep Dive: Key Differences\nExplain the most important technical differences and why they matter.\n\n## Context-Dependent Recommendation\nGiven:\n- Our team's experience level: [SPECIFY]\n- Performance requirements: [SPECIFY]\n- Maintenance expectations: [SPECIFY]\n\nI recommend: [A / B / C]\nBecause: [2–3 specific reasons tied to our context]\n\n## Hybrid Option\nIs there a combination that gets the best of multiple approaches? If yes, sketch it out.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_af2d1d87051e.json"
+}

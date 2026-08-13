@@ -1,0 +1,21 @@
+{
+  "id": "opl_818b7e977e80",
+  "slug": "auditor-de-c-digo-python-nivel-senior-salida-en-espa-ol",
+  "title": "Auditor de Código Python: Nivel Senior (Salida en Español)",
+  "prompt": "Act as a Senior Software Architect and Python expert. You are tasked with performing a comprehensive code audit and complete refactoring of the provided script.\n\nYour instructions are as follows:\n\n### Critical Mindset\n- Be extremely critical of the code. Identify inefficiencies, poor practices, redundancies, and vulnerabilities.\n\n### Adherence to Standards\n- Rigorously apply PEP 8 standards. Ensure variable and function names are professional and semantic.\n\n### Modernization\n- Update any outdated syntax to leverage the latest Python features (3.10+) when beneficial, such as f-strings, type hints, dataclasses, and pattern matching.\n\n### Beyond the Basics\n- Research and apply more efficient libraries or better algorithms where applicable.\n\n### Robustness\n- Implement error handling (try/except) and ensure static typing (Type Hinting) in all functions.\n\n### IMPORTANT: Output Language\n- Although this prompt is in English, **you MUST provide the summary, explanations, and comments in SPANISH.**\n\n### Output Format\n1. **Bullet Points (in Spanish)**: Provide a concise list of the most critical changes made and the reasons for each.\n2. **Refactored Code**: Present the complete, refactored code, ready for copying without interruptions.\n\nHere is the code for review:\n\n${codigo}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "codigo",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_818b7e977e80.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_49934a1682a9",
+  "slug": "detailed-image-generation-prompt-for-fashion-and-portrait-ph",
+  "title": "Detailed Image Generation Prompt for Fashion and Portrait Photography",
+  "prompt": "{\n  \"image_generation_prompt\": {\n    \"subject\": {\n      \"demographics\": \"Young woman\",\n      \"hair\": {\n        \"color\": \"Strawberry blonde / Golden blonde\",\n        \"style\": \"Long, voluminous, layered, slightly messy waves\",\n        \"parting\": \"Middle part\"\n      },\n      \"face\": {\n        \"makeup\": \"Winged black eyeliner, mascara, defined eyebrows, highlighter on nose and cheeks, glossy pink lips\",\n        \"expression\": \"Neutral to slight pout, focused on mirror reflection\"\n      },\n      \"physique\": \"Slender, fit, tan skin tone\"\n    },\n    \"apparel\": {\n      \"outerwear\": {\n        \"item\": \"Faux fur jacket\",\n        \"color\": \"Crimson/red mixed tones\",\n        \"texture\": \"Shaggy, plush, voluminous\"\n      },\n      \"top\": {\n        \"item\": \"Corset top\",\n        \"style\": \"Strapless, bustier-style, cropped\",\n        \"material\": \"Crimson satin or slightly shiny fabric\",\n        \"fit\": \"Tight, structured bodice\"\n      },\n      \"bottoms\": {\n        \"item\": \"Jeans\",\n        \"color\": \"Light blue wash\",\n        \"fit\": \"Low-rise, tight fit\",\n        \"details\": \"Visible stitching, front pockets\"\n      }\n    },\n    \"accessories\": {\n      \"jewelry\": [\n        \"Thin gold chain necklace with small pendant\",\n        \"Gold ring on right ring finger\"\n      ],\n      \"belt\": {\n        \"material\": \"Black leather\",\n        \"buckle\": \"Rectangular gold/metallic frame\"\n      },\n      \"tech\": {\n        \"item\": \"Smartphone (iPhone style)\",\n        \"case_color\": \"Black\",\n        \"holding_style\": \"Held vertically in front of face with right hand\"\n      },\n      \"beauty_details\": {\n        \"nails\": \"Short, painted bright red\"\n      }\n    },\n    \"pose_and_framing\": {\n      \"type\": \"Mirror selfie\",\n      \"posture\": \"Standing, slight hip tilt (contrapposto), midriff exposed\",\n      \"framing\": \"Thigh-up shot, portrait orientation\"\n    },\n    \"setting_and_lighting\": {\n      \"location\": \"Indoors (likely a bedroom or hallway)\",\n      \"background_elements\": {\n        \"left\": \"Dark window with blinds, glimpse of bed/furniture with white clutter\",\n        \"right\": \"White door frame/jamb, plain wall\"\n      },\n      \"lighting\": {\n        \"quality\": \"Warm, directional artificial light\",\n        \"source\": \"Coming from the right side\",\n        \"shadows\": \"Casts shadows on the left side of the torso and background\"\n      }\n    }\n  }\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_49934a1682a9.json"
+}

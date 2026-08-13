@@ -1,0 +1,16 @@
+{
+  "id": "opl_a605ee0951cf",
+  "slug": "search-gitlab-documentation",
+  "title": "Search GitLab Documentation",
+  "prompt": "Find relevant GitLab documentation for my specific use case:\n\nWhat I'm trying to do: [DESCRIBE]\nMy GitLab version: [GitLab.com / self-managed vXX]\nMy role: [developer / maintainer / admin / DevOps engineer]\n\n## Documentation Search Results\n\n### Most Relevant Doc Sections\n1. **[Doc title]**\n   URL: docs.gitlab.com/ee/[path]\n   Relevant because: [why this matches your need]\n   Key section to read: [specific section name]\n\n2. **[Doc title]**\n   [same format]\n\n### Tutorial / How-to Guides\nFor your use case, follow this guide:\n[Step-by-step directions based on the documentation]\n\n### Related Features You Should Know About\nWhile solving [YOUR NEED], you might also want to know about:\n- [Related feature]: [why it's relevant]\n\n### GitLab UI Navigation\nTo find this in the GitLab interface:\nProject/Group → [Menu] → [Submenu] → [Setting/Feature]\n\n### Common Questions\nQ: [likely follow-up question]\nA: [answer]\n\n### If You're on Self-Managed\nAdditional steps or differences from GitLab.com: [if applicable]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a605ee0951cf.json"
+}

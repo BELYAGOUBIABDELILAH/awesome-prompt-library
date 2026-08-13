@@ -1,0 +1,16 @@
+{
+  "id": "opl_14a31b8371bc",
+  "slug": "debugging-session-assistant",
+  "title": "Debugging Session Assistant",
+  "prompt": "Let's debug this complex issue systematically. I'll track our hypotheses and test results.\n\n## Problem Statement\nBug: [DESCRIBE EXACTLY WHAT IS HAPPENING]\nExpected: [WHAT SHOULD HAPPEN]\nFrequency: [always / intermittent / under specific conditions]\nFirst observed: [when]\nAffected: [users / environments / data]\n\n## Debugging Log (I'll maintain this)\n\n### Hypothesis 1\nTheory: [what might be causing this]\nEvidence for: [what supports this theory]\nEvidence against: [what contradicts it]\nTest: [specific thing to try]\nResult: [FILL IN AFTER TESTING]\nStatus: ✅ Confirmed / ❌ Ruled out /  Partial\n\n### Hypothesis 2\n[same format]\n\n## After Each Test\nTell me the result and I'll:\n1. Update the hypothesis log\n2. Generate the next most likely hypothesis\n3. Suggest the next specific test\n\n## Current Best Theory\n[updated after each round of testing]\n\n## Minimum Reproduction Case\nLet's work together to write the smallest possible code that reproduces the bug reliably.\n\nStart: Tell me what you've already tried and what you observed.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_14a31b8371bc.json"
+}

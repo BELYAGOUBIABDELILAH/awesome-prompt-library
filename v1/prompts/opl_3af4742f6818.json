@@ -1,0 +1,16 @@
+{
+  "id": "opl_3af4742f6818",
+  "slug": "ethereal-dreamlike-portrait-photography",
+  "title": "Ethereal Dreamlike Portrait Photography",
+  "prompt": "{\n  \"prompt\": \"An ethereal close-up portrait of a young woman with short, wavy blonde hair. Her eyes are gently closed as her face is illuminated by the warm, golden glow of sunset. A creative double exposure technique creates a soft, translucent echo of her profile. The background is a deep, moody teal, creating a striking contrast. The mood is serene, introspective, and dreamlike. Cinematic photography with a soft focus and subtle film grain.\",\n  \"style\": {\n    \"medium\": \"photography\",\n    \"art_style\": \"cinematic\",\n    \"influences\": [\n      \"fine art photography\",\n      \"surrealism\"\n    ]\n  },\n  \"composition\": {\n    \"camera_angle\": \"close-up\",\n    \"framing\": \"chest up, slightly off-center\",\n    \"focus\": \"woman's face and hair\",\n    \"depth_of_field\": \"shallow\",\n    \"special_technique\": \"double exposure\"\n  },\n  \"lighting\": {\n    \"type\": \"natural\",\n    \"time\": \"golden hour\",\n    \"intensity\": \"strong\",\n    \"direction\": \"side\",\n    \"color_temperature\": \"warm\"\n  },\n  \"colors\": {\n    \"contrast\": \"high\",\n    \"palette\": [\n      \"golden yellow\",\n      \"orange\",\n      \"teal\",\n      \"dark cyan\"\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"outdoor\",\n    \"time_of_day\": \"evening\",\n    \"background\": \"dark, blurred twilight sky\",\n    \"weather\": \"clear\"\n  },\n  \"subject\": {\n    \"count\": 1,\n    \"gender\": \"female\",\n    \"age\": \"young adult\",\n    \"appearance\": {\n      \"hair\": \"short, wavy blonde\",\n      \"expression\": \"eyes closed, calm\"\n    },\n    \"clothing\": \"light-colored pleated blouse\",\n    \"accessories\": [\"necklace\"]\n  },\n  \"mood\": {\n    \"atmosphere\": \"dreamy\",\n    \"emotional_tone\": \"calm and introspective\"\n  },\n  \"narrative\": {\n    \"theme\": \"inner peace and self-reflection\",\n    \"implied_state\": \"quiet contemplation or meditation\",\n    \"symbolism\": \"double exposure suggests a spiritual or dream-like separation of mind and body\"\n  },\n  \"rendering_details\": {\n    \"focus_quality\": \"soft\",\n    \"grain\": \"subtle film grain\"\n  }\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3af4742f6818.json"
+}

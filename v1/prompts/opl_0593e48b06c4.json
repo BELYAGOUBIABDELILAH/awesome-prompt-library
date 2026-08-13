@@ -1,0 +1,16 @@
+{
+  "id": "opl_0593e48b06c4",
+  "slug": "debugging-oncall-tickets",
+  "title": "Debugging Oncall Tickets",
+  "prompt": "Help solve complex deployment issues.\nGiven the oncall ticket:\n1. Summarize the issue in one sentence\n2. Identify the most likely failure point (service, dependency, config, data)\n3. List diagnostic steps in order of speed/ease\n4. Pull relevant runbooks, playbooks, or past incidents\n5. Suggest the fastest path to mitigation vs. full fix\n6. Draft the incident update for stakeholders (status + ETA + next step)\nBias toward speed. Mitigate first, root-cause later.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0593e48b06c4.json"
+}

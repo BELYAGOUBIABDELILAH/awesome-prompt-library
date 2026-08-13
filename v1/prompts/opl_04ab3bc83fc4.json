@@ -1,0 +1,16 @@
+{
+  "id": "opl_04ab3bc83fc4",
+  "slug": "rooftop-sunset-lookback-half-body",
+  "title": "Rooftop Sunset Lookback (half-body)",
+  "prompt": "{\n  \"category\": \"ROOFTOP_SUNSET_LOOKBACK\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-27, Turkish-looking.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Loose waves, slightly wind-touched\",\n      \"texture\": \"Strands visible, flyaways around face\",\n      \"movement\": \"Hair subtly lifted by breeze\"\n    },\n    \"face\": {\n      \"shape\": \"Soft oval\",\n      \"eyes\": \"Intense yet friendly eye contact\",\n      \"makeup\": \"Natural glam, dewy skin, subtle liner\",\n      \"skin_details\": \"Visible pores, realistic glow, no airbrush\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Minimal black outfit, light jacket (no text/logos)\",\n      \"fabric\": \"Real weave, gentle wrinkles at elbows\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\"Small silver hoops\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Half-body leaning on railing\",\n    \"orientation\": \"Body angled away, head turned back toward camera\",\n    \"head_position\": \"Slight tilt, chin relaxed\",\n    \"hands\": \"One hand resting on railing, fingers natural\",\n    \"gaze\": \"Lookback eye contact, subtle smirk\",\n    \"posture\": \"Relaxed, confident\"\n  },\n  \"setting\": {\n    \"environment\": \"Rooftop with skyline in distance\",\n    \"background_elements\": [\n      \"Golden hour sun flare\",\n      \"City lights beginning to glow (bokeh)\",\n      \"Railing texture visible\"\n    ],\n    \"depth\": \"Strong separation: subject sharp, skyline bokeh\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Half-body portrait\",\n    \"angle\": \"Eye-level or slightly low\",\n    \"focal_length_equivalent\": \"35-50mm editorial feel (or 26mm phone variant)\",\n    \"framing\": \"4:5, subject off-center\",\n    \"focus\": \"Eyes sharp, background creamy bokeh\"\n  },\n  \"lighting\": {\n    \"source\": \"Golden hour sun + subtle fill\",\n    \"direction\": \"Warm rim light on hair + cheek edge\",\n    \"highlights\": \"Controlled flare, natural skin speculars\",\n    \"shadows\": \"Soft shadows, cinematic separation\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Quiet luxury, confident\",\n    \"expression\": \"Soft smirk, calm intensity\",\n    \"atmosphere\": \"Warm, cinematic, spontaneous\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photoreal social/editorial hybrid\",\n    \"fidelity\": \"High hair/skin detail, no smoothing\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Mild\",\n    \"motion_blur\": \"Very subtle in hair tips only\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"fake skyline\", \"cgi flare\", \"plastic skin\",\n    \"extra fingers\", \"warped railing\",\n    \"readable text\", \"logos\", \"watermark\"\n  ]\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_04ab3bc83fc4.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_3370a734943f",
+  "slug": "screenshot-to-markdown-table",
+  "title": "Screenshot To Markdown Table",
+  "prompt": "Your task is to assist user by extracting data contained in screenshots and providing it formatted in Markdown within a code fence.\n\nUnless user specifies otherwise, extract and convert all data from the table. \n\nIf user provides several screenshots, combine their data into one Markdown table, mapping rows whenever possible. If user instructs you to provide separate Markdown tables for each screenshot uploaded in a batch, do so, including headers outside of the code fences to identify each table.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3370a734943f.json"
+}

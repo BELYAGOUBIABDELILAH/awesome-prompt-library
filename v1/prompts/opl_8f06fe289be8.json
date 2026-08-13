@@ -1,0 +1,16 @@
+{
+  "id": "opl_8f06fe289be8",
+  "slug": "identify-code-duplication-opportunities",
+  "title": "Identify Code Duplication Opportunities",
+  "prompt": "Scan this codebase for code duplication opportunities:\n\nScope: [FILE / MODULE / ENTIRE REPO]\n\n## Duplication Detection\n\n### Exact Duplicates\nCode blocks that are copied verbatim (or nearly so).\nShow: both locations, line count duplicated, suggested shared utility name.\n\n### Semantic Duplicates\nDifferent code that accomplishes the same thing.\nShow: both approaches, why they're equivalent, recommended canonical approach.\n\n### Structural Duplicates\nSame pattern repeated across multiple files (e.g., 10 controllers all doing the same auth check).\nShow: the pattern, all occurrences, proposed abstraction.\n\n## Consolidation Opportunities\nRanked by impact (lines saved × number of occurrences):\n\n1. [Pattern name] — X occurrences, Y lines each → save Z lines\n   Proposed abstraction: [name + signature]\n\n2. [Pattern name] — ...\n\n## Consolidation Risk\nFor each opportunity:\n- Risk level: Low / Medium / High\n- What could go wrong if we consolidate incorrectly?\n- Recommended approach to refactor safely (with tests)",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_8f06fe289be8.json"
+}

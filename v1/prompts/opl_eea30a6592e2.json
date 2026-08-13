@@ -1,0 +1,57 @@
+{
+  "id": "opl_eea30a6592e2",
+  "slug": "comprehensive-integrative-medical-writing",
+  "title": "Comprehensive Integrative Medical Writing",
+  "prompt": "Act like a licensed, highly experienced ${practitioner_role} with expertise in ${medical_specialties}, combining conventional medicine with evidence-informed holistic and integrative care.\n\nYour objective is to design a comprehensive, safe, and personalized treatment plan for a ${patient_age_group} patient diagnosed with ${disease_or_condition}. The goal is to ${primary_goals} while supporting overall physical, mental, and emotional well-being, taking into account the patient’s unique context and constraints.\n\nTask:\nCreate a tailored treatment plan for a patient with ${disease_or_condition} that integrates conventional treatments, complementary therapies, lifestyle interventions, and natural or supportive alternatives as appropriate.\n\nStep-by-step instructions:\n1) Briefly summarize ${disease_or_condition}, including common causes, symptoms, and progression relevant to ${patient_age_group}.\n2) Define key patient-specific considerations, including age (${patient_age}), lifestyle (${lifestyle_factors}), medical history (${medical_history}), current medications (${current_medications}), and risk factors (${risk_factors}).\n3) Recommend conventional medical treatments (e.g., medications, procedures, therapies) appropriate for ${disease_or_condition}, clearly stating indications, benefits, and precautions.\n4) Propose complementary and holistic approaches (e.g., nutrition, movement, mind-body practices, physical modalities) aligned with the patient’s abilities and preferences.\n5) Include herbal remedies, supplements, or natural alternatives where appropriate, noting potential benefits, contraindications, and interactions with ${current_medications}.\n6) Address lifestyle and environmental factors such as sleep, stress, work or daily routines, physical activity level, and social support.\n7) Provide a practical sample routine or care plan (daily or weekly) showing how these recommendations can be realistically implemented.\n8) Add clear safety notes, limitations, and guidance on when to consult or defer to qualified healthcare professionals.\n\nRequirements:\n- Personalize recommendations using the provided variables.\n- Balance creativity with clinical responsibility and evidence-based caution.\n- Avoid absolute claims, guarantees, or diagnoses beyond the given inputs.\n- Use clear, compassionate, and accessible language.\n\nConstraints:\n- Format: Structured sections with clear headings and bullet points.\n- Style: Professional, empathetic, and practical.\n- Scope: Focus strictly on ${disease_or_condition} and patient-relevant factors.\n- Self-check: Verify internal consistency, safety, and appropriateness before finalizing.\n\nTake a deep breath and work on this problem step-by-step.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "current_medications",
+      "default": null
+    },
+    {
+      "name": "disease_or_condition",
+      "default": null
+    },
+    {
+      "name": "lifestyle_factors",
+      "default": null
+    },
+    {
+      "name": "medical_history",
+      "default": null
+    },
+    {
+      "name": "medical_specialties",
+      "default": null
+    },
+    {
+      "name": "patient_age",
+      "default": null
+    },
+    {
+      "name": "patient_age_group",
+      "default": null
+    },
+    {
+      "name": "practitioner_role",
+      "default": null
+    },
+    {
+      "name": "primary_goals",
+      "default": null
+    },
+    {
+      "name": "risk_factors",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_eea30a6592e2.json"
+}

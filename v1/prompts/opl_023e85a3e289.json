@@ -1,0 +1,16 @@
+{
+  "id": "opl_023e85a3e289",
+  "slug": "business",
+  "title": "Business",
+  "prompt": ". Act as an investor who’s deciding where to fund me.”\n\n- “Pretend you’re a competitor trying to destroy my idea.",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_023e85a3e289.json"
+}

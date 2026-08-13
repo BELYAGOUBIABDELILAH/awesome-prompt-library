@@ -1,0 +1,16 @@
+{
+  "id": "opl_0afedbbc65b1",
+  "slug": "realistic-amateur-vibe-candid-photography-prompt",
+  "title": "Realistic Amateur Vibe Candid Photography Prompt",
+  "prompt": "{\n  \"prompt\": \"instagirl, candid phone snapshot, realistic amateur vibe, natural skin texture, light makeup at most, handheld micro-blur, iPhone 11 wide 26mm EXIF look, f/1.8, 1/60s, ISO 200, slight lens distortion, casual posture, everyday outfit, mild flyaway hair, imperfect framing, background clutter present, no retouching, realistic shadows, faithful anatomy, same person identity, same body proportions\",\n  \"negative_prompt\": \"beauty filter, skin smoothing, studio glam, hdr glow, cinematic grading, fashion editorial, airbrush, liquify, body morph, face changed, de-aged, uncanny valley, extra fingers, warped limbs, NSFW, lingerie, bikini, watermark, text, logo, border\",\n  \"image\": \"<REFERENCE_IMAGE_URL>\",\n  \"strength\": 0.35,\n  \"guidance\": 5.0,\n  \"control_nets\": [\n    {\n      \"type\": \"openpose\",\n      \"image\": \"<REFERENCE_IMAGE_URL>\",\n      \"weight\": 0.7,\n      \"guess_mode\": false\n    },\n    {\n      \"type\": \"depth\",\n      \"image\": \"<REFERENCE_IMAGE_URL>\",\n      \"weight\": 0.45\n    }\n  ],\n  \"face_lock\": {\n    \"type\": \"ip_adapter_faceid\",\n    \"ref_image\": \"<REFERENCE_FACE_CROP_OR_SAME_URL>\",\n    \"weight\": 0.75\n  }\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0afedbbc65b1.json"
+}

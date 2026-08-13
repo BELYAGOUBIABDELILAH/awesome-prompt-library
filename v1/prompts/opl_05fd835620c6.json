@@ -1,0 +1,16 @@
+{
+  "id": "opl_05fd835620c6",
+  "slug": "build-full-stack-application",
+  "title": "Build Full-Stack Application",
+  "prompt": "Scaffold a full-stack application with the following requirements:\n\nApplication name: [NAME]\nPurpose: [WHAT IT DOES]\nTech stack:\n  - Frontend: [React / Vue / Next.js / etc.]\n  - Backend: [Node.js / Python / Go / etc.]\n  - Database: [PostgreSQL / MySQL / MongoDB / etc.]\n  - Auth: [JWT / OAuth / Session]\n\n## Project Structure\nGenerate the complete directory structure first, then implement each section.\n\n## Database Schema\nDesign the schema for core entities:\n- Tables/collections with fields and types\n- Relationships and foreign keys\n- Indexes for common queries\n- Migration file\n\n## API Layer\nDesign RESTful (or GraphQL) API:\n- Endpoints with HTTP methods\n- Request/response schemas\n- Authentication middleware\n- Error response format\n- Input validation\n\n## Frontend Components\nCore components to scaffold:\n- Layout/navigation\n- Auth forms (login/signup)\n- Main feature view\n- API integration layer (fetch/axios wrapper)\n\n## Development Setup\n- docker-compose.yml for local development\n- Environment variables needed (.env.example)\n- README with setup steps (< 5 steps to running locally)\n\nProvide complete, working code for each section.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_05fd835620c6.json"
+}

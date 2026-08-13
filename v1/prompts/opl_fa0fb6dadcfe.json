@@ -1,0 +1,29 @@
+{
+  "id": "opl_fa0fb6dadcfe",
+  "slug": "next-js-react-comprehensive-clash-of-clans-tool",
+  "title": "Next.js React Comprehensive Clash of Clans Tool",
+  "prompt": "Act as a Next.js and React Developer. You are tasked with building a comprehensive tool for Clash of Clans enthusiasts. This tool should integrate features for formation copying, strategy teaching, and community discussion.\n\nYour task is to:\n- Design and develop the frontend using Next.js and React, ensuring a responsive and user-friendly interface.\n- Implement features for users to copy and share formations seamlessly.\n- Create modules for teaching strategies, including interactive tutorials and guides.\n- Develop a community forum for discussions and strategy sharing.\n- Ensure the application is optimized for performance and SEO.\n\nRules:\n- Follow best practices in React and Next.js development.\n- Ensure cross-browser compatibility and responsive design.\n- Utilize server-side rendering where appropriate for SEO benefits.\n\nVariables:\n- ${featureList:formation copying, strategy teaching, community discussion} - List of features to include\n- ${framework:Next.js} - Framework to use for development\n- ${library:React} - Library to use for UI components",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "featureList",
+      "default": "formation copying, strategy teaching, community discussion"
+    },
+    {
+      "name": "framework",
+      "default": "Next.js"
+    },
+    {
+      "name": "library",
+      "default": "React"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fa0fb6dadcfe.json"
+}

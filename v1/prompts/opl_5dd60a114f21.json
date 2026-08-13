@@ -1,0 +1,37 @@
+{
+  "id": "opl_5dd60a114f21",
+  "slug": "cyber-security-character-workflow",
+  "title": "Cyber Security Character Workflow",
+  "prompt": "{\n  \"name\": \"Cyber Security Character\",\n  \"steps\": [\n    {\n      \"step_1\": \"Facial Identity Mapping\",\n      \"description\": \"Maintain 100% facial consistency based on the provided reference photos. Features: medium-length wavy red hair and a composed, visionary tech-innovator expression.\"\n    },\n    {\n      \"step_2\": \"Tactical Gear & Branding\",\n      \"description\": \"Outfit the subject in a sleek red tactical jacket with intricate gold circuitry textures. Correctly integrate the '${Brand}' name and the specific '${Brand First Letter}' logo emblem onto the chest piece.\"\n    },\n    {\n      \"step_3\": \"Cybernetic Enhancement\",\n      \"description\": \"Apply subtle, minimalist gold-accented cybernetic interface patterns onto the skin of the face, ensuring they blend naturally with the {Style:Cyberpunk} aesthetic.\"\n    },\n    {\n      \"step_4\": \"Environmental Integration\",\n      \"description\": \"Design a background featuring the ${Country} flag merged with glowing golden digital circuits. Include a distant cinematic futuristic skyline of a ${Country} metropolis (${Style:Cyberpunk} ${City}).\"\n    },\n    {\n      \"step_5\": \"Lighting & Cinematic Render\",\n      \"description\": \"Utilize warm, dramatic side lighting from the right to cast a soft silhouette onto the background. Render in 4K ultra-realistic quality with hyper-detailed textures.\"\n    }\n  ]\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "Brand",
+      "default": null
+    },
+    {
+      "name": "Brand First Letter",
+      "default": null
+    },
+    {
+      "name": "City",
+      "default": null
+    },
+    {
+      "name": "Country",
+      "default": null
+    },
+    {
+      "name": "Style",
+      "default": "Cyberpunk"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5dd60a114f21.json"
+}

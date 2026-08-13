@@ -1,0 +1,16 @@
+{
+  "id": "opl_fbe3e7b7d341",
+  "slug": "debug-failing-pipeline",
+  "title": "Debug Failing Pipeline",
+  "prompt": "Help me diagnose this failing CI/CD pipeline:\n\nPipeline output / error logs:\n[PASTE LOGS]\n\nPipeline config: [PASTE .gitlab-ci.yml snippet or describe]\nBranch: [BRANCH NAME]\nRecent changes: [what changed before this started failing]\n\n## Failure Analysis\n\n### Quick Diagnosis\n- Which job/stage failed?\n- What is the exact error message?\n- Is this a new failure or recurring?\n\n### Root Cause Categories\nCheck each:\n[ ] Environment variable missing or wrong\n[ ] Dependency not installed or wrong version\n[ ] Permission/authentication error\n[ ] Network timeout or unreachable service\n[ ] Code error introduced by recent commit\n[ ] Resource exhaustion (memory, disk, timeout)\n[ ] Race condition or ordering issue\n[ ] Flaky test (passes/fails intermittently)\n\n### Most Likely Cause\nBased on the logs: [explanation]\n\n### Fix\n[Specific fix with config changes or code changes]\n\n### Verification\nAfter applying the fix, verify with: [command or expected output]\n\n### Prevention\nHow to stop this from recurring: [config change, test addition, monitoring]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fbe3e7b7d341.json"
+}

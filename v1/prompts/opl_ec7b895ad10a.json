@@ -1,0 +1,77 @@
+{
+  "id": "opl_ec7b895ad10a",
+  "slug": "personalized-technical-intelligence-briefing-for-edge-ai-in",
+  "title": "Personalized Technical Intelligence Briefing for Edge AI in Defense",
+  "prompt": "{\n  \"opening\": \"${bibleVerse}\",\n  \"criticalIntelligence\": [\n    {\n      \"headline\": \"${headline1}\",\n      \"source\": \"${sourceLink1}\",\n      \"technicalSummary\": \"${technicalSummary1}\",\n      \"relevanceScore\": \"${relevanceScore1}\",\n      \"actionableInsight\": \"${actionableInsight1}\"\n    },\n    {\n      \"headline\": \"${headline2}\",\n      \"source\": \"${sourceLink2}\",\n      \"technicalSummary\": \"${technicalSummary2}\",\n      \"relevanceScore\": \"${relevanceScore2}\",\n      \"actionableInsight\": \"${actionableInsight2}\"\n    },\n    // Add up to 8 total items\n  ],\n  \"technicalDeepDive\": [\n    {\n      \"breakthroughItem\": \"${breakthrough1}\",\n      \"implementationDetails\": \"${implementationDetails1}\"\n    },\n    {\n      \"breakthroughItem\": \"${breakthrough2}\",\n      \"implementationDetails\": \"${implementationDetails2}\"\n    }\n    // Add up to 3 items\n  ],\n  \"priorityIntelligenceTargets\": {\n    \"primary\": [\n      \"False positive reduction methodologies\",\n      \"Edge AI optimization for resource-constrained hardware\",\n      \"Real-time inference benchmarks\"\n    ],\n    \"secondary\": [\n      \"Defense procurement announcements\",\n      \"SBIR/STTR opportunities\",\n      \"Counter-UAS technologies\"\n    ],\n    \"tertiary\": [\n      \"PyTorch/OpenCV updates\",\n      \"Rust embedded frameworks\",\n      \"Military robotics contracts\"\n    ]\n  },\n  \"sourcesToPrioritize\": [\n    \"arXiv (cs.CV, cs.RO, cs.LG)\",\n    \"Breaking Defense\",\n    \"The War Zone\",\n    \"NVIDIA Developer Blog\"\n  ],\n  \"exclusions\": [\n    \"Consumer tech unless directly applicable\",\n    \"Theoretical papers without implementation paths\",\n    \"Rehashed news\",\n    \"General AI hype without substance\"\n  ],\n  \"enhancedFeatures\": {\n    \"benchmarkComparisonTables\": true,\n    \"reproducibleResearchLinks\": true,\n    \"conferenceDeadlines\": true,\n    \"defenseContractAwards\": true,\n    \"weeklyTrendChart\": true\n  }\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "actionableInsight1",
+      "default": null
+    },
+    {
+      "name": "actionableInsight2",
+      "default": null
+    },
+    {
+      "name": "bibleVerse",
+      "default": null
+    },
+    {
+      "name": "breakthrough1",
+      "default": null
+    },
+    {
+      "name": "breakthrough2",
+      "default": null
+    },
+    {
+      "name": "headline1",
+      "default": null
+    },
+    {
+      "name": "headline2",
+      "default": null
+    },
+    {
+      "name": "implementationDetails1",
+      "default": null
+    },
+    {
+      "name": "implementationDetails2",
+      "default": null
+    },
+    {
+      "name": "relevanceScore1",
+      "default": null
+    },
+    {
+      "name": "relevanceScore2",
+      "default": null
+    },
+    {
+      "name": "sourceLink1",
+      "default": null
+    },
+    {
+      "name": "sourceLink2",
+      "default": null
+    },
+    {
+      "name": "technicalSummary1",
+      "default": null
+    },
+    {
+      "name": "technicalSummary2",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ec7b895ad10a.json"
+}

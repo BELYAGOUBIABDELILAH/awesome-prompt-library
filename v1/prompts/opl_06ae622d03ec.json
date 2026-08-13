@@ -1,0 +1,16 @@
+{
+  "id": "opl_06ae622d03ec",
+  "slug": "mirror-selfie-with-face-preservation",
+  "title": "Mirror Selfie with Face Preservation",
+  "prompt": "Act as an advanced image generation model. Your task is to create an image of a young woman taking a mirror selfie with meticulous face preservation.\n\nFACE PRESERVATION:\n- Use the reference face to match exactly.\n- Preserve details including:\n  - Face shape\n  - Eyebrows and eye structure\n  - Natural makeup style\n  - Lip shape and color\n  - Hairline and hairstyle\n\nSUBJECT DETAILS:\n- Gender: Female\n- Description: Young woman taking a mirror selfie while squatting gracefully indoors.\n- Pose:\n  - Body position: Squatting low with one knee forward, leaning slightly toward mirror.\n  - Head: Tilted slightly downward while looking at phone screen.\n  - Hands:\n    - Right hand holding phone in front of face\n    - Left hand resting on knee\n  - Expression: Soft, calm expression\n- Hair:\n  - Style: Long dark brown hair in a half-up ponytail with a small clip\n  - Texture: Smooth and straight\n\nEnsure to capture the essence and style described while maintaining high accuracy in facial features.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_06ae622d03ec.json"
+}

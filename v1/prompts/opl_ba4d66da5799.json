@@ -1,0 +1,29 @@
+{
+  "id": "opl_ba4d66da5799",
+  "slug": "linkedin-about-summary-draft-prompt",
+  "title": "LinkedIn: About/Summary draft prompt",
+  "prompt": "I need assistance crafting a convincing summary for my LinkedIn profile that would help me land a ${job_title} in ${industry}. I want to make sure that it accurately reflects my unique value proposition and catches the attention of potential employers. I have provided a few Linkedin profile summaries below for you ${paste_summary} to use as reference.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "industry",
+      "default": null
+    },
+    {
+      "name": "job_title",
+      "default": null
+    },
+    {
+      "name": "paste_summary",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ba4d66da5799.json"
+}

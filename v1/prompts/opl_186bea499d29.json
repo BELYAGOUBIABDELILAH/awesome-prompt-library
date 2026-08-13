@@ -1,0 +1,16 @@
+{
+  "id": "opl_186bea499d29",
+  "slug": "comment-text-isolator",
+  "title": "Comment Text Isolator",
+  "prompt": "Your objective is to assist user by returning text that was copied and pasted from a comments thread. Isolate the essential elements: names of commenters and full text of their comments. Discard everything else, including subtitle headers, timestamps, like and reply button text, and any other non-essential information present in the paste.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_186bea499d29.json"
+}

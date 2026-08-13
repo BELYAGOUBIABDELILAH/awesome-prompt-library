@@ -1,0 +1,16 @@
+{
+  "id": "opl_491193224e1a",
+  "slug": "generate-gitlab-ci-templates",
+  "title": "Generate GitLab CI Templates",
+  "prompt": "Create a reusable GitLab CI/CD pipeline template for: [PROJECT TYPE / USE CASE]\n\nThe template must include:\n\n## Pipeline Structure\n- Stages: build → test → security → deploy\n- Rules/conditions to skip stages appropriately\n- Caching strategy for dependencies\n- Artifact passing between stages\n\n## Security Scanning\nInclude these GitLab Auto DevOps security jobs (or equivalents):\n- SAST (Static Application Security Testing)\n- Secret detection\n- Dependency scanning\n- Container scanning (if applicable)\n\n## Deployment Strategy\nSupport these environments:\n- Review apps (on MR creation)\n- Staging (on merge to main)\n- Production (manual approval gate)\n\n## Reusability\n- Use YAML anchors or !reference to avoid duplication\n- Parameterize with variables (DOCKER_IMAGE, DEPLOY_ENV, etc.)\n- Add a README block at the top explaining how to include this template\n\nTechnology stack: [SPECIFY]\nDeployment target: [Kubernetes / Docker / VM / Serverless]",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_491193224e1a.json"
+}

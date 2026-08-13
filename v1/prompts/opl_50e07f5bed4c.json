@@ -1,0 +1,16 @@
+{
+  "id": "opl_50e07f5bed4c",
+  "slug": "create-a-drag-and-drop-experience-using-uniapp",
+  "title": "create a drag-and-drop experience using UniApp",
+  "prompt": "I want to create a drag-and-drop experience using UniApp, where cards can be dropped into a washing machine for cleaning. It should include drag-and-drop feedback, background bubble animations, gurgling sound effects, and a washing machine animation.\n1. Play the “gulp-gulp” sound.\n2. The card gradually fades away. 12.\n3. A pop-up message reads, “Clean!”.\n4. Bottom update: “Cleaned X items today” statistics.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_50e07f5bed4c.json"
+}

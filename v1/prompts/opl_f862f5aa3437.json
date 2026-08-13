@@ -1,0 +1,16 @@
+{
+  "id": "opl_f862f5aa3437",
+  "slug": "trace-function-usage-across-codebase",
+  "title": "Trace Function Usage Across Codebase",
+  "prompt": "Trace all usage of the following function/method across the entire codebase:\n\nTarget: [FUNCTION/METHOD NAME]\nDefined in: [FILE:LINE]\n\n## Complete Usage Map\nFile by file, show every place this is used:\n\n### Direct Calls\n[file path]:[line] in [calling function]\n  Called with: [args pattern]\n  Return value used: yes/no\n  Context: [brief description of why it's called here]\n\n### Indirect Usage\n- Re-exported from: [files that re-export this]\n- Aliased as: [any aliases]\n- Passed as callback to: [higher-order usage]\n\n## Usage Pattern Analysis\nFrom all the call sites:\n- Most common argument patterns\n- Edge case usages (unusual args, unusual context)\n- Places where return value is ignored (potential bugs)\n\n## Refactoring Safety Report\n- Total call sites: [N]\n- Files affected: [N]\n- Test coverage: [% of call sites have tests]\n- Safe to rename/change signature: YES / RISKY / NO (with reason)",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f862f5aa3437.json"
+}

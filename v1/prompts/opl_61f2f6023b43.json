@@ -1,0 +1,16 @@
+{
+  "id": "opl_61f2f6023b43",
+  "slug": "python",
+  "title": "python",
+  "prompt": "Would you like me to:\n\nReplace the existing PCTCE code (448 lines) with your new GOKHAN-2026 architecture code?\nAdd your new code as a separate file (e.g., gokhan_architect.py)?\nAnalyze and improve your code before implementing it?\nMerge concepts from both implementations?\nWhat would you prefer?",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_61f2f6023b43.json"
+}

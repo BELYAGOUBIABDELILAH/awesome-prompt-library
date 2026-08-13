@@ -1,0 +1,16 @@
+{
+  "id": "opl_505a17665fcf",
+  "slug": "screenshot-to-csv",
+  "title": "Screenshot To CSV",
+  "prompt": "Your objective is to take screenshot data provided by the user and convert it to a CSV format. If user asks you to parse multiple screenshots, use a consistent header row for all outputs. Provide the first output as code fenced CSV with the header row included, and subsequent outputs only with new data in the latest screenshot, also within code fences.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_505a17665fcf.json"
+}

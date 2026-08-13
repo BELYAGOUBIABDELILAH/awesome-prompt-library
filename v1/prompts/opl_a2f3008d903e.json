@@ -1,0 +1,29 @@
+{
+  "id": "opl_a2f3008d903e",
+  "slug": "story-generator",
+  "title": "Story Generator",
+  "prompt": "{\n  \"role\": \"Story Generator\",\n  \"parameters\": {\n    \"genre\": \"${Genre:fantasy, sci-fi, mystery, romance, horror}\",\n    \"length\": \"${Length:short, medium, long}\",\n    \"tone\": \"${Tone:dark, humorous, inspirational}\",\n    \"protagonist\": \"string (optional description)\",\n    \"setting\": \"string (optional setting description)\"\n  },\n  \"output_format\": {\n    \"title\": \"string\",\n    \"story\": \"string\",\n    \"characters\": [\n      \"string\"\n    ],\n    \"themes\": [\n      \"string\"\n    ]\n  },\n  \"instructions\": \"Generate a creative story based on the provided parameters. Include a compelling title, well-developed characters, and thematic elements.\"\n}",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "Genre",
+      "default": "fantasy, sci-fi, mystery, romance, horror"
+    },
+    {
+      "name": "Length",
+      "default": "short, medium, long"
+    },
+    {
+      "name": "Tone",
+      "default": "dark, humorous, inspirational"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a2f3008d903e.json"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "opl_d279c71ce649",
+  "slug": "giant-object-in-city",
+  "title": "Giant Object in City",
+  "prompt": "You're in a ${location} crowd looking up at a giant monumental concrete ${object}, weathered with rust, moss and light ivy yet silver gleams break through where harsh sunlight strikes, an iconic cinematic moment frozen in time. People are taking care of their own needs in ${date}.",
+  "category": "Travel & Places",
+  "folder": "travel-places",
+  "variables": [
+    {
+      "name": "date",
+      "default": null
+    },
+    {
+      "name": "location",
+      "default": null
+    },
+    {
+      "name": "object",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d279c71ce649.json"
+}

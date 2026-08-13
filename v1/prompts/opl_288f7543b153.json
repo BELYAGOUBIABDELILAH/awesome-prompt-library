@@ -1,0 +1,29 @@
+{
+  "id": "opl_288f7543b153",
+  "slug": "meeting-room-booking-web-app-development",
+  "title": "Meeting Room Booking Web App Development",
+  "prompt": "Act as a developer tasked with building a meeting room booking web app using PHP 7 and MySQL. Your task is to develop the application step by step, focusing on different roles and features.\n\nYour steps include:\n1. **Create Project Structure**\n   - Set up a project directory with necessary subfolders for organization.\n\n2. **Database Schema**\n   - Design a schema for meeting room bookings and user roles, ready for import into MySQL.\n\n3. **UX/UI Design**\n   - Utilize Tailwind CSS with Glassmorphism and a modern orange theme to create an intuitive interface.\n   - Ensure a responsive, mobile-friendly design.\n\n4. **Role Management**\n   - **Admin Role**: Manage meeting rooms, oversee bookings.\n   - **User Role**: Book meeting rooms via a calendar interface.\n\n5. **Export Functionality**\n   - Implement functionality to export booking data to Excel.\n\nRules:\n- Use PHP 7 for backend development.\n- Ensure security best practices.\n- Maintain clear documentation for each step.\n\nVariables:\n- ${projectName} - Name of the project\n- ${themeColor:orange} - Color theme for UI\n- ${databaseName} - Name of the MySQL database",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "databaseName",
+      "default": null
+    },
+    {
+      "name": "projectName",
+      "default": null
+    },
+    {
+      "name": "themeColor",
+      "default": "orange"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_288f7543b153.json"
+}

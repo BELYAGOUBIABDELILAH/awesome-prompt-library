@@ -1,0 +1,21 @@
+{
+  "id": "opl_6c6f3ec8e1f4",
+  "slug": "double-exposure-portrait",
+  "title": "Double Exposure Portrait",
+  "prompt": "A double exposure portrait set in a ${name:sunny forest}. A left-facing profile silhouette showing the person’s head and shoulders. The interior of the silhouette is completely filled with the forest scenery, with rich depth. Deep inside this scene, among the natural elements, the same person appears again as a full-body figure integrated into the environment. The outer background is a bright, overexposed white light. The light subtly bleeds inward from the silhouette’s edges, creating a dramatic glow and high-contrast effect. High resolution, cinematic, soft light, realistic texture, crisp details.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "name",
+      "default": "sunny forest"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6c6f3ec8e1f4.json"
+}

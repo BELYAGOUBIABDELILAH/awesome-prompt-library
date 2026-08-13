@@ -1,0 +1,16 @@
+{
+  "id": "opl_d1d93c195d2f",
+  "slug": "alpine-freefall",
+  "title": "Alpine Freefall",
+  "prompt": "{\n  \"title\": \"Alpine Freefall\",\n  \"description\": \"A high-octane, wide-angle action shot capturing the exhilarating rush of a freestyle skier mid-descent on a steep mountain peak.\",\n  \"prompt\": \"You will perform an image edit using the person from the provided photo as the main subject. Preserve her core likeness. Create a hyper-realistic GoPro selfie-style image of Subject 1 speeding down a high-altitude ski slope. The image should feature the signature fisheye distortion, capturing the curvature of the horizon and the intense speed of the descent, with the subject holding the camera pole to frame herself against the dropping vertical drop.\",\n  \"details\": {\n    \"year\": \"2024\",\n    \"genre\": \"GoPro\",\n    \"location\": \"A jagged, snow-covered mountain ridge in the French Alps with a clear blue sky overhead.\",\n    \"lighting\": [\n      \"Bright, harsh sunlight\",\n      \"Lens flare artifacts\",\n      \"High contrast\"\n    ],\n    \"camera_angle\": \"Selfie-stick POV with wide-angle fisheye distortion.\",\n    \"emotion\": [\n      \"Exhilarated\",\n      \"Fearless\",\n      \"Wild\"\n    ],\n    \"color_palette\": [\n      \"Blinding white\",\n      \"Deep azure\",\n      \"Stark black\",\n      \"Skin tones\"\n    ],\n    \"atmosphere\": [\n      \"Adrenaline-fueled\",\n      \"Fast-paced\",\n      \"Crisp\",\n      \"Windy\"\n    ],\n    \"environmental_elements\": \"Kicked-up powder snow spraying towards the lens, motion blur on the edges, water droplets on the camera glass.\",\n    \"subject1\": {\n      \"costume\": \"black mini skirt, white crop top, leather fingerless gloves\",\n      \"subject_expression\": \"Wide-mouthed shout of excitement, eyes wide with the thrill.\",\n      \"subject_action\": \"ski\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"studio lighting\",\n        \"calm\",\n        \"static pose\",\n        \"indoor settings\",\n        \"trees\"\n      ],\n      \"exclude_styles\": [\n        \"oil painting\",\n        \"sketch\",\n        \"warm vintage\",\n        \"soft focus\"\n      ],\n      \"exclude_colors\": [\n        \"sepia\",\n        \"muted tones\",\n        \"pastel\"\n      ],\n      \"exclude_objects\": [\n        \"ski lift\",\n        \"crowd\",\n        \"buildings\"\n      ]\n    }\n  }\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d1d93c195d2f.json"
+}

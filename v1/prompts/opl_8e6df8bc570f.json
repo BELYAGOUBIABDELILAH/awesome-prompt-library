@@ -1,0 +1,16 @@
+{
+  "id": "opl_8e6df8bc570f",
+  "slug": "explain-funding-impact",
+  "title": "Explain Funding Impact",
+  "prompt": "Create a section for my Sponsors page that explains how funding will help me dedicate more time to [project/topics], support new contributors, and ensure the sustainability of my open source work.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_8e6df8bc570f.json"
+}

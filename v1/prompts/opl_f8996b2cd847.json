@@ -1,0 +1,33 @@
+{
+  "id": "opl_f8996b2cd847",
+  "slug": "architectural-study-sheet-historic-site-name",
+  "title": "Architectural Study Sheet: [HISTORIC_SITE_NAME]",
+  "prompt": "A vintage architectural infographic of ${historic_site_name} that blends art and technical clarity: a detailed front elevation at the center, a clean line-art landscape of ${location} behind it, and annotated dimension lines with sample values like “${height_value_1}” and “${height_value_2}”. Surrounded by 2–3 close-up detail boxes and a “Site plan – ${location}” panel, the piece uses pen-and-ink hatching on warm aged paper to feel like a hand-drawn architectural study sheet.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "height_value_1",
+      "default": null
+    },
+    {
+      "name": "height_value_2",
+      "default": null
+    },
+    {
+      "name": "historic_site_name",
+      "default": null
+    },
+    {
+      "name": "location",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f8996b2cd847.json"
+}

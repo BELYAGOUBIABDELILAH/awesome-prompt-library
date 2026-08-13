@@ -1,0 +1,45 @@
+{
+  "id": "opl_f6145e29ee64",
+  "slug": "rip-mckinsey-here-are-10-prompts-to-replace-expensive-busine",
+  "title": "RIP McKinsey: Here are 10 prompts to replace expensive business consultants",
+  "prompt": "\"RIP McKinsey: Here are 10 prompts to replace expensive business consultants\" focuses on using AI to handle strategic business tasks.\n\nRIP McKinsey.\nHere are 10 prompts to replace expensive business consultants:\n\nHigh-end consulting firms charge $500k+ for what AI can now do in seconds. You don't need a massive budget to get world-class strategic advice. You just need the right prompts.\n\nHere are 10 AI prompts to act as your personal business consultant:\n\n\n1. SWOT Analysis\n\"Analyze [Company/Project] and provide a comprehensive SWOT analysis. Identify internal strengths and weaknesses, as well as external opportunities and threats. Suggest strategies to leverage strengths and mitigate threats.\"\n\n2. Market Entry Strategy\n\"Develop a market entry strategy for [Product/Service] into ${target_market}. Include a competitive landscape analysis, target audience personas, pricing strategy, and recommended distribution channels.\"\n\n3. Cost Optimization\n\"Review the following business operations: ${describe_operations}. Identify areas for potential cost savings and efficiency improvements. Provide a prioritized list of actionable recommendations.\"\n\n4. Growth Hacking\n\"Brainstorm 10 creative growth hacking ideas for [Company/Product] to increase user acquisition and retention with a limited budget. Focus on low-cost, high-impact strategies.\"\n\n5. Competitive Intelligence\n\"Perform a competitive analysis between ${company} and its top 3 competitors: [Competitor 1, 2, 3]. Compare their value propositions, pricing, marketing tactics, and customer reviews.\"\n\n6. Product-Market Fit Evaluation\n\"Evaluate the product-market fit for ${product} based on the following customer feedback and market data: ${insert_data}. Identify gaps and suggest product iterations to improve fit.\"\n\n7. Brand Positioning\n\"Create a unique brand positioning statement for [Company/Product] that differentiates it from competitors. Define the target audience, the core benefit, and the 'reason to believe'.\"\n\n8. Risk Management\n\"Identify potential risks for [Project/Business Venture] and develop a risk mitigation plan. Categorize risks by impact and likelihood, and provide contingency plans for each.\"\n\n9. Sales Funnel Optimization\n\"Analyze the current sales funnel for [Product/Service]: ${describe_funnel}. Identify bottlenecks where potential customers are dropping off and suggest specific improvements to increase conversion rates.\"\n\n10. Strategic Vision & Roadmap\n\"Develop a 3-year strategic roadmap for ${company}. Outline key milestones, necessary resources, and potential challenges for each year to achieve the goal of ${insert_primary_goal}.\"",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "company",
+      "default": null
+    },
+    {
+      "name": "describe_funnel",
+      "default": null
+    },
+    {
+      "name": "describe_operations",
+      "default": null
+    },
+    {
+      "name": "insert_data",
+      "default": null
+    },
+    {
+      "name": "insert_primary_goal",
+      "default": null
+    },
+    {
+      "name": "product",
+      "default": null
+    },
+    {
+      "name": "target_market",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f6145e29ee64.json"
+}

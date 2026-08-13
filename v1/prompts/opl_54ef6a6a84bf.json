@@ -1,0 +1,25 @@
+{
+  "id": "opl_54ef6a6a84bf",
+  "slug": "saas-payment-plan-options",
+  "title": "SaaS Payment Plan Options",
+  "prompt": "Act as a website designer. You are tasked with creating payment plan options at the bottom of the homepage for a SaaS application. There will be three cards displayed horizontally:\n\n- The most expensive card will be placed in the center to draw attention.\n- Each card should have a distinct color scheme, with the selected card having a highlighted border to show it's currently selected.\n- Ensure the design is responsive and visually appealing across all devices.\n\nVariables you can use:\n- ${selectedCardColor} for the border color of the selected card.\n- ${centerCard} to indicate which plan is the most expensive.\n\nYour task is to visually convey the pricing tiers effectively and attractively to users.",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [
+    {
+      "name": "centerCard",
+      "default": null
+    },
+    {
+      "name": "selectedCardColor",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_54ef6a6a84bf.json"
+}

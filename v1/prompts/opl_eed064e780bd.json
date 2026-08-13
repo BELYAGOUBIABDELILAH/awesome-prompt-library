@@ -1,0 +1,25 @@
+{
+  "id": "opl_eed064e780bd",
+  "slug": "how-it-works-educational-dioramas",
+  "title": "“How It Works” Educational Dioramas",
+  "prompt": "Create a clear, 45° top-down isometric miniature 3D educational diorama explaining [PROCESS / CONCEPT].\n\nUse soft refined textures, realistic PBR materials, and gentle lifelike lighting.\n\nBuild a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.\n\nInclude tiny stylized figures interacting with each stage (no facial details).\n\nUse a clean solid ${background_color} background.\nAt the top-center, display ${process_name} in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.\n\nAll text must automatically match the background contrast (white or black).",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [
+    {
+      "name": "background_color",
+      "default": null
+    },
+    {
+      "name": "process_name",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_eed064e780bd.json"
+}

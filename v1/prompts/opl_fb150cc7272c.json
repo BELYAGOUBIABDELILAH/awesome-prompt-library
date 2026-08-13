@@ -1,0 +1,16 @@
+{
+  "id": "opl_fb150cc7272c",
+  "slug": "step-4a-implementation-plan",
+  "title": "Step 4a: Implementation Plan",
+  "prompt": "Create a comprehensive implementation plan.\n\nInclude:\n- Phase breakdown with milestones\n- Task list with priorities\n- Resource allocation\n- Risk mitigation strategies\n- Timeline estimates\n- Success metrics\n\nFormat as an actionable project plan.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_fb150cc7272c.json"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "opl_bd29f2ea96c8",
+  "slug": "create-a-cultural-superhero-movie-poster",
+  "title": "Create a Cultural Superhero Movie Poster",
+  "prompt": "Create an ultra-realistic, high-budget cinematic movie poster of ${superhero_name}, reimagined as if the character originated from ${country_or_culture}.\n\nThis image must look like an official theatrical poster for a live-action superhero film released worldwide.\nThe composition, lighting, typography, and tone should match real modern Hollywood movie posters.\n\nFORMAT:\nAspect ratio: 9:16 (vertical theatrical poster).\n\nSETTING:\nThe scene takes place at night in the capital city of ${country_or_culture}.\nThe environment reflects the city’s real architecture, atmosphere, and cultural identity, remaining geographically accurate and believable.\n\nCOMPOSITION & CAMERA ANGLE:\n– dramatic low-angle perspective, looking up at the hero\n– iconic, powerful stance suitable for a main movie poster\n– medium-to-full body framing\n– character visually dominant, city subtly visible behind\n– cinematic depth with slight background blur\n\nATMOSPHERE:\n– cinematic fog, smoke, and atmospheric haze\n– rain falling through volumetric light\n– wet surfaces reflecting city lights\n– dramatic shadows and contrast\n– epic but grounded realism\n\nCHARACTER REALISM (CRITICAL):\n– fully photorealistic human anatomy and proportions\n– practical, wearable costume design\n– subtle cultural elements from ${country_or_culture} integrated naturally\n– realistic fabric, leather, metal, armor with wear, scratches, dirt\n– no comic-book exaggeration, no cosplay look\n\nLIGHTING:\n– dramatic cinematic lighting\n– strong rim light defining the silhouette\n– controlled highlights and deep shadows\n– volumetric light interacting with rain and fog\n\nPOSTER TEXT (ENGLISH ONLY – REALISTIC):\nInclude realistic, professionally designed movie poster text that matches the character’s origin and tone.\n\nExamples of text placement and style:\n– Main title: \"${movie_title}\"\n– Tagline (origin-related, serious tone): \"${tagline}\"\n– Credits block at the bottom (small, realistic):\n  \"A ${studio_style} Production  \n   Directed by ${director_style}  \n   Starring ${superhero_name}\"\n\nTypography must be cinematic, clean, modern, and realistic — no fantasy fonts, no comic lettering.\n\nSTYLE & FINISH:\nUltra-photorealistic live-action realism\nCinematic color grading\nHigh dynamic range (HDR)\nPremium poster polish\nSharp subject, controlled depth\n\nNEGATIVE CONSTRAINTS:\nNo cartoon\nNo anime\nNo illustration\nNo comic-book art style\nNo exaggerated colors\nNo unrealistic fantasy elements\nNo watermarks\n\nThe final image should feel like a real, official movie poster —\nlocalized in identity, grounded in realism, cinematic in every detail.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "country_or_culture",
+      "default": null
+    },
+    {
+      "name": "director_style",
+      "default": null
+    },
+    {
+      "name": "movie_title",
+      "default": null
+    },
+    {
+      "name": "studio_style",
+      "default": null
+    },
+    {
+      "name": "superhero_name",
+      "default": null
+    },
+    {
+      "name": "tagline",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_bd29f2ea96c8.json"
+}

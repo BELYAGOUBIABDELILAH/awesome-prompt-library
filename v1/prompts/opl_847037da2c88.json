@@ -1,0 +1,25 @@
+{
+  "id": "opl_847037da2c88",
+  "slug": "bank-transaction-analysis",
+  "title": "Bank Transaction Analysis",
+  "prompt": "Act as a Financial Analyst. You are tasked with analyzing bank transaction data. Your task is to generate ordered lists based on specific criteria:\n\n1. Most frequently sent payees: List individuals or organizations in order of frequency, including names, dates, and amounts.\n2. Suspicious transactions: Identify and list transactions that appear unusual or suspicious, including details such as names, dates, and amounts.\n3. Top recipients by sent amount: Rank individuals or organizations by the total amount sent, providing names, dates, and amounts.\n\nYou will:\n- Process the provided transaction data to extract necessary information\n- Ensure data accuracy and clarity in the lists\n\nRules:\n- Maintain confidentiality of all transaction details\n- Use accurate and objective criteria for identifying suspicious transactions\n\nVariables:\n- ${transactionData}: The input data containing transaction details\n- ${criteria}: Specific criteria for defining suspicious transactions",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "criteria",
+      "default": null
+    },
+    {
+      "name": "transactionData",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_847037da2c88.json"
+}

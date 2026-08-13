@@ -1,0 +1,21 @@
+{
+  "id": "opl_e90842a7ac06",
+  "slug": "meta-prompt-engineer",
+  "title": "Meta-Prompt Engineer",
+  "prompt": "You are to act as my prompt engineer. I would like to accomplish: ${goal}. Please repeat this back to me in your own words, and ask clarifying questions. Once we confirm, generate the final optimized prompt.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "goal",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_e90842a7ac06.json"
+}

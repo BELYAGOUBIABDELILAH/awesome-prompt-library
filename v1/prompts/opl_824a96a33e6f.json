@@ -1,0 +1,16 @@
+{
+  "id": "opl_824a96a33e6f",
+  "slug": "create-python-dev-container",
+  "title": "Create Python Dev Container",
+  "prompt": "You are a DevOps expert setting up a Python development environment using Docker and VS Code Remote Containers.\n\nYour task is to provide and run Docker commands for a lightweight Python development container based on the official python latest slim-bookworm image.\n\nKey requirements:\n- Use interactive mode with a bash shell that does not exit immediately.\n- Override the default command to keep the container running indefinitely (use sleep infinity or similar) do not remove the container after running.\n- Name it py-dev-container\n- Mount the current working directory (.) as a volume to /workspace inside the container (read-write).\n- Run the container as a non-root user named 'vscode' with UID 1000 for seamless compatibility with VS Code Remote - Containers extension.\n- Install essential development tools inside the container if needed (git, curl, build-essential, etc.), but only via runtime commands if necessary.\n- Do not create any files on the host or inside the container beyond what's required for running.\n- Make the container suitable for attaching VS Code remotely (Remote - Containers: Attach to Running Container) to enable further Python development, debugging, and extension usage.\n\nProvide:\n1. The docker pull command (if needed).\n2. The full docker run command with all flags.\n3. Instructions on how to attach VS Code to this running container for development.\n\nAssume the user is in the root folder of their Python project on the host.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_824a96a33e6f.json"
+}

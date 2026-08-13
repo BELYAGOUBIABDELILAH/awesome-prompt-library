@@ -1,0 +1,16 @@
+{
+  "id": "opl_01a9b697898b",
+  "slug": "stakeholder-update",
+  "title": "Stakeholder Update",
+  "prompt": "Create a stakeholder update based on this work item:\n\nWork item: [PASTE ISSUE / EPIC / PROJECT STATUS]\nAudience: [EXECUTIVE / BUSINESS STAKEHOLDER / CUSTOMER / CROSS-TEAM]\nUpdate frequency: [WEEKLY / SPRINT / MILESTONE]\n\n## Stakeholder Update\n\n**Project/Feature:** [NAME]\n**Date:** [TODAY]\n**Status:**  On Track /  At Risk /  Off Track\n\n---\n\n### Summary (30-second read)\n[2–3 sentences: what are we building, where are we, what's the key message this week]\n\n### Progress This Period\n✅ Completed:\n- [Achievement 1 — framed as value delivered, not tasks completed]\n- [Achievement 2]\n\n In Progress:\n- [What's being worked on and expected completion]\n\n### Key Metrics\n| Metric | Target | Current | Trend |\n|---|---|---|---|\n\n### Decisions Needed\n[If any decisions are required from stakeholders]\n- Decision: [DESCRIBE]\n  By: [DATE]\n  Options: [A / B / C]\n  Recommendation: [X] because [reason]\n\n### Risks / Blockers\n⚠️ [Risk or blocker — and mitigation plan]\n\n### Next Period Plan\n[3–4 bullet points of what will be accomplished before the next update]\n\n### Questions?\n[Contact info or how to engage]",
+  "category": "Documentation",
+  "folder": "documentation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_01a9b697898b.json"
+}

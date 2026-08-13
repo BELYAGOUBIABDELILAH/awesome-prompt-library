@@ -1,0 +1,16 @@
+{
+  "id": "opl_eb2a01895798",
+  "slug": "adjust-code-to-match-style-guides",
+  "title": "Adjust Code to Match Style Guides",
+  "prompt": "Review a code snippet and suggest improvements to align it with specified style guidelines.\nFor each deviation from the style guide:\n1. Quote the problematic line\n2. Explain which rule it violates\n3. Show the corrected version\n4. If multiple valid approaches exist, note which the team prefers and why\nOutput the full corrected snippet at the end, ready to copy-paste.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_eb2a01895798.json"
+}

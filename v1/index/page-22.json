@@ -1,0 +1,69 @@
+{
+  "last_updated": "2026-08-13T17:37:59.130Z",
+  "page": 22,
+  "per_page": 100,
+  "total": 2103,
+  "total_pages": 22,
+  "next": null,
+  "prev": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/index/page-21.json",
+  "prompts": [
+    {
+      "id": "opl_f36eb0db09cc",
+      "slug": "untitled-5",
+      "title": "自动写作、图片生成与发布工具",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "length",
+          "default": "500-1000"
+        },
+        {
+          "name": "platform",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f36eb0db09cc.json"
+    },
+    {
+      "id": "opl_5f45fcccf1e2",
+      "slug": "untitled-6",
+      "title": "论文降重指南",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "input",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5f45fcccf1e2.json"
+    },
+    {
+      "id": "opl_ad93e0bfc503",
+      "slug": "untitled-7",
+      "title": "资深卖货短视频脚本创作者",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "keyFeatures",
+          "default": null
+        },
+        {
+          "name": "productName",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_ad93e0bfc503.json"
+    }
+  ]
+}

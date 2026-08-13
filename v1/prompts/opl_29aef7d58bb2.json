@@ -1,0 +1,16 @@
+{
+  "id": "opl_29aef7d58bb2",
+  "slug": "generate-mr-description",
+  "title": "Generate MR Description",
+  "prompt": "Generate a comprehensive merge request description based on these changes:\n\nBranch name: [BRANCH NAME]\nChanged files: [LIST FILES]\nCommit messages: [LIST COMMITS]\nRelated issue: [ISSUE # or URL]\n\n## MR Description Template to Fill\n\n### What\n[1–2 sentences: what does this MR do?]\n\n### Why\n[1–2 sentences: what problem does it solve? Link to issue.]\n\n### How\n[Bullet list of the key implementation decisions made]\n\n### Testing Done\n- [ ] Unit tests: [describe what's covered]\n- [ ] Integration tests: [describe what's covered]\n- [ ] Manual testing steps:\n  1. [Step 1]\n  2. [Step 2]\n  3. Expected result: [...]\n\n### Screenshots / Recordings\n[If UI changes: before/after screenshots]\n\n### Checklist\n- [ ] Tests added/updated\n- [ ] Documentation updated\n- [ ] No breaking changes OR breaking changes documented\n- [ ] Feature flag added if needed\n- [ ] Performance impact considered\n\n### Related\nCloses #[ISSUE]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_29aef7d58bb2.json"
+}

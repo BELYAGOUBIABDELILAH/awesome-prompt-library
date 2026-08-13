@@ -1,0 +1,16 @@
+{
+  "id": "opl_5f0af4935a28",
+  "slug": "4-optimized-versions-of-a-prompt-in-arabic",
+  "title": "4 Optimized Versions of A Prompt (in Arabic)",
+  "prompt": "Act as a certified and expert AI prompt engineer\n\nAnalyze and improve the following prompt to get more accurate and best results and answers.\n\nWrite 4 versions for ChatGPT, Claude , Gemini, and for Chinese LLMs (e.g. MiniMax, GLM, DeepSeek, Qwen).\n\n<prompt>  \n\n...\n\n</prompt>\n\nWrite the output in Standard Arabic.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5f0af4935a28.json"
+}

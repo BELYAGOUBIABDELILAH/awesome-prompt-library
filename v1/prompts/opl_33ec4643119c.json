@@ -1,0 +1,16 @@
+{
+  "id": "opl_33ec4643119c",
+  "slug": "generate-unit-tests",
+  "title": "Generate Unit Tests",
+  "prompt": "Generate comprehensive unit tests for:\n\n[PASTE FUNCTION / CLASS / MODULE]\n\nLanguage: [SPECIFY]\nTesting framework: [Jest / pytest / JUnit / RSpec / Go test / etc.]\nMocking library: [if applicable]\n\n## Unit Test Suite\n\nFor each function/method, generate tests covering:\n\n### [FunctionName] tests\n\n**Happy Path**\n\\",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_33ec4643119c.json"
+}

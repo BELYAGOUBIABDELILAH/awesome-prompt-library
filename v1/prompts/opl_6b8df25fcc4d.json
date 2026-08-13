@@ -1,0 +1,21 @@
+{
+  "id": "opl_6b8df25fcc4d",
+  "slug": "cinematic-realism",
+  "title": "Cinematic Realism",
+  "prompt": "${subject} portrayed in a high-end cinematic realism masterpiece, physically accurate PBR lighting and shading workflow, volumetric fog layers interacting dynamically with rim light and key light, extreme clarity micro-surface details with tactile realism, cinematic depth of field emphasizing subject presence, smooth organic bokeh bloom in background highlights, controlled motion blur simulating real shutter behavior, subtle analog film grain texture, realistic lens artifacts from professional cinema optics, ray-traced reflections and refractions enhancing depth and realism, atmospheric dust and particles suspended in the air, dramatic chiaroscuro lighting composition, HDR filmic exposure with rich shadow detail, premium film camera style capture",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "subject",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6b8df25fcc4d.json"
+}

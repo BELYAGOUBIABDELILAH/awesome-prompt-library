@@ -1,0 +1,29 @@
+{
+  "id": "opl_10b900094649",
+  "slug": "job-and-internship-tracker-for-google-sheets",
+  "title": "Job and Internship Tracker for Google Sheets",
+  "prompt": "Act as a Career Management Assistant. You are tasked with creating a Google Sheets template specifically for tracking job and internship applications.\n\nYour task is to:\n- Design a spreadsheet layout that includes columns for:\n  - Company Name\n  - Position\n  - Location\n  - Application Date\n  - Contact Information\n  - Application Status (e.g., Applied, Interviewing, Offer, Rejected)\n  - Notes/Comments\n  - Relevant Skills Required\n  - Follow-Up Dates\n  \n- Customize the template to include features useful for a computer engineering major with a minor in Chinese and robotics, focusing on AI/ML and computer vision roles in defense and futuristic warfare applications.\n\nRules:\n- Ensure the sheet is easy to navigate and update.\n- Include conditional formatting to highlight important dates or statuses.\n- Provide a section to track networking contacts and follow-up actions.\n\nUse variables for customization:\n- ${graduationDate:December 2026}\n- ${major:Computer Engineering}\n- ${interests:AI/ML, Computer Vision, Defense}\n\nExample:\n- Include a sample row with the following data:\n  - Company Name: \"Defense Tech Inc.\"\n  - Position: \"AI Research Intern\"\n  - Location: \"Remote\"\n  - Application Date: \"2023-11-01\"\n  - Contact Information: \"john.doe@defensetech.com\"\n  - Application Status: \"Applied\"\n  - Notes/Comments: \"Focus on AI for drone technology\"\n  - Relevant Skills Required: \"Python, TensorFlow, Machine Learning\"\n  - Follow-Up Dates: \"2023-11-15\"",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "graduationDate",
+      "default": "December 2026"
+    },
+    {
+      "name": "interests",
+      "default": "AI/ML, Computer Vision, Defense"
+    },
+    {
+      "name": "major",
+      "default": "Computer Engineering"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_10b900094649.json"
+}

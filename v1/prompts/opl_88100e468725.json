@@ -1,0 +1,16 @@
+{
+  "id": "opl_88100e468725",
+  "slug": "brainstorm-seo-keywords",
+  "title": "Brainstorm SEO Keywords",
+  "prompt": "Brainstorm and create SEO keywords for marketing website content.\nOutput format:\n- Primary keyword (highest volume, most relevant): [x]\n- 5 secondary keywords (supporting terms): [list]\n- 5 long-tail keywords (specific, lower competition): [list]\n- 3 competitor gap keywords (terms competitors rank for that we don't): [list]\nFor each keyword, include: estimated intent (informational / commercial / transactional) and difficulty (Low / Medium / High).",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_30b5b45bb215"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_88100e468725.json"
+}

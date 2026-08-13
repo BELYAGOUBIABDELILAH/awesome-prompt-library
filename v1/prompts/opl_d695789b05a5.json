@@ -1,0 +1,16 @@
+{
+  "id": "opl_d695789b05a5",
+  "slug": "find-root-cause-of-bug",
+  "title": "Find Root Cause of Bug",
+  "prompt": "Help me find the root cause of this bug using the 5 Whys method:\n\nBug description: [WHAT IS HAPPENING]\nRelevant code: [PASTE CODE]\nError output: [PASTE ERROR if any]\n\n## Symptom vs. Root Cause\nFirst: identify the symptom (what we observe) vs the actual problem (why it's happening).\nSymptom: [what the user or test sees]\nRoot cause direction: [initial hypothesis]\n\n## 5 Whys Analysis\nWhy 1: Why is [SYMPTOM] happening?\n→ Because [REASON 1]\n\nWhy 2: Why is [REASON 1] happening?\n→ Because [REASON 2]\n\nWhy 3: Why is [REASON 2] happening?\n→ Because [REASON 3]\n\nWhy 4: Why is [REASON 3] happening?\n→ Because [REASON 4]\n\nWhy 5: Why is [REASON 4] happening?\n→ ROOT CAUSE: [REASON 5]\n\n## Root Cause Classification\n- Code bug (logic error)\n- Missing validation\n- Race condition\n- Environment/config issue\n- Incorrect assumption about external behavior\n- Missing test that would have caught this\n\n## Fix\nAddress the root cause, not just the symptom:\n[Code fix]\n\n## Regression Test\nWrite a test that would have caught this bug: [test code]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d695789b05a5.json"
+}

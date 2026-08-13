@@ -1,0 +1,16 @@
+{
+  "id": "opl_7338177aec31",
+  "slug": "stranded-in-time-the-victorian-traveler-s-panic",
+  "title": "Stranded in Time: The Victorian Traveler’s Panic",
+  "prompt": "{\n  \"prompt\": \"You will perform an image edit using the person from the provided photo as the main subject. Preserve his core likeness. The scene depicts Subject 1 as a beleaguered Victorian time traveler checking a complicated brass chronometer in a dense, misty prehistoric jungle. The image must be ultra-photorealistic and highly detailed, capturing the texture of fraying velvet, sweating skin, and wet tropical leaves. Use cinematic lighting with dappled sunlight breaking through the canopy to illuminate the subject. The style is that of a high-budget movie, shot on Arri Alexa with a shallow depth of field.\",\n  \"details\": {\n    \"year\": \"The Late Cretaceous Period (via 1890)\",\n    \"genre\": \"Cinematic Photorealism\",\n    \"location\": \"A dense, humid jungle floor with giant ferns and ancient cycads.\",\n    \"lighting\": [\n      \"Dappled sunlight filtering through canopy\",\n      \"Atmospheric volumetric fog\",\n      \"High contrast shadows\"\n    ],\n    \"camera_angle\": \"Eye-level close-up with focus on the face and device.\",\n    \"emotion\": [\n      \"Panic\",\n      \"Urgency\",\n      \"Disbelief\"\n    ],\n    \"color_palette\": [\n      \"Deep emerald greens\",\n      \"Muddy browns\",\n      \"Tarnished brass gold\",\n      \"Rich burgundy\"\n    ],\n    \"atmosphere\": [\n      \"Humid\",\n      \"Dangerous\",\n      \"Claustrophobic\",\n      \"Sweltering\"\n    ],\n    \"environmental_elements\": \"Giant fern fronds, hovering prehistoric insects, rising steam from the damp ground, a blurred massive shape moving in the background.\",\n    \"subject1\": {\n      \"costume\": \"A torn and muddy three-piece Victorian velvet suit, a loose cravat, and brass steampunk goggles around the neck.\",\n      \"subject_expression\": \"Wide-eyed desperation, sweat beading on the forehead.\",\n      \"subject_action\": \"Frantically tapping the glass dial of a glowing, smoking brass chronometer held in his hand.\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"modern buildings\",\n        \"paved roads\",\n        \"digital watches\",\n        \"sneakers\",\n        \"plastic\"\n      ],\n      \"exclude_styles\": [\n        \"cartoon\",\n        \"sketch\",\n        \"oil painting\",\n        \"anime\",\n        \"low resolution\"\n      ],\n      \"exclude_colors\": [\n        \"neon blue\",\n        \"hot pink\"\n      ],\n      \"exclude_objects\": [\n        \"cars\",\n        \"modern weaponry\"\n      ]\n    }\n  }\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7338177aec31.json"
+}

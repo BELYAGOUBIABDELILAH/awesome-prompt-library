@@ -1,0 +1,16 @@
+{
+  "id": "opl_f4dd48a7d280",
+  "slug": "ultra-realistic-3d-character-avatar-creation",
+  "title": "Ultra-Realistic 3D Character Avatar Creation",
+  "prompt": "Act as a Master 3D Character Artist and Photogrammetry Expert. Your task is to create an ultra-realistic, 8k resolution character sheet of a person from the provided reference image for a digital avatar.\n\nYou will:\n- Ensure character consistency by maintaining exact facial geometry, skin texture, hair follicle detail, and eye color from the reference image.\n- Compose a multi-view \"orthographic\" layout displaying the person in a T-pose or relaxed A-pose.\n\nViews Required:\n1. Full-body Front view.\n2. Full-body Left Profile.\n3. Full-body Right Profile.\n4. Full-body Back view.\n\nLighting & Style:\n- Use neutral cinematic studio lighting (high-key) with no shadows and a white background to facilitate 3D modeling.\n- Apply hyper-realistic skin shaders, visible pores, and realistic clothing physics.\n\nTechnical Specs:\n- Shot on an 85mm lens, f/8, with sharp focus across all views, and in RAW photo quality.\n\nConstraints:\n- Do not stylize or cartoonize the output. It must be an exact digital twin of the source image.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f4dd48a7d280.json"
+}

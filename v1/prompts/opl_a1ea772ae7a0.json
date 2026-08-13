@@ -1,0 +1,16 @@
+{
+  "id": "opl_a1ea772ae7a0",
+  "slug": "nightclub-booth-flash-half-body-party-candids",
+  "title": "Nightclub Booth Flash (half-body, party candids)",
+  "prompt": "{\n  \"category\": \"NIGHTCLUB_BOOTH_FLASH\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-29, Turkish-looking, nightlife vibe.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Slightly messy, night-out texture\",\n      \"texture\": \"Strands visible, slight shine\",\n      \"movement\": \"Hair slightly displaced as if dancing\"\n    },\n    \"face\": {\n      \"eyes\": \"Bright, playful\",\n      \"skin_details\": \"Real texture, slight flash shine\",\n      \"makeup\": \"Night-out natural glam\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Trendy black outfit, no logos\",\n      \"fabric\": \"Realistic fabric sheen (not plastic)\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\"Silver hoops\"],\n      \"props\": [\"Simple drink glass (no labels)\"]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Half-body candid booth shot\",\n    \"orientation\": \"Leaning slightly toward camera\",\n    \"hands\": \"One hand holding glass, other brushing hair back\",\n    \"gaze\": \"Direct eye contact\",\n    \"expression\": \"Playful smirk\"\n  },\n  \"setting\": {\n    \"environment\": \"Nightclub booth\",\n    \"background_elements\": [\n      \"Colored lights bokeh\",\n      \"Soft atmospheric haze (not smoke)\",\n      \"Crowd silhouettes blurred (no faces identifiable)\"\n    ],\n    \"depth\": \"Face sharp, background bokeh heavy\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Half-body nightlife portrait\",\n    \"angle\": \"Eye-level, handheld\",\n    \"focal_length_equivalent\": \"26mm phone night mode\",\n    \"framing\": \"4:5\",\n    \"focus\": \"Eyes sharp, background soft\"\n  },\n  \"lighting\": {\n    \"source\": \"Phone flash + ambient club lights\",\n    \"highlights\": \"Flash pop on face, realistic shine\",\n    \"shadows\": \"Soft but contrasty nightlife look\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Fun, confident, candid\",\n    \"atmosphere\": \"Energetic nightlife\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photorealistic party UGC\",\n    \"imperfections\": \"Grain, slight blur in background\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Noticeable but realistic low-light noise\",\n    \"motion_blur\": \"Minimal; allowed in background only\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"readable signage\", \"logos\", \"watermark\",\n    \"plastic skin\", \"cgi\",\n    \"extra limbs\", \"warped hands\"\n  ]\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a1ea772ae7a0.json"
+}

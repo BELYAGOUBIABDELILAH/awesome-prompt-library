@@ -1,0 +1,16 @@
+{
+  "id": "opl_db4b4e92bfb2",
+  "slug": "suggest-reviewers-for-mr",
+  "title": "Suggest Reviewers for MR",
+  "prompt": "Help me identify the best reviewers for this merge request:\n\nMR title: [TITLE]\nFiles changed: [LIST FILES]\nDomain/feature area: [DESCRIBE]\nType of change: [Bug fix / Feature / Refactor / Security / Performance]\n\n## Reviewer Selection Criteria\nIdentify reviewers based on:\n\n1. Code ownership — who wrote the code being changed? (git blame context)\n2. Domain expertise — who has the most commits in this module?\n3. Relevant experience — who has reviewed similar changes before?\n4. Availability — who is not overloaded right now?\n5. Learning opportunity — who would benefit from seeing this change?\n\n## Suggested Reviewers\nPrimary reviewer (must approve): [NAME] — reason: [...]\nSecondary reviewer (optional but recommended): [NAME] — reason: [...]\nSME reviewer (for specific concerns): [NAME] — reason: [...]\n\n## Review Focus Areas\nTell each reviewer what to focus on:\n- Primary: overall design and correctness\n- Secondary: [specific area based on their expertise]\n- SME: [specific concern — security / performance / API design]\n\n## Estimated Review Time\nRough estimate for reviewers: [X minutes / hours]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_db4b4e92bfb2.json"
+}

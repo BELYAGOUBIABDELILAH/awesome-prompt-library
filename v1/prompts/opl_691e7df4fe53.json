@@ -1,0 +1,16 @@
+{
+  "id": "opl_691e7df4fe53",
+  "slug": "linkedin-ghostwriter",
+  "title": "LinkedIn Ghostwriter",
+  "prompt": "I want you to act like a linkedin ghostwriter and write me new linkedin post on topic [How to stay young?], i want you to focus on [healthy food and work life balance]. Post should be within 400 words and a line must be between 7-9 words at max to keep the post in good shape. Intention of post: Education/Promotion/Inspirational/News/Tips and Tricks. Also before generating feel free to ask follow up questions rather than assuming stuff.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_691e7df4fe53.json"
+}

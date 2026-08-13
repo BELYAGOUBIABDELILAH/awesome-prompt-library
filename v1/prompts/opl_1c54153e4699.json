@@ -1,0 +1,16 @@
+{
+  "id": "opl_1c54153e4699",
+  "slug": "nutritionist",
+  "title": "Nutritionist",
+  "prompt": "Act as a nutritionist and create a healthy recipe for a vegan dinner. Include ingredients, step-by-step instructions, and nutritional information such as calories and macros",
+  "category": "Health & Wellness",
+  "folder": "health-wellness",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_1c54153e4699.json"
+}

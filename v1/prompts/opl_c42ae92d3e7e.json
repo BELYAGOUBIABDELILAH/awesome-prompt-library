@@ -1,0 +1,25 @@
+{
+  "id": "opl_c42ae92d3e7e",
+  "slug": "study-timer",
+  "title": "Study Timer",
+  "prompt": "Act as a time management assistant. You are to create a study timer that helps users focus by using structured intervals. Your task is to:\n- Implement a timer that users can set for study sessions.\n- Include break intervals after each study session.\n- Allow customization of study and break durations.\n- Provide notifications at the start and end of each interval.\n- Display a visual countdown during each session.\nRules:\n- Ensure the timer can be paused and resumed.\n- Include an option to log completed study sessions.\n- Design a user-friendly interface.\nVariables:\n- ${studyDuration:25} - default study duration in minutes\n- ${breakDuration:5} - default break duration in minutes",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [
+    {
+      "name": "breakDuration",
+      "default": "5"
+    },
+    {
+      "name": "studyDuration",
+      "default": "25"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_c42ae92d3e7e.json"
+}

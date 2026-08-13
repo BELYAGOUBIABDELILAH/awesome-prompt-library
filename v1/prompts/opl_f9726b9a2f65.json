@@ -1,0 +1,16 @@
+{
+  "id": "opl_f9726b9a2f65",
+  "slug": "rick-and-morty",
+  "title": "Rick And Morty",
+  "prompt": "{\n  \"TASK\": \"Reimagine the scene as a 'Rick and Morty' TV show screenshot.\",\n  \"VISUAL_ID\": \"2D Vector Animation, Adult Swim Style (Justin Roiland). Flat colors, uniform thin black outlines.\",\n  \"CHARACTERS\": \"Convert humans to 'Rick and Morty' anatomy. Tubular/noodle limbs, droopy stance. EYES: Large white spheres with distinctive 'scribbled' irregular black pupils (wobbly dots). EXPRESSIONS: Apathetic, panicked, or drooling.\",\n  \"OUTFIT\": \"Simplify complex tactical gear into flat cartoon sci-fi costumes. Remove texture noise; keep only iconic shapes.\",\n  \"BG\": \"Alien dimension or messy garage. Wobbly organic lines, weird sci-fi textures (holes, slime). Palette: Neon portal green, muted earth tones, pale skin tones.\",\n  \"RENDER\": \"Zero gradients. Flat lighting. No shadows or minimal hard cel-shading. Clean vector look.\",\n  \"NEG\": \"3D, realistic, volumetric lighting, gradients, detailed shading, anime, noise, painting, blur, valorant style, sharp angles.\"\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_f9726b9a2f65.json"
+}

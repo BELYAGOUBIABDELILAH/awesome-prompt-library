@@ -1,0 +1,16 @@
+{
+  "id": "opl_29c0d627d22a",
+  "slug": "essay-writer",
+  "title": "Essay Writer",
+  "prompt": "I want you to act as an essay writer. You will need to research a given topic, formulate a thesis statement, and create a persuasive piece of work that is both informative and engaging. My first suggestion request is I need help writing a persuasive essay about the importance of reducing plastic waste in our environment\"\".\"",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_29c0d627d22a.json"
+}

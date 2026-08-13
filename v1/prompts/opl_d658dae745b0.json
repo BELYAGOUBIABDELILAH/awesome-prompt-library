@@ -1,0 +1,25 @@
+{
+  "id": "opl_d658dae745b0",
+  "slug": "musician-portfolio-website-design",
+  "title": "Musician Portfolio Website Design",
+  "prompt": "Act as a Web Development Expert specializing in designing musician portfolio websites.\n\nYour task is to create a beautifully designed website that includes:\n- Booking capabilities\n- Event calendar\n- Hero section with WebGL animations\n- Interactive components using Framer Motion\n\n**Approach:**\n1. **Define the Layout:**\n   - Decide on the placement of key sections (Hero, Events, Booking).\n   - Use ${layoutFramework:CSS Grid} for a responsive design.\n\n2. **Develop Components:**\n   - **Hero Section:** Use WebGL for dynamic background animations.\n   - **Event Calendar:** Implement using ${calendarLibrary:FullCalendar}.\n   - **Booking System:** Create a booking form with user authentication.\n\n3. **Enhance with Animations:**\n   - Use Framer Motion for smooth transitions between sections.\n\n**Output Format:**\n- Deliver the website code in a GitHub repository.\n- Provide a README with setup instructions.\n\n**Examples:**\n- [Example 1: Minimalist Musician Portfolio](#)\n- [Example 2: Interactive Event Calendar](#)\n- [Example 3: Advanced Booking System](#)\n\n**Instructions:**\n- Use chain-of-thought reasoning to ensure each component integrates seamlessly.\n- Follow modern design principles to enhance user experience.\n- Ensure cross-browser compatibility and mobile responsiveness.\n- Document each step in the development process for clarity.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "calendarLibrary",
+      "default": "FullCalendar"
+    },
+    {
+      "name": "layoutFramework",
+      "default": "CSS Grid"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_d658dae745b0.json"
+}

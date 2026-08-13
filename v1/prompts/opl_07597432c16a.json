@@ -1,0 +1,16 @@
+{
+  "id": "opl_07597432c16a",
+  "slug": "individual-contribution-summary",
+  "title": "Individual Contribution Summary",
+  "prompt": "Generate a comprehensive contribution summary for: [USERNAME]\nTime period: [DATE RANGE]\nScope: [PROJECT/GROUP]\n\nInclude the following metrics:\n\n## Merge Requests Authored\n- Total MRs opened\n- Total MRs merged\n- Average time from open to merge\n- Largest MRs by lines changed\n\n## Code Review Activity\n- Total MRs reviewed\n- Average review turnaround time\n- Review comments left\n\n## Issue and Work Item Activity\n- Issues created\n- Issues closed\n- Issues assigned and completed\n\n## Summary Narrative\nWrite a 3–4 sentence professional summary suitable for a performance review, capturing the quality and impact of the contributions — not just the volume.\n\nNote: Focus on signal over noise. A developer who closes 5 complex issues matters more than 20 trivial ones.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_07597432c16a.json"
+}

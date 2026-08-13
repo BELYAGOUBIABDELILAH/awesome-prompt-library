@@ -1,0 +1,16 @@
+{
+  "id": "opl_6c2cea354555",
+  "slug": "docker-compose-autogenerator",
+  "title": "Docker Compose Autogenerator",
+  "prompt": "version: \"3.9\"\nservices:\n  {{ foreach container in containers }}\n    - name: {{ container.Id }}\n      image: \"{{ container.Image }}\"\n      ports:\n        - \"{{ port.Mappings[0].HostPort }}:{{ port.Mappings[0].Proto }/tcp \"\n      environment:\n        - \"{{ env.Name }}={{ env.Value }}\"\n      volumes:\n        - \"{{ mount.Source }}:{{ mount.Destination }}\"\n      depends_on:\n        - \"{{ network.Name }}\"\n  {{ end }}\nvolumes:\n  {{ foreach volume in mounts }}\n    - name: {{ volume.Name }}\n  {{ end }}\nnetworks:\n  {{ foreach network in networks }}\n    - id: {{ network.Name }}\n  {{ end }}\ncontainers:\n{{ foreach container in inspect_output }}\n- Id: {{ container.Id }}\nimage: {{ container.Image }}\nstate:\n  running: true\nconfig:\n  env:\n    - name: NGINX_VERSION\n      value: \"1.21.4\"\nexposed_ports:\n  port_80tcp:\n    host_port: 8080\nnetwork_settings:\nports:\n  port_80tcp:\n    host_port: 8080\nvolumes:\n- name: nginx_data\n  source: /var/lib/docker/volumes/nginx_data/_data\n  destination: /usr/share/nginx/html\ndepends_on:\n- network_name: {{ network.Name }}\n{{ end }}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_6c2cea354555.json"
+}

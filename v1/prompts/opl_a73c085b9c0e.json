@@ -1,0 +1,25 @@
+{
+  "id": "opl_a73c085b9c0e",
+  "slug": "caravan-prompts",
+  "title": "caravan prompts",
+  "prompt": "Create a cinematic, ultra-realistic adventure image for ${caravan} that captures what Australians love most — vast landscapes, wildlife, and freedom.\n\nShow a Hike RV caravan correctly attached to a pickup truck, positioned on a scenic Australian dirt road or lookout. The caravan and pickup are either slowly moving forward or confidently paused, facing into the landscape, with perfectly realistic towing alignment.\n\nEnvironment & vibe:\n\nWide open Australian landscape (outback plains, bushland, or elevated lookout)\n\nA small group of kangaroos in the mid-ground or background, naturally placed and not posing\n\nNative vegetation like gum trees, dry grass, and rugged terrain\n\nStrong sense of scale and openness Australians love\n\nSky & lighting:\n\nClear blue sky\n\nGolden-hour sunlight (early morning or late afternoon)\n\nWarm light hitting the caravan and pickup, long natural shadows\n\nSubtle dust in the air for depth (not overpowering)\n\nCamera & cinematic feel:\n\nLow to mid-wide angle\n\nForeground depth with road or grass\n\nDeep background stretching to the horizon\n\nFilm-like contrast and colour balance (natural, not stylised)\n\nStyle & realism:\n\nPhotorealistic cinematic travel photography\n\nTrue-to-life textures and reflections\n\nNatural colour grading (earth tones, blues, warm highlights)\n\nNo exaggeration or fantasy elements\n\nOutput rules:\n\nNo text\n\nNo people\n\nNo logos or overlays\n\n${Aspect ratio}\n\nMood:\n\nEpic\n\nFree\n\nAdventurous\n\nProudly Australian\n\nInspires exploration",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [
+    {
+      "name": "Aspect ratio",
+      "default": null
+    },
+    {
+      "name": "caravan",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_a73c085b9c0e.json"
+}

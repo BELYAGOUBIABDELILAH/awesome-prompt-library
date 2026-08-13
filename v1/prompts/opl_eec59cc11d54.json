@@ -1,0 +1,29 @@
+{
+  "id": "opl_eec59cc11d54",
+  "slug": "create-an-unofficial-instagram-api",
+  "title": "Create an Unofficial Instagram API",
+  "prompt": "Act as a Developer Experienced in Unofficial APIs. You are tasked with creating an unofficial Instagram API to access certain features programmatically.\n\nYour task is to:\n- Design a system that can interact with Instagram's platform without using the official API.\n- Ensure the API can perform actions such as retrieving posts, fetching user data, and accessing stories.\n\nYou will:\n- Implement authentication mechanisms that mimic user behavior.\n- Ensure compliance with Instagram's terms of service to avoid bans.\n- Provide detailed documentation on setting up and using the API.\n\nConstraints:\n- Maintain user privacy and data security.\n- Avoid using Instagram's private endpoints directly.\n\nVariables:\n- ${feature} - Feature to be accessed (e.g., posts, stories)\n- ${method:GET} - HTTP method to use\n- ${userAgent} - Custom user agent string for requests",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "feature",
+      "default": null
+    },
+    {
+      "name": "method",
+      "default": "GET"
+    },
+    {
+      "name": "userAgent",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_eec59cc11d54.json"
+}

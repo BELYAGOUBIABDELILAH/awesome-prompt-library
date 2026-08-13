@@ -1,0 +1,16 @@
+{
+  "id": "opl_baf323fea6b7",
+  "slug": "assess-third-party-dependency-risks",
+  "title": "Assess Third-Party Dependency Risks",
+  "prompt": "Assess the security and compliance risk of our dependencies:\n\nDependency file: [PASTE package.json / requirements.txt / go.mod / Gemfile.lock / pom.xml]\nScan results: [PASTE output from npm audit / pip-audit / snyk / etc. if available]\n\n## Dependency Risk Assessment\n\n### Vulnerability Analysis\nFor each vulnerable dependency found:\n\n| Package | Current Version | Vulnerability | CVSS | Fixed In | Action |\n|---|---|---|---|---|---|\n| [name] | [version] | [CVE-XXXX-XXXX] | [score] | [version] | Upgrade / Replace / Accept |\n\n### Severity Tiers\n Critical/High CVEs (fix immediately):\n[List with: package, CVE, attack vector, patch]\n\n Medium CVEs (fix this sprint):\n[List]\n\n⚪ Low CVEs (backlog):\n[List]\n\n### Outdated Dependencies (security hygiene)\nPackages more than [N] major versions behind:\n[List with upgrade path]\n\n### License Compliance\nCheck each dependency license against our allowed list:\n- GPL: [compatible / incompatible with our license]\n- LGPL: [...]\n- MIT/Apache 2.0: [✅ usually fine]\n\nLicense violations: [list any incompatible licenses]\n\n### Abandoned Dependencies\nDependencies with no commits in 12+ months:\n[List with recommended alternatives]\n\n### Remediation Plan\n| Priority | Package | Action | Owner | ETA |\n|---|---|---|---|---|",
+  "category": "Security",
+  "folder": "security",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_baf323fea6b7.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_7e242ed296c6",
+  "slug": "ensure-compliance-requirements",
+  "title": "Ensure Compliance Requirements",
+  "prompt": "Verify this code meets the following compliance requirements:\n\n[PASTE CODE]\n\nRequired standards: [GDPR / HIPAA / PCI-DSS / SOC2 / select applicable]\n\n## GDPR Compliance Check (if applicable)\n- [ ] Lawful basis for processing personal data documented\n- [ ] Consent mechanisms implemented correctly\n- [ ] Data subject rights implemented: access, correction, deletion, portability\n- [ ] Privacy by design: minimum data collection\n- [ ] Data breach notification capability (72-hour window)\n- [ ] DPA (Data Processing Agreement) requirements met for processors\n\n## HIPAA Compliance Check (if applicable)\n- [ ] PHI (Protected Health Information) identified and protected\n- [ ] Access controls: unique user IDs, automatic logoff, encryption\n- [ ] Audit controls: hardware, software, procedural\n- [ ] Transmission security: encryption in transit\n- [ ] Business Associate Agreements in place\n\n## PCI-DSS Check (if applicable)\n- [ ] Cardholder data never stored unencrypted\n- [ ] No storage of CVV, PIN, magnetic stripe data\n- [ ] PAN (Primary Account Number) masked in logs\n- [ ] Strong cryptography for transmission (TLS 1.2+)\n- [ ] Access restricted on need-to-know basis\n\n## SOC2 Type II Check (if applicable)\n- [ ] Availability: uptime monitoring and SLA enforcement\n- [ ] Confidentiality: data classification and access controls\n- [ ] Processing integrity: complete, accurate, timely processing\n- [ ] Privacy: personal information handled per commitments\n- [ ] Security: logical and physical access controls\n\n## Gap Report\nList each compliance gap with: requirement violated, severity, remediation steps, timeline.",
+  "category": "Security",
+  "folder": "security",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7e242ed296c6.json"
+}

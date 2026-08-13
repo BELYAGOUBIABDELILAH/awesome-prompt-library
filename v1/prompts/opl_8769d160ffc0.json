@@ -1,0 +1,16 @@
+{
+  "id": "opl_8769d160ffc0",
+  "slug": "understand-third-party-library-error",
+  "title": "Understand Third-Party Library Error",
+  "prompt": "Help me understand this cryptic error from a third-party library:\n\nError message: [PASTE FULL ERROR]\nLibrary: [NAME + VERSION]\nMy code: [PASTE RELEVANT CODE]\nWhat I was trying to do: [DESCRIBE]\n\n## Error Translation\nTranslate this error into plain English:\nWhat went wrong: [non-technical explanation]\nWhat the library expected: [...]\nWhat it got instead: [...]\n\n## Library Behavior\nExplain how this library works in the context of what I was doing:\n- The correct usage pattern\n- Where my code deviates from it\n- Common mistakes that produce this exact error\n\n## Root Cause in My Code\nThe specific line/block causing this: [CODE]\nThe problem: [explanation]\n\n## Fix\nCorrected code:\n[CORRECTED VERSION with explanation of each change]\n\n## Verify Fix\nTest this to confirm the fix works: [test command or code]\n\n## Documentation Pointer\nThe relevant section of the library docs that explains this: [section name / URL pattern]\nKey paragraph: [describe what it says]",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_8769d160ffc0.json"
+}

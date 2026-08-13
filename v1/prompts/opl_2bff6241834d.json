@@ -1,0 +1,16 @@
+{
+  "id": "opl_2bff6241834d",
+  "slug": "create-security-test-cases",
+  "title": "Create Security Test Cases",
+  "prompt": "Generate security test cases for:\n\nFeature/Endpoint: [DESCRIBE]\nCode: [PASTE relevant handler/controller code]\nAuthentication: [required / not required]\nUser input accepted: [list input fields]\n\n## Security Test Suite\n\n### Input Validation Tests\nTest each input field for:\n\n**SQL Injection**\n\\",
+  "category": "Security",
+  "folder": "security",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2bff6241834d.json"
+}

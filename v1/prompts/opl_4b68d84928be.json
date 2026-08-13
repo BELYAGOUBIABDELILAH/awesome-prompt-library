@@ -1,0 +1,16 @@
+{
+  "id": "opl_4b68d84928be",
+  "slug": "identify-breaking-changes-in-mr",
+  "title": "Identify Breaking Changes in MR",
+  "prompt": "Analyze this MR for breaking changes:\n\nMR diff: [PASTE CHANGES]\n\n## Breaking Change Detection\n\n### Public API Changes\n- Are any public function signatures modified? (parameters added/removed/retyped)\n- Are any public classes/interfaces changed?\n- Are any exported constants or enums modified?\n- Are any endpoints renamed, removed, or with changed request/response shapes?\n\n### Database Contract Changes\n- Schema changes that require migration?\n- Column renames or type changes?\n- Removed indexes that queries depend on?\n\n### Configuration Changes\n- New required environment variables?\n- Changed config file formats?\n- Removed config options that consumers might use?\n\n### Behavioral Changes\n- Same input now produces different output?\n- Error handling changed in a way consumers won't expect?\n- Timing or ordering changes in async operations?\n\n## Impact Assessment\nFor each breaking change found:\n- Who is affected? (other services, external clients, mobile apps)\n- Is there a migration path?\n- Can it be made backwards compatible?\n\n## Verdict\n No breaking changes\n Breaking changes with migration path\n Breaking changes requiring coordination before deploy",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4b68d84928be.json"
+}

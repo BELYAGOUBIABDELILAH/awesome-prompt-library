@@ -1,0 +1,16 @@
+{
+  "id": "opl_00200359664e",
+  "slug": "long-running-merge-requests-table",
+  "title": "Long-Running Merge Requests Table",
+  "prompt": "List all open merge requests that have been open for more than 30 days in: [PROJECT/GROUP]\n\nFor each MR, show:\n| MR Title | Author | Days Open | Last Activity | Reviewer(s) | Labels |\n\nThen categorize each MR as:\n-  Stale (no activity in 14+ days)\n-  Slow (active but dragging)\n-  Complex (large diff, many reviewers needed)\n\nAfter the table, provide:\n## Recommended Actions\nFor each stale MR: suggest close, reassign, or expedite.\nFor slow MRs: identify the bottleneck (missing review, failing CI, author unresponsive).\n\nGoal: help the team clear the review queue and improve merge velocity.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3857e1f00b70"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_00200359664e.json"
+}

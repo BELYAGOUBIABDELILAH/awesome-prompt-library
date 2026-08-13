@@ -1,0 +1,25 @@
+{
+  "id": "opl_add7a10c45da",
+  "slug": "hyper-realistic-3d-isometric-ottoman-masterpiece",
+  "title": "Hyper-Realistic 3D Isometric Ottoman Masterpiece",
+  "prompt": "Generate a hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash Ottoman historical parchment scroll unfurling across the background.\n\nThe scene captures the legacy, strategic genius, and world-changing impact of ${name:Fatih Sultan Mehmet} during ${event:the Conquest of Constantinople (1453)}, visualized through symbolic imagery, military motion, and spiritual determination, emerging directly from the parchment itself.\n\nParchment Annotations (Content-Adaptive – Ottoman History)\n\nThe parchment is filled with Ottoman-style handwritten calligraphy, ink sketches, miniature-style illustrations, strategic diagrams, and architectural motifs that dynamically adapt to ${name:Fatih Sultan Mehmet} and ${event:the Conquest of Constantinople (1453)}.\n\n• Identity & Legacy Notes\n\nBold Ottoman calligraphy spells ${name:Fatih Sultan Mehmet}, accompanied by manuscript annotations explaining his identity and his defining achievement, describing how ${event:the Conquest of Constantinople (1453)} reshaped Ottoman and world history.\n\n• Time & Origin Notes\n\nFlowing ink-drawn timeline arrows mark the reign period and historical context, with strong emphasis on ${event:1453}, connecting regions such as Edirne → Constantinople, symbolizing a decisive historical transition.\n\n• Strategic & Military Innovation Notes\n\nParchment diagrams adapt to the event and may include:\n\nLarge-scale Ottoman cannons\n\nSiege or campaign maps\n\nFortress layouts, naval routes, or reform schemas\n\nTactical arrows and motion lines illustrating execution of ${event:the Conquest of Constantinople}\n\nAll elements are annotated with handwritten strategic explanations.\n\n• Symbols, Attire & Instruments Notes\n\nInk sketches with labels dynamically adapt and may include:\n\nOttoman imperial armor and ceremonial attire\n\nSwords, banners, or tools relevant to ${event}\n\nArchitectural silhouettes (cities, mosques, fortresses, institutions)\n\nImperial tuğra motifs and wax seals\n\n• Cultural & Civilizational Significance Notes\n\nManuscript-style reflections describe ${event} as:\n\nA major turning point in Ottoman history\n\nA transformation of political, cultural, or civilizational order\n\nA symbol of leadership, vision, and statecraft\n\nA lasting contribution to world heritage\n\nComposition\n\nThe parchment scroll flows through space like a river of history, forming a continuous narrative.\n\nAt the center, ${name:Fatih Sultan Mehmet} breaks free from the parchment at the climactic moment of ${event:the Conquest of Constantinople}, symbolizing achievement, authority, and historical destiny.\n\n2D → 3D Transformation\n\nFlat black ink drawings—calligraphy, diagrams, symbols, and figures—seamlessly transform into hyper-realistic 3D stone, metal, fabric, skin, smoke, and light, while remaining visually tethered to the parchment surface.\n\nVisual Effects & Details\n\nAged parchment texture, visible ink bleed, faded edges, floating Ottoman calligraphy fragments, imperial wax seals, geometric motifs, drifting dust particles, mist, and deep atmospheric perspective.\n\nLighting\n\nEpic golden-hour cinematic lighting illuminates the central figure and key elements of ${event}, dramatically contrasted against the monochrome parchment background, emphasizing historical weight and legacy.\n\nTechnical Specs\n\n8K resolution\nCinematic depth of field\nUnreal Engine 5 render\nMuseum-quality realism\nGrand scale\nUltra-detailed textures\n\n--ar 16:9\n--stylize 350\n--no flat, simple, cartoon, borders, frame, modern buildings",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "event",
+      "default": "the Conquest of Constantinople (1453)"
+    },
+    {
+      "name": "name",
+      "default": "Fatih Sultan Mehmet"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_add7a10c45da.json"
+}

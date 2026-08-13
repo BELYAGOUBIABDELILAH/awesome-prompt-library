@@ -1,0 +1,16 @@
+{
+  "id": "opl_68fe08e3cb9d",
+  "slug": "the-glass-doppelg-nger",
+  "title": "The Glass Doppelgänger",
+  "prompt": "{\n  \"title\": \"The Glass Doppelgänger\",\n  \"description\": \"A high-octane psychological thriller scene where a woman is engaged in a visceral physical combat with her own sentient reflection emerging from a shattered surface.\",\n  \"prompt\": \"You will perform an image edit using the provided photo to create a high-budget movie frame. The scene features the subject in a fierce life-or-death struggle against a supernatural mirror entity. The image must be Ultra-Photorealistic, utilizing cinematic lighting and highly detailed textures. The style is that of a blockbuster film, shot on Arri Alexa with a shallow depth of field to emphasize the intensity. Ensure realistic physics for the flying glass shards.\",\n  \"details\": {\n    \"year\": \"2025\",\n    \"genre\": \"Cinematic Photorealism\",\n    \"location\": \"A derelict, neon-lit dressing room with peeling wallpaper and a wall-sized vanity mirror that is shattering outwards.\",\n    \"lighting\": [\n      \"Volumetric stage lighting from above\",\n      \"Flickering fluorescent buzz\",\n      \"Dramatic rim lighting highlighting sweat and glass texture\"\n    ],\n    \"camera_angle\": \"Dynamic low-angle medium shot, slightly Dutch tilted to enhance the chaos.\",\n    \"emotion\": [\n      \"Ferocity\",\n      \"Desperation\",\n      \"Adrenaline\"\n    ],\n    \"color_palette\": [\n      \"Electric cyan\",\n      \"Gritty concrete grey\",\n      \"Deep shadowy blacks\",\n      \"Metallic silver\"\n    ],\n    \"atmosphere\": [\n      \"Violent\",\n      \"Surreal\",\n      \"Claustrophobic\",\n      \"Kinetic\"\n    ],\n    \"environmental_elements\": \"Thousands of micro-shards of glass suspended in the air (bullet-time effect), dust motes dancing in the light beams, overturned furniture.\",\n    \"subject1\": {\n      \"costume\": \"crop top, mini skirt\",\n      \"subject_expression\": \"A primal scream of exertion, eyes wide with intensity.\",\n      \"subject_action\": \"fighting with mirror\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"cartoonish effects\",\n        \"low resolution\",\n        \"blurry textures\",\n        \"static pose\",\n        \"calm demeanor\"\n      ],\n      \"exclude_styles\": [\n        \"3D render\",\n        \"illustration\",\n        \"painting\",\n        \"anime\"\n      ],\n      \"exclude_colors\": [\n        \"pastel pinks\",\n        \"sunshine yellow\"\n      ],\n      \"exclude_objects\": [\n        \"magical glowing orbs\",\n        \"wands\",\n        \"animals\"\n      ]\n    }\n  }\n}",
+  "category": "Image & Design",
+  "folder": "image-design",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_68fe08e3cb9d.json"
+}

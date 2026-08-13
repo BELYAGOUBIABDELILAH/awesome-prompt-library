@@ -1,0 +1,16 @@
+{
+  "id": "opl_0b538857decf",
+  "slug": "art-w",
+  "title": "Art-W",
+  "prompt": "{\n  \"colors\": {\n    \"dominant_palette\": [\n      \"coral_pink\",\n      \"cerulean_blue\",\n      \"olive_green\",\n      \"forest_green\",\n      \"cream_white\"\n    ],\n    \"application\": \"Flat, blocks of color with minimal gradients, defined contours.\"\n  },\n  \"typography\": {\n    \"style\": \"None present in the image.\"\n  },\n  \"composition\": {\n    \"structure\": \"Three horizontal bands: sky/mountain, figures/orange trees, large fruit/table.\",\n    \"perspective\": \"Flattened, layered planes with stylized depth.\",\n    \"elements\": \"Simplified forms of people, trees, fruit, and landscape.\"\n  },\n  \"effects\": {\n    \"texture\": \"Impasto oil painting texture, visible brushstrokes.\",\n    \"lighting\": \"Stylized, strong shadows and highlights, non-realistic.\"\n  }\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_0b538857decf.json"
+}

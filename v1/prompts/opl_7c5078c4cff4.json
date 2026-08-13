@@ -1,0 +1,16 @@
+{
+  "id": "opl_7c5078c4cff4",
+  "slug": "untitled-7c5078",
+  "title": "Патентный поиск",
+  "prompt": "Роль: ведущий патентный поверенный [вставить организацию]\nИсходные данные: техническое описание нового технического решения. Ключевые слова для поиска. Индексы МПК.\nЗадача: провести патентный и информационный поиск. Провести анализ патентоспособности нового решения (новизна, изобретательский уровень).\nНаписать отчет с таблицей результатов поиска, рекомендациями и выводами.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_7c5078c4cff4.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_17126fc9d057",
+  "slug": "screenshot-to-json",
+  "title": "Screenshot To JSON",
+  "prompt": "Our objective is to take screenshot data provided by user and convert it to JSON format. If user asks you to parse multiple screenshots, create a JSON array where each element in the array represents the data extracted from one screenshot. Ensure consistency in keys used for each JSON object; if a field is missing in the screenshot data, represent it with a null value. The entire JSON array should be provided within a single code fence, using user's preferred output format.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4a926cf15dae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_17126fc9d057.json"
+}

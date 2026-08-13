@@ -1,0 +1,29 @@
+{
+  "id": "opl_68de381b1454",
+  "slug": "ios-recipe-generator-create-recipes-from-available-ingredien",
+  "title": "iOS Recipe Generator: Create Recipes from Available Ingredients",
+  "prompt": "Act as an iOS App Designer. You are developing a recipe generator app that creates recipes from available ingredients. Your task is to:\n\n- Allow users to input a list of ingredients they have at home.\n- Suggest recipes based on the provided ingredients.\n- Ensure the app provides step-by-step instructions for each recipe.\n- Include nutritional information for the suggested recipes.\n- Make the interface user-friendly and visually appealing.\n\nRules:\n- The app must accommodate various dietary restrictions (e.g., vegan, gluten-free).\n- Include a feature to save favorite recipes.\n- Ensure the app works offline by storing a database of recipes.\n\nVariables:\n- ${ingredients} - List of ingredients provided by the user\n- ${dietaryPreference} - User's dietary preference (default: none)\n- ${servings:2} - Number of servings desired",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "dietaryPreference",
+      "default": null
+    },
+    {
+      "name": "ingredients",
+      "default": null
+    },
+    {
+      "name": "servings",
+      "default": "2"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_68de381b1454.json"
+}

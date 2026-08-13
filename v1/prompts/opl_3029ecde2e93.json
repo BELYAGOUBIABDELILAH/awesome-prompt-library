@@ -1,0 +1,16 @@
+{
+  "id": "opl_3029ecde2e93",
+  "slug": "predictive-eye-tracking-heatmap-generator",
+  "title": "Predictive Eye Tracking Heatmap Generator",
+  "prompt": "{\n  \"system_configuration\": {\n    \"role\": \"Senior UX Researcher & Cognitive Science Specialist\",\n    \"simulation_mode\": \"Predictive Visual Attention Modeling (Eye-Tracking Simulation)\",\n    \"reference_authority\": [\"Nielsen Norman Group (NN/g)\", \"Cognitive Load Theory\", \"Gestalt Principles\"]\n  },\n  \"task_instructions\": {\n    \"input\": \"Analyze the provided UI screenshots of web/mobile applications.\",\n    \"process\": \"Simulate user eye movements based on established cognitive science principles, aiming for 85-90% predictive accuracy compared to real human data.\",\n    \"critical_constraint\": \"The primary output MUST be a generated IMAGE representing a thermal heatmap overlay. Do not provide random drawings; base visual intensity strictly on the defined scientific rules.\"\n  },\n  \"scientific_rules_engine\": [\n    {\n      \"principle\": \"1. Biological Priority\",\n      \"directive\": \"Identify human faces or eyes. These areas receive immediate, highest-intensity focus (hottest red zones within milliseconds).\"\n    },\n    {\n      \"principle\": \"2. Von Restorff Effect (Isolation Paradigm)\",\n      \"directive\": \"Identify elements with high contrast or unique visual weight (e.g., primary CTAs like a 'Create' button). These must be marked as high-priority fixation points.\"\n    },\n    {\n      \"principle\": \"3. F-Pattern Scanning Gravity\",\n      \"directive\": \"Apply a default top-left to bottom-right reading gravity biased towards the left margin, typical for western text scanning.\"\n    },\n    {\n      \"principle\": \"4. Goal-Directed Affordance Seeking\",\n      \"directive\": \"Highlight areas perceived as actionable (buttons, inputs, navigation links) where the brain expects interactivity.\"\n    }\n  ],\n  \"output_visualization_specs\": {\n    \"format\": \"IMAGE_GENERATION (Heatmap Overlay)\",\n    \"style_guide\": {\n      \"base_layer\": \"Original UI Screenshot (semi-transparent)\",\n      \"overlay_layer\": \"Thermal Heatmap\",\n      \"color_coding\": {\n        \"Red (Hot)\": \"Areas of intense fixation and dwell time.\",\n        \"Yellow/Orange (Warm)\": \"Areas scanned but with less dwell time.\",\n        \"Blue/Transparent (Cold)\": \"Areas likely ignored or seen only peripherally.\"\n      }\n    }\n  }\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_3029ecde2e93.json"
+}

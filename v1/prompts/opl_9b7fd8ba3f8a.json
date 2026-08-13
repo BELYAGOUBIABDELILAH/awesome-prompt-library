@@ -1,0 +1,16 @@
+{
+  "id": "opl_9b7fd8ba3f8a",
+  "slug": "night-neon-alley-half-body-edgy",
+  "title": "Night Neon Alley (half-body, edgy)",
+  "prompt": "{\n  \"category\": \"NEON_NIGHT_ALLEY_HALF_BODY\",\n  \"subject\": {\n    \"demographics\": \"Adult woman, 21-27, Turkish-looking.\",\n    \"hair\": {\n      \"color\": \"Dark brown\",\n      \"style\": \"Loose, slightly messy night-out hair\",\n      \"texture\": \"Strands visible, slight shine\",\n      \"movement\": \"A few flyaways catch neon rim light\"\n    },\n    \"face\": {\n      \"eyes\": \"Direct eye contact, sharp catchlights\",\n      \"makeup\": \"Night-out subtle glam, not heavy\",\n      \"skin_details\": \"Real pores, slight sheen, no smoothing\"\n    },\n    \"clothing\": {\n      \"outfit\": \"Edgy black jacket/top, no logos\",\n      \"fabric\": \"Leather-like or matte textile with realistic texture\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\n        \"Small silver hoops\"\n      ]\n    }\n  },\n  \"pose\": {\n    \"type\": \"Half-body wall lean\",\n    \"orientation\": \"Shoulder against wall, chin slightly raised\",\n    \"hands\": \"One hand in jacket pocket, other lightly touching collar\",\n    \"gaze\": \"Strong eye contact, subtle smirk\",\n    \"posture\": \"Relaxed confident\"\n  },\n  \"setting\": {\n    \"environment\": \"Neon-lit alley at night\",\n    \"background_elements\": [\n      \"Neon glow (no readable text)\",\n      \"Wet ground reflections\",\n      \"Soft haze that reads as atmosphere, not smoke\"\n    ],\n    \"depth\": \"Subject sharp, background bokeh neon\"\n  },\n  \"camera\": {\n    \"shot_type\": \"Half-body portrait\",\n    \"angle\": \"Eye-level\",\n    \"focal_length_equivalent\": \"35-50mm pro OR 26mm phone night mode variant\",\n    \"framing\": \"4:5, asymmetrical composition\",\n    \"focus\": \"Eyes sharp, neon blur behind\"\n  },\n  \"lighting\": {\n    \"source\": \"Neon practical lights + ambient city\",\n    \"direction\": \"Side rim from neon, soft fill from street bounce\",\n    \"highlights\": \"Controlled neon rim on hair and cheek edge\",\n    \"shadows\": \"Rich, realistic night contrast\"\n  },\n  \"mood_and_expression\": {\n    \"tone\": \"Edgy, confident, stylish\",\n    \"expression\": \"Calm intensity\",\n    \"atmosphere\": \"Urban night, cinematic\"\n  },\n  \"style_and_realism\": {\n    \"style\": \"Photorealistic nightlife portrait\",\n    \"fidelity\": \"High detail, realistic noise allowed\"\n  },\n  \"technical_details\": {\n    \"aspect_ratio\": \"4:5\",\n    \"noise\": \"Low-light grain (realistic)\",\n    \"motion_blur\": \"None on face; slight allowed in background bokeh only\"\n  },\n  \"constraints\": {\n    \"adult_only\": true,\n    \"no_text\": true,\n    \"no_logos\": true,\n    \"no_watermarks\": true\n  },\n  \"negative_prompt\": [\n    \"readable neon signs\",\n    \"logo\",\n    \"watermark\",\n    \"plastic skin\",\n    \"cgi look\",\n    \"extra fingers\",\n    \"warped face\",\n    \"duplicate subject\"\n  ]\n}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dab9fa094922"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_9b7fd8ba3f8a.json"
+}
