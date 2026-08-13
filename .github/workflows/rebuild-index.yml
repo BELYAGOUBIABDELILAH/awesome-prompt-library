@@ -1,0 +1,63 @@
+name: Rebuild Prompt Index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/categories/**'
+      - 'data/prompts.json'
+      - 'scripts/generate-tree.js'
+      - 'scripts/build-registry.js'
+      - '.github/workflows/rebuild-index.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: rebuild-prompt-index
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Regenerate prompts tree
+        run: node scripts/generate-tree.js
+
+      - name: Build canonical registry
+        run: node scripts/build-registry.js
+
+      - name: Validate canonical registry
+        run: node scripts/validate-registry.js
+
+      - name: Commit and push generated changes
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add prompts/ README.md data/prompts.json data/prompts.csv data/registry.jsonl data/sources.json data/quarantine.jsonl data/registry-stats.json
+
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: rebuild prompt index [skip ci]"
+          git push origin main

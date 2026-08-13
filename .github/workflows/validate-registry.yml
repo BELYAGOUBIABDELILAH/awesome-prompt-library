@@ -1,0 +1,31 @@
+name: Validate prompt registry
+
+on:
+  pull_request:
+    paths:
+      - 'data/prompts.json'
+      - 'scripts/build-registry.js'
+      - 'scripts/validate-registry.js'
+      - 'schemas/registry-record.schema.json'
+      - '.github/workflows/validate-registry.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Rebuild registry
+        run: node scripts/build-registry.js
+      - name: Validate registry
+        run: node scripts/validate-registry.js
+      - name: Check generated files are committed
+        run: git diff --exit-code -- data/registry.jsonl data/sources.json data/quarantine.jsonl data/registry-stats.json

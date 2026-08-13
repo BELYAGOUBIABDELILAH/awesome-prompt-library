@@ -1,0 +1,812 @@
+[
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-2",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-2.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-3",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-3.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-4",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-4.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-5",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-5.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-6",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-6.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-7",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-7.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-8",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-8.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-9",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-9.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-10",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-10.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-11",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-11.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-12",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-12.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-13",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-13.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-14",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-14.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-15",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-15.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-16",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-16.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-17",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-17.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-18",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-18.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-19",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-19.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-20",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-20.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-21",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-21.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-22",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-22.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-23",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-23.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-24",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-24.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-25",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-25.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-26",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-26.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-27",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-27.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-28",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-28.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-29",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-29.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-30",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-30.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-31",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-31.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-32",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-32.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-33",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-33.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-34",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-34.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-35",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-35.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-36",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-36.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-37",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-37.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-38",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-38.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-39",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-39.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-40",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-40.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-41",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-41.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-42",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-42.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-43",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-43.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-44",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-44.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-45",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-45.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-46",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-46.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-47",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-47.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-48",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-48.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-49",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-49.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-50",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-50.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-51",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-51.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-52",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-52.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-53",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-53.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-54",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-54.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-55",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-55.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-56",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-56.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-57",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-57.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-58",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-58.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-59",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-59.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-60",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-60.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-61",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-61.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-62",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-62.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-63",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-63.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-64",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-64.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-65",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-65.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-66",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-66.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-67",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-67.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-68",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-68.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-69",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-69.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-70",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-70.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-71",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-71.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-72",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-72.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-73",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-73.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-74",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-74.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-75",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-75.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-76",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-76.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-77",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-77.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-78",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-78.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-79",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-79.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-80",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-80.md"
+  },
+  {
+    "act": "Analyze Security Scan Results",
+    "category": "Security",
+    "prompt": "Triage these security scan results:\n\nScan output: [PASTE SCAN RESULTS — SAST / DAST / dependency scan / container scan]\nTool used: [Semgrep / Snyk / Trivy / GitLab SAST / Bandit / etc.]\nApplication: [describe — web API / mobile backend / internal tool]\n\n## Triage Process\n\n### False Positive Identification\nFor each finding, assess:\n- Is this finding actually reachable by an attacker given our application's context?\n- Is the vulnerable code path actually executed?\n- Are there compensating controls (WAF, input validation upstream)?\n\nMark as false positive with justification, or confirm as real finding.\n\n### Real Findings — Severity Assessment\n\n#### Critical (must fix before next release)\n| Finding | Location | Why Critical | Fix |\n|---|---|---|---|\n\n#### High (fix within this sprint)\n| Finding | Location | Why High | Fix |\n|---|---|---|---|\n\n#### Medium (fix within this quarter)\n| Finding | Location | Why Medium | Fix |\n|---|---|---|---|\n\n#### Low / Informational (backlog)\n[Brief list]\n\n### Remediation Priorities\nRanked by: severity × exploitability × fix difficulty\n\nTop 5 to fix immediately:\n1. [Finding] — Fix: [specific code change]\n2. [...]\n\n### Scan Configuration Improvements\nBased on the false positive rate, suggest improvements to scan rules to reduce noise.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-security-scan-results-81",
+    "folder": "security",
+    "path": "prompts/security/analyze-security-scan-results-81.md"
+  }
+]
