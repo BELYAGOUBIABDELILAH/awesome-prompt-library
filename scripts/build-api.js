@@ -27,15 +27,22 @@ const ROOT       = path.resolve(__dirname, '..');
 const REGISTRY   = path.join(ROOT, 'data', 'registry.jsonl');
 const STATS_FILE = path.join(ROOT, 'data', 'registry-stats.json');
 const API_DIR    = path.join(ROOT, 'api', 'v1');
-let repoName = 'open-prompt-library';
-try {
-  const execSync = require('child_process').execSync;
-  const remoteUrl = execSync('git remote get-url origin', { encoding: 'utf8' }).trim();
-  const match = remoteUrl.match(/\/([^\/]+)\.git$/);
-  if (match && match[1]) {
-    repoName = match[1];
+let repoName = 'awesome-prompt-library';
+if (process.env.GITHUB_REPOSITORY) {
+  const parts = process.env.GITHUB_REPOSITORY.split('/');
+  if (parts.length === 2) {
+    repoName = parts[1];
   }
-} catch (e) {}
+} else {
+  try {
+    const execSync = require('child_process').execSync;
+    const remoteUrl = execSync('git remote get-url origin', { encoding: 'utf8' }).trim();
+    const match = remoteUrl.match(/\/([^\/]+?)(?:\.git)?$/);
+    if (match && match[1]) {
+      repoName = match[1];
+    }
+  } catch (e) {}
+}
 
 const BASE_URL   = `https://belyagoubiabdelilah.github.io/${repoName}`;
 

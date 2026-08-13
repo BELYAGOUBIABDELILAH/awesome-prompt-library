@@ -1,7 +1,7 @@
 {
   "folder": "food-recipes",
   "name": "Food & Recipes",
-  "last_updated": "2026-08-13T17:50:41.217Z",
+  "last_updated": "2026-08-13T17:55:34.028Z",
   "total": 3,
   "prompts": [
     {
@@ -18,7 +18,7 @@
         "src_4a926cf15dae"
       ],
       "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_4d5ab609701c.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_4d5ab609701c.json"
     },
     {
       "id": "opl_2f65345f210c",
@@ -34,7 +34,7 @@
         "src_4a926cf15dae"
       ],
       "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_2f65345f210c.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_2f65345f210c.json"
     },
     {
       "id": "opl_5f6e8d7fe359",
@@ -50,7 +50,7 @@
         "src_dab9fa094922"
       ],
       "revision": 1,
-      "url": "https://belyagoubiabdelilah.github.io/open-prompt-library/v1/prompts/opl_5f6e8d7fe359.json"
+      "url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/prompts/opl_5f6e8d7fe359.json"
     }
   ]
 }
