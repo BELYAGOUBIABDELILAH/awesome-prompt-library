@@ -4,7 +4,7 @@
 
 <br/>
 
-![Prompts](https://img.shields.io/badge/prompts-3469-6E40C9?style=flat-square)
+![Prompts](https://img.shields.io/badge/prompts-3470-6E40C9?style=flat-square)
 ![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)
 ![License](https://img.shields.io/github/license/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/BELYAGOUBIABDELILAH/open-prompt-library?style=flat-square&color=green)
@@ -40,7 +40,7 @@ No installation. No account. Just copy and use.
 
 ## ◈ Categories
 
-> **3469 prompts** across **19 categories** — updated regularly.
+> **3470 prompts** across **19 categories** — updated regularly.
 
 | Category | Prompts | Browse |
 |---|---|---|
@@ -57,7 +57,7 @@ No installation. No account. Just copy and use.
 | Health & Wellness | 109 | [→ prompts/health-wellness](prompts/health-wellness) |
 | Research & Analysis | 103 | [→ prompts/research-analysis](prompts/research-analysis) |
 | Sales & Business | 101 | [→ prompts/sales-business](prompts/sales-business) |
-| Games & Fun | 93 | [→ prompts/games-fun](prompts/games-fun) |
+| Games & Fun | 94 | [→ prompts/games-fun](prompts/games-fun) |
 | Product & Strategy | 88 | [→ prompts/product-strategy](prompts/product-strategy) |
 | Travel & Places | 87 | [→ prompts/travel-places](prompts/travel-places) |
 | Food & Recipes | 82 | [→ prompts/food-recipes](prompts/food-recipes) |
@@ -71,7 +71,7 @@ The original export is preserved, while the canonical registry provides a determ
 | File | Format | Records | Use case |
 |---|---|---|---|
 | [`data/registry.jsonl`](data/registry.jsonl) | JSONL | Generated | Stable IDs, provenance states, variables, and deduplication |
-| [`data/prompts.json`](data/prompts.json) | JSON array | 3,469 | Original imported corpus and compatibility export |
+| [`data/prompts.json`](data/prompts.json) | JSON array | 3,470 | Original imported corpus and compatibility export |
 | [`data/prompts.csv`](data/prompts.csv) | CSV UTF-8 | 3,469 | Excel, pandas, Sheets, SQL imports |
 | [`data/sources.json`](data/sources.json) | JSON array | Generated | Source inventory and review status |
 
