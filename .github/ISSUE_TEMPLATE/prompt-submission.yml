@@ -1,0 +1,80 @@
+name: Submit a prompt
+description: Propose a new prompt record for review.
+title: "[Prompt] "
+labels:
+  - needs-review
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing. Please provide public, reviewable evidence. Do not include API keys, private data, confidential prompts, or user conversations.
+  - type: input
+    id: use-case
+    attributes:
+      label: Use case
+      description: What concrete task should this prompt help someone complete?
+      placeholder: Summarize a pull request into reviewer-ready findings
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt text
+      description: Paste the complete prompt, including its instructions and placeholders.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: variables
+    attributes:
+      label: Variables
+      description: List each variable, what it means, whether it is required, and one safe example.
+      placeholder: |
+        input — required — text to analyze — “public pull request diff”
+  - type: input
+    id: source-url
+    attributes:
+      label: Source URL
+      description: Public URL for the original prompt or inspiration. If original, write “Original work”.
+      placeholder: https://example.com/source
+    validations:
+      required: true
+  - type: input
+    id: model-tested
+    attributes:
+      label: Model or runtime tested
+      description: Name the model or runtime and the date tested. Do not claim success without evidence.
+      placeholder: Model name, version, and YYYY-MM-DD
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Prompt language
+      options:
+        - English
+        - French
+        - Arabic
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Suggested category
+      placeholder: coding, writing, research, automation
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Contributor confirmations
+      options:
+        - label: I searched the registry for duplicates.
+          required: true
+        - label: I have the right to submit this prompt or have provided a public source and license context.
+          required: true
+        - label: The prompt contains no API keys, personal data, private company data, or confidential instructions.
+          required: true
+        - label: I understand that submission does not imply approval, testing, or verification.
+          required: true

@@ -18,6 +18,10 @@ Every contribution — big or small — makes this resource better for everyone.
 - Adding **1 prompt** → open a PR directly
 - Adding **10+ prompts** → open an issue first to coordinate
 
+For the current review workflow, start with the [community guidance](COMMUNITY.md) and use the structured [prompt submission form](https://github.com/BELYAGOUBIABDELILAH/open-prompt-library/issues/new?template=prompt-submission.yml) when you are proposing a new record. Reports about duplicates, provenance, stale content, safety, or missing tests should use the [record report form](https://github.com/BELYAGOUBIABDELILAH/open-prompt-library/issues/new?template=record-report.yml).
+
+Submitting a prompt does not make it approved, tested, verified, or recommended. Those states require reviewable evidence and are maintained separately from the contribution itself.
+
 ---
 
 ## How to contribute

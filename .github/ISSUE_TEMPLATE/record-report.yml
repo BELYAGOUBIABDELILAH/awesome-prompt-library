@@ -1,0 +1,53 @@
+name: Report a registry record
+description: Report a duplicate, provenance issue, metadata problem, stale record, safety concern, or missing test.
+title: "[Report] "
+labels:
+  - needs-review
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please report public, reproducible concerns. Do not paste private prompts, secrets, personal data, or confidential inputs.
+  - type: input
+    id: record
+    attributes:
+      label: Stable ID or slug
+      description: Identify the record that needs attention.
+      placeholder: opl_... or prompt-slug
+    validations:
+      required: true
+  - type: dropdown
+    id: report-type
+    attributes:
+      label: Report type
+      options:
+        - Duplicate candidate
+        - Missing or incorrect provenance
+        - Metadata or category problem
+        - Needs reproducible test
+        - Stale or deprecated content
+        - Safety or privacy concern
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: explanation
+    attributes:
+      label: What should be reviewed?
+      description: Explain the problem and the expected correction.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Public evidence
+      description: Include public URLs, duplicate IDs, or safe reproduction notes. Never include confidential inputs.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Reporter confirmations
+      options:
+        - label: This report contains no secrets, personal data, private company data, or confidential instructions.
+          required: true
+        - label: I understand that maintainers may label this report for review, testing, duplication, or archival.
+          required: true
