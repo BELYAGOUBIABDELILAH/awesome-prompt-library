@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**88 prompts in this category**
+**89 prompts in this category**
 
 ## Table of Contents
 
@@ -91,6 +91,7 @@
 - [Giant Object in City](giant-object-in-city-82.md)
 - [Giant Object in City](giant-object-in-city-83.md)
 - [Giant Object in City](giant-object-in-city-84.md)
+- [Giant Object in City](giant-object-in-city-85.md)
 - [Israel Travel Planner](israel-travel-planner.md)
 - [Microphone Purchasing Advice](microphone-purchasing-advice.md)
 - [Travel Planner Prompt](travel-planner-prompt.md)
