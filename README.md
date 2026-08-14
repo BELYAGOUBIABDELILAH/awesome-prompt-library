@@ -170,7 +170,7 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Coding & Development | 851 | [→ prompts/coding-development](prompts/coding-development) |
 | Image & Design | 472 | [→ prompts/image-design](prompts/image-design) |
 | Writing & Content | 253 | [→ prompts/writing-content](prompts/writing-content) |
-| Data & Analytics | 218 | [→ prompts/data-analytics](prompts/data-analytics) |
+| Data & Analytics | 219 | [→ prompts/data-analytics](prompts/data-analytics) |
 | Marketing & Social | 186 | [→ prompts/marketing-social](prompts/marketing-social) |
 | General | 154 | [→ prompts/general](prompts/general) |
 | AI & Automation | 141 | [→ prompts/ai-automation](prompts/ai-automation) |
