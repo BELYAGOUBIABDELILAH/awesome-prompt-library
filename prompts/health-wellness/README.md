@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**111 prompts in this category**
+**112 prompts in this category**
 
 ## Table of Contents
 
@@ -91,6 +91,7 @@
 - [Act as a Health Recovery and Weight Loss Specialist](act-as-a-health-recovery-and-weight-loss-specialist-83.md)
 - [Act as a Health Recovery and Weight Loss Specialist](act-as-a-health-recovery-and-weight-loss-specialist-84.md)
 - [Act as a Health Recovery and Weight Loss Specialist](act-as-a-health-recovery-and-weight-loss-specialist-85.md)
+- [Act as a Health Recovery and Weight Loss Specialist](act-as-a-health-recovery-and-weight-loss-specialist-86.md)
 - [AI Human Operator](ai-human-operator.md)
 - [Ayurveda Food Tester](ayurveda-food-tester.md)
 - [Browser Use Agents](browser-use-agents.md)
