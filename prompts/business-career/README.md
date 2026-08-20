@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**140 prompts in this category**
+**141 prompts in this category**
 
 ## Table of Contents
 
@@ -98,6 +98,7 @@
 - [AI Workflow Automation Specialist](ai-workflow-automation-specialist-87.md)
 - [AI Workflow Automation Specialist](ai-workflow-automation-specialist-88.md)
 - [AI Workflow Automation Specialist](ai-workflow-automation-specialist-89.md)
+- [AI Workflow Automation Specialist](ai-workflow-automation-specialist-90.md)
 - [Annual Leave Balance Adjustment Processor](annual-leave-balance-adjustment-processor.md)
 - [Annual Summary Creator](annual-summary-creator.md)
 - [Audit Codebase for Compliance](audit-codebase-for-compliance.md)
