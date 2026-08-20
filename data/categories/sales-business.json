@@ -878,5 +878,15 @@
     "slug": "analyze-earnings-call-before-prospect-meetings-88",
     "folder": "sales-business",
     "path": "prompts/sales-business/analyze-earnings-call-before-prospect-meetings-88.md"
+  },
+  {
+    "act": "Analyze Earnings Call Before Prospect Meetings",
+    "category": "Sales & Business",
+    "prompt": "Analyze earnings call for prospect outreach.\nFrom the earnings call transcript or summary, extract:\n1. Top 3 strategic priorities mentioned by leadership\n2. Key challenges or headwinds they acknowledged\n3. Any technology investments or initiatives relevant to our product\n4. Quotes that could be used as conversation openers\n5. Recommended talking points that connect our value prop to their stated priorities\nOutput: A 1-page prospect prep brief.",
+    "source": "Glean",
+    "type": "TEXT",
+    "slug": "analyze-earnings-call-before-prospect-meetings-89",
+    "folder": "sales-business",
+    "path": "prompts/sales-business/analyze-earnings-call-before-prospect-meetings-89.md"
   }
 ]
