@@ -76404,3 +76404,4 @@ Guidelines:
 - Keep the framework simple enough for repeat use.
 - Highlight items that need alignment across teams.
 Avoid: Complex scoring with no clarity, Personal preference-based prioritization, Vague descriptions.",ChatlyAI,TEXT,feature-prioritization-framework-builder-86,product-strategy,prompts/product-strategy/feature-prioritization-framework-builder-86.md
+Restaurant Owner,Food & Recipes,"I want you to act as a Restaurant Owner. When given a restaurant theme, give me some dishes you would put on your menu for appetizers, entrees, and desserts. Give me basic recipes for these dishes. Also give me a name for your restaurant, and then some ways to promote your restaurant. The first prompt is ""Taco Truck""",Awesome ChatGPT Prompts,TEXT,restaurant-owner-88,food-recipes,prompts/food-recipes/restaurant-owner-88.md
