@@ -182,7 +182,7 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Sales & Business | 108 | [→ prompts/sales-business](prompts/sales-business) |
 | Games & Fun | 102 | [→ prompts/games-fun](prompts/games-fun) |
 | Product & Strategy | 97 | [→ prompts/product-strategy](prompts/product-strategy) |
-| Travel & Places | 95 | [→ prompts/travel-places](prompts/travel-places) |
+| Travel & Places | 96 | [→ prompts/travel-places](prompts/travel-places) |
 | Food & Recipes | 91 | [→ prompts/food-recipes](prompts/food-recipes) |
 | Philosophy & Humanities | 90 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
 | Education & Learning | 70 | [→ prompts/education-learning](prompts/education-learning) |
