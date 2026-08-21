@@ -76803,3 +76803,11 @@ Variables:
 - ${dietaryPreferences} - Specific dietary needs or restrictions
 - ${fitnessLevel} - Current fitness level and any limitations
 - ${healthGoals} - The specific health and weight loss goals of the individual",Awesome ChatGPT Prompts,TEXT,act-as-a-health-recovery-and-weight-loss-specialist-92,health-wellness,prompts/health-wellness/act-as-a-health-recovery-and-weight-loss-specialist-92.md
+Analyze Earnings Call Before Prospect Meetings,Sales & Business,"Analyze earnings call for prospect outreach.
+From the earnings call transcript or summary, extract:
+1. Top 3 strategic priorities mentioned by leadership
+2. Key challenges or headwinds they acknowledged
+3. Any technology investments or initiatives relevant to our product
+4. Quotes that could be used as conversation openers
+5. Recommended talking points that connect our value prop to their stated priorities
+Output: A 1-page prospect prep brief.",Glean,TEXT,analyze-earnings-call-before-prospect-meetings-91,sales-business,prompts/sales-business/analyze-earnings-call-before-prospect-meetings-91.md
