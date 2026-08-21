@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**161 prompts in this category**
+**162 prompts in this category**
 
 ## Table of Contents
 
@@ -101,6 +101,7 @@
 - [Break Down Costs](break-down-costs-89.md)
 - [Break Down Costs](break-down-costs-90.md)
 - [Break Down Costs](break-down-costs-91.md)
+- [Break Down Costs](break-down-costs-92.md)
 - [Casual day planner](casual-day-planner.md)
 - [Chemical Reactor](chemical-reactor.md)
 - [Classical Music Composer](classical-music-composer.md)
