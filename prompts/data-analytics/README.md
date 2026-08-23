@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**228 prompts in this category**
+**229 prompts in this category**
 
 ## Table of Contents
 
@@ -97,6 +97,7 @@
 - [3D City Prompt](3d-city-prompt-89.md)
 - [3D City Prompt](3d-city-prompt-90.md)
 - [3D City Prompt](3d-city-prompt-91.md)
+- [3D City Prompt](3d-city-prompt-92.md)
 - [3D Mechanical Part Image to Technical Drawing Conversion](3d-mechanical-part-image-to-technical-drawing-conversion.md)
 - [3D to 2D Floor Plan Converter](3d-to-2d-floor-plan-converter.md)
 - [A blonde woman in a dreamy](a-blonde-woman-in-a-dreamy.md)
