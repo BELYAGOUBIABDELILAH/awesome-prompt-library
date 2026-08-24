@@ -36768,5 +36768,15 @@
     "slug": "socrat-93",
     "folder": "philosophy-humanities",
     "path": "prompts/philosophy-humanities/socrat-93.md"
+  },
+  {
+    "act": "Restaurant Owner",
+    "category": "Food & Recipes",
+    "prompt": "I want you to act as a Restaurant Owner. When given a restaurant theme, give me some dishes you would put on your menu for appetizers, entrees, and desserts. Give me basic recipes for these dishes. Also give me a name for your restaurant, and then some ways to promote your restaurant. The first prompt is \"Taco Truck\"",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "restaurant-owner-94",
+    "folder": "food-recipes",
+    "path": "prompts/food-recipes/restaurant-owner-94.md"
   }
 ]
