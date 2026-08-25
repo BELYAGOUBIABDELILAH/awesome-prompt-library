@@ -928,5 +928,15 @@
     "slug": "a-b-testing-plan-93",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/a-b-testing-plan-93.md"
+  },
+  {
+    "act": "A/B Testing Plan",
+    "category": "Marketing & Social",
+    "prompt": "Create a plan to test and optimize different aspects of your digital presence to improve conversion rates.\nStructure:\n- Hypothesis: What we believe will happen and why\n- Variable being tested: (headline / CTA / layout / image / copy)\n- Control version: [current]\n- Test version: [proposed change]\n- Success metric: (CVR / CTR / time on page / bounce rate)\n- Minimum sample size needed and estimated duration\n- How to declare a winner (statistical significance threshold: 95%)\nRun one test at a time. Document results before moving to the next.",
+    "source": "Glean",
+    "type": "TEXT",
+    "slug": "a-b-testing-plan-94",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/a-b-testing-plan-94.md"
   }
 ]
