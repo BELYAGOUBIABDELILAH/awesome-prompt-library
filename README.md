@@ -178,8 +178,8 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Documentation | 146 | [→ prompts/documentation](prompts/documentation) |
 | Security | 137 | [→ prompts/security](prompts/security) |
 | Health & Wellness | 123 | [→ prompts/health-wellness](prompts/health-wellness) |
-| Research & Analysis | 116 | [→ prompts/research-analysis](prompts/research-analysis) |
-| Sales & Business | 114 | [→ prompts/sales-business](prompts/sales-business) |
+| Research & Analysis | 117 | [→ prompts/research-analysis](prompts/research-analysis) |
+| Sales & Business | 115 | [→ prompts/sales-business](prompts/sales-business) |
 | Games & Fun | 108 | [→ prompts/games-fun](prompts/games-fun) |
 | Product & Strategy | 104 | [→ prompts/product-strategy](prompts/product-strategy) |
 | Travel & Places | 101 | [→ prompts/travel-places](prompts/travel-places) |
