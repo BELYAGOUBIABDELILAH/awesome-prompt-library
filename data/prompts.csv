@@ -78446,3 +78446,4 @@ Guidelines:
 - Include risks or manual checkpoints when needed.
 Avoid: High-level ideas with no process detail, Overly technical suggestions that don't fit real workflows, Unclear impact statements.
 Your goal is to create practical workflows teams can use immediately.",ChatlyAI,TEXT,ai-workflow-automator-96,ai-automation,prompts/ai-automation/ai-workflow-automator-96.md
+Break Down Costs,General,"Create a transparent breakdown of how sponsor funds will be used (e.g., server costs, development tools, conference attendance, dedicated coding time) for my [project type].",Awesome ChatGPT Prompts,TEXT,break-down-costs-101,general,prompts/general/break-down-costs-101.md
