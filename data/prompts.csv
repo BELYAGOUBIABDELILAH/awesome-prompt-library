@@ -78879,3 +78879,13 @@ Variables:
 - ${projectName} - Name of the .NET API project
 - ${version:10} - Target .NET version for recommendations",Awesome ChatGPT Prompts,TEXT,net-api-project-analysis-101,coding-development,prompts/coding-development/net-api-project-analysis-101.md
 3D Character Render In High-End Disney Pixar Style,Image & Design,"3D character render in high-end Pixar Disney animation style, based on the uploaded photo. Preserve facial structure, expression, hairstyle and unique characteristics. Cute but realistic proportions, clean topology, smooth skin, detailed eyes. Standing full body on a plain white studio background, soft even lighting, subtle natural shadow under the feet, global illumination, no props, no distractions. Ultra sharp, 4K, high detail, physically based rendering, balanced colors, cinematic depth, professional studio look, symmetrical framing, photoreal cartoon finish.",Awesome ChatGPT Prompts,TEXT,3d-character-render-in-high-end-disney-pixar-style-102,image-design,prompts/image-design/3d-character-render-in-high-end-disney-pixar-style-102.md
+A/B Testing Plan,Marketing & Social,"Create a plan to test and optimize different aspects of your digital presence to improve conversion rates.
+Structure:
+- Hypothesis: What we believe will happen and why
+- Variable being tested: (headline / CTA / layout / image / copy)
+- Control version: [current]
+- Test version: [proposed change]
+- Success metric: (CVR / CTR / time on page / bounce rate)
+- Minimum sample size needed and estimated duration
+- How to declare a winner (statistical significance threshold: 95%)
+Run one test at a time. Document results before moving to the next.",Glean,TEXT,a-b-testing-plan-101,marketing-social,prompts/marketing-social/a-b-testing-plan-101.md
