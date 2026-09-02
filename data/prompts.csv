@@ -78928,3 +78928,4 @@ From the earnings call transcript or summary, extract:
 4. Quotes that could be used as conversation openers
 5. Recommended talking points that connect our value prop to their stated priorities
 Output: A 1-page prospect prep brief.",Glean,TEXT,analyze-earnings-call-before-prospect-meetings-103,sales-business,prompts/sales-business/analyze-earnings-call-before-prospect-meetings-103.md
+Giant Object in City,Travel & Places,"You're in a ${location} crowd looking up at a giant monumental concrete ${object}, weathered with rust, moss and light ivy yet silver gleams break through where harsh sunlight strikes, an iconic cinematic moment frozen in time. People are taking care of their own needs in ${date}.",Awesome ChatGPT Prompts,TEXT,giant-object-in-city-104,travel-places,prompts/travel-places/giant-object-in-city-104.md
