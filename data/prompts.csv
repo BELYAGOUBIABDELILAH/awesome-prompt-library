@@ -79323,3 +79323,13 @@ Rules:
 Variables:
 - ${projectName} - Name of the .NET API project
 - ${version:10} - Target .NET version for recommendations",Awesome ChatGPT Prompts,TEXT,net-api-project-analysis-104,coding-development,prompts/coding-development/net-api-project-analysis-104.md
+A/B Testing Plan,Marketing & Social,"Create a plan to test and optimize different aspects of your digital presence to improve conversion rates.
+Structure:
+- Hypothesis: What we believe will happen and why
+- Variable being tested: (headline / CTA / layout / image / copy)
+- Control version: [current]
+- Test version: [proposed change]
+- Success metric: (CVR / CTR / time on page / bounce rate)
+- Minimum sample size needed and estimated duration
+- How to declare a winner (statistical significance threshold: 95%)
+Run one test at a time. Document results before moving to the next.",Glean,TEXT,a-b-testing-plan-104,marketing-social,prompts/marketing-social/a-b-testing-plan-104.md
