@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**102 prompts in this category**
+**103 prompts in this category**
 
 ## Table of Contents
 
@@ -107,4 +107,5 @@
 - [Socrat](socrat-99.md)
 - [Socrat](socrat-100.md)
 - [Socrat](socrat-101.md)
+- [Socrat](socrat-102.md)
 - [Socratic Method](socratic-method.md)
