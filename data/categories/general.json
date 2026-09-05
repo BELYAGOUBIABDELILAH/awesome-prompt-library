@@ -1068,5 +1068,15 @@
     "slug": "break-down-costs-107",
     "folder": "general",
     "path": "prompts/general/break-down-costs-107.md"
+  },
+  {
+    "act": "Break Down Costs",
+    "category": "General",
+    "prompt": "Create a transparent breakdown of how sponsor funds will be used (e.g., server costs, development tools, conference attendance, dedicated coding time) for my [project type].",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "break-down-costs-108",
+    "folder": "general",
+    "path": "prompts/general/break-down-costs-108.md"
   }
 ]
