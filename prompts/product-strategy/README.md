@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**113 prompts in this category**
+**114 prompts in this category**
 
 ## Table of Contents
 
@@ -111,6 +111,7 @@
 - [Feature Prioritization Framework Builder](feature-prioritization-framework-builder-101.md)
 - [Feature Prioritization Framework Builder](feature-prioritization-framework-builder-102.md)
 - [Feature Prioritization Framework Builder](feature-prioritization-framework-builder-103.md)
+- [Feature Prioritization Framework Builder](feature-prioritization-framework-builder-104.md)
 - [Google Chrome Support](google-chrome-support.md)
 - [Growth Product Manager](growth-product-manager.md)
 - [Hardware OEM Lookup](hardware-oem-lookup.md)
