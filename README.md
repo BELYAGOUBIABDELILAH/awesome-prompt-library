@@ -173,7 +173,7 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Data & Analytics | 246 | [→ prompts/data-analytics](prompts/data-analytics) |
 | Marketing & Social | 212 | [→ prompts/marketing-social](prompts/marketing-social) |
 | General | 182 | [→ prompts/general](prompts/general) |
-| AI & Automation | 167 | [→ prompts/ai-automation](prompts/ai-automation) |
+| AI & Automation | 168 | [→ prompts/ai-automation](prompts/ai-automation) |
 | Business & Career | 160 | [→ prompts/business-career](prompts/business-career) |
 | Documentation | 160 | [→ prompts/documentation](prompts/documentation) |
 | Security | 150 | [→ prompts/security](prompts/security) |
