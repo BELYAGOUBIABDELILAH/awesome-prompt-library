@@ -167,7 +167,7 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 
 | Category | Prompts | Browse |
 | :---: | :---: | :---: |
-| Coding & Development | 878 | [→ prompts/coding-development](prompts/coding-development) |
+| Coding & Development | 879 | [→ prompts/coding-development](prompts/coding-development) |
 | Image & Design | 500 | [→ prompts/image-design](prompts/image-design) |
 | Writing & Content | 253 | [→ prompts/writing-content](prompts/writing-content) |
 | Data & Analytics | 247 | [→ prompts/data-analytics](prompts/data-analytics) |
