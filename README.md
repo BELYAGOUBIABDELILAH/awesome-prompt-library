@@ -171,7 +171,7 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Image & Design | 502 | [→ prompts/image-design](prompts/image-design) |
 | Writing & Content | 253 | [→ prompts/writing-content](prompts/writing-content) |
 | Data & Analytics | 248 | [→ prompts/data-analytics](prompts/data-analytics) |
-| Marketing & Social | 213 | [→ prompts/marketing-social](prompts/marketing-social) |
+| Marketing & Social | 214 | [→ prompts/marketing-social](prompts/marketing-social) |
 | General | 184 | [→ prompts/general](prompts/general) |
 | AI & Automation | 169 | [→ prompts/ai-automation](prompts/ai-automation) |
 | Business & Career | 162 | [→ prompts/business-career](prompts/business-career) |
