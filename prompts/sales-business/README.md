@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**134 prompts in this category**
+**135 prompts in this category**
 
 ## Table of Contents
 
@@ -123,6 +123,7 @@
 - [Analyze Earnings Call Before Prospect Meetings](analyze-earnings-call-before-prospect-meetings-114.md)
 - [Analyze Earnings Call Before Prospect Meetings](analyze-earnings-call-before-prospect-meetings-115.md)
 - [Analyze Earnings Call Before Prospect Meetings](analyze-earnings-call-before-prospect-meetings-116.md)
+- [Analyze Earnings Call Before Prospect Meetings](analyze-earnings-call-before-prospect-meetings-117.md)
 - [Cloud STT Guide](cloud-stt-guide.md)
 - [Cloud TTS Advisor](cloud-tts-advisor.md)
 - [Dictated email formatter](dictated-email-formatter.md)
