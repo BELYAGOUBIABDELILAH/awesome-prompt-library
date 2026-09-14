@@ -180,7 +180,7 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Health & Wellness | 144 | [→ prompts/health-wellness](prompts/health-wellness) |
 | Research & Analysis | 139 | [→ prompts/research-analysis](prompts/research-analysis) |
 | Sales & Business | 137 | [→ prompts/sales-business](prompts/sales-business) |
-| Games & Fun | 128 | [→ prompts/games-fun](prompts/games-fun) |
+| Games & Fun | 129 | [→ prompts/games-fun](prompts/games-fun) |
 | Product & Strategy | 124 | [→ prompts/product-strategy](prompts/product-strategy) |
 | Travel & Places | 123 | [→ prompts/travel-places](prompts/travel-places) |
 | Food & Recipes | 117 | [→ prompts/food-recipes](prompts/food-recipes) |
