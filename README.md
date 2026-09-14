@@ -169,8 +169,8 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | :---: | :---: | :---: |
 | Coding & Development | 884 | [→ prompts/coding-development](prompts/coding-development) |
 | Image & Design | 506 | [→ prompts/image-design](prompts/image-design) |
+| Data & Analytics | 253 | [→ prompts/data-analytics](prompts/data-analytics) |
 | Writing & Content | 253 | [→ prompts/writing-content](prompts/writing-content) |
-| Data & Analytics | 252 | [→ prompts/data-analytics](prompts/data-analytics) |
 | Marketing & Social | 218 | [→ prompts/marketing-social](prompts/marketing-social) |
 | General | 188 | [→ prompts/general](prompts/general) |
 | AI & Automation | 174 | [→ prompts/ai-automation](prompts/ai-automation) |
