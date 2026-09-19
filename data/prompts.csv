@@ -82316,3 +82316,4 @@ Top 5 to fix immediately:
 
 ### Scan Configuration Improvements
 Based on the false positive rate, suggest improvements to scan rules to reduce noise.",GitLab Duo,TEXT,analyze-security-scan-results-119,security,prompts/security/analyze-security-scan-results-119.md
+Giant Object in City,Travel & Places,"You're in a ${location} crowd looking up at a giant monumental concrete ${object}, weathered with rust, moss and light ivy yet silver gleams break through where harsh sunlight strikes, an iconic cinematic moment frozen in time. People are taking care of their own needs in ${date}.",Awesome ChatGPT Prompts,TEXT,giant-object-in-city-122,travel-places,prompts/travel-places/giant-object-in-city-122.md
