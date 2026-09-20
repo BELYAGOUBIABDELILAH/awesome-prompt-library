@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "source_records": 4114,
+  "source_records": 4115,
   "canonical_records": 2103,
   "quarantined_records": 1,
   "exact_duplicate_groups": 19,
-  "duplicates_beyond_canonical": 2010,
+  "duplicates_beyond_canonical": 2011,
   "sources": 5,
   "categories": {
     "AI & Automation": 62,
