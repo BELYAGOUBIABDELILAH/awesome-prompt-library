@@ -174,8 +174,8 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Marketing & Social | 222 | [→ prompts/marketing-social](prompts/marketing-social) |
 | General | 191 | [→ prompts/general](prompts/general) |
 | AI & Automation | 178 | [→ prompts/ai-automation](prompts/ai-automation) |
+| Business & Career | 170 | [→ prompts/business-career](prompts/business-career) |
 | Documentation | 170 | [→ prompts/documentation](prompts/documentation) |
-| Business & Career | 169 | [→ prompts/business-career](prompts/business-career) |
 | Security | 160 | [→ prompts/security](prompts/security) |
 | Health & Wellness | 146 | [→ prompts/health-wellness](prompts/health-wellness) |
 | Research & Analysis | 141 | [→ prompts/research-analysis](prompts/research-analysis) |
