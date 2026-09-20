@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**141 prompts in this category**
+**142 prompts in this category**
 
 ## Table of Contents
 
@@ -128,6 +128,7 @@
 - [Competitive Intelligence Analyst](competitive-intelligence-analyst-117.md)
 - [Competitive Intelligence Analyst](competitive-intelligence-analyst-118.md)
 - [Competitive Intelligence Analyst](competitive-intelligence-analyst-119.md)
+- [Competitive Intelligence Analyst](competitive-intelligence-analyst-120.md)
 - [Customer Feedback Analysis](customer-feedback-analysis.md)
 - [Does It Exist?](does-it-exist.md)
 - [Hiring Manager Interview Prep](hiring-manager-interview-prep.md)
