@@ -181,8 +181,8 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Research & Analysis | 142 | [→ prompts/research-analysis](prompts/research-analysis) |
 | Sales & Business | 140 | [→ prompts/sales-business](prompts/sales-business) |
 | Games & Fun | 132 | [→ prompts/games-fun](prompts/games-fun) |
+| Travel & Places | 128 | [→ prompts/travel-places](prompts/travel-places) |
 | Product & Strategy | 127 | [→ prompts/product-strategy](prompts/product-strategy) |
-| Travel & Places | 127 | [→ prompts/travel-places](prompts/travel-places) |
 | Food & Recipes | 120 | [→ prompts/food-recipes](prompts/food-recipes) |
 | Philosophy & Humanities | 118 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
 | Education & Learning | 70 | [→ prompts/education-learning](prompts/education-learning) |
