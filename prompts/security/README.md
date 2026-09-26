@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**167 prompts in this category**
+**168 prompts in this category**
 
 ## Table of Contents
 
@@ -134,6 +134,7 @@
 - [Analyze Security Scan Results](analyze-security-scan-results-125.md)
 - [Analyze Security Scan Results](analyze-security-scan-results-126.md)
 - [Analyze Security Scan Results](analyze-security-scan-results-127.md)
+- [Analyze Security Scan Results](analyze-security-scan-results-128.md)
 - [Android Forensics](android-forensics.md)
 - [Assess Third-Party Dependency Risks](assess-third-party-dependency-risks.md)
 - [Babysitter](babysitter.md)
