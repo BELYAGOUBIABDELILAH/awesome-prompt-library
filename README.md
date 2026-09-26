@@ -177,7 +177,7 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Documentation | 178 | [→ prompts/documentation](prompts/documentation) |
 | Business & Career | 177 | [→ prompts/business-career](prompts/business-career) |
 | Security | 168 | [→ prompts/security](prompts/security) |
-| Health & Wellness | 153 | [→ prompts/health-wellness](prompts/health-wellness) |
+| Health & Wellness | 154 | [→ prompts/health-wellness](prompts/health-wellness) |
 | Research & Analysis | 148 | [→ prompts/research-analysis](prompts/research-analysis) |
 | Sales & Business | 146 | [→ prompts/sales-business](prompts/sales-business) |
 | Games & Fun | 138 | [→ prompts/games-fun](prompts/games-fun) |
