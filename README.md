@@ -179,7 +179,7 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Security | 168 | [→ prompts/security](prompts/security) |
 | Health & Wellness | 155 | [→ prompts/health-wellness](prompts/health-wellness) |
 | Research & Analysis | 149 | [→ prompts/research-analysis](prompts/research-analysis) |
-| Sales & Business | 146 | [→ prompts/sales-business](prompts/sales-business) |
+| Sales & Business | 147 | [→ prompts/sales-business](prompts/sales-business) |
 | Games & Fun | 138 | [→ prompts/games-fun](prompts/games-fun) |
 | Product & Strategy | 134 | [→ prompts/product-strategy](prompts/product-strategy) |
 | Travel & Places | 134 | [→ prompts/travel-places](prompts/travel-places) |
