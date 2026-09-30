@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**520 prompts in this category**
+**521 prompts in this category**
 
 ## Table of Contents
 
@@ -137,6 +137,7 @@
 - [3D Character Render In High-End Disney Pixar Style](3d-character-render-in-high-end-disney-pixar-style-129.md)
 - [3D Character Render In High-End Disney Pixar Style](3d-character-render-in-high-end-disney-pixar-style-130.md)
 - [3D Character Render In High-End Disney Pixar Style](3d-character-render-in-high-end-disney-pixar-style-131.md)
+- [3D Character Render In High-End Disney Pixar Style](3d-character-render-in-high-end-disney-pixar-style-132.md)
 - [3D Isometric Miniature Diorama](3d-isometric-miniature-diorama.md)
 - [7v7 Football Team Generator App](7v7-football-team-generator-app.md)
 - [A Clay-Crafted City: Mini [CITY NAME] World](a-clay-crafted-city-mini-city-name-world.md)
