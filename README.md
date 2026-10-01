@@ -176,7 +176,7 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | AI & Automation | 190 | [→ prompts/ai-automation](prompts/ai-automation) |
 | Documentation | 183 | [→ prompts/documentation](prompts/documentation) |
 | Business & Career | 182 | [→ prompts/business-career](prompts/business-career) |
-| Security | 172 | [→ prompts/security](prompts/security) |
+| Security | 173 | [→ prompts/security](prompts/security) |
 | Health & Wellness | 159 | [→ prompts/health-wellness](prompts/health-wellness) |
 | Research & Analysis | 153 | [→ prompts/research-analysis](prompts/research-analysis) |
 | Sales & Business | 151 | [→ prompts/sales-business](prompts/sales-business) |
