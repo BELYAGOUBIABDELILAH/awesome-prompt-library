@@ -184,7 +184,7 @@ Do not translate code or alter placeholder names. If a phrase has two materially
 | Product & Strategy | 140 | [→ prompts/product-strategy](prompts/product-strategy) |
 | Travel & Places | 140 | [→ prompts/travel-places](prompts/travel-places) |
 | Food & Recipes | 133 | [→ prompts/food-recipes](prompts/food-recipes) |
-| Philosophy & Humanities | 131 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
+| Philosophy & Humanities | 132 | [→ prompts/philosophy-humanities](prompts/philosophy-humanities) |
 | Education & Learning | 70 | [→ prompts/education-learning](prompts/education-learning) |
 
 </div>
