@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**191 prompts in this category**
+**192 prompts in this category**
 
 ## Table of Contents
 
@@ -141,6 +141,7 @@
 - [AI Workflow Automator](ai-workflow-automator-128.md)
 - [AI Workflow Automator](ai-workflow-automator-129.md)
 - [AI Workflow Automator](ai-workflow-automator-130.md)
+- [AI Workflow Automator](ai-workflow-automator-131.md)
 - [Amateur Mirror Selfie with Natural Look](amateur-mirror-selfie-with-natural-look.md)
 - [Assistant Description Text Generator](assistant-description-text-generator.md)
 - [Assistant Ideator - User-Defined Topic](assistant-ideator-user-defined-topic.md)
