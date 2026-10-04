@@ -1,9 +1,10 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-10-04T18:21:10.650Z",
+  "last_updated": "2026-10-04T18:32:17.850Z",
   "total_prompts": 2103,
   "total_categories": 19,
   "total_pages": 22,
+  "per_page": 100,
   "base_url": "https://belyagoubiabdelilah.github.io/awesome-prompt-library",
   "endpoints": {
     "stats": "https://belyagoubiabdelilah.github.io/awesome-prompt-library/v1/stats.json",
