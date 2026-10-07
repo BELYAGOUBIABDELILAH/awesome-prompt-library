@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -30,7 +30,7 @@
     }
     a { color: var(--accent); }
     code, pre, .path, .method { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
-    .shell { width: min(68rem, calc(100% - 2.5rem)); margin: 0 auto; }
+    .shell { width: min(76rem, calc(100% - 3rem)); margin: 0 auto; }
     header { padding: 1.25rem 0 4rem; }
     .nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
     .brand { color: var(--text); font-weight: 700; letter-spacing: -.02em; text-decoration: none; }
@@ -79,21 +79,25 @@
     h2 { margin: 0 0 .6rem; font-size: 1.45rem; letter-spacing: -.03em; }
     .section-note { margin: 0 0 1rem; color: var(--muted); }
     .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: .75rem; }
+    .featured-cards { grid-template-columns: repeat(2, 1fr); }
     .card h3 { margin: 0 0 .5rem; font-size: 1rem; }
     .card p { margin: 0; color: var(--muted); }
+    .category-tag { display: inline-block; padding: 0.2rem 0.5rem; background: var(--border); border-radius: 0.25rem; font-size: 0.7rem; color: var(--accent); margin-bottom: 0.5rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+    .prompt-snippet { font-style: italic; opacity: 0.85; margin-top: 0.75rem !important; font-size: 0.85rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.5; }
     pre {
       margin: .75rem 0 0;
       padding: 1rem;
-      overflow-x: auto;
       background: var(--code);
       border: 1px solid var(--border);
       border-radius: .5rem;
       color: #d7caff;
       font-size: .85rem;
+      white-space: pre-wrap;
+      word-break: break-all;
     }
     .endpoint {
       display: grid;
-      grid-template-columns: auto minmax(12rem, .7fr) 1.3fr auto;
+      grid-template-columns: auto 1fr 1.3fr auto;
       gap: .35rem 1rem;
       align-items: baseline;
       padding: 1rem 1.25rem;
@@ -103,7 +107,7 @@
     }
     .endpoint + .endpoint { margin-top: .6rem; }
     .method { color: var(--success); font-size: .75rem; font-weight: 700; }
-    .path { overflow-wrap: anywhere; }
+    .path { overflow-wrap: anywhere; font-weight: 500; }
     .endpoint p { margin: 0; color: var(--muted); font-size: .9rem; }
     .copy-button { justify-self: end; padding: .35rem .6rem; border: 1px solid var(--border); border-radius: .4rem; background: transparent; color: var(--muted); cursor: pointer; font: inherit; font-size: .75rem; }
     .copy-button:hover, .copy-button:focus-visible { border-color: var(--accent); color: var(--text); }
@@ -118,6 +122,9 @@
       color: var(--muted);
       font-size: .85rem;
       text-align: center;
+    }
+    @media (max-width: 56rem) {
+      .featured-cards { grid-template-columns: 1fr; }
     }
     @media (max-width: 46rem) {
       .hero { grid-template-columns: 1fr; gap: 2rem; margin-top: 3.5rem; }
@@ -164,6 +171,33 @@
       <div class="cards" id="examples"></div>
     </section>
 
+    <section aria-labelledby="featured-heading">
+      <h2 id="featured-heading">Featured Prompts</h2>
+      <p class="section-note">A glimpse of the powerful prompts available in the library.</p>
+      <div class="cards featured-cards">
+        <article class="card">
+          <span class="category-tag">Coding & Development</span>
+          <h3>Automate Repetitive Development Tasks</h3>
+          <p class="prompt-snippet">"Act as an expert developer. I will provide you with a repetitive task, and you will write a script to automate it. Include error handling, logging, and comments..."</p>
+        </article>
+        <article class="card">
+          <span class="category-tag">Marketing & Social</span>
+          <h3>SEO Content Strategy</h3>
+          <p class="prompt-snippet">"Create a comprehensive SEO content strategy for a given keyword. Include search intent analysis, LSI keywords, content structure, and link building opportunities..."</p>
+        </article>
+        <article class="card">
+          <span class="category-tag">Product & Strategy</span>
+          <h3>Act as a Product Manager</h3>
+          <p class="prompt-snippet">"Please acknowledge my following request. Please respond to me as a product manager. I will ask for subject, and you will help me writing a PRD for it with these headings..."</p>
+        </article>
+        <article class="card">
+          <span class="category-tag">AI & Automation</span>
+          <h3>System Prompt Generator</h3>
+          <p class="prompt-snippet">"You are an expert prompt engineer. Help me create a highly effective system prompt for a specific use case. Ask me clarifying questions until you have enough context..."</p>
+        </article>
+      </div>
+    </section>
+
     <section aria-labelledby="endpoints-heading">
       <h2 id="endpoints-heading">Endpoints</h2>
       <p class="section-note">Available JSON routes. Copy the URL or open in a new tab.</p>
@@ -206,11 +240,11 @@
           .pop() || "api";
         const repositoryName = repositorySlug.split(/[-_]+/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
         const endpointEntries = Object.entries(data.endpoints || {});
-        document.title = `${repositoryName} · ${apiVersion}`;
+        document.title = ${repositoryName} · ;
         document.getElementById("brand").textContent = repositoryName;
-        document.getElementById("headline").textContent = `${repositoryName} API`;
+        document.getElementById("headline").textContent = ${repositoryName} API;
         document.getElementById("summary").textContent =
-          `${data.total_prompts.toLocaleString()} curated prompts across ${data.total_categories} categories.`;
+          ${data.total_prompts.toLocaleString()} curated prompts across  categories.;
         document.getElementById("total-prompts").textContent =
           data.total_prompts.toLocaleString();
         document.getElementById("total-categories").textContent = data.total_categories.toLocaleString();
@@ -222,7 +256,7 @@
         for (const key of exampleKeys) {
           const card = add(examples, "article", undefined, "card");
           add(card, "h3", endpointLabel(key));
-          const code = `fetch(${JSON.stringify(new URL(data.endpoints[key]).href)})\n  .then(response => response.json())`;
+          const code = etch('')\n  .then(response => response.json());
           add(card, "pre", code);
         }
 
@@ -230,29 +264,35 @@
         for (const [key, endpoint] of endpointEntries) {
           const item = add(endpoints, "article", undefined, "endpoint");
           add(item, "span", "GET", "method");
+          
+          let displayPath = endpoint;
+          try {
+             displayPath = endpoint.replace(data.base_url, "");
+          } catch(e) {}
+          
           const isTemplate = endpoint.includes("{");
-          const link = add(item, isTemplate ? "span" : "a", endpoint, "path");
+          const link = add(item, isTemplate ? "span" : "a", displayPath, "path");
           if (!isTemplate) link.href = endpoint;
           add(item, "p", endpointLabel(key));
-          const copy = add(item, "button", "Copy", "copy-button");
+          const copy = add(item, "button", "Copy URL", "copy-button");
           copy.type = "button";
           copy.addEventListener("click", async () => {
             await navigator.clipboard.writeText(endpoint);
             copy.textContent = "Copied";
-            setTimeout(() => { copy.textContent = "Copy"; }, 1200);
+            setTimeout(() => { copy.textContent = "Copy URL"; }, 1200);
           });
         }
       }
 
       fetch(statsUrl, { cache: "no-store" })
         .then((response) => {
-          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          if (!response.ok) throw new Error(HTTP );
           return response.json();
         })
         .then(render)
         .catch((error) => {
           status.classList.add("error");
-          status.textContent = `Metadata unavailable: ${error.message}`;
+          status.textContent = Metadata unavailable: ;
           document.getElementById("summary").textContent = "The API metadata could not be loaded.";
         });
     })();
