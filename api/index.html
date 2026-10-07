@@ -151,8 +151,8 @@
         </div>
       </div>
       <aside class="hero-aside">
-        <strong>Built for quick integration</strong>
-        <p>Browse the generated endpoints, fetch JSON, and use the prompt records in your own tools.</p>
+        <strong>Free & Open API</strong>
+        <p>No authentication required. CORS-enabled. Served statically from GitHub Pages.</p>
       </aside>
     </div>
   </header>
@@ -160,25 +160,25 @@
   <main class="shell">
     <section aria-labelledby="start-heading">
       <h2 id="start-heading">Start here</h2>
-      <p class="section-note">Copy an example or open an endpoint to inspect its response.</p>
+      <p class="section-note">Example fetch requests you can paste directly into your code.</p>
       <div class="cards" id="examples"></div>
     </section>
 
     <section aria-labelledby="endpoints-heading">
       <h2 id="endpoints-heading">Endpoints</h2>
-      <p class="section-note">Copy a route or open it in a new tab.</p>
+      <p class="section-note">Available JSON routes. Copy the URL or open in a new tab.</p>
       <div id="endpoints" aria-live="polite"></div>
     </section>
 
     <section aria-labelledby="contact-heading">
       <div class="contact">
         <div>
-          <h2 id="contact-heading">Get in touch</h2>
-          <p>Questions, feedback, or ideas for the library?</p>
+          <h2 id="contact-heading">Contribute</h2>
+          <p>Help improve the library by submitting prompts or reporting issues.</p>
         </div>
         <div class="contact-links">
-          <a href="mailto:belyagoubiabdillah@gmail.com">Email</a>
-          <a href="https://github.com/BELYAGOUBIABDELILAH" rel="me">GitHub profile</a>
+          <a href="https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library">GitHub Repository</a>
+          <a href="https://github.com/BELYAGOUBIABDELILAH" rel="me">Author Profile</a>
         </div>
       </div>
     </section>
@@ -204,7 +204,7 @@
           .split("/")
           .filter(Boolean)
           .pop() || "api";
-        const repositoryName = repositorySlug.replace(/[-_]+/g, " ");
+        const repositoryName = repositorySlug.split(/[-_]+/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
         const endpointEntries = Object.entries(data.endpoints || {});
         document.title = `${repositoryName} · ${apiVersion}`;
         document.getElementById("brand").textContent = repositoryName;
