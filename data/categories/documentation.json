@@ -1368,5 +1368,15 @@
     "slug": "convert-documentation-to-code-comments",
     "folder": "documentation",
     "path": "prompts/documentation/convert-documentation-to-code-comments.md"
+  },
+  {
+    "act": "Create Issue from Support Ticket",
+    "category": "Documentation",
+    "prompt": "Convert this support ticket into a properly formatted GitLab issue:\n\nSupport ticket:\n[PASTE TICKET CONTENT]\n\nCustomer plan: [Free / Pro / Enterprise]\nTicket priority: [Low / Medium / High / Critical]\nFrequency: [One customer / Multiple customers / Unknown]\n\n## GitLab Issue\n\n**Title:** [Verb] [Component]: [Clear symptom — max 60 chars]\n\n**Labels to apply:**\n- Type: bug / feature-request / UX / performance\n- Priority: critical / high / medium / low\n- Component: [relevant area]\n- Customer-reported: yes\n\n**Description:**\n\n### Customer Report\n[Sanitized version of what the customer said]\n\n### Steps to Reproduce\n1. [Step 1]\n2. [Step 2]\n3. [Observe: ...]\n\n### Expected Behavior\n[What should happen]\n\n### Actual Behavior\n[What actually happens]\n\n### Environment\n- Version: [...]\n- Browser/OS: [...]\n- Plan: [...]\n\n### Frequency / Impact\n- Affected customers: [N known]\n- Business impact: [describe]\n\n### Technical Context\n[Any technical details from investigation]\n\n### Definition of Done\n- [ ] Root cause identified\n- [ ] Fix implemented and tested\n- [ ] Customer notified\n- [ ] Regression test added",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "create-issue-from-support-ticket",
+    "folder": "documentation",
+    "path": "prompts/documentation/create-issue-from-support-ticket.md"
   }
 ]
