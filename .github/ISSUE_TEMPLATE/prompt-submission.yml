@@ -1,0 +1,73 @@
+name: Prompt submission
+description: Submit a prompt with the information needed for review and indexing.
+title: "[Prompt] "
+labels: ["prompt-submission", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please submit one prompt per issue. A maintainer may ask for a source, license, example input, or clarification before accepting it.
+  - type: input
+    id: title
+    attributes:
+      label: Prompt title
+      placeholder: "Structured meeting summarizer"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Coding & Development
+        - Image & Design
+        - Writing & Content
+        - Data & Analytics
+        - Marketing & Social
+        - General
+        - AI & Automation
+        - Business & Career
+        - Documentation
+        - Security
+        - Health & Wellness
+        - Research & Analysis
+        - Sales & Business
+        - Games & Fun
+        - Product & Strategy
+        - Travel & Places
+        - Food & Recipes
+        - Philosophy & Humanities
+        - Education & Learning
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt text
+      description: Use variables such as ${topic} or ${format:markdown} when useful.
+      render: text
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source and license
+      description: Link to the original source, or write original work. State the license when known.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Example use and expected result
+      description: Give a short example input and describe what a good output should contain.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks
+      options:
+        - label: I checked for an existing duplicate or near-duplicate.
+          required: true
+        - label: I am not submitting secrets, private data, or unsupported copyrighted text.
+          required: true

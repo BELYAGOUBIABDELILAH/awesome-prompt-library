@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>API</title>
+  <meta name="description" content="Live documentation for the repository JSON API.">
+  <style>
+    :root {
+      color-scheme: dark;
+      --background: #0d0d14;
+      --surface: #151522;
+      --surface-strong: #1b1b2b;
+      --border: #292940;
+      --text: #ececf5;
+      --muted: #9999b3;
+      --accent: #a77bff;
+      --success: #49d69b;
+      --code: #0a0a11;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background:
+        radial-gradient(circle at 50% -10rem, rgba(167, 123, 255, .18), transparent 34rem),
+        var(--background);
+      color: var(--text);
+      font: 400 1rem/1.6 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    a { color: var(--accent); }
+    code, pre, .path, .method { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .shell { width: min(68rem, calc(100% - 2.5rem)); margin: 0 auto; }
+    header { padding: 1.25rem 0 4rem; }
+    .nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+    .brand { color: var(--text); font-weight: 700; letter-spacing: -.02em; text-decoration: none; }
+    .nav-link { color: var(--muted); font-size: .9rem; text-decoration: none; }
+    .nav-link:hover { color: var(--text); }
+    .hero { display: grid; grid-template-columns: 1.15fr .85fr; gap: 3rem; align-items: end; margin-top: 5rem; }
+    h1 { max-width: 42rem; margin: 0; font-size: clamp(2.6rem, 7vw, 5.5rem); letter-spacing: -.065em; line-height: .98; }
+    header p { max-width: 38rem; margin: 1.5rem 0 0; color: var(--muted); font-size: 1.08rem; }
+    .hero-copy { max-width: 42rem; }
+    .hero-aside { padding: 1.25rem; background: rgba(21, 21, 34, .76); border: 1px solid var(--border); border-radius: 1rem; box-shadow: 0 1rem 4rem rgba(0, 0, 0, .18); }
+    .hero-aside strong { display: block; margin-bottom: .35rem; color: var(--text); }
+    .hero-aside p { margin: 0; font-size: .9rem; }
+    .status {
+      display: inline-flex;
+      align-items: center;
+      gap: .5rem;
+      margin-bottom: 1.25rem;
+      color: var(--muted);
+      font-size: .85rem;
+    }
+    .status::before {
+      width: .55rem;
+      height: .55rem;
+      border-radius: 50%;
+      background: var(--success);
+      content: "";
+    }
+    .status.error::before { background: #ff7272; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: .75rem;
+      margin: 3rem 0 0;
+      max-width: 42rem;
+    }
+    .stat, .card {
+      padding: 1.25rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: .75rem;
+    }
+    .stat-value { display: block; color: var(--accent); font-size: 1.5rem; font-weight: 700; }
+    .stat-label { color: var(--muted); font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; }
+    main { padding-bottom: 5rem; }
+    section { margin-top: 4rem; }
+    h2 { margin: 0 0 .6rem; font-size: 1.45rem; letter-spacing: -.03em; }
+    .section-note { margin: 0 0 1rem; color: var(--muted); }
+    .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: .75rem; }
+    .card h3 { margin: 0 0 .5rem; font-size: 1rem; }
+    .card p { margin: 0; color: var(--muted); }
+    pre {
+      margin: .75rem 0 0;
+      padding: 1rem;
+      overflow-x: auto;
+      background: var(--code);
+      border: 1px solid var(--border);
+      border-radius: .5rem;
+      color: #d7caff;
+      font-size: .85rem;
+    }
+    .endpoint {
+      display: grid;
+      grid-template-columns: auto minmax(12rem, .7fr) 1.3fr auto;
+      gap: .35rem 1rem;
+      align-items: baseline;
+      padding: 1rem 1.25rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: .65rem;
+    }
+    .endpoint + .endpoint { margin-top: .6rem; }
+    .method { color: var(--success); font-size: .75rem; font-weight: 700; }
+    .path { overflow-wrap: anywhere; }
+    .endpoint p { margin: 0; color: var(--muted); font-size: .9rem; }
+    .copy-button { justify-self: end; padding: .35rem .6rem; border: 1px solid var(--border); border-radius: .4rem; background: transparent; color: var(--muted); cursor: pointer; font: inherit; font-size: .75rem; }
+    .copy-button:hover, .copy-button:focus-visible { border-color: var(--accent); color: var(--text); }
+    .contact { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, var(--surface-strong), var(--surface)); border: 1px solid var(--border); border-radius: 1rem; }
+    .contact p { margin: .25rem 0 0; color: var(--muted); font-size: .9rem; }
+    .contact-links { display: flex; flex-wrap: wrap; gap: .6rem; }
+    .contact-links a { padding: .55rem .8rem; border: 1px solid var(--border); border-radius: .5rem; color: var(--text); font-size: .85rem; text-decoration: none; }
+    .contact-links a:hover { border-color: var(--accent); color: var(--accent); }
+    footer {
+      padding: 1.5rem 0 2.5rem;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: .85rem;
+      text-align: center;
+    }
+    @media (max-width: 46rem) {
+      .hero { grid-template-columns: 1fr; gap: 2rem; margin-top: 3.5rem; }
+      .hero-aside { max-width: 32rem; }
+      .cards { grid-template-columns: 1fr; }
+      .endpoint { grid-template-columns: auto 1fr auto; }
+      .endpoint p { grid-column: 2; }
+    }
+    @media (max-width: 30rem) {
+      .shell { width: min(100% - 1.5rem, 68rem); }
+      .stats { grid-template-columns: 1fr; }
+      .nav-link { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <header class="shell">
+    <nav class="nav" aria-label="Primary navigation">
+      <a class="brand" id="brand" href="./">API</a>
+      <a class="nav-link" href="#endpoints-heading">Explore endpoints</a>
+    </nav>
+    <div class="hero">
+      <div class="hero-copy">
+        <div class="status" id="status">Checking API status</div>
+        <h1 id="headline">API endpoints, ready to use.</h1>
+        <p id="summary">Live API statistics are loading.</p>
+        <div class="stats" aria-live="polite">
+          <div class="stat"><span class="stat-value" id="total-prompts">—</span><span class="stat-label">Source records</span></div>
+          <div class="stat"><span class="stat-value" id="total-categories">—</span><span class="stat-label">Categories</span></div>
+          <div class="stat"><span class="stat-value" id="total-pages">—</span><span class="stat-label">Pages</span></div>
+        </div>
+      </div>
+      <aside class="hero-aside">
+        <strong>Built for quick integration</strong>
+        <p>Browse the generated endpoints, fetch JSON, and use the prompt records in your own tools.</p>
+      </aside>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section aria-labelledby="start-heading">
+      <h2 id="start-heading">Start here</h2>
+      <p class="section-note">Copy an example or open an endpoint to inspect its response.</p>
+      <div class="cards" id="examples"></div>
+    </section>
+
+    <section aria-labelledby="endpoints-heading">
+      <h2 id="endpoints-heading">Endpoints</h2>
+      <p class="section-note">Copy a route or open it in a new tab.</p>
+      <div id="endpoints" aria-live="polite"></div>
+    </section>
+
+    <section aria-labelledby="contact-heading">
+      <div class="contact">
+        <div>
+          <h2 id="contact-heading">Get in touch</h2>
+          <p>Questions, feedback, or ideas for the library?</p>
+        </div>
+        <div class="contact-links">
+          <a href="mailto:belyagoubiabdillah@gmail.com">Email</a>
+          <a href="https://github.com/BELYAGOUBIABDELILAH" rel="me">GitHub profile</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    (() => {
+      const statsUrl = new URL("v1/stats.json", document.baseURI);
+      const status = document.getElementById("status");
+      const text = (value) => document.createTextNode(value);
+      const add = (parent, tag, value, className) => {
+        const element = document.createElement(tag);
+        if (className) element.className = className;
+        if (value !== undefined) element.append(text(value));
+        parent.append(element);
+        return element;
+      };
+      const endpointLabel = (key) => key.replace(/^\w/, (letter) => letter.toUpperCase());
+
+      function render(data) {
+        const apiVersion = data.api_version || "API";
+        const repositorySlug = new URL(data.base_url || document.baseURI).pathname
+          .split("/")
+          .filter(Boolean)
+          .pop() || "api";
+        const repositoryName = repositorySlug.replace(/[-_]+/g, " ");
+        const endpointEntries = Object.entries(data.endpoints || {});
+        document.title = `${repositoryName} · ${apiVersion}`;
+        document.getElementById("brand").textContent = repositoryName;
+        document.getElementById("headline").textContent = `${repositoryName} API`;
+        document.getElementById("summary").textContent =
+          `${(data.source_records || data.total_prompts).toLocaleString()} source records across ${data.total_categories} categories.`;
+        document.getElementById("total-prompts").textContent =
+          (data.source_records || data.total_prompts).toLocaleString();
+        document.getElementById("total-categories").textContent = data.total_categories.toLocaleString();
+        document.getElementById("total-pages").textContent = data.total_pages.toLocaleString();
+        status.textContent = "API is online";
+
+        const examples = document.getElementById("examples");
+        const exampleKeys = ["stats", "categories", "prompts"].filter((key) => data.endpoints[key]);
+        for (const key of exampleKeys) {
+          const card = add(examples, "article", undefined, "card");
+          add(card, "h3", endpointLabel(key));
+          const code = `fetch(${JSON.stringify(new URL(data.endpoints[key]).href)})\n  .then(response => response.json())`;
+          add(card, "pre", code);
+        }
+
+        const endpoints = document.getElementById("endpoints");
+        for (const [key, endpoint] of endpointEntries) {
+          const item = add(endpoints, "article", undefined, "endpoint");
+          add(item, "span", "GET", "method");
+          const isTemplate = endpoint.includes("{");
+          const link = add(item, isTemplate ? "span" : "a", endpoint, "path");
+          if (!isTemplate) link.href = endpoint;
+          add(item, "p", endpointLabel(key));
+          const copy = add(item, "button", "Copy", "copy-button");
+          copy.type = "button";
+          copy.addEventListener("click", async () => {
+            await navigator.clipboard.writeText(endpoint);
+            copy.textContent = "Copied";
+            setTimeout(() => { copy.textContent = "Copy"; }, 1200);
+          });
+        }
+      }
+
+      fetch(statsUrl, { cache: "no-store" })
+        .then((response) => {
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          return response.json();
+        })
+        .then(render)
+        .catch((error) => {
+          status.classList.add("error");
+          status.textContent = `Metadata unavailable: ${error.message}`;
+          document.getElementById("summary").textContent = "The API metadata could not be loaded.";
+        });
+    })();
+  </script>
+</body>
+</html>

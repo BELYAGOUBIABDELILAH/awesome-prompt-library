@@ -1,0 +1,11 @@
+# Shower Glass Silhouette
+
+**Category:** Data & Analytics  
+**Source:** Awesome ChatGPT Prompts
+
+## Prompt
+
+> A black and white photograph shows the blurred silhouette of a ${subject} behind a frosted or translucent surface. The ${part} is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere
+
+---
+[← Back to Data & Analytics](README.md) · [Main index](../../README.md)

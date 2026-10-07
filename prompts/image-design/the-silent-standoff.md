@@ -1,0 +1,11 @@
+# The Silent Standoff
+
+**Category:** Image & Design  
+**Source:** Awesome ChatGPT Prompts
+
+## Prompt
+
+> High-angle top-down view of a dimly lit abandoned courtyard, cracked concrete ground, scattered old markings and faded impact dents, long eerie character shadows cast off-frame, no violence depicted, dark Teal palette with a strong golden beam, thick outlines, 2D animated cartoon look, flat shading, extreme contrast, atmospheric tension.
+
+---
+[← Back to Image & Design](README.md) · [Main index](../../README.md)

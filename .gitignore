@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+.env
+
+# Temporary/Consolidated exports
+data/consolidated_prompts.*
+
+# Automation workflows
+n8n workflow.json

@@ -1,0 +1,12 @@
+# Develop a creative dice generator called “IdeaDice”.
+
+**Category:** Image & Design  
+**Source:** Awesome ChatGPT Prompts
+
+## Prompt
+
+> Develop a creative dice generator called “IdeaDice”.
+> Features an eye-catching industrial-style interface, with a fluorescent green title prominently displayed at the top of the page:“IdeaDice · Inspiration Throwing Tool”, featuring monospaced font and a futuristic design, includes a 3D rotating inspiration die with a raised texture. Each side of the die features a different keyword. Clicking the “Roll” button initiates the rotation of the die. Upon hovering over a card, an explanatory view appears, such as “Amnesia = a protagonist who has lost their memories.” The tool also supports exporting and generating posters.
+
+---
+[← Back to Image & Design](README.md) · [Main index](../../README.md)
