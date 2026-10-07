@@ -145,7 +145,7 @@
         <h1 id="headline">API endpoints, ready to use.</h1>
         <p id="summary">Live API statistics are loading.</p>
         <div class="stats" aria-live="polite">
-          <div class="stat"><span class="stat-value" id="total-prompts">—</span><span class="stat-label">Source records</span></div>
+          <div class="stat"><span class="stat-value" id="total-prompts">—</span><span class="stat-label">Prompts</span></div>
           <div class="stat"><span class="stat-value" id="total-categories">—</span><span class="stat-label">Categories</span></div>
           <div class="stat"><span class="stat-value" id="total-pages">—</span><span class="stat-label">Pages</span></div>
         </div>
@@ -210,9 +210,9 @@
         document.getElementById("brand").textContent = repositoryName;
         document.getElementById("headline").textContent = `${repositoryName} API`;
         document.getElementById("summary").textContent =
-          `${(data.source_records || data.total_prompts).toLocaleString()} source records across ${data.total_categories} categories.`;
+          `${data.total_prompts.toLocaleString()} curated prompts across ${data.total_categories} categories.`;
         document.getElementById("total-prompts").textContent =
-          (data.source_records || data.total_prompts).toLocaleString();
+          data.total_prompts.toLocaleString();
         document.getElementById("total-categories").textContent = data.total_categories.toLocaleString();
         document.getElementById("total-pages").textContent = data.total_pages.toLocaleString();
         status.textContent = "API is online";
