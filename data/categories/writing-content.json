@@ -48,5 +48,15 @@
     "slug": "3x3-grid-storyboarding-from-photo",
     "folder": "writing-content",
     "path": "prompts/writing-content/3x3-grid-storyboarding-from-photo.md"
+  },
+  {
+    "act": "4 Optimized Versions of A Prompt (in Arabic)",
+    "category": "Writing & Content",
+    "prompt": "Act as a certified and expert AI prompt engineer\n\nAnalyze and improve the following prompt to get more accurate and best results and answers.\n\nWrite 4 versions for ChatGPT, Claude , Gemini, and for Chinese LLMs (e.g. MiniMax, GLM, DeepSeek, Qwen).\n\n<prompt>  \n\n...\n\n</prompt>\n\nWrite the output in Standard Arabic.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "4-optimized-versions-of-a-prompt-in-arabic",
+    "folder": "writing-content",
+    "path": "prompts/writing-content/4-optimized-versions-of-a-prompt-in-arabic.md"
   }
 ]
