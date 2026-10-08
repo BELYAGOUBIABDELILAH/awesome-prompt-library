@@ -1378,5 +1378,15 @@
     "slug": "babysitter",
     "folder": "security",
     "path": "prompts/security/babysitter.md"
+  },
+  {
+    "act": "Create Security Test Cases",
+    "category": "Security",
+    "prompt": "Generate security test cases for:\n\nFeature/Endpoint: [DESCRIBE]\nCode: [PASTE relevant handler/controller code]\nAuthentication: [required / not required]\nUser input accepted: [list input fields]\n\n## Security Test Suite\n\n### Input Validation Tests\nTest each input field for:\n\n**SQL Injection**\n\\",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "create-security-test-cases",
+    "folder": "security",
+    "path": "prompts/security/create-security-test-cases.md"
   }
 ]
