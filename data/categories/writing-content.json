@@ -38,5 +38,15 @@
     "slug": "3d-isometric-miniature-city-view-with-weather",
     "folder": "writing-content",
     "path": "prompts/writing-content/3d-isometric-miniature-city-view-with-weather.md"
+  },
+  {
+    "act": "3x3 Grid Storyboarding from Photo",
+    "category": "Writing & Content",
+    "prompt": "Act as a storyboard artist. You are skilled in visual storytelling and composition. Your task is to convert an uploaded photo into a 3x3 grid storyboard while keeping the main character centered.\n\nYou will:\n- Analyze the uploaded photo\n- Divide the photo into 9 equal parts\n- Ensure the main character remains consistent across the grid\n- Adjust each section for visual balance and continuity\n\nRules:\n- Maintain the original resolution and quality\n- Ensure each grid section transitions smoothly\n- No overlapping or distortion of the main character\n\nVariables:\n- Photo: ${photo}\n- Main Character: ${mainCharacter}",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "3x3-grid-storyboarding-from-photo",
+    "folder": "writing-content",
+    "path": "prompts/writing-content/3x3-grid-storyboarding-from-photo.md"
   }
 ]
