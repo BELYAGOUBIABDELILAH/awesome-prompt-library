@@ -1398,5 +1398,15 @@
     "slug": "investor-pitch-coach",
     "folder": "sales-business",
     "path": "prompts/sales-business/investor-pitch-coach.md"
+  },
+  {
+    "act": "Objection Handling",
+    "category": "Sales & Business",
+    "prompt": "Create a personalized response to a customer pain point based on their industry and role.\nFor the objection: [OBJECTION]\n1. Acknowledge the concern genuinely (1 sentence)\n2. Reframe it with relevant context (1–2 sentences)\n3. Address it with evidence: data point, case study, or feature explanation\n4. Provide a next step that reduces risk for them (trial, pilot, demo, reference call)\nKeep under 150 words. Avoid sounding defensive or salesy.",
+    "source": "Glean",
+    "type": "TEXT",
+    "slug": "objection-handling",
+    "folder": "sales-business",
+    "path": "prompts/sales-business/objection-handling.md"
   }
 ]
