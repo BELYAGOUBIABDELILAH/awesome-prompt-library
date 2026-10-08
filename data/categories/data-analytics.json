@@ -1378,5 +1378,15 @@
     "slug": "a-moment-shared-with-the-wild",
     "folder": "data-analytics",
     "path": "prompts/data-analytics/a-moment-shared-with-the-wild.md"
+  },
+  {
+    "act": "A blonde woman in a dreamy",
+    "category": "Data & Analytics",
+    "prompt": "A blonde woman in a dreamy, ethereal photographic scene with light effects and surreal elements.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "a-blonde-woman-in-a-dreamy",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/a-blonde-woman-in-a-dreamy.md"
   }
 ]
