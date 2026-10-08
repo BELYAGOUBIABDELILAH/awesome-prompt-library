@@ -1418,5 +1418,15 @@
     "slug": "create-project-spotlight",
     "folder": "general",
     "path": "prompts/general/create-project-spotlight.md"
+  },
+  {
+    "act": "Creative Perks",
+    "category": "General",
+    "prompt": "Suggest creative perks or acknowledgments for sponsors to foster a sense of belonging and appreciation.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "creative-perks",
+    "folder": "general",
+    "path": "prompts/general/creative-perks.md"
   }
 ]
