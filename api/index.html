@@ -240,11 +240,11 @@
           .pop() || "api";
         const repositoryName = repositorySlug.split(/[-_]+/).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
         const endpointEntries = Object.entries(data.endpoints || {});
-        document.title = ${repositoryName} · ;
+        document.title = `${repositoryName} · ${apiVersion}`;
         document.getElementById("brand").textContent = repositoryName;
-        document.getElementById("headline").textContent = ${repositoryName} API;
+        document.getElementById("headline").textContent = `${repositoryName} API`;
         document.getElementById("summary").textContent =
-          ${data.total_prompts.toLocaleString()} curated prompts across  categories.;
+          `${data.total_prompts.toLocaleString()} curated prompts across ${data.total_categories} categories.`;
         document.getElementById("total-prompts").textContent =
           data.total_prompts.toLocaleString();
         document.getElementById("total-categories").textContent = data.total_categories.toLocaleString();
@@ -256,7 +256,7 @@
         for (const key of exampleKeys) {
           const card = add(examples, "article", undefined, "card");
           add(card, "h3", endpointLabel(key));
-          const code = etch('')\n  .then(response => response.json());
+          const code = `fetch('${new URL(data.endpoints[key]).href}')\n  .then(response => response.json())`;
           add(card, "pre", code);
         }
 
@@ -286,13 +286,13 @@
 
       fetch(statsUrl, { cache: "no-store" })
         .then((response) => {
-          if (!response.ok) throw new Error(HTTP );
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
           return response.json();
         })
         .then(render)
         .catch((error) => {
           status.classList.add("error");
-          status.textContent = Metadata unavailable: ;
+          status.textContent = `Metadata unavailable: ${error.message}`;
           document.getElementById("summary").textContent = "The API metadata could not be loaded.";
         });
     })();
