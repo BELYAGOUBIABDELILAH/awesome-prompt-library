@@ -1438,5 +1438,15 @@
     "slug": "dream-interpreter",
     "folder": "general",
     "path": "prompts/general/dream-interpreter.md"
+  },
+  {
+    "act": "Impact Metrics",
+    "category": "General",
+    "prompt": "Create a compelling data-driven section showing the impact of [project name]: downloads, users helped, issues resolved, and community growth statistics.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "impact-metrics",
+    "folder": "general",
+    "path": "prompts/general/impact-metrics.md"
   }
 ]
