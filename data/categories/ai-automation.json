@@ -1448,5 +1448,15 @@
     "slug": "data-analyst",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/data-analyst.md"
+  },
+  {
+    "act": "Debugging Oncall Tickets",
+    "category": "AI & Automation",
+    "prompt": "Help solve complex deployment issues.\nGiven the oncall ticket:\n1. Summarize the issue in one sentence\n2. Identify the most likely failure point (service, dependency, config, data)\n3. List diagnostic steps in order of speed/ease\n4. Pull relevant runbooks, playbooks, or past incidents\n5. Suggest the fastest path to mitigation vs. full fix\n6. Draft the incident update for stakeholders (status + ETA + next step)\nBias toward speed. Mitigate first, root-cause later.",
+    "source": "Glean",
+    "type": "TEXT",
+    "slug": "debugging-oncall-tickets",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/debugging-oncall-tickets.md"
   }
 ]
