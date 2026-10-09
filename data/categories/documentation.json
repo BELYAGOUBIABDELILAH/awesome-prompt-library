@@ -1388,5 +1388,15 @@
     "slug": "draft-a-memo",
     "folder": "documentation",
     "path": "prompts/documentation/draft-a-memo.md"
+  },
+  {
+    "act": "Generate Issue Templates",
+    "category": "Documentation",
+    "prompt": "Create GitLab issue templates for our project.\n\nProject type: [WEB APP / API / LIBRARY / DATA PIPELINE]\nTeam size: [SMALL <5 / MEDIUM 5-15 / LARGE 15+]\n\n## Template 1: Bug Report\nFile: .gitlab/issue_templates/bug.md\n\n\\",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "generate-issue-templates",
+    "folder": "documentation",
+    "path": "prompts/documentation/generate-issue-templates.md"
   }
 ]
