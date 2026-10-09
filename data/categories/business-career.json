@@ -1388,5 +1388,15 @@
     "slug": "annual-summary-creator",
     "folder": "business-career",
     "path": "prompts/business-career/annual-summary-creator.md"
+  },
+  {
+    "act": "Audit Codebase for Compliance",
+    "category": "Business & Career",
+    "prompt": "Conduct a compliance audit of this codebase:\n\n[PASTE CODE or specify scope]\n\nCompliance frameworks to check: [GDPR / HIPAA / SOC2 / PCI-DSS / ISO27001 / select all that apply]\n\n## Compliance Audit\n\n### Data Handling\n- [ ] Is personal data (PII) identified and catalogued?\n- [ ] Is PII encrypted at rest?\n- [ ] Is PII encrypted in transit (TLS 1.2+)?\n- [ ] Is PII minimized (only collect what's needed)?\n- [ ] Is there a data retention policy implemented?\n- [ ] Is there a data deletion capability (right to erasure)?\n- [ ] Are data access logs maintained?\n\n### Access Controls\n- [ ] Is authentication required for all sensitive endpoints?\n- [ ] Is authorization enforced at the service layer (not just UI)?\n- [ ] Is principle of least privilege applied?\n- [ ] Are admin functions separated from user functions?\n- [ ] Are API keys rotated and scoped appropriately?\n\n### Audit Logging\n- [ ] Are authentication events logged?\n- [ ] Are data access events logged?\n- [ ] Are admin actions logged?\n- [ ] Are logs tamper-proof (append-only, offsite)?\n- [ ] Are logs retained for required duration?\n\n### Encryption\n- [ ] Are secrets stored in a secrets manager (not .env files in repo)?\n- [ ] Is TLS configured with strong cipher suites?\n- [ ] Are database passwords and credentials rotated?\n\n## Violations Found\nFor each: regulation violated, severity, specific location in code, remediation required.\n\n## Remediation Priority\nOrder violations by: compliance risk × effort to fix.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "audit-codebase-for-compliance",
+    "folder": "business-career",
+    "path": "prompts/business-career/audit-codebase-for-compliance.md"
   }
 ]
