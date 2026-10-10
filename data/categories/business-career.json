@@ -1398,5 +1398,15 @@
     "slug": "audit-codebase-for-compliance",
     "folder": "business-career",
     "path": "prompts/business-career/audit-codebase-for-compliance.md"
+  },
+  {
+    "act": "Business",
+    "category": "Business & Career",
+    "prompt": ". Act as an investor who’s deciding where to fund me.”\n\n- “Pretend you’re a competitor trying to destroy my idea.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "business",
+    "folder": "business-career",
+    "path": "prompts/business-career/business.md"
   }
 ]
