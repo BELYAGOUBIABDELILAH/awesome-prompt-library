@@ -1498,5 +1498,15 @@
     "slug": "encyclopedia-assistant",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/encyclopedia-assistant.md"
+  },
+  {
+    "act": "Explain Funding Impact",
+    "category": "AI & Automation",
+    "prompt": "Create a section for my Sponsors page that explains how funding will help me dedicate more time to [project/topics], support new contributors, and ensure the sustainability of my open source work.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "explain-funding-impact",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/explain-funding-impact.md"
   }
 ]
