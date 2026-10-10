@@ -1448,5 +1448,15 @@
     "slug": "impact-metrics",
     "folder": "general",
     "path": "prompts/general/impact-metrics.md"
+  },
+  {
+    "act": "Interdisciplinary Connections and Applications",
+    "category": "General",
+    "prompt": "\"Explore how [topic] connects with other fields or disciplines. Provide examples of cross-disciplinary applications, collaborative opportunities, and how integrating insights from different areas can enhance understanding or innovation in [topic].\"",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "interdisciplinary-connections-and-applications",
+    "folder": "general",
+    "path": "prompts/general/interdisciplinary-connections-and-applications.md"
   }
 ]
