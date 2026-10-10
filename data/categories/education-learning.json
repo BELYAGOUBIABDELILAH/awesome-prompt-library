@@ -68,5 +68,15 @@
     "slug": "cv-writing-assistant",
     "folder": "education-learning",
     "path": "prompts/education-learning/cv-writing-assistant.md"
+  },
+  {
+    "act": "Childs Coloring Style",
+    "category": "Education & Learning",
+    "prompt": "A cartoon ${setting} scene with crayon colored ${detail1} and ${detail2} and ${detail3}, like that of a learning child.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "childs-coloring-style",
+    "folder": "education-learning",
+    "path": "prompts/education-learning/childs-coloring-style.md"
   }
 ]
