@@ -1418,5 +1418,15 @@
     "slug": "research-problems-faced-by-a-user-persona",
     "folder": "research-analysis",
     "path": "prompts/research-analysis/research-problems-faced-by-a-user-persona.md"
+  },
+  {
+    "act": "Summarize Peer Feedback",
+    "category": "Research & Analysis",
+    "prompt": "Summarize peer feedback for a performance review and align it with job expectations.\nStructure:\n1. Themes: What are 3–5 recurring observations across reviewers?\n2. Strengths: Specific behaviors mentioned positively (with frequency)\n3. Development areas: Specific behaviors to improve (with context)\n4. Alignment check: Map feedback to role expectations and competencies\n5. Manager narrative: 2–3 paragraph summary written in the manager's voice, ready to use in the review\nBe objective. Preserve the signal. Remove the noise.",
+    "source": "Glean",
+    "type": "TEXT",
+    "slug": "summarize-peer-feedback",
+    "folder": "research-analysis",
+    "path": "prompts/research-analysis/summarize-peer-feedback.md"
   }
 ]
