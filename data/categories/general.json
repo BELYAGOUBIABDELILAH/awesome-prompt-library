@@ -1458,5 +1458,15 @@
     "slug": "interdisciplinary-connections-and-applications",
     "folder": "general",
     "path": "prompts/general/interdisciplinary-connections-and-applications.md"
+  },
+  {
+    "act": "Matrix Paradise Seraph",
+    "category": "General",
+    "prompt": "A Fallen Angel Seraphim on a glitching throne, blending angelic and cyberpunk elements in a dark, surreal style.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "matrix-paradise-seraph",
+    "folder": "general",
+    "path": "prompts/general/matrix-paradise-seraph.md"
   }
 ]
