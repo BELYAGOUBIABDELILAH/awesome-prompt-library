@@ -1468,5 +1468,15 @@
     "slug": "matrix-paradise-seraph",
     "folder": "general",
     "path": "prompts/general/matrix-paradise-seraph.md"
+  },
+  {
+    "act": "Monthly Updates",
+    "category": "General",
+    "prompt": "Create a template for monthly sponsor updates that includes progress, challenges, wins, and upcoming features for [project].",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "monthly-updates",
+    "folder": "general",
+    "path": "prompts/general/monthly-updates.md"
   }
 ]
