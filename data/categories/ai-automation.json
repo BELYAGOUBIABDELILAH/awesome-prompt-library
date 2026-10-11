@@ -1528,5 +1528,15 @@
     "slug": "generate-gitlab-ci-templates",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/generate-gitlab-ci-templates.md"
+  },
+  {
+    "act": "Generate an enhanced command prompt",
+    "category": "AI & Automation",
+    "prompt": "Generate an enhanced version of this prompt (reply with only the enhanced prompt - no conversation, explanations, lead-in, bullet points, placeholders, or surrounding quotes):\n\n${userInput}",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "generate-an-enhanced-command-prompt",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/generate-an-enhanced-command-prompt.md"
   }
 ]
