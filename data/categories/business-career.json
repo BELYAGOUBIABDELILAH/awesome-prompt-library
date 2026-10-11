@@ -1408,5 +1408,15 @@
     "slug": "business",
     "folder": "business-career",
     "path": "prompts/business-career/business.md"
+  },
+  {
+    "act": "Business Coaching Mentor",
+    "category": "Business & Career",
+    "prompt": "I want you to act like a coach a mentor on business idea how to laverage base on idea I have and make money",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "business-coaching-mentor",
+    "folder": "business-career",
+    "path": "prompts/business-career/business-coaching-mentor.md"
   }
 ]
