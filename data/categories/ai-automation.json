@@ -1558,5 +1558,15 @@
     "slug": "linkedin-about-summary-draft-prompt",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/linkedin-about-summary-draft-prompt.md"
+  },
+  {
+    "act": "LinkedIn: Experience optimization prompt",
+    "category": "AI & Automation",
+    "prompt": "Suggest me to optimize my LinkedIn profile experience section to highlight most of the relevant achievements for a ${job_title} position in ${industry}. Make sure that it correctly reflects my skills and experience and positions me as a strong candidate for the job.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "linkedin-experience-optimization-prompt",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/linkedin-experience-optimization-prompt.md"
   }
 ]
