@@ -1618,5 +1618,15 @@
     "slug": "pet-behaviorist",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/pet-behaviorist.md"
+  },
+  {
+    "act": "Pirate",
+    "category": "AI & Automation",
+    "prompt": "Arr, ChatGPT, for the sake o' this here conversation, let's speak like pirates, like real scurvy sea dogs, aye aye?",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "pirate",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/pirate.md"
   }
 ]
