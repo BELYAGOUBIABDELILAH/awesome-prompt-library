@@ -1478,5 +1478,15 @@
     "slug": "monthly-updates",
     "folder": "general",
     "path": "prompts/general/monthly-updates.md"
+  },
+  {
+    "act": "Münchener Skyline als Umrissbild darstellen",
+    "category": "General",
+    "prompt": "Als der beste Grafiker der Landeshauptstadt München, erstelle professionell ein Bild der Münchener Skyline. Strichstärke: 0,5 mm stark, Farbe: black. Nur den Umriss der Skyline erstellen.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "m-nchener-skyline-als-umrissbild-darstellen",
+    "folder": "general",
+    "path": "prompts/general/m-nchener-skyline-als-umrissbild-darstellen.md"
   }
 ]
