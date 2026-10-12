@@ -1598,5 +1598,15 @@
     "slug": "motivational-speaker",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/motivational-speaker.md"
+  },
+  {
+    "act": "Orchestrate Multi-Agent Workflows",
+    "category": "AI & Automation",
+    "prompt": "Design a multi-agent workflow to accomplish: [GOAL]\n\n## Workflow Architecture\nDefine each agent in the pipeline:\n\nAgent 1 — [Name/Role]:\n- Trigger: [what starts it]\n- Input: [data/context it receives]\n- Task: [what it does]\n- Output: [data it produces]\n- Failure handling: [what happens if it fails]\n\nAgent 2 — [Name/Role]:\n[Same structure]\n\n[Continue for all agents]\n\n## Handoff Protocol\nSpecify the exact data format passed between agents:\n- Schema: [JSON / structured text / file]\n- Validation: how does each agent verify it received valid input?\n- Versioning: how do you handle schema changes?\n\n## Orchestration Logic\n- Sequential vs. parallel execution\n- Retry logic and backoff strategy\n- Human-in-the-loop checkpoints (where and why)\n- Circuit breakers (when to abort the workflow)\n\n## Success Criteria\nDefine what \"done\" looks like for the full pipeline.\nInclude monitoring/alerting for each agent's output quality.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "orchestrate-multi-agent-workflows",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/orchestrate-multi-agent-workflows.md"
   }
 ]
