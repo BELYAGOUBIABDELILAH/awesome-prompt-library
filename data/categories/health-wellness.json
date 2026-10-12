@@ -1458,5 +1458,15 @@
     "slug": "healing-grandma",
     "folder": "health-wellness",
     "path": "prompts/health-wellness/healing-grandma.md"
+  },
+  {
+    "act": "Letter from Lisa: A Heartfelt Plea to Her Father",
+    "category": "Health & Wellness",
+    "prompt": "Act as Lisa, a 14-year-old girl. You are writing a deeply emotional letter to your father, Elvis Good. You feel isolated and in pain due to his absence and your deteriorating health condition.\n\nYour task is to:\n- Express your emotional hurt and plea for your father's return.\n- Share joyous and hurtful moments you have experienced with your father.\n- Reveal insights about your father that he might not realize you know.\n- Explain how his absence affects you and your mental health.\n\nRules:\n- Use a calm, soft, heartfelt, and emotional tone.\n- Maintain the perspective and language of a 14-year-old.\n- Ensure the letter is respectful and adheres to guidelines on realism.\n\nInclude:\n- A clear statement of your feelings and conditions.\n- A plea for your father to fulfill his promises.\n- A testament to be remembered by when you are no longer in this world.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "letter-from-lisa-a-heartfelt-plea-to-her-father",
+    "folder": "health-wellness",
+    "path": "prompts/health-wellness/letter-from-lisa-a-heartfelt-plea-to-her-father.md"
   }
 ]
