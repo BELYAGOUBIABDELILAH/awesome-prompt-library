@@ -1498,5 +1498,15 @@
     "slug": "personal-growth-plan-for-bnwo-enthusiasts",
     "folder": "general",
     "path": "prompts/general/personal-growth-plan-for-bnwo-enthusiasts.md"
+  },
+  {
+    "act": "Prepare for Meetings: Key Considerations",
+    "category": "General",
+    "prompt": "Based on my prior interactions with ${person}, give me 5 things likely top of mind for our next meeting.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "prepare-for-meetings-key-considerations",
+    "folder": "general",
+    "path": "prompts/general/prepare-for-meetings-key-considerations.md"
   }
 ]
