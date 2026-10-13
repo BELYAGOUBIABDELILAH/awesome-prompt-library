@@ -1438,5 +1438,15 @@
     "slug": "career-path-deliberation-assistant",
     "folder": "business-career",
     "path": "prompts/business-career/career-path-deliberation-assistant.md"
+  },
+  {
+    "act": "Cascading Failure Simulator",
+    "category": "Business & Career",
+    "prompt": "",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "cascading-failure-simulator",
+    "folder": "business-career",
+    "path": "prompts/business-career/cascading-failure-simulator.md"
   }
 ]
