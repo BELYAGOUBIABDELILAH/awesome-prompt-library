@@ -1698,5 +1698,15 @@
     "slug": "text-summarizer",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/text-summarizer.md"
+  },
+  {
+    "act": "Time Commitment",
+    "category": "AI & Automation",
+    "prompt": "Explain how sponsorship would allow me to dedicate [X hours/days] per week/month to open source, comparing current volunteer time vs. potential sponsored time.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "time-commitment",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/time-commitment.md"
   }
 ]
