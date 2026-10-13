@@ -1668,5 +1668,15 @@
     "slug": "relationship-coach",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/relationship-coach.md"
+  },
+  {
+    "act": "Romantic Rainy Scene Video",
+    "category": "AI & Automation",
+    "prompt": "They are standing under the rain, looking at each other romantically. Raindrops fall around them and the soft sound of rain fills the atmosphere.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "romantic-rainy-scene-video",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/romantic-rainy-scene-video.md"
   }
 ]
