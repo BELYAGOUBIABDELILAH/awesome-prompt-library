@@ -128,5 +128,15 @@
     "slug": "ai-for-casino-list-and-profit-simulation",
     "folder": "writing-content",
     "path": "prompts/writing-content/ai-for-casino-list-and-profit-simulation.md"
+  },
+  {
+    "act": "AI-powered data extraction and organization tool",
+    "category": "Writing & Content",
+    "prompt": "Develop an AI-powered data extraction and organization tool that revolutionizes the way professionals across content creation, web development, academia, and business entrepreneurship gather, analyze, and utilize information. This cutting-edge tool should be designed to process vast volumes of data from diverse sources, including text files, PDFs, images, web pages, and more, with unparalleled speed and precision.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "ai-powered-data-extraction-and-organization-tool",
+    "folder": "writing-content",
+    "path": "prompts/writing-content/ai-powered-data-extraction-and-organization-tool.md"
   }
 ]
