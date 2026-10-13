@@ -1458,5 +1458,15 @@
     "slug": "china-business-law-assistant",
     "folder": "business-career",
     "path": "prompts/business-career/china-business-law-assistant.md"
+  },
+  {
+    "act": "Create Disaster Recovery Plan",
+    "category": "Business & Career",
+    "prompt": "Create a disaster recovery plan for:\n\nSystem: [NAME AND DESCRIPTION]\nCriticality: [Mission-critical / High / Medium / Low]\nBusiness hours: [24/7 / Business hours only]\n\n## Recovery Objectives\n\n### RTO — Recovery Time Objective\nMaximum acceptable downtime: [N hours/minutes]\nThis means: the system must be restored within [RTO] of a declared disaster.\n\n### RPO — Recovery Point Objective\nMaximum acceptable data loss: [N hours/minutes]\nThis means: we must be able to recover data from [RPO] before the incident.\n\n## Disaster Scenarios\n\nFor each scenario, document the recovery procedure:\n\n### Scenario 1: Database Failure\nTrigger: [how to detect]\nImpact: [what stops working]\nRecovery steps:\n1. [Step 1 with exact commands]\n2. [Step 2]\n3. Verify: [how to confirm recovery]\nExpected time: [N minutes]\n\n### Scenario 2: Application Server Failure\n[same format]\n\n### Scenario 3: Complete Region/Data Center Failure\n[same format]\n\n### Scenario 4: Ransomware / Data Corruption\n[same format]\n\n## Backup Strategy\n- Backup frequency: [N]\n- Backup retention: [N days/weeks]\n- Backup location: [offsite/cloud]\n- Backup verification: [how and how often]\n- Last tested: [date]\n\n## Runbook\nStep-by-step commands to execute each recovery scenario.\n\n## DR Test Schedule\nTest DR procedures: [quarterly / annually]\nLast test date and result: [FILL IN]",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "create-disaster-recovery-plan",
+    "folder": "business-career",
+    "path": "prompts/business-career/create-disaster-recovery-plan.md"
   }
 ]
