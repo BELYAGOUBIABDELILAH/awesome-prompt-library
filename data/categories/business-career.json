@@ -1478,5 +1478,15 @@
     "slug": "create-troubleshooting-guide",
     "folder": "business-career",
     "path": "prompts/business-career/create-troubleshooting-guide.md"
+  },
+  {
+    "act": "Diagnose Customer Issue from Logs",
+    "category": "Business & Career",
+    "prompt": "Help me diagnose a customer issue from their logs:\n\nCustomer description: [WHAT THE CUSTOMER REPORTED]\nCustomer logs: [PASTE LOGS]\nCustomer environment: [OS, version, config details]\n\n## Log Analysis\n\n### Timeline Reconstruction\nFrom the logs, reconstruct what happened:\n[TIME]: [Event] — [Significance]\n\n### Error Signals\n- Error messages found: [list with line numbers]\n- Warning patterns: [repeated warnings]\n- Anomalous behavior: [unexpected log patterns]\n\n### Root Cause\nBased on the logs, the issue is: [explanation in plain language]\nThis was triggered by: [specific event or condition]\n\n### Customer Impact\n- Was data lost? [yes/no/unknown]\n- Was service interrupted? [duration]\n- Is the issue ongoing or resolved? [based on logs]\n\n### Resolution Steps\nFor the customer:\n1. [Immediate action]\n2. [Verification step]\n3. [Confirmation of fix]\n\n### Internal Action Items\n- Bug to file: [yes/no — with description]\n- Config change needed: [yes/no]\n- Documentation to update: [yes/no]\n\n### Response to Customer\nDraft a clear, non-technical explanation of what happened and what to do.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "diagnose-customer-issue-from-logs",
+    "folder": "business-career",
+    "path": "prompts/business-career/diagnose-customer-issue-from-logs.md"
   }
 ]
