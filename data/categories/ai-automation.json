@@ -1678,5 +1678,15 @@
     "slug": "romantic-rainy-scene-video",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/romantic-rainy-scene-video.md"
+  },
+  {
+    "act": "Step 2: Outline Creation",
+    "category": "AI & Automation",
+    "prompt": "Based on the ideas generated in the previous step, create a detailed outline.\n\nStructure your outline with:\n- Main sections and subsections\n- Key points to cover\n- Estimated time/effort for each section\n- Dependencies between sections\n\nFormat the outline in a clear, hierarchical structure.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "step-2-outline-creation",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/step-2-outline-creation.md"
   }
 ]
