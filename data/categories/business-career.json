@@ -1588,5 +1588,15 @@
     "slug": "meta-prompt",
     "folder": "business-career",
     "path": "prompts/business-career/meta-prompt.md"
+  },
+  {
+    "act": "Multi-Tenant Data Isolation",
+    "category": "Business & Career",
+    "prompt": "Design and implement multi-tenant data isolation:\n\nApplication type: [SaaS / Internal platform]\nTenants: [estimated N tenants, N rows per tenant on average]\nIsolation strategy to implement: [choose one]\n  Option A: Shared database, shared schema (row-level tenant_id)\n  Option B: Shared database, separate schema per tenant\n  Option C: Separate database per tenant\n\n## Recommended Strategy\nBased on scale and requirements: [RECOMMENDATION with justification]\n\n## Implementation\n\n### Database Layer (Option A — most common)\n\\",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "multi-tenant-data-isolation",
+    "folder": "business-career",
+    "path": "prompts/business-career/multi-tenant-data-isolation.md"
   }
 ]
