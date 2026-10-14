@@ -1568,5 +1568,15 @@
     "slug": "integrate-with-enterprise-sso",
     "folder": "business-career",
     "path": "prompts/business-career/integrate-with-enterprise-sso.md"
+  },
+  {
+    "act": "Linkedin profile enhancing",
+    "category": "Business & Career",
+    "prompt": "Can you help me craft a catchy headline for my LinkedIn profile that would help me get noticed by recruiters looking to fill a ${job_title:data engineer} in ${industry:data engineering}? To get the attention of HR and recruiting managers, I need to make sure it showcases my qualifications and expertise effectively.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "linkedin-profile-enhancing",
+    "folder": "business-career",
+    "path": "prompts/business-career/linkedin-profile-enhancing.md"
   }
 ]
