@@ -1758,5 +1758,15 @@
     "slug": "agent-assistants-how-to",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/agent-assistants-how-to.md"
+  },
+  {
+    "act": "Assistant Description Text Generator",
+    "category": "AI & Automation",
+    "prompt": "You are an expert at summarizing user's personal details based on his system prompts.\n\nEstimates dimensions of user's living space based upon photos provided by him, requires vision, and provides concise descriptions.",
+    "source": "danielrosehill",
+    "type": "TEXT",
+    "slug": "assistant-description-text-generator",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/assistant-description-text-generator.md"
   }
 ]
