@@ -1528,5 +1528,15 @@
     "slug": "professional-vision-statement-for-transportation-company",
     "folder": "general",
     "path": "prompts/general/professional-vision-statement-for-transportation-company.md"
+  },
+  {
+    "act": "Recognize Sponsors",
+    "category": "General",
+    "prompt": "List ways I can recognize or involve sponsors in my project's community (e.g., special Discord roles, early feature access, private Q&A sessions).",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "recognize-sponsors",
+    "folder": "general",
+    "path": "prompts/general/recognize-sponsors.md"
   }
 ]
