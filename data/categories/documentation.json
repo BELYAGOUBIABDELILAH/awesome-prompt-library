@@ -1468,5 +1468,15 @@
     "slug": "technical-documentation-writer",
     "folder": "documentation",
     "path": "prompts/documentation/technical-documentation-writer.md"
+  },
+  {
+    "act": "Update Documentation After Code Changes",
+    "category": "Documentation",
+    "prompt": "Identify all documentation that needs updating after these code changes:\n\nCode changes: [PASTE DIFF or DESCRIBE WHAT CHANGED]\nChange type: [new feature / bug fix / refactor / API change / config change / breaking change]\n\n## Documentation Impact Analysis\n\n### Directly Affected Docs\nFor each document that must be updated:\n- **Document name/location**: [PATH]\n- **What changed**: [specific section and what needs to change]\n- **Priority**: Must update before release / Should update soon / Nice to have\n\n### API Documentation\n- Did any endpoint signatures change? [yes/no → which ones]\n- Did any request/response schemas change?\n- Did any error codes change?\n- New endpoints added?\n\n### User-Facing Documentation\n- Does the feature change affect the user guide?\n- Are there new UI elements that need screenshots?\n- Did any workflow change that tutorials describe?\n\n### README / Setup Guides\n- New environment variables to document?\n- Changed install/setup steps?\n- New dependencies users need to install?\n\n### CHANGELOG\nDraft the changelog entry for this change:\n\\",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "update-documentation-after-code-changes",
+    "folder": "documentation",
+    "path": "prompts/documentation/update-documentation-after-code-changes.md"
   }
 ]
