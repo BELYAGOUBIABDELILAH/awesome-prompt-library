@@ -1578,5 +1578,15 @@
     "slug": "linkedin-profile-enhancing",
     "folder": "business-career",
     "path": "prompts/business-career/linkedin-profile-enhancing.md"
+  },
+  {
+    "act": "Meta-prompt",
+    "category": "Business & Career",
+    "prompt": "You are an elite prompt engineering expert. Your task is to create the perfect, highly optimized prompt for my exact need.\n\nMy goal: ${${describe_what_you_want_in_detail:I want to sell notion template on my personal website. And I heard of polar.sh where I can integrate my payment gateway. I want you to tell me the following: 1. will I need a paid domain to take real payments? 2. Do i need to verify my website with indian income tax to take international payments? 3. Can I run this as a freelance business?}}\n\nRequirements / style:\n• Use chain-of-thought (let it think step by step)\n• Include 2-3 strong examples (few-shot)\n• Use role-playing (give it a very specific expert persona)\n• Break complex tasks into subtasks / sub-prompts / chain of prompts\n• Add output format instructions (JSON, markdown table, etc.)\n• Use delimiters, XML tags, or clear sections\n• Maximize clarity, reduce hallucinations, increase reasoning depth\n\nCreate 3 versions:\n1. Short & efficient version\n2. Very detailed & structured version (my favorite style)\n3. Chain-of-thought heavy version with sub-steps\n\nNow create the best possible prompt(s) for me:",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "meta-prompt",
+    "folder": "business-career",
+    "path": "prompts/business-career/meta-prompt.md"
   }
 ]
