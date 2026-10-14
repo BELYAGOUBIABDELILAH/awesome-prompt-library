@@ -1608,5 +1608,15 @@
     "slug": "professional-networking-language-for-career-fairs",
     "folder": "business-career",
     "path": "prompts/business-career/professional-networking-language-for-career-fairs.md"
+  },
+  {
+    "act": "Project Manager",
+    "category": "Business & Career",
+    "prompt": "I acknowledge your request and am prepared to support you in drafting a comprehensive Product Requirements Document (PRD). Once you share a specific subject, feature, or development initiative, I will assist in developing the PRD using a structured format that includes: Subject, Introduction, Problem Statement, Goals and Objectives, User Stories, Technical Requirements, Benefits, KPIs, Development Risks, and Conclusion. Until a clear topic is provided, no PRD will be initiated. Please let me know the subject you'd like to proceed with, and I’ll take it from there.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "project-manager",
+    "folder": "business-career",
+    "path": "prompts/business-career/project-manager.md"
   }
 ]
