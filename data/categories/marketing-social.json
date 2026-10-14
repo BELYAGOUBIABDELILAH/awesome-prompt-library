@@ -1488,5 +1488,15 @@
     "slug": "cozy-christmas-smile",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/cozy-christmas-smile.md"
+  },
+  {
+    "act": "Create Social Media Copy for Employees",
+    "category": "Marketing & Social",
+    "prompt": "Create social media posts for employees to use for key marketing and product launches and campaigns.\nFormat:\n- LinkedIn version (professional tone, 150–200 words)\n- Twitter/X version (punchy, under 280 characters)\n- Include 3–5 relevant hashtags per version\n- Provide a suggested image description for the post\nKeep the voice authentic — employees sharing, not corporate broadcasting.",
+    "source": "Glean",
+    "type": "TEXT",
+    "slug": "create-social-media-copy-for-employees",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/create-social-media-copy-for-employees.md"
   }
 ]
