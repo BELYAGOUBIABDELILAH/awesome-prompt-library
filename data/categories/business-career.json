@@ -1548,5 +1548,15 @@
     "slug": "implement-data-retention-policies",
     "folder": "business-career",
     "path": "prompts/business-career/implement-data-retention-policies.md"
+  },
+  {
+    "act": "Implement Role-Based Access Control",
+    "category": "Business & Career",
+    "prompt": "Implement a complete Role-Based Access Control (RBAC) system:\n\nApplication: [DESCRIBE]\nLanguage/Framework: [SPECIFY]\nDatabase: [SPECIFY]\n\n## RBAC Design\n\n### Permission Model\nDefine the structure:\n- Resources: [ENTITY1, ENTITY2, ENTITY3]\n- Actions: create, read, update, delete, [custom actions]\n- Roles: [Admin, Manager, User, Viewer, Guest, etc.]\n\n### Permission Matrix\n| Role | Resource:Action | Granted |\n|---|---|---|\n| Admin | *:* | ✅ All |\n| Manager | Projects:CRUD | ✅ |\n| [etc.] | | |\n\n## Implementation\n\n### Database Schema\n- roles table (id, name, description)\n- permissions table (id, resource, action)\n- role_permissions table (role_id, permission_id)\n- user_roles table (user_id, role_id, granted_by, granted_at, expires_at)\n\n### Permission Check Middleware\n\\",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "implement-role-based-access-control",
+    "folder": "business-career",
+    "path": "prompts/business-career/implement-role-based-access-control.md"
   }
 ]
