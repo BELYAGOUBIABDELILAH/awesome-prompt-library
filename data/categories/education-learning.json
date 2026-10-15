@@ -168,5 +168,15 @@
     "slug": "english-teacher-for-translation-and-cultural-explanation",
     "folder": "education-learning",
     "path": "prompts/education-learning/english-teacher-for-translation-and-cultural-explanation.md"
+  },
+  {
+    "act": "Expert-Level Insights and Advanced Resources",
+    "category": "Education & Learning",
+    "prompt": "\"Curate a collection of expert tips, advanced learning strategies, and high-quality resources (such as books, courses, tools, or communities) for mastering [topic] efficiently. Emphasize credible sources and actionable advice to accelerate expertise.\"",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "expert-level-insights-and-advanced-resources",
+    "folder": "education-learning",
+    "path": "prompts/education-learning/expert-level-insights-and-advanced-resources.md"
   }
 ]
