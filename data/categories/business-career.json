@@ -1678,5 +1678,15 @@
     "slug": "universal-job-fit-evaluation-prompt",
     "folder": "business-career",
     "path": "prompts/business-career/universal-job-fit-evaluation-prompt.md"
+  },
+  {
+    "act": "Web Application",
+    "category": "Business & Career",
+    "prompt": "---\nname: web-application\ndescription: Optimize the prompt for an advanced AI web application builder to develop a fully functional ${applicationType:travel booking} web application. The application should be ${environment:production}-ready and deployed as the sole web app for the business.\n---\n\n# Web Application \n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: Select the desired ${technologyStack} technology stack for the application based on the user's preferred hosting space, ${hostingSpace}.\n- Step 2: Outline the key features such as ${features:booking system, payment gateway}.\n- Step 3: Ensure deployment is suitable for the ${environment:production} environment.\n- Step 4: Set a timeline for project completion by ${deadline}.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "web-application",
+    "folder": "business-career",
+    "path": "prompts/business-career/web-application.md"
   }
 ]
