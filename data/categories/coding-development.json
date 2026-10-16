@@ -1588,5 +1588,15 @@
     "slug": "act-as-an-electron-frontend-developer",
     "folder": "coding-development",
     "path": "prompts/coding-development/act-as-an-electron-frontend-developer.md"
+  },
+  {
+    "act": "Adjust Code to Match Style Guides",
+    "category": "Coding & Development",
+    "prompt": "Review a code snippet and suggest improvements to align it with specified style guidelines.\nFor each deviation from the style guide:\n1. Quote the problematic line\n2. Explain which rule it violates\n3. Show the corrected version\n4. If multiple valid approaches exist, note which the team prefers and why\nOutput the full corrected snippet at the end, ready to copy-paste.",
+    "source": "Glean",
+    "type": "TEXT",
+    "slug": "adjust-code-to-match-style-guides",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/adjust-code-to-match-style-guides.md"
   }
 ]
