@@ -1698,5 +1698,15 @@
     "slug": "android-update-checker-script-for-pydroid-3",
     "folder": "coding-development",
     "path": "prompts/coding-development/android-update-checker-script-for-pydroid-3.md"
+  },
+  {
+    "act": "Any Programming Language to Python Converter",
+    "category": "Coding & Development",
+    "prompt": "I want you to act as a any programming language to python code converter. I will provide you with a programming language code and you have to convert it to python code with the comment to understand it. Consider it's a code when I use {{code here}}.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "any-programming-language-to-python-converter",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/any-programming-language-to-python-converter.md"
   }
 ]
