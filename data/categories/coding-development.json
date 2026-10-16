@@ -1658,5 +1658,15 @@
     "slug": "analyze-api-contracts-and-integrations",
     "folder": "coding-development",
     "path": "prompts/coding-development/analyze-api-contracts-and-integrations.md"
+  },
+  {
+    "act": "Analyze Database Schema and Relationships",
+    "category": "Coding & Development",
+    "prompt": "Analyze this database schema:\n\n[PASTE SCHEMA / migrations / ORM models]\n\n## Entity Map\nList all tables/collections with:\n- Purpose (what does this entity represent?)\n- Primary key strategy\n- Key fields and their types\n- Nullable vs required fields\n\n## Relationship Analysis\nFor each relationship:\n- Type: one-to-one / one-to-many / many-to-many\n- Enforcement: FK constraint / application-level / none\n- Cascade behavior: delete, update\n- Is the relationship bidirectional?\n\n## Index Analysis\n- Which columns are indexed?\n- Which frequent query patterns have no index?\n- Are there redundant indexes?\n- Are there missing composite indexes for common multi-column lookups?\n\n## Performance Concerns\n- Tables with unbounded growth (no archiving strategy)\n- Fields that should be denormalized for read performance\n- JSON/text fields used where relational structure would be better\n- Missing pagination patterns\n\n## Recommendations\nList 3–5 schema improvements with justification.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "analyze-database-schema-and-relationships",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/analyze-database-schema-and-relationships.md"
   }
 ]
