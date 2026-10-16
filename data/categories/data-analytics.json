@@ -1548,5 +1548,15 @@
     "slug": "cinematic-urban-night-portrait-moody-streetwear-aesthetic",
     "folder": "data-analytics",
     "path": "prompts/data-analytics/cinematic-urban-night-portrait-moody-streetwear-aesthetic.md"
+  },
+  {
+    "act": "Color Consistency Analysis and Adjustment",
+    "category": "Data & Analytics",
+    "prompt": "Act as a professional designer and photographer with high visual intelligence. Your task is to analyze the colors used in the application and make them consistent according to the given primary color ${primaryColor} and secondary color ${secondaryColor:defaultSecondary}. Ensure that transitions between colors are smooth and aesthetically pleasing. Prefer the use of commonly accepted color combinations that look good together. Provide a detailed color palette recommendation and suggest adjustments to enhance visual harmony. Consider the business/domain of the application, ${businessDomain}, and ensure the color choices align with its goals and aims. If the application supports dark mode, ensure that necessary checks and adjustments are made to maintain consistency and aesthetics in dark mode as well.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "color-consistency-analysis-and-adjustment",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/color-consistency-analysis-and-adjustment.md"
   }
 ]
