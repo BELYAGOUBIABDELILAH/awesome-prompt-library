@@ -1588,5 +1588,15 @@
     "slug": "stand-up-comedian",
     "folder": "general",
     "path": "prompts/general/stand-up-comedian.md"
+  },
+  {
+    "act": "Step 4a: Implementation Plan",
+    "category": "General",
+    "prompt": "Create a comprehensive implementation plan.\n\nInclude:\n- Phase breakdown with milestones\n- Task list with priorities\n- Resource allocation\n- Risk mitigation strategies\n- Timeline estimates\n- Success metrics\n\nFormat as an actionable project plan.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "step-4a-implementation-plan",
+    "folder": "general",
+    "path": "prompts/general/step-4a-implementation-plan.md"
   }
 ]
