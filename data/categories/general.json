@@ -1598,5 +1598,15 @@
     "slug": "step-4a-implementation-plan",
     "folder": "general",
     "path": "prompts/general/step-4a-implementation-plan.md"
+  },
+  {
+    "act": "Step 6: Publication",
+    "category": "General",
+    "prompt": "Prepare the final deliverable for publication.\n\nFinal steps:\n- Format for target platform\n- Create accompanying materials\n- Set up distribution\n- Prepare announcement\n- Schedule publication\n- Monitor initial reception\n\nCongratulations on completing the workflow!",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "step-6-publication",
+    "folder": "general",
+    "path": "prompts/general/step-6-publication.md"
   }
 ]
