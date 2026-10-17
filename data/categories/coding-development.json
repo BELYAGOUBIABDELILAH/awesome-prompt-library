@@ -1878,5 +1878,15 @@
     "slug": "bug-discovery-code-assistant",
     "folder": "coding-development",
     "path": "prompts/coding-development/bug-discovery-code-assistant.md"
+  },
+  {
+    "act": "Build Full-Stack Application",
+    "category": "Coding & Development",
+    "prompt": "Scaffold a full-stack application with the following requirements:\n\nApplication name: [NAME]\nPurpose: [WHAT IT DOES]\nTech stack:\n  - Frontend: [React / Vue / Next.js / etc.]\n  - Backend: [Node.js / Python / Go / etc.]\n  - Database: [PostgreSQL / MySQL / MongoDB / etc.]\n  - Auth: [JWT / OAuth / Session]\n\n## Project Structure\nGenerate the complete directory structure first, then implement each section.\n\n## Database Schema\nDesign the schema for core entities:\n- Tables/collections with fields and types\n- Relationships and foreign keys\n- Indexes for common queries\n- Migration file\n\n## API Layer\nDesign RESTful (or GraphQL) API:\n- Endpoints with HTTP methods\n- Request/response schemas\n- Authentication middleware\n- Error response format\n- Input validation\n\n## Frontend Components\nCore components to scaffold:\n- Layout/navigation\n- Auth forms (login/signup)\n- Main feature view\n- API integration layer (fetch/axios wrapper)\n\n## Development Setup\n- docker-compose.yml for local development\n- Environment variables needed (.env.example)\n- README with setup steps (< 5 steps to running locally)\n\nProvide complete, working code for each section.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "build-full-stack-application",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/build-full-stack-application.md"
   }
 ]
