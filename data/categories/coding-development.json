@@ -1918,5 +1918,15 @@
     "slug": "build-a-ui-library-for-esp32",
     "folder": "coding-development",
     "path": "prompts/coding-development/build-a-ui-library-for-esp32.md"
+  },
+  {
+    "act": "Build an Advanced Music App for Android",
+    "category": "Coding & Development",
+    "prompt": "Act as a mobile app developer specializing in Android applications. Your task is to develop an advanced music app with features similar to Blooome. \n\nYou will:\n- Design a user-friendly interface that supports album art display and music visualizations.\n- Implement playlist management features, allowing users to create, edit, and shuffle playlists.\n- Integrate with popular music streaming services to provide a wide range of music choices.\n- Ensure the app supports offline playback and offers a seamless user experience.\n- Optimize the app for performance and battery efficiency.\n\nRules:\n- Use Android Studio and Kotlin for development.\n- Follow best practices for Android UI/UX design.\n- Ensure compatibility with the latest Android versions.\n- Conduct thorough testing to ensure app stability and responsiveness.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "build-an-advanced-music-app-for-android",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/build-an-advanced-music-app-for-android.md"
   }
 ]
