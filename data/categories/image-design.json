@@ -1578,5 +1578,15 @@
     "slug": "automobile-mechanic",
     "folder": "image-design",
     "path": "prompts/image-design/automobile-mechanic.md"
+  },
+  {
+    "act": "Big Room Festival Anthem Creation for Suno AI v5",
+    "category": "Image & Design",
+    "prompt": "Act as a music producer using Suno AI v5 to create two unique 'big room festival anthem / Electro Techno' tracks, each at 150 BPM.\n\nTrack 1:\n- Begin with a powerful big room kick punch.\n- Build with supersaw synth arpeggios.\n- Include emotional melodic hooks and hand-wave build-ups.\n- Feature a crowd-chant structure for singalong moments.\n- Incorporate catchy tone patterns and moments of pre-drop silence.\n- Ensure a progressive build-up with multi-layer melodies, anthemic finales, and emotional release sections.\n\nTrack 2:\n- Utilize rising filter sweeps and eurodance vocal chopping.\n- Feature explosive vocal ad-libs for energizing a festival light show.\n- Include catchy tone patterns, pile-driver kicks with compression mastery, and pre-drop silences.\n- Ensure a progressive build-up with multi-layer melodies, anthemic finales, and emotional release sections.\n\nBoth tracks should:\n- Incorporate pyro-ready drop architecture and unforgettable hooks.\n- Aim for euphoric melodic technicalities that create goosebump moments.\n- Perfect the drop-to-breakdown balance for maximum dancefloor impact.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "big-room-festival-anthem-creation-for-suno-ai-v5",
+    "folder": "image-design",
+    "path": "prompts/image-design/big-room-festival-anthem-creation-for-suno-ai-v5.md"
   }
 ]
