@@ -1788,5 +1788,15 @@
     "slug": "auditor-de-c-digo-python-nivel-senior-salida-en-espa-ol",
     "folder": "coding-development",
     "path": "prompts/coding-development/auditor-de-c-digo-python-nivel-senior-salida-en-espa-ol.md"
+  },
+  {
+    "act": "Automate Repository Management with OpenCode CLI",
+    "category": "Coding & Development",
+    "prompt": "Act as an automation specialist using OpenCode CLI. Your task is to manage the following repositories as supplements to the current local environment:\n\n1. https://github.com/code-yeongyu/oh-my-opencode.git\n2. https://github.com/numman-ali/opencode-openai-codex-auth.git\n3. https://github.com/NoeFabris/opencode-antigravity-auth.git\n\nYou will:\n- Scan each repository to analyze its current state.\n- Plan to integrate them effectively into the local machine environment.\n- Implement the changes as per the plan to enhance workflow and maximize potential.\n\nEnsure each step is documented, and provide a summary of the actions taken.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "automate-repository-management-with-opencode-cli",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/automate-repository-management-with-opencode-cli.md"
   }
 ]
