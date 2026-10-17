@@ -1818,5 +1818,15 @@
     "slug": "backend-architect",
     "folder": "coding-development",
     "path": "prompts/coding-development/backend-architect.md"
+  },
+  {
+    "act": "Banking System App Development with CRUD Operations",
+    "category": "Coding & Development",
+    "prompt": "Act as a Software Developer specializing in mobile application development using Maui. Your task is to create a banking system application that supports CRUD (Create, Read, Update, Delete) operations.\n\nYou will:\n- Develop a user interface that is intuitive and user-friendly.\n- Implement backend logic to handle data storage and retrieval.\n- Ensure security measures are in place for sensitive data.\n- Allow users to add new banking records, edit existing ones, and delete records as required.\n\nRules:\n- Use Maui framework for cross-platform compatibility.\n- Adhere to best practices in mobile app security.\n- Provide error handling and user feedback mechanisms.\n\nVariables:\n- ${appName:BankingApp} - The name of the application.\n- ${platform:CrossPlatform} - Target platform for the application.\n- ${databaseType:SQLite} - The database to be used for data storage.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "banking-system-app-development-with-crud-operations",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/banking-system-app-development-with-crud-operations.md"
   }
 ]
