@@ -1928,5 +1928,15 @@
     "slug": "build-an-advanced-music-app-for-android",
     "folder": "coding-development",
     "path": "prompts/coding-development/build-an-advanced-music-app-for-android.md"
+  },
+  {
+    "act": "Building a Scalable Search Service with FastAPI and PostgreSQL",
+    "category": "Coding & Development",
+    "prompt": "Act as a software engineer tasked with developing a scalable search service. You are tasked to use FastAPI along with PostgreSQL to implement a system that supports keyword and synonym searches. Your task is to:\n\n- Develop a FastAPI application with endpoints for searching data stored in PostgreSQL.\n- Implement keyword and synonym search functionalities.\n- Design the system architecture to allow future integration with Elasticsearch for enhanced search capabilities.\n- Plan for Kafka integration to handle search request logging and real-time updates.\n\nGuidelines:\n- Use FastAPI for creating RESTful API services.\n- Utilize PostgreSQL's full-text search features for keyword search.\n- Implement synonym search using a suitable library or algorithm.\n- Consider scalability and code maintainability.\n- Ensure the system is designed to easily extend with Elasticsearch and Kafka in the future.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "building-a-scalable-search-service-with-fastapi-and-postgres",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/building-a-scalable-search-service-with-fastapi-and-postgres.md"
   }
 ]
