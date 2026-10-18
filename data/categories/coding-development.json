@@ -2128,5 +2128,15 @@
     "slug": "code-recon",
     "folder": "coding-development",
     "path": "prompts/coding-development/code-recon.md"
+  },
+  {
+    "act": "Code Review (Security Focus)",
+    "category": "Coding & Development",
+    "prompt": "Identify security issues and suggest ways to mitigate them.\nReview the following code for:\n- SQL injection vulnerabilities\n- XSS attack surfaces\n- Insecure authentication or session handling\n- Hardcoded secrets or credentials\n- Improper input validation\n- Exposed error messages with internal details\nFor each issue found: state severity (Critical / High / Medium / Low), explain the risk, and provide a corrected code snippet.",
+    "source": "Glean",
+    "type": "TEXT",
+    "slug": "code-review-security-focus",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/code-review-security-focus.md"
   }
 ]
