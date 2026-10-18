@@ -1628,5 +1628,15 @@
     "slug": "temitope",
     "folder": "general",
     "path": "prompts/general/temitope.md"
+  },
+  {
+    "act": "Turkish Cats hanging out nearby of Galata Tower",
+    "category": "General",
+    "prompt": "Turkish Cats hanging out nearby of Galata Tower, vertical",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "turkish-cats-hanging-out-nearby-of-galata-tower",
+    "folder": "general",
+    "path": "prompts/general/turkish-cats-hanging-out-nearby-of-galata-tower.md"
   }
 ]
