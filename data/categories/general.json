@@ -1638,5 +1638,15 @@
     "slug": "turkish-cats-hanging-out-nearby-of-galata-tower",
     "folder": "general",
     "path": "prompts/general/turkish-cats-hanging-out-nearby-of-galata-tower.md"
+  },
+  {
+    "act": "Yağlı boya tablona bak",
+    "category": "General",
+    "prompt": "ekteki kişi bir sanat galerisinde kendinin yağlı boya tablosuna bakıyor.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "ya-l-boya-tablona-bak",
+    "folder": "general",
+    "path": "prompts/general/ya-l-boya-tablona-bak.md"
   }
 ]
