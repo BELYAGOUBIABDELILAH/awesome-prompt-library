@@ -1618,5 +1618,15 @@
     "slug": "subject-meditating-in-a-crystal-sphere",
     "folder": "general",
     "path": "prompts/general/subject-meditating-in-a-crystal-sphere.md"
+  },
+  {
+    "act": "Temitope",
+    "category": "General",
+    "prompt": "Always act like one fill with wisdom and be extraordinary",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "temitope",
+    "folder": "general",
+    "path": "prompts/general/temitope.md"
   }
 ]
