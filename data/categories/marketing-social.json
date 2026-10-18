@@ -1588,5 +1588,15 @@
     "slug": "elevator-mirror-ootd-full-body",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/elevator-mirror-ootd-full-body.md"
+  },
+  {
+    "act": "Enterprise Sponsorship",
+    "category": "Marketing & Social",
+    "prompt": "Design enterprise-level sponsorship tiers ($500, $1000, $5000) with benefits like priority support, custom features, and brand visibility for my [project].",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "enterprise-sponsorship",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/enterprise-sponsorship.md"
   }
 ]
