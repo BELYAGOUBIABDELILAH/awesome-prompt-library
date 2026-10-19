@@ -1658,5 +1658,15 @@
     "slug": "create-a-drag-and-drop-experience-using-uniapp",
     "folder": "general",
     "path": "prompts/general/create-a-drag-and-drop-experience-using-uniapp.md"
+  },
+  {
+    "act": "identify the key skills needed for effective project planning and proposal writing",
+    "category": "General",
+    "prompt": "identify the key skills needed for effective project planning and",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "identify-the-key-skills-needed-for-effective-project-plannin",
+    "folder": "general",
+    "path": "prompts/general/identify-the-key-skills-needed-for-effective-project-plannin.md"
   }
 ]
