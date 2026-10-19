@@ -1608,5 +1608,15 @@
     "slug": "football-player-introduction-poster-template",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/football-player-introduction-poster-template.md"
+  },
+  {
+    "act": "Futuristic Supercar Brand Logo",
+    "category": "Marketing & Social",
+    "prompt": "Design a logo for a futuristic supercar brand. The logo should:\n- Reflect innovation, speed, and luxury.\n- Use sleek and modern design elements.\n- Incorporate shapes and colors that suggest high-tech and performance.\n- Be versatile enough to be used on car emblems, marketing materials, and merchandise.\n\nConsider using elements like:\n- Sharp angles and aerodynamic shapes\n- Metallic or chrome finishes\n- Bold typography\n\nYour task is to create a logo that stands out as a symbol of cutting-edge automotive excellence.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "futuristic-supercar-brand-logo",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/futuristic-supercar-brand-logo.md"
   }
 ]
