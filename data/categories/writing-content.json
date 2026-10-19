@@ -268,5 +268,15 @@
     "slug": "analyze-previous-year-question-papers",
     "folder": "writing-content",
     "path": "prompts/writing-content/analyze-previous-year-question-papers.md"
+  },
+  {
+    "act": "Announce Milestone",
+    "category": "Writing & Content",
+    "prompt": "Write an announcement for my Sponsors page about a new milestone or feature in [project], encouraging new and existing sponsors to get involved.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "announce-milestone",
+    "folder": "writing-content",
+    "path": "prompts/writing-content/announce-milestone.md"
   }
 ]
