@@ -1688,5 +1688,15 @@
     "slug": "roster",
     "folder": "general",
     "path": "prompts/general/roster.md"
+  },
+  {
+    "act": "scaryface",
+    "category": "General",
+    "prompt": "I want a scaryface masked man with really realistic lilke chasing me etc as cosplay",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "scaryface",
+    "folder": "general",
+    "path": "prompts/general/scaryface.md"
   }
 ]
