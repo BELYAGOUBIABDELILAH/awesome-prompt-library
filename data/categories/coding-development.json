@@ -2348,5 +2348,15 @@
     "slug": "comprehensive-integrative-medical-writing",
     "folder": "coding-development",
     "path": "prompts/coding-development/comprehensive-integrative-medical-writing.md"
+  },
+  {
+    "act": "Comprehensive POS Application Development with FIFO and Reporting",
+    "category": "Coding & Development",
+    "prompt": "---\nname: comprehensive-pos-application-development-with-fifo-and-reporting\ndescription: Develop a full-featured Point of Sales (POS) application integrating inventory management, FIFO costing, and daily sales reporting.\n---\n\n# Comprehensive POS Application Development with FIFO and Reporting\n\nAct as a Software Developer. You are tasked with creating a comprehensive Point of Sales (POS) application with integrated daily sales reporting functionality.\n\nYour task is to develop:\n- **Core POS Features:**\n  - Product inventory management with buy price and sell price tracking\n  - Sales transaction processing\n  - Real-time inventory updates\n  - User-friendly interface for cashiers\n\n- **FIFO Implementation:**\n  - Implement First-In-First-Out inventory management\n  - Track product batches with purchase dates\n  - Automatically sell oldest stock first\n  - Maintain accurate cost calculations based on FIFO methodology\n\n- **Daily Sales Report Features:**\n  - Generate comprehensive daily sales reports including:\n    - Total daily sales revenue\n    - Total daily profit (calculated as: sell price - buy price using FIFO costing)\n    - Number of transactions\n    - Best-selling products\n    - Inventory levels after sales\n\n**Technical Specifications:**\n- Use a modern programming language (${language:next js})\n- Include a database design for storing products, transactions, and inventory batches\n- Implement proper error handling and data validation\n- Create a clean, intuitive user interface\n- Include sample data for demonstration\n\n**Deliverables:**\n1. Complete source code with comments\n2. Database schema/structure\n3. Installation and setup instructions\n4. Sample screenshots or demo of key features\n5. Brief documentation explaining the FIFO implementation\n\nEnsure the application is production-ready with proper data persistence and can handle multiple daily transactions efficiently.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "comprehensive-pos-application-development-with-fifo-and-repo",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/comprehensive-pos-application-development-with-fifo-and-repo.md"
   }
 ]
