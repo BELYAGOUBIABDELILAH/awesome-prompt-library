@@ -2408,5 +2408,15 @@
     "slug": "comprehensive-repository-analysis",
     "folder": "coding-development",
     "path": "prompts/coding-development/comprehensive-repository-analysis.md"
+  },
+  {
+    "act": "Consolidate Duplicate Code",
+    "category": "Coding & Development",
+    "prompt": "Analyze the following code for duplication and apply DRY principles:\n\n[PASTE CODE]\n\n## Step 1: Identify Duplicates\nList every instance of duplicated logic:\n- Exact duplicates (copy-pasted code)\n- Near-duplicates (same logic, different variable names)\n- Structural duplicates (same pattern, different implementations)\n\nFor each: show both locations and the % similarity.\n\n## Step 2: Refactoring Plan\nFor each duplication group:\n1. Proposed abstraction name and location\n2. Parameters needed to generalize it\n3. Impact: which files/functions will change?\n4. Risk level: Low / Medium / High (with reason)\n\n## Step 3: Refactored Code\nProvide the complete refactored version:\n- New shared utility/component\n- Updated call sites\n- Before/after line count comparison\n\n## Step 4: Verification\nList tests that should pass before and after the refactor to confirm behavior is preserved.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "consolidate-duplicate-code",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/consolidate-duplicate-code.md"
   }
 ]
