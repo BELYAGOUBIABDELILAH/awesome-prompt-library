@@ -1678,5 +1678,15 @@
     "slug": "postmortem",
     "folder": "general",
     "path": "prompts/general/postmortem.md"
+  },
+  {
+    "act": "roster",
+    "category": "General",
+    "prompt": "\"Roaster\"\n\nRoaster's Criticism\n\nAnalyze this text and evaluate it brutally and honestly. Don't be gentle. Pinpoint the weaknesses, the slowness, and the mistakes. Point out the holes in the logic. I want tough love, not polite feedback.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "roster",
+    "folder": "general",
+    "path": "prompts/general/roster.md"
   }
 ]
