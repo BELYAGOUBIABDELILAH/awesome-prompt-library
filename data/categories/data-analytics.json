@@ -1648,5 +1648,15 @@
     "slug": "debater",
     "folder": "data-analytics",
     "path": "prompts/data-analytics/debater.md"
+  },
+  {
+    "act": "Default Meeting Summary",
+    "category": "Data & Analytics",
+    "prompt": "You are a helpful assistant. The following is a meeting transcript. Please: \n\n1. Summarize the meeting in 1–2 paragraphs. \n2. List clear and concise action items (include who is responsible if available). \n\nReturn format: \nSummary: <summary> \nAction Items: \n- [ ] item 1 \n- [ ] item 2\n\nMake sure the summary is in ${language}\n\n=======Transcript=======\n\n==========================",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "default-meeting-summary",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/default-meeting-summary.md"
   }
 ]
