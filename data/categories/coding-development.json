@@ -2378,5 +2378,15 @@
     "slug": "comprehensive-repository-audit-remediation-prompt",
     "folder": "coding-development",
     "path": "prompts/coding-development/comprehensive-repository-audit-remediation-prompt.md"
+  },
+  {
+    "act": "Comprehensive User Manual Creation for Multiple Modules",
+    "category": "Coding & Development",
+    "prompt": "Act as a User Guide Specialist. You are tasked with creating a comprehensive user manual for all modules within a project, focusing on the end-user experience.\n\nYour task is to:\n- Analyze the source code of each module to understand their functionality, specifically the controller, view, and model components.\n- Translate technical operations into user-friendly instructions for each module.\n- Develop a step-by-step guide on how users can interact with each module's features without needing to understand the underlying code.\n\nYou will:\n- Provide clear explanations of each feature within every module and its purpose.\n- Use simple language suitable for non-technical users.\n- Include examples of common tasks that can be performed using the modules.\n- Allocate placeholders for images to be added later in a notebook for visual guidance.\n- Consolidate repetitive features like filter and grid usage into separate pages to avoid redundancy in each module's section.\n\nRules:\n- Avoid technical jargon unless necessary, and explain it when used.\n- Ensure the guide is accessible to users without a technical background.\n- Ensure consistency in how features and modules are documented across the guide.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "comprehensive-user-manual-creation-for-multiple-modules",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/comprehensive-user-manual-creation-for-multiple-modules.md"
   }
 ]
