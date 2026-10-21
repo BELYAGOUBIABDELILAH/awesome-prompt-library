@@ -2558,5 +2558,15 @@
     "slug": "create-integration-test-scenarios",
     "folder": "coding-development",
     "path": "prompts/coding-development/create-integration-test-scenarios.md"
+  },
+  {
+    "act": "Create Microservice",
+    "category": "Coding & Development",
+    "prompt": "Create a production-ready microservice:\n\nService name: [NAME]\nResponsibility: [WHAT THIS SERVICE DOES — single responsibility]\nLanguage/Framework: [SPECIFY]\nCommunication: [REST / gRPC / Message queue]\n\n## Service Implementation\n\n### API/Interface\nDefine the service contract:\n- Endpoints or message schemas\n- Request/response formats\n- Error codes and meanings\n\n### Core Logic\nImplement the main service behavior with:\n- Input validation\n- Business logic\n- Error handling with proper error types\n- Structured logging (JSON format, with trace ID)\n\n### Health Checks\n- /health/live — is the service running?\n- /health/ready — is the service ready to handle traffic? (DB connected, dependencies up)\n\n### Configuration\n- Environment variable based configuration\n- Sensible defaults\n- Config validation on startup (fail fast if required config is missing)\n\n### Containerization\nProvide:\n- Dockerfile (multi-stage build, non-root user, minimal base image)\n- docker-compose.yml for local development\n- Resource limits (CPU, memory)\n\n### Observability\n- Structured logging with levels\n- Metrics endpoint (Prometheus format)\n- Distributed tracing headers (OpenTelemetry)\n\n### Tests\n- Unit tests for core logic\n- Integration test that starts the service and calls endpoints",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "create-microservice",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/create-microservice.md"
   }
 ]
