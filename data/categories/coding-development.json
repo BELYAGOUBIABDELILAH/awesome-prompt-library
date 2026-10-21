@@ -2618,5 +2618,15 @@
     "slug": "create-a-cultural-superhero-movie-poster",
     "folder": "coding-development",
     "path": "prompts/coding-development/create-a-cultural-superhero-movie-poster.md"
+  },
+  {
+    "act": "Create a Professional Bio",
+    "category": "Coding & Development",
+    "prompt": "Write a GitHub Sponsors bio for my profile that highlights my experience in [your field], the impact of my open source work, and my commitment to community growth.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "create-a-professional-bio",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/create-a-professional-bio.md"
   }
 ]
