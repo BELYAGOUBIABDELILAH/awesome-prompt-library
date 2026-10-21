@@ -1688,5 +1688,15 @@
     "slug": "crafting-linkedin-messages-to-hiring-managers",
     "folder": "image-design",
     "path": "prompts/image-design/crafting-linkedin-messages-to-hiring-managers.md"
+  },
+  {
+    "act": "Create Design System Documentation",
+    "category": "Image & Design",
+    "prompt": "Create comprehensive documentation for this UI component:\n\nComponent: [COMPONENT NAME]\nCode: [PASTE COMPONENT CODE]\nDesign system: [SPECIFY — Material, Tailwind, custom]\n\n## Component Documentation\n\n### Overview\nWhat is this component? When should you use it vs. alternatives?\n\n### Props / API Reference\n| Prop | Type | Required | Default | Description |\n|---|---|---|---|---|\n\n### Usage Examples\n\\",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "create-design-system-documentation",
+    "folder": "image-design",
+    "path": "prompts/image-design/create-design-system-documentation.md"
   }
 ]
