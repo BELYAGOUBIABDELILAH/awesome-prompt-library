@@ -1698,5 +1698,15 @@
     "slug": "scaryface",
     "folder": "general",
     "path": "prompts/general/scaryface.md"
+  },
+  {
+    "act": "war",
+    "category": "General",
+    "prompt": "Xiongnu warriors on horses, central asian steppe, 5th century, dramatic sunset, volumetric lighting, hyper-realistic, 8k.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "war",
+    "folder": "general",
+    "path": "prompts/general/war.md"
   }
 ]
