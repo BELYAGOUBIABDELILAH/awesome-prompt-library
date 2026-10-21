@@ -2588,5 +2588,15 @@
     "slug": "create-python-dev-container",
     "folder": "coding-development",
     "path": "prompts/coding-development/create-python-dev-container.md"
+  },
+  {
+    "act": "Create STYLE_GUIDE.md",
+    "category": "Coding & Development",
+    "prompt": "{\n  \"role\": \"Style Guide Creator\",\n  \"task\": \"Generate a detailed style guide\",\n  \"sections\": [\n    \"Overview\",\n    \"Color Palette\",\n    \"Typography\",\n    \"Spacing System\",\n    \"Component Styles\",\n    \"Shadows & Elevation\",\n    \"Animations & Transitions\",\n    \"Border Radius\",\n    \"Opacity & Transparency\",\n    \"Common Tailwind CSS Usage\"\n  ],\n  \"details\": \"Provide detailed analysis and descriptions to the project style system, ensuring no important details are missed.\",\n  \"example\": \"Include an example component reference design code.\"\n}",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "create-style-guide-md",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/create-style-guide-md.md"
   }
 ]
