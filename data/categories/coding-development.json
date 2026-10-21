@@ -2728,5 +2728,15 @@
     "slug": "customizable-web-template-for-company-branding",
     "folder": "coding-development",
     "path": "prompts/coding-development/customizable-web-template-for-company-branding.md"
+  },
+  {
+    "act": "Cyber Security Character Workflow",
+    "category": "Coding & Development",
+    "prompt": "{\n  \"name\": \"Cyber Security Character\",\n  \"steps\": [\n    {\n      \"step_1\": \"Facial Identity Mapping\",\n      \"description\": \"Maintain 100% facial consistency based on the provided reference photos. Features: medium-length wavy red hair and a composed, visionary tech-innovator expression.\"\n    },\n    {\n      \"step_2\": \"Tactical Gear & Branding\",\n      \"description\": \"Outfit the subject in a sleek red tactical jacket with intricate gold circuitry textures. Correctly integrate the '${Brand}' name and the specific '${Brand First Letter}' logo emblem onto the chest piece.\"\n    },\n    {\n      \"step_3\": \"Cybernetic Enhancement\",\n      \"description\": \"Apply subtle, minimalist gold-accented cybernetic interface patterns onto the skin of the face, ensuring they blend naturally with the {Style:Cyberpunk} aesthetic.\"\n    },\n    {\n      \"step_4\": \"Environmental Integration\",\n      \"description\": \"Design a background featuring the ${Country} flag merged with glowing golden digital circuits. Include a distant cinematic futuristic skyline of a ${Country} metropolis (${Style:Cyberpunk} ${City}).\"\n    },\n    {\n      \"step_5\": \"Lighting & Cinematic Render\",\n      \"description\": \"Utilize warm, dramatic side lighting from the right to cast a soft silhouette onto the background. Render in 4K ultra-realistic quality with hyper-detailed textures.\"\n    }\n  ]\n}",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "cyber-security-character-workflow",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/cyber-security-character-workflow.md"
   }
 ]
