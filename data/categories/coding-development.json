@@ -2748,5 +2748,15 @@
     "slug": "dax-terminal",
     "folder": "coding-development",
     "path": "prompts/coding-development/dax-terminal.md"
+  },
+  {
+    "act": "Debug Failing Pipeline",
+    "category": "Coding & Development",
+    "prompt": "Help me diagnose this failing CI/CD pipeline:\n\nPipeline output / error logs:\n[PASTE LOGS]\n\nPipeline config: [PASTE .gitlab-ci.yml snippet or describe]\nBranch: [BRANCH NAME]\nRecent changes: [what changed before this started failing]\n\n## Failure Analysis\n\n### Quick Diagnosis\n- Which job/stage failed?\n- What is the exact error message?\n- Is this a new failure or recurring?\n\n### Root Cause Categories\nCheck each:\n[ ] Environment variable missing or wrong\n[ ] Dependency not installed or wrong version\n[ ] Permission/authentication error\n[ ] Network timeout or unreachable service\n[ ] Code error introduced by recent commit\n[ ] Resource exhaustion (memory, disk, timeout)\n[ ] Race condition or ordering issue\n[ ] Flaky test (passes/fails intermittently)\n\n### Most Likely Cause\nBased on the logs: [explanation]\n\n### Fix\n[Specific fix with config changes or code changes]\n\n### Verification\nAfter applying the fix, verify with: [command or expected output]\n\n### Prevention\nHow to stop this from recurring: [config change, test addition, monitoring]",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "debug-failing-pipeline",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/debug-failing-pipeline.md"
   }
 ]
