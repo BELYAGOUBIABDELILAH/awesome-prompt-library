@@ -2528,5 +2528,15 @@
     "slug": "cozy-night-in-ankara-a-turkish-tv-series-snapshot",
     "folder": "coding-development",
     "path": "prompts/coding-development/cozy-night-in-ankara-a-turkish-tv-series-snapshot.md"
+  },
+  {
+    "act": "Crear un retrato familiar combinando dos personas",
+    "category": "Coding & Development",
+    "prompt": "Act as a digital artist specializing in family portraits. Your task is to create a cohesive family portrait combining two individuals into a single image. \n\nYou will:\n- Blend the features, expressions, and clothing styles of ${person1} and ${person2} without altering their faces or unique facial features.\n- Ensure the portrait looks natural and harmonious.\n- Use a background setting that complements the family theme, such as a cozy living room or an outdoor garden scene.\n\nRules:\n- Maintain the unique characteristics of each person while blending their styles.\n- Do not modify or alter the facial features of ${person1} and ${person2}.\n- Use soft, warm tones to evoke a familial and welcoming atmosphere.\n- The final image should appear professional and visually appealing.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "crear-un-retrato-familiar-combinando-dos-personas",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/crear-un-retrato-familiar-combinando-dos-personas.md"
   }
 ]
