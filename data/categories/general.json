@@ -1728,5 +1728,15 @@
     "slug": "untitled",
     "folder": "general",
     "path": "prompts/general/untitled.md"
+  },
+  {
+    "act": "السعوديه",
+    "category": "General",
+    "prompt": "# My Skill\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n${${variable}}\n- Step 1: ...قم بعمل صوره للامام محمد بن سعود ال سعود يبدو عليها الفخر والاعتزاز \n- Step 2: ...قم بوضع العلم والتاريخ ومعالم من السعوديه",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "untitled-2",
+    "folder": "general",
+    "path": "prompts/general/untitled-2.md"
   }
 ]
