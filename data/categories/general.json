@@ -1718,5 +1718,15 @@
     "slug": "i-ngilizce-t-rk-e-kelime-ve-c-mle-evirmeni",
     "folder": "general",
     "path": "prompts/general/i-ngilizce-t-rk-e-kelime-ve-c-mle-evirmeni.md"
+  },
+  {
+    "act": "Патентный поиск",
+    "category": "General",
+    "prompt": "Роль: ведущий патентный поверенный [вставить организацию]\nИсходные данные: техническое описание нового технического решения. Ключевые слова для поиска. Индексы МПК.\nЗадача: провести патентный и информационный поиск. Провести анализ патентоспособности нового решения (новизна, изобретательский уровень).\nНаписать отчет с таблицей результатов поиска, рекомендациями и выводами.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "untitled",
+    "folder": "general",
+    "path": "prompts/general/untitled.md"
   }
 ]
