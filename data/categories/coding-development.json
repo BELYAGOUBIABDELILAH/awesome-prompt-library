@@ -2998,5 +2998,15 @@
     "slug": "discover-gitlab-features",
     "folder": "coding-development",
     "path": "prompts/coding-development/discover-gitlab-features.md"
+  },
+  {
+    "act": "Django Unit Test Generator for Viewsets",
+    "category": "Coding & Development",
+    "prompt": "I want you to act as a Django Unit Test Generator. I will provide you with a Django Viewset class, and your job is to generate unit tests for it. Ensure the following:\n\n1. Create test cases for all CRUD (Create, Read, Update, Delete) operations.\n2. Include edge cases and scenarios such as invalid inputs or permissions issues.\n3. Use Django's TestCase class and the APIClient for making requests.\n4. Make use of setup methods to initialize any required data.\n\nPlease organize the generated test cases with descriptive method names and comments for clarity. Ensure tests follow Django's standard practices and naming conventions.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "django-unit-test-generator-for-viewsets",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/django-unit-test-generator-for-viewsets.md"
   }
 ]
