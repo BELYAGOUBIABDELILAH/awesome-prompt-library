@@ -1668,5 +1668,15 @@
     "slug": "harry-potter-marauder-s-map",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/harry-potter-marauder-s-map.md"
+  },
+  {
+    "act": "Hyperrealistic Food Photo Creator",
+    "category": "Marketing & Social",
+    "prompt": "Generate a hyperrealistic image of ${food_item} that captures its texture, color, and details in an appetizing composition. Ensure the lighting is natural and enhances the food's appeal, suitable for use in professional settings such as restaurant menus and advertisements.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "hyperrealistic-food-photo-creator",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/hyperrealistic-food-photo-creator.md"
   }
 ]
