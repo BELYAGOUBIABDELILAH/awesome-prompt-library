@@ -2978,5 +2978,15 @@
     "slug": "digital-visiting-card-product-architect",
     "folder": "coding-development",
     "path": "prompts/coding-development/digital-visiting-card-product-architect.md"
+  },
+  {
+    "act": "Digital product ideas",
+    "category": "Coding & Development",
+    "prompt": "Act as a digital marketing expert create 10 beginner friendly digital product ideas,I can sell on selar in Nigeria, explain each ideas in simple and state the problem it solves",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "digital-product-ideas",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/digital-product-ideas.md"
   }
 ]
