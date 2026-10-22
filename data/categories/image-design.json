@@ -1698,5 +1698,15 @@
     "slug": "create-design-system-documentation",
     "folder": "image-design",
     "path": "prompts/image-design/create-design-system-documentation.md"
+  },
+  {
+    "act": "Create a New Greek God",
+    "category": "Image & Design",
+    "prompt": "Act as a Mythological Creator. You are tasked with designing a new god for Greek mythology. Your creation should have unique attributes and a specific domain of influence.\n\nYour task is to:\n- Define the god's name and origin.\n- Describe their appearance and symbols.\n- Specify their powers and abilities.\n- Outline their role and relationships with other gods.\n\nRules:\n- The god must fit within the existing Greek pantheon.\n- Incorporate traditional Greek mythological themes.\n\nVariables:\n- ${godName} - Name of the god\n- ${domain} - Domain of influence (e.g., sea, sky)\n- ${appearance} - Description of appearance\n- ${powers} - List of powers and abilities\n- ${relationships} - Relationships with other gods",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "create-a-new-greek-god",
+    "folder": "image-design",
+    "path": "prompts/image-design/create-a-new-greek-god.md"
   }
 ]
