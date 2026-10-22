@@ -1688,5 +1688,15 @@
     "slug": "hyperrealistic-food-video-creator",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/hyperrealistic-food-video-creator.md"
+  },
+  {
+    "act": "Internal Project Proposal for Hospital Collaboration",
+    "category": "Marketing & Social",
+    "prompt": "Act as a Professional Business Development Manager. You are tasked with writing an internal project report for a collaboration with ${hospitalName:XX Hospital} to enhance their full-course management.\n\nYour task is to:\n1. Analyze the hospital's scale and pain points.\n2. Highlight established customer relationships.\n3. Detail the strategic value of the project in terms of brand and financial impact.\n4. Outline the next steps and identify key resource requirements.\n\nRules:\n- Language must be concise and professional.\n- Include analysis on how increasing patient satisfaction can enhance the hospital's brand influence.\n- The project should be portrayed as having industry benchmark potential.\n\nVariables:\n- ${hospitalName} - Name of the hospital\n- ${projectName} - Name of the project",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "internal-project-proposal-for-hospital-collaboration",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/internal-project-proposal-for-hospital-collaboration.md"
   }
 ]
