@@ -1708,5 +1708,15 @@
     "slug": "create-a-new-greek-god",
     "folder": "image-design",
     "path": "prompts/image-design/create-a-new-greek-god.md"
+  },
+  {
+    "act": "Create a detailed travel itinerary in HTML format",
+    "category": "Image & Design",
+    "prompt": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Travel Itinerary: Nanjing to Changchun</title>\n    <style>\n        body { font-family: Arial, sans-serif; }\n        .itinerary { margin: 20px; }\n        .day { margin-bottom: 20px; }\n        .header { font-size: 24px; font-weight: bold; }\n        .sub-header { font-size: 18px; font-weight: bold; }\n    </style>\n</head>\n<body>\n    <div class=\"itinerary\">\n        <div class=\"header\">Travel Itinerary: Nanjing to Changchun</div>\n        <div class=\"sub-header\">Dates: ${startDate} to ${endDate}</div>\n        <div class=\"sub-header\">Budget: ${budget} RMB</div>\n\n        <div class=\"day\">\n            <div class=\"sub-header\">Day 1: Arrival in Changchun</div>\n            <p><strong>Flight:</strong> ${flightDetails}</p>\n            <p><strong>Hotel:</strong> ${hotelName} - Located in city center, comfortable and affordable</p>\n            <p><strong>Weather:</strong> ${weatherForecast}</p>\n            <p><strong>Packing Tips:</strong> ${packingRecommendations}</p>\n        </div>\n\n        <div class=\"day\">\n            <div class=\"sub-header\">Day 2: Exploring Changchun</div>\n            <p><strong>Attractions:</strong> ${attraction1} (Ticket: ${ticketPrice1}, Open: ${openTime1})</p>\n            <p><strong>Lunch:</strong> Try local cuisine at ${restaurant1}</p>\n            <p><strong>Afternoon:</strong> Visit ${attraction2} (Ticket: ${ticketPrice2}, Open: ${openTime2})</p>\n            <p><strong>Dinner:</strong> Enjoy a meal at ${restaurant2}</p>\n            <p><strong>Transportation:</strong> ${transportDetails}</p>\n        </div>\n\n        <!-- Repeat similar blocks for Day 3, Day 4, etc. -->\n        \n        <div class=\"day\">\n            <div class=\"sub-header\">Day 5: Departure</div>\n            <p><strong>Return Flight:</strong> ${returnFlightDetails}</p>\n        </div>\n\n    </div>\n</body>\n</html>",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "create-a-detailed-travel-itinerary-in-html-format",
+    "folder": "image-design",
+    "path": "prompts/image-design/create-a-detailed-travel-itinerary-in-html-format.md"
   }
 ]
