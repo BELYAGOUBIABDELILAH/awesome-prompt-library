@@ -2808,5 +2808,15 @@
     "slug": "deep-github-repository-understanding",
     "folder": "coding-development",
     "path": "prompts/coding-development/deep-github-repository-understanding.md"
+  },
+  {
+    "act": "Design API Endpoints",
+    "category": "Coding & Development",
+    "prompt": "Design a complete API for:\n\nResource/Feature: [NAME]\nAPI style: [REST / GraphQL / gRPC]\nAuthentication: [JWT / API Key / OAuth / Session]\nConsumers: [web app / mobile app / third-party / all]\n\n## API Design\n\n### RESTful Endpoints\n\n#### POST /[resource]\nCreate a new [resource].\n\nRequest:\n\\",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "design-api-endpoints",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/design-api-endpoints.md"
   }
 ]
