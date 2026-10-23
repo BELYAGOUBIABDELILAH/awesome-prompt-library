@@ -3208,5 +3208,15 @@
     "slug": "find-code-examples-of-patterns",
     "folder": "coding-development",
     "path": "prompts/coding-development/find-code-examples-of-patterns.md"
+  },
+  {
+    "act": "Find GitLab API Endpoints",
+    "category": "Coding & Development",
+    "prompt": "Find the correct GitLab API endpoint for what I need to do:\n\nWhat I'm trying to accomplish: [DESCRIBE THE ACTION]\nGitLab version: [self-managed vXX / GitLab.com]\nAuthentication method: [Personal Access Token / OAuth / Job token]\nLanguage/tool: [curl / Python / Node.js / Go]\n\n## API Endpoint\n\n### Endpoint Details\n- Method: [GET / POST / PUT / DELETE / PATCH]\n- URL: \\",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "find-gitlab-api-endpoints",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/find-gitlab-api-endpoints.md"
   }
 ]
