@@ -368,5 +368,15 @@
     "slug": "car-poster",
     "folder": "writing-content",
     "path": "prompts/writing-content/car-poster.md"
+  },
+  {
+    "act": "Cartoon series",
+    "category": "Writing & Content",
+    "prompt": "Write a 3D Pixar style cartoon series script about leo Swimming day using this character details",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "cartoon-series",
+    "folder": "writing-content",
+    "path": "prompts/writing-content/cartoon-series.md"
   }
 ]
