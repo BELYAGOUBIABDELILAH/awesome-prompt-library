@@ -1698,5 +1698,15 @@
     "slug": "internal-project-proposal-for-hospital-collaboration",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/internal-project-proposal-for-hospital-collaboration.md"
+  },
+  {
+    "act": "Investment Manager",
+    "category": "Marketing & Social",
+    "prompt": "Seeking guidance from experienced staff with expertise on financial markets , incorporating factors such as inflation rate or return estimates along with tracking stock prices over lengthy period ultimately helping customer understand sector then suggesting safest possible options available where he/she can allocate funds depending upon their requirement & interests ! Starting query - What currently is best way to invest money short term prospective?\"\"",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "investment-manager",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/investment-manager.md"
   }
 ]
