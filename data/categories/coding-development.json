@@ -3148,5 +3148,15 @@
     "slug": "expo-supabase-edge-function-cold-start-mobile-performance-an",
     "folder": "coding-development",
     "path": "prompts/coding-development/expo-supabase-edge-function-cold-start-mobile-performance-an.md"
+  },
+  {
+    "act": "Fancy Title Generator",
+    "category": "Coding & Development",
+    "prompt": "I want you to act as a fancy title generator. I will type keywords via comma and you will reply with fancy titles. my first keywords are api,test,automation",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "fancy-title-generator",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/fancy-title-generator.md"
   }
 ]
