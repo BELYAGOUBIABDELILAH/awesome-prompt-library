@@ -3258,5 +3258,15 @@
     "slug": "fix-blank-screen-issues-after-deploy-on-vercel-angular-react",
     "folder": "coding-development",
     "path": "prompts/coding-development/fix-blank-screen-issues-after-deploy-on-vercel-angular-react.md"
+  },
+  {
+    "act": "Flamenco inspired Turkish Pop song for Suno AI",
+    "category": "Coding & Development",
+    "prompt": "Neşeli ve sıcak bir flamenko esintili aşk şarkısı.\nTürkçe sözler, kadın–erkek düet vokal, karşılıklı ve uyumlu söyleyiş.\nHızlı akustik gitar ritimleri, canlı el çırpmaları ve doğal vurmalı çalgılar.\nAkdeniz hissi veren hareketli tempo, açık havada kutlama duygusu.\nGüçlü melodik kıtalar ve akılda kalıcı, yükselen bir nakarat.\nSamimi, insani, hafif kusurlu performans — yapay veya stok müzik hissi yok.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "flamenco-inspired-turkish-pop-song-for-suno-ai",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/flamenco-inspired-turkish-pop-song-for-suno-ai.md"
   }
 ]
