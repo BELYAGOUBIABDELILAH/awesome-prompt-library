@@ -3128,5 +3128,15 @@
     "slug": "explain-unfamiliar-code-or-mr",
     "folder": "coding-development",
     "path": "prompts/coding-development/explain-unfamiliar-code-or-mr.md"
+  },
+  {
+    "act": "Exploratory Code Understanding",
+    "category": "Coding & Development",
+    "prompt": "I'm exploring an unfamiliar codebase and need your help understanding it. Let's do this conversationally.\n\nRepository/scope: [DESCRIBE]\n\nStart by helping me answer these questions:\n\n## Map of the Territory\n1. What is the entry point of this application?\n2. What are the major modules/packages and what does each own?\n3. What does the folder structure tell us about the architecture?\n4. What are the 5 most important files to understand first?\n\n## Dependency Graph\n- What are the core external dependencies and why are they used?\n- What is the internal dependency order (which modules depend on which)?\n- Are there any circular dependencies?\n\n## Data Flow\n- Where does data enter the system?\n- How does it flow through the layers?\n- Where does it exit (database, API response, file, event)?\n\n## Ask Me What You Don't Know\nAfter providing the above, ask me 3 clarifying questions that would help you give me better explanations of this codebase.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "exploratory-code-understanding",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/exploratory-code-understanding.md"
   }
 ]
