@@ -3268,5 +3268,15 @@
     "slug": "flamenco-inspired-turkish-pop-song-for-suno-ai",
     "folder": "coding-development",
     "path": "prompts/coding-development/flamenco-inspired-turkish-pop-song-for-suno-ai.md"
+  },
+  {
+    "act": "Flashcard Study System",
+    "category": "Coding & Development",
+    "prompt": "Develop a comprehensive flashcard study system using HTML5, CSS3, and JavaScript. Create an intuitive interface for card creation and review. Implement spaced repetition algorithm for optimized learning. Add support for text, images, and audio on cards. Include card categorization with decks and tags. Implement study sessions with performance tracking. Add self-assessment with confidence levels. Create statistics dashboard showing learning progress. Support import/export of card decks in standard formats. Implement keyboard shortcuts for efficient review. Add dark mode and customizable themes.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "flashcard-study-system",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/flashcard-study-system.md"
   }
 ]
