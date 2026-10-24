@@ -3388,5 +3388,15 @@
     "slug": "gen-z-content-online-sales-prompt-generator",
     "folder": "coding-development",
     "path": "prompts/coding-development/gen-z-content-online-sales-prompt-generator.md"
+  },
+  {
+    "act": "Generate Boilerplate Code",
+    "category": "Coding & Development",
+    "prompt": "Enable users to set up the foundational structure of a REST API using the specified language and framework.\nGenerate boilerplate for:\n- Project structure (folders, entry point, config)\n- Basic CRUD routes with proper HTTP verbs and status codes\n- Input validation layer\n- Error handling middleware\n- Environment variable setup (.env.example)\n- Basic README with setup instructions\nLanguage: [SPECIFY] | Framework: [SPECIFY] | Database: [SPECIFY]",
+    "source": "Glean",
+    "type": "TEXT",
+    "slug": "generate-boilerplate-code",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/generate-boilerplate-code.md"
   }
 ]
