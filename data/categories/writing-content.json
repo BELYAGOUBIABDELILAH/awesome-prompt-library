@@ -398,5 +398,15 @@
     "slug": "chatgpt-prompt-generator",
     "folder": "writing-content",
     "path": "prompts/writing-content/chatgpt-prompt-generator.md"
+  },
+  {
+    "act": "Chess Player",
+    "category": "Writing & Content",
+    "prompt": "I want you to act as a rival chess player. I We will say our moves in reciprocal order. In the beginning I will be white. Also please don't explain your moves to me because we are rivals. After my first message i will just write my move. Don't forget to update the state of the board in your mind as we make moves. My first move is e4.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "chess-player",
+    "folder": "writing-content",
+    "path": "prompts/writing-content/chess-player.md"
   }
 ]
