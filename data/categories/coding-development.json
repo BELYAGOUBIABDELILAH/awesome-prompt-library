@@ -3438,5 +3438,15 @@
     "slug": "generate-test-data",
     "folder": "coding-development",
     "path": "prompts/coding-development/generate-test-data.md"
+  },
+  {
+    "act": "Generate Unit Tests",
+    "category": "Coding & Development",
+    "prompt": "Generate comprehensive unit tests for:\n\n[PASTE FUNCTION / CLASS / MODULE]\n\nLanguage: [SPECIFY]\nTesting framework: [Jest / pytest / JUnit / RSpec / Go test / etc.]\nMocking library: [if applicable]\n\n## Unit Test Suite\n\nFor each function/method, generate tests covering:\n\n### [FunctionName] tests\n\n**Happy Path**\n\\",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "generate-unit-tests",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/generate-unit-tests.md"
   }
 ]
