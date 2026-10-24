@@ -388,5 +388,15 @@
     "slug": "security-monitoring-with-wazuh-a-comprehensive-research-proj",
     "folder": "education-learning",
     "path": "prompts/education-learning/security-monitoring-with-wazuh-a-comprehensive-research-proj.md"
+  },
+  {
+    "act": "Solar System Scale Model Classroom Poster",
+    "category": "Education & Learning",
+    "prompt": "Design a classroom poster that illustrates the solar system with scale distances between planets. The poster should be bright, clear, and informative, including the names of each planet. This poster is intended for educational purposes, helping students understand the structure and scale of the solar system.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "solar-system-scale-model-classroom-poster",
+    "folder": "education-learning",
+    "path": "prompts/education-learning/solar-system-scale-model-classroom-poster.md"
   }
 ]
