@@ -3428,5 +3428,15 @@
     "slug": "generate-mr-description",
     "folder": "coding-development",
     "path": "prompts/coding-development/generate-mr-description.md"
+  },
+  {
+    "act": "Generate Test Data",
+    "category": "Coding & Development",
+    "prompt": "Generate comprehensive test data for:\n\nEntity/Schema: [PASTE schema or describe the data model]\nPurpose: [unit tests / integration tests / load tests / manual QA]\nVolume needed: [N records]\n\n## Test Data Sets\n\n### Valid Data (Happy Path)\n[N] records that represent typical real-world usage:\n\\",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "generate-test-data",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/generate-test-data.md"
   }
 ]
