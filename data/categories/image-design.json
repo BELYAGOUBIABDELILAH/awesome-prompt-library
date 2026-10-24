@@ -1768,5 +1768,15 @@
     "slug": "daiquiri-cocktail-cinematic-video",
     "folder": "image-design",
     "path": "prompts/image-design/daiquiri-cocktail-cinematic-video.md"
+  },
+  {
+    "act": "Dark Style Image Prompt",
+    "category": "Image & Design",
+    "prompt": "Create an image with a ${style:dark} aesthetic. Your image should feature:\n\n- **Lighting:** Moody and low-key, highlighting shadows.\n- **Color Palette:** Dark tones with high contrast.\n- **Elements:** Include mysterious or shadowy figures, gothic architecture, or night-time scenery.\n\nFeel free to adjust the ${elements} to match your vision of a dark style image.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "dark-style-image-prompt",
+    "folder": "image-design",
+    "path": "prompts/image-design/dark-style-image-prompt.md"
   }
 ]
