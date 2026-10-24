@@ -1758,5 +1758,15 @@
     "slug": "customizable-avatar-style-generator",
     "folder": "image-design",
     "path": "prompts/image-design/customizable-avatar-style-generator.md"
+  },
+  {
+    "act": "Daiquiri Cocktail Cinematic Video",
+    "category": "Image & Design",
+    "prompt": "A cinematic 9:16 vertical video of a Daiquiri  cocktail placed on a wooden bar table. The camera is positioned at a slight angle on the front of the glass. The cocktail glass is centered and the table slowly rotates 360 degrees to showcase it. Soft, warm lighting and realistic reflections on the glass. Background slightly blurred. Smooth slow zoom in. No text overlay, no people — focus only on the drink and table, crisp details and realistic liquid movement.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "daiquiri-cocktail-cinematic-video",
+    "folder": "image-design",
+    "path": "prompts/image-design/daiquiri-cocktail-cinematic-video.md"
   }
 ]
