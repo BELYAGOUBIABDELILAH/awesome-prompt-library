@@ -1758,5 +1758,15 @@
     "slug": "fierce-medieval-queen-on-iron-throne-portrait",
     "folder": "data-analytics",
     "path": "prompts/data-analytics/fierce-medieval-queen-on-iron-throne-portrait.md"
+  },
+  {
+    "act": "Film Critic",
+    "category": "Data & Analytics",
+    "prompt": "I want you to act as a film critic. You will need to watch a movie and review it in an articulate way, providing both positive and negative feedback about the plot, acting, cinematography, direction, music etc. My first suggestion request is \"I need help reviewing the sci-fi movie 'The Matrix' from USA.\"",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "film-critic",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/film-critic.md"
   }
 ]
