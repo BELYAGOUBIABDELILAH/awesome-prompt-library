@@ -3768,5 +3768,15 @@
     "slug": "interactive-quiz-application-for-tv-shows-and-movies",
     "folder": "coding-development",
     "path": "prompts/coding-development/interactive-quiz-application-for-tv-shows-and-movies.md"
+  },
+  {
+    "act": "Investigate Performance Bottleneck",
+    "category": "Coding & Development",
+    "prompt": "Help me find and fix a performance bottleneck:\n\nSymptom: [SLOW RESPONSE TIMES / HIGH CPU / HIGH MEMORY / etc.]\nContext: [endpoint / function / batch job / query]\nBaseline: [current performance — e.g., \"P99 latency is 8 seconds, should be < 500ms\"]\n\n## Profiling Strategy\nBefore optimizing, we measure. Here's what to profile:\n\n1. CPU profile — which functions consume the most CPU time?\n2. Memory profile — what allocations are happening in the hot path?\n3. I/O profile — are we blocking on disk or network?\n4. Database profile — which queries are slowest? Any N+1 patterns?\n\n## Bottleneck Identification\nBased on the code/context provided:\n\n### Likely Hot Path\n[Code section that executes most frequently]\n\n### Suspected Bottleneck\n[Specific operation that is probably slow and why]\n\n### Evidence\n[What in the code or symptoms points to this]\n\n## Optimization Plan\nFix in this order (highest impact first):\n1. [Optimization 1] — estimated gain: [X%]\n2. [Optimization 2] — estimated gain: [X%]\n3. [Optimization 3] — estimated gain: [X%]\n\n## Benchmark\nBefore and after benchmark setup:\n[Code or commands to measure improvement]\n\nIMPORTANT: Never optimize without measuring first. Premature optimization is the root of all evil.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "investigate-performance-bottleneck",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/investigate-performance-bottleneck.md"
   }
 ]
