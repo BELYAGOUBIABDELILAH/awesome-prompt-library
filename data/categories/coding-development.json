@@ -3628,5 +3628,15 @@
     "slug": "identify-breaking-changes-in-mr",
     "folder": "coding-development",
     "path": "prompts/coding-development/identify-breaking-changes-in-mr.md"
+  },
+  {
+    "act": "Identify Code Duplication Opportunities",
+    "category": "Coding & Development",
+    "prompt": "Scan this codebase for code duplication opportunities:\n\nScope: [FILE / MODULE / ENTIRE REPO]\n\n## Duplication Detection\n\n### Exact Duplicates\nCode blocks that are copied verbatim (or nearly so).\nShow: both locations, line count duplicated, suggested shared utility name.\n\n### Semantic Duplicates\nDifferent code that accomplishes the same thing.\nShow: both approaches, why they're equivalent, recommended canonical approach.\n\n### Structural Duplicates\nSame pattern repeated across multiple files (e.g., 10 controllers all doing the same auth check).\nShow: the pattern, all occurrences, proposed abstraction.\n\n## Consolidation Opportunities\nRanked by impact (lines saved × number of occurrences):\n\n1. [Pattern name] — X occurrences, Y lines each → save Z lines\n   Proposed abstraction: [name + signature]\n\n2. [Pattern name] — ...\n\n## Consolidation Risk\nFor each opportunity:\n- Risk level: Low / Medium / High\n- What could go wrong if we consolidate incorrectly?\n- Recommended approach to refactor safely (with tests)",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "identify-code-duplication-opportunities",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/identify-code-duplication-opportunities.md"
   }
 ]
