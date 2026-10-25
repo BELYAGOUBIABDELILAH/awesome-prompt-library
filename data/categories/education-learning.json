@@ -418,5 +418,15 @@
     "slug": "spoken-word-artist-persona",
     "folder": "education-learning",
     "path": "prompts/education-learning/spoken-word-artist-persona.md"
+  },
+  {
+    "act": "Student Tier",
+    "category": "Education & Learning",
+    "prompt": "Create a special $1-2 student sponsorship tier with meaningful benefits that acknowledges their support while respecting their budget.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "student-tier",
+    "folder": "education-learning",
+    "path": "prompts/education-learning/student-tier.md"
   }
 ]
