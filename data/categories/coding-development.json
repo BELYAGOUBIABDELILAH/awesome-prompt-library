@@ -3688,5 +3688,15 @@
     "slug": "implementador-de-tarefas",
     "folder": "coding-development",
     "path": "prompts/coding-development/implementador-de-tarefas.md"
+  },
+  {
+    "act": "Improve the following code",
+    "category": "Coding & Development",
+    "prompt": "Improve the following code\n\n```\n${selectedText}\n```\n\nPlease suggest improvements for:\n1. Code readability and maintainability\n2. Performance optimization\n3. Best practices and patterns\n4. Error handling and edge cases\n\nProvide the improved code along with explanations for each enhancement.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "improve-the-following-code",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/improve-the-following-code.md"
   }
 ]
