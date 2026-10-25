@@ -1748,5 +1748,15 @@
     "slug": "master-app-store-localization-aso-prompt-2025-full-metadata-",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/master-app-store-localization-aso-prompt-2025-full-metadata-.md"
+  },
+  {
+    "act": "Mirror Product Photo",
+    "category": "Marketing & Social",
+    "prompt": "PRODUCT reflected infinitely in angled mirror arrangement, kaleidoscopic effect, clean geometric multiplication, studio lighting creating precise reflections, optical illusion, maximalist minimalism, disorienting elegance, high-concept advertising \nProduct=\"${product}\"\naspect_ratio=\"${aspectratio}\"",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "mirror-product-photo",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/mirror-product-photo.md"
   }
 ]
