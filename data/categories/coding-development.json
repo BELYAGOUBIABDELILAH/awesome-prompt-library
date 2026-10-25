@@ -3668,5 +3668,15 @@
     "slug": "implement-ci-cd-best-practices",
     "folder": "coding-development",
     "path": "prompts/coding-development/implement-ci-cd-best-practices.md"
+  },
+  {
+    "act": "Implement Design Pattern",
+    "category": "Coding & Development",
+    "prompt": "Implement the following design pattern:\n\nPattern: [PATTERN NAME — e.g., Repository, Observer, Factory, Strategy, Command]\nLanguage: [SPECIFY]\nContext: [what problem I'm trying to solve]\n\n## Pattern Explanation\nBefore implementation:\n1. What problem does this pattern solve?\n2. When should I use it? When should I avoid it?\n3. What are the participants (classes/interfaces involved)?\n\n## Complete Implementation\n\n### Interfaces / Abstract Classes\n[Define the contracts]\n\n### Concrete Implementations\n[Implement 2–3 concrete examples]\n\n### Client Code\n[Show how to use the pattern from calling code]\n\n## Real-World Example\nApply this pattern to my specific context: [DESCRIBE YOUR USE CASE]\nShow the complete working implementation for my use case.\n\n## Tests\nWrite tests that verify the pattern works correctly:\n- Test the abstraction (not implementation details)\n- Test that implementations are interchangeable\n- Test edge cases\n\n## Anti-Patterns to Avoid\nList 2–3 common mistakes when implementing this pattern.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "implement-design-pattern",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/implement-design-pattern.md"
   }
 ]
