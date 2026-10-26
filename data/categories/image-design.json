@@ -1808,5 +1808,15 @@
     "slug": "decision-filter",
     "folder": "image-design",
     "path": "prompts/image-design/decision-filter.md"
+  },
+  {
+    "act": "Design User Interface Components",
+    "category": "Image & Design",
+    "prompt": "Build a UI component based on these specifications:\n\nComponent name: [NAME]\nDescription: [WHAT IT DOES]\nDesign reference: [FIGMA LINK or DESCRIPTION]\n\n## Component Requirements\n\n### Visual Specification\n- Dimensions: [width, height, or responsive behavior]\n- Colors: [background, text, border, hover, active, disabled states]\n- Typography: [font, size, weight]\n- Spacing: [padding, margin, gap]\n- Border radius / shadows: [specify]\n\n### Interactive States\nBuild all states:\n- Default\n- Hover\n- Active/Pressed\n- Focus (keyboard navigation)\n- Disabled\n- Loading (if applicable)\n- Error (if applicable)\n\n### Responsiveness\n- Mobile (< 768px): [behavior]\n- Tablet (768px–1024px): [behavior]\n- Desktop (> 1024px): [behavior]\n\n### Accessibility Requirements\n- ARIA label or role needed?\n- Keyboard navigation: Tab, Enter, Space, Arrow keys?\n- Screen reader announcement needed?\n\n### Implementation\nFramework: [React / Vue / Angular / HTML+CSS]\nStyling approach: [CSS modules / Tailwind / styled-components]\n\nProvide the complete, production-ready component code.",
+    "source": "GitLab Duo",
+    "type": "TEXT",
+    "slug": "design-user-interface-components",
+    "folder": "image-design",
+    "path": "prompts/image-design/design-user-interface-components.md"
   }
 ]
