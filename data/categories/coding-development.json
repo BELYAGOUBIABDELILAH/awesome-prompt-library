@@ -3998,5 +3998,15 @@
     "slug": "machine-learning-engineer",
     "folder": "coding-development",
     "path": "prompts/coding-development/machine-learning-engineer.md"
+  },
+  {
+    "act": "Manim Code",
+    "category": "Coding & Development",
+    "prompt": "Your task to create a manim code that will explain the chain rule in easy way",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "manim-code",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/manim-code.md"
   }
 ]
