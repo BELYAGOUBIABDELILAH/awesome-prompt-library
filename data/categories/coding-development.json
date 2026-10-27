@@ -4078,5 +4078,15 @@
     "slug": "meeting-room-booking-web-app-development",
     "folder": "coding-development",
     "path": "prompts/coding-development/meeting-room-booking-web-app-development.md"
+  },
+  {
+    "act": "Memory Card Game",
+    "category": "Coding & Development",
+    "prompt": "Develop a memory matching card game using HTML5, CSS3, and JavaScript. Create visually appealing card designs with flip animations. Implement difficulty levels with varying grid sizes and card counts. Add timer and move counter for scoring. Include sound effects for card flips and matches. Implement leaderboard with score persistence. Add theme selection with different card designs. Include multiplayer mode for competitive play. Create responsive layout that adapts to screen size. Add accessibility features for keyboard navigation. Implement progressive difficulty increase during gameplay.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "memory-card-game",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/memory-card-game.md"
   }
 ]
