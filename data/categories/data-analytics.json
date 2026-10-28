@@ -1828,5 +1828,15 @@
     "slug": "llm-researcher",
     "folder": "data-analytics",
     "path": "prompts/data-analytics/llm-researcher.md"
+  },
+  {
+    "act": "Lego Movie Style Prompt",
+    "category": "Data & Analytics",
+    "prompt": "{\n  \"TASK\": \"Reimagine as a scene from The LEGO Movie.\",\n  \"VISUAL_ID\": \"Macro photography of plastic bricks. Stop-motion feel.\",\n  \"CHARACTERS\": \"Lego Minifigures. C-shaped hands, cylindrical heads, painted faces.\",\n  \"SURFACE\": \"Glossy plastic texture, fingerprints, scratches on plastic.\",\n  \"BG\": \"Built entirely of Lego bricks. Depth of field focus.\",\n  \"NEG\": \"Human skin, cloth texture, realistic anatomy, 2d, drawing, cartoon, anime, soft.\"\n}",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "lego-movie-style-prompt",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/lego-movie-style-prompt.md"
   }
 ]
