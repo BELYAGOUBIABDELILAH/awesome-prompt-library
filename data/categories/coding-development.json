@@ -4228,5 +4228,15 @@
     "slug": "musician-portfolio-website-design",
     "folder": "coding-development",
     "path": "prompts/coding-development/musician-portfolio-website-design.md"
+  },
+  {
+    "act": "My-Skills",
+    "category": "Coding & Development",
+    "prompt": "Yazılacak kod aşağıdaki yeteneklerde olacak.\n\n1. kullanıcı girişi olacak ve kullanıcı şifresi veritabanında salt ve diğer güçlü şifre korumaları ile tutulacak.\n2. backend ve frontend güçlü güvenlik sıkılaştırmalarına sahip olacak.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "my-skills",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/my-skills.md"
   }
 ]
