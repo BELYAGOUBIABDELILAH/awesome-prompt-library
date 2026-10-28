@@ -1838,5 +1838,15 @@
     "slug": "lego-movie-style-prompt",
     "folder": "data-analytics",
     "path": "prompts/data-analytics/lego-movie-style-prompt.md"
+  },
+  {
+    "act": "Lonely Girl",
+    "category": "Data & Analytics",
+    "prompt": "{\n  \"action\": \"image_generation\",\n  \"prompt_details\": {\n    \"format\": \"formato verticale 9:16 aspect ratio\",\n    \"subject\": \"Una giovane donna dal fisico snello e dal seno prosperoso (Emma) a figura intera, in piedi in una strada isolata vicino a un parco.\",\n    \"outfit\": {\n      \"clothing\": \"Micro abito nero ultra-corto e super attillato (micro skirt length), scollatura profonda e spalline sottili.\",\n      \"accessories\": \"Un cellulare tenuto in mano, tacchi a spillo neri molto alti.\",\n      \"detail\": \"La posa è accentuata, sicura e molto seducente.\"\n    },\n    \"environment\": {\n      \"setting\": \"Esterno, luce solare pomeridiana intensa che crea ombre nette (chiaroscuro).\",\n      \"background\": \"Una strada asfaltata con alberi verdi e una recinzione sullo sfondo, atmosfera leggermente desolata.\"\n    },\n    \"cinematography\": {\n      \"shot_type\": \"Figura intera (full body shot), inquadratura ad altezza occhi.\",\n      \"mood\": \"Drammatico, cinematografico, intenso, passionale.\",\n      \"color_palette\": \"Contrasto elevato tra il nero del vestito e la luce calda naturale, colori saturi.\",\n      \"technical_specs\": \"Fotorealismo estremo, 8k, profondità di campo (sfondo leggermente sfocato), texture della pelle e del tessuto dettagliata.\"\n    },\n    \"emotions\": \"Espressione del viso magnetica e intensa, sguardo fisso in camera.\"\n  }\n}",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "lonely-girl",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/lonely-girl.md"
   }
 ]
