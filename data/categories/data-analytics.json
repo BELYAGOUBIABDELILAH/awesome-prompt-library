@@ -1858,5 +1858,15 @@
     "slug": "long-running-merge-requests-table",
     "folder": "data-analytics",
     "path": "prompts/data-analytics/long-running-merge-requests-table.md"
+  },
+  {
+    "act": "Man in a City",
+    "category": "Data & Analytics",
+    "prompt": "Create a photo capturing a man in ${city:Istanbul}, using the following customizable variables:\n\n- **Location**: Include iconic Istanbul locations such as ${location:Galata Tower}, ${location2:Blue Mosque}, or ${location3:Bosphorus}.\n- **Time of Day**: Capture the scene during ${timeOfDay:sunrise}, ${timeOfDay2:noon}, or ${timeOfDay3:sunset} to create different atmospheric moods.\n- **Attire**: Dress the man in ${attire:casual}, ${attire:business}, or ${attire:traditional} clothing to reflect various styles.\n- **Activity**: The man could be ${activity:walking}, ${activity:sitting}, or ${activity:looking out over the city} to convey different narratives.\n\nUse these variables to craft a unique photographic scene that reflects the vibrant culture and diverse atmosphere of ${city:Istanbul}.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "man-in-a-city",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/man-in-a-city.md"
   }
 ]
