@@ -1878,5 +1878,15 @@
     "slug": "dynamic-recipe-generator-from-available-ingredients",
     "folder": "image-design",
     "path": "prompts/image-design/dynamic-recipe-generator-from-available-ingredients.md"
+  },
+  {
+    "act": "Echoes of the Rust Age",
+    "category": "Image & Design",
+    "prompt": "You will perform an image edit using the people from the provided photos as the main subjects. Preserve their core likeness. Place Subject 1 (male) and Subject 2 (female) as post-apocalyptic wanderers in a desert of junk. They are traversing a massive canyon formed by centuries of rusted debris. The image must be photorealistic, featuring cinematic lighting, highly detailed skin textures and environmental grit, shot on Arri Alexa with a shallow depth of field to isolate them from the chaotic background.",
+    "source": "Awesome ChatGPT Prompts",
+    "type": "TEXT",
+    "slug": "echoes-of-the-rust-age",
+    "folder": "image-design",
+    "path": "prompts/image-design/echoes-of-the-rust-age.md"
   }
 ]
