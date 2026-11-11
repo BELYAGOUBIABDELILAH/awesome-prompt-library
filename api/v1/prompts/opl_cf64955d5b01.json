@@ -1,0 +1,33 @@
+{
+  "id": "opl_cf64955d5b01",
+  "slug": "handle-bug-in-feature",
+  "title": "handle bug in feature",
+  "prompt": "Act as a senior software engineer and system architect.\n\n## Context\nI am a developer working on an application feature.\n\nThere is a bug, and previous fixes made the system more complex.\n\nI need:\n- Clear understanding of the system flow\n- Identification of the exact failure point\n- Minimal, precise fix (no over-engineering)\n\nYou MUST explain the system before attempting a fix.\n\n---\n\n## Inputs\n\nFeature:\n${describe_feature}\n\nExpected Behavior:\n${what_should_happen}\n\nActual Issue:\n${what_is_happening}\n\nCode:\n${paste_relevant_code}\n\n---\n\n## Output Format (STRICT)\n\n### 1. System Flow (Visual + Logical)\n\n#### A. Flow Diagram\nProvide a clear step-by-step flow:\n\nUser Action  \n→ UI Layer  \n→ State / Controller / Logic  \n→ Data Processing  \n→ External System / SDK / API (if any)  \n→ Response Handling  \n→ Rendering / Output  \n→ UI Update  \n\n---\n\n#### B. Explain Each Stage\nFor each step:\n- What happens\n- What data is passed\n- What transformations occur\n- What dependencies exist\n\n---\n\n#### C. Critical Timing Points (IMPORTANT)\nIdentify:\n- When objects/resources are created\n- When data is loaded or fetched\n- When state updates occur\n- When properties/configuration SHOULD be applied\n\n---\n\n### 2. Expected Behavior\nDefine correct behavior:\n- Normal success flow\n- Edge cases\n- Failure scenarios\n\nIf unclear, ask up to 3 specific questions and STOP.\n\n---\n\n### 3. Current Behavior\nExplain actual behavior using:\n- Issue description\n- Code analysis\n\n---\n\n### 4. Mismatch (Critical)\nIdentify:\n- Exact step where behavior diverges\n- What should happen vs what actually happens\n\n---\n\n### 5. Root Cause (Precise)\nIdentify the exact reason:\n- Timing issue (async, lifecycle)\n- Incorrect reference or data\n- State not updating\n- Logic flaw\n- Integration issue\n\nPoint to:\n- Specific function / block / lifecycle stage\n\nIf unsure, clearly state assumptions.\n\n---\n\n### 6. Minimal Fix (STRICT)\n- Provide smallest possible change\n- Do NOT rewrite architecture\n- Do NOT introduce unnecessary abstraction\n\nProvide ONLY modified code snippet.\n\nFocus on:\n- Fixing timing\n- Correct data flow\n- Proper state update\n\n---\n\n### 7. Why Fix Works\nExplain:\n- How it fixes the exact failure point\n- Relation to system flow\n- Relation to lifecycle/timing\n\n---\n\n### 8. Risks (IMPORTANT)\nAnalyze:\n- Impact on other parts of system\n- Performance implications\n- Side effects\n\n---\n\n### 9. Prevention (Architecture Guidance)\nSuggest:\n- Better lifecycle handling\n- Clear separation of responsibilities\n- Where logic should live:\n  - UI\n  - Controller / State\n  - Data / Service layer\n\n---\n\n## Constraints\n- Do NOT assume behavior without stating assumptions\n- Do NOT move logic randomly\n- Do NOT add conditions blindly\n- Focus on flow, timing, and data\n\n---\n\n## Fallback Rule\nIf inputs are insufficient:\n- Ask up to 3 specific questions\n- STOP\n\n---\n\n## Self-Check (MANDATORY)\nBefore answering:\n- Did I map the bug to a specific flow step?\n- Did I identify timing/lifecycle issues?\n- Is the fix minimal and scoped?\n- Did I avoid over-engineering?",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "describe_feature",
+      "default": null
+    },
+    {
+      "name": "paste_relevant_code",
+      "default": null
+    },
+    {
+      "name": "what_is_happening",
+      "default": null
+    },
+    {
+      "name": "what_should_happen",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4613311d5ff9"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf64955d5b01.json"
+}

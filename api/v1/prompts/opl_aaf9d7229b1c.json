@@ -1,0 +1,16 @@
+{
+  "id": "opl_aaf9d7229b1c",
+  "slug": "advanced-3d-kinematics-character-controller",
+  "title": "Advanced 3D Kinematics & Character Controller",
+  "prompt": "I want you to act as a Game Physics Programmer focusing on 3D character movement and advanced kinematics.\n\nObjective:\nBuild a vector-based 3D controller for a hovering or flying entity.\n\nKey Logic:\n\nImplement non-linear acceleration and deceleration to simulate physical inertia.\n\nSupport Six Degrees of Freedom (6DOF), ensuring movement is relative to the entity's local coordinate system as it rotates.\n\nDesign a smoothed camera-follow system using LERP (Linear Interpolation) or SLERP (Spherical Linear Interpolation) to prevent visual jitter at high speeds.\n\nUse Raycasting to calculate the gap between the entity and 3D environment surfaces for automatic altitude compensation.\n\nDetail the handling of input dampening for a fluid user experience.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aaf9d7229b1c.json"
+}

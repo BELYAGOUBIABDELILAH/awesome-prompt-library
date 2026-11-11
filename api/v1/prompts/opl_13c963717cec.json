@@ -1,0 +1,16 @@
+{
+  "id": "opl_13c963717cec",
+  "slug": "architecture-ui-ux-audit",
+  "title": "Architecture & UI/UX Audit",
+  "prompt": "Act as a senior frontend engineer and product-focused UI/UX reviewer with experience building scalable web applications.\n\nYour task is NOT to write code yet.\n\nFirst, carefully analyze the project based on:\n\n1. Folder structure (Next.js App Router architecture, route groups, component organization)\n2. UI implementation (layout, spacing, typography, hierarchy, consistency)\n3. Component reuse and design system consistency\n4. Separation of concerns (layout vs pages vs components)\n5. Scalability and maintainability of the current structure\n\nContext:\nThis is a modern Next.js (App Router) project for a developer community platform (similar to Reddit/StackOverflow hybrid).\n\nInstructions:\n\n* Start by analyzing the folder structure and explain what is good and what is problematic\n* Identify architectural issues or anti-patterns\n* Analyze the UI visually (hierarchy, spacing, consistency, usability)\n* Point out inconsistencies in design (cards, buttons, typography, spacing, colors)\n* Evaluate whether the layout system (root layout vs app layout) is correctly implemented\n* Suggest improvements ONLY at a conceptual level (no code yet)\n* Prioritize suggestions (high impact vs low impact)\n* Be critical but constructive, like a senior reviewing a real product\n\nOutput format:\n\n1. Overall assessment (brief)\n2. Folder structure review\n3. UI/UX review\n4. Design system issues\n5. Top 5 high-impact improvements\n\nDo NOT generate code yet.\nFocus only on analysis and recommendations.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3214a235bd94"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_13c963717cec.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_bf2909d055c5",
+  "slug": "minimalist-graphic-illustration-of-a-stylized-dachshund",
+  "title": "Minimalist Graphic Illustration of a Stylized Dachshund",
+  "prompt": "{\n  \"colors\": {\n    \"color_temperature\": \"neutral\",\n    \"contrast_level\": \"medium\",\n    \"dominant_palette\": [\n      \"muted blue\",\n      \"light gray\"\n    ]\n  },\n  \"composition\": {\n    \"camera_angle\": \"straight-on\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"The stylized dachshund dog\",\n    \"framing\": \"The subject is centrally composed, with its elongated body forming a complex, interwoven pattern that fills the frame.\"\n  },\n  \"description_short\": \"A minimalist graphic illustration of an extremely long, blue dachshund whose body is twisted and woven into an intricate, abstract knot against a light gray background.\",\n  \"environment\": {\n    \"location_type\": \"studio\",\n    \"setting_details\": \"A plain, solid light gray background.\",\n    \"time_of_day\": \"unknown\",\n    \"weather\": \"none\"\n  },\n  \"lighting\": {\n    \"intensity\": \"moderate\",\n    \"source_direction\": \"ambient\",\n    \"type\": \"soft\"\n  },\n  \"mood\": {\n    \"atmosphere\": \"Playful and clever graphic design\",\n    \"emotional_tone\": \"calm\"\n  },\n  \"narrative_elements\": {\n    \"environmental_storytelling\": \"The image is a visual pun on the dachshund's long body, exaggerating it to an absurd degree to create a decorative, knot-like pattern, blending animal form with abstract design.\",\n    \"implied_action\": \"The dog is presented as a static, decorative element, not in motion.\"\n  },\n  \"objects\": [\n    \"Dachshund dog\"\n  ],\n  \"people\": {\n    \"count\": \"0\"\n  },\n  \"prompt\": \"A minimalist graphic illustration of a stylized blue dachshund. The dog's body is impossibly long, intricately woven over and under itself to form a complex, Celtic knot-like pattern. The design is clean and modern, with subtle texturing on the blue form and soft shadows creating a slight 3D illusion. The entire figure is set against a solid, light warm-gray background. The overall aesthetic is playful, clever, and artistic.\",\n  \"style\": {\n    \"art_style\": \"graphic illustration\",\n    \"influences\": [\n      \"minimalism\",\n      \"flat design\",\n      \"celtic knotwork\",\n      \"vector art\"\n    ],\n    \"medium\": \"digital art\"\n  },\n  \"technical_tags\": [\n    \"minimalist\",\n    \"graphic design\",\n    \"illustration\",\n    \"vector art\",\n    \"dachshund\",\n    \"dog\",\n    \"flat design\",\n    \"knot\",\n    \"abstract\",\n    \"stylized\"\n  ],\n  \"use_case\": \"Graphic design inspiration, poster art, stock illustration, or training data for stylized animal illustrations.\"\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_72ee003f0334"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf2909d055c5.json"
+}

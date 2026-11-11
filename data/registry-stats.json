@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "source_records": 2672,
+  "canonical_records": 2672,
+  "quarantined_records": 0,
+  "exact_duplicate_groups": 0,
+  "duplicates_beyond_canonical": 0,
+  "sources": 330,
+  "categories": {
+    "AI & Automation": 121,
+    "Business & Career": 58,
+    "Coding & Development": 1077,
+    "Data & Analytics": 171,
+    "Documentation": 57,
+    "Education & Learning": 74,
+    "Food & Recipes": 3,
+    "Games & Fun": 20,
+    "General": 86,
+    "Health & Wellness": 29,
+    "Image & Design": 396,
+    "Marketing & Social": 196,
+    "Philosophy & Humanities": 1,
+    "Product & Strategy": 16,
+    "Research & Analysis": 25,
+    "Sales & Business": 20,
+    "Security": 63,
+    "Travel & Places": 5,
+    "Writing & Content": 254
+  }
+}

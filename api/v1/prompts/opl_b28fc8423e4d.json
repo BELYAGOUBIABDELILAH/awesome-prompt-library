@@ -1,0 +1,33 @@
+{
+  "id": "opl_b28fc8423e4d",
+  "slug": "realistic-amateur-phone-photo-with-whatsapp-chat",
+  "title": "Realistic Amateur Phone Photo with WhatsApp Chat",
+  "prompt": "Create a realistic, poorly taken amateur photo of a physical smartphone showing a WhatsApp chat on its screen.\n\nThe phone should be held vertically in one hand, with visible dark bezels/case, warm dim indoor lighting, slight tilt, blur, grain, glare, reflections, uneven focus, and imperfect framing. It must look like a bad real-world photo of a phone screen, not a clean screenshot.\n\nOn the phone screen, show an iPhone-style WhatsApp conversation in Turkish with the contact name ${receiver_name} and a small profile photo attached photo (if not provided use default whatsapp profile icon).\n\nChat subject:\n${talk_subject}\n\nGenerate the WhatsApp dialogue naturally based on the subject above. The contact’s messages should be in ${language_name:Turkish} language and ${talk_style} (e.g. broken ${language_name:Turkish} with typos and awkward wording. My messages should be correct ${language_name:Turkish} with no typos). Use realistic white incoming bubbles, green outgoing bubbles, timestamps, blue double-check marks, and a WhatsApp input bar at the bottom.\n\nKeep the screen readable but slightly blurry, like a poorly photographed phone screen.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "language_name",
+      "default": "Turkish"
+    },
+    {
+      "name": "receiver_name",
+      "default": null
+    },
+    {
+      "name": "talk_style",
+      "default": null
+    },
+    {
+      "name": "talk_subject",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_21d1a7269dd0"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b28fc8423e4d.json"
+}

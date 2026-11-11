@@ -1,0 +1,25 @@
+{
+  "id": "opl_bec7b0441cfd",
+  "slug": "create-this-cool-doodles",
+  "title": "Create This cool Doodles.",
+  "prompt": "Using the uploaded image as the base photo, do NOT change the person's face, body, or pose. Add hand-drawn white doodle illustrations around the subject, sketchy marker / chalk style, imperfect playful lines, doodles should appear drawn on top of the photo. Doodle theme: ${theme} Include elements such as: ${object_list} Keep the background intact, do not cover the face, editorial aesthetic poster style, clean composition, high quality.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "object_list",
+      "default": null
+    },
+    {
+      "name": "theme",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_62ac473c5779"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bec7b0441cfd.json"
+}

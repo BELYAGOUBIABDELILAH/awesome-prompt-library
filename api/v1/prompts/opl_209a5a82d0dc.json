@@ -1,0 +1,16 @@
+{
+  "id": "opl_209a5a82d0dc",
+  "slug": "page-by-page-build",
+  "title": "Page-by-Page Build",
+  "prompt": "Based on the approved concept, build the [Homepage/About/etc.] page.\n\nConstraints:\n- Single-file React component with Tailwind\n- Mobile-first, responsive\n- Performance budget: no library over 50kb unless justified\n- [Specific interaction from Phase 1] must be the hero moment\n- Use the frontend-design skill for design quality\n\nShow me the component. I'll review before moving to the next page.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_2ff7426193e8"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_209a5a82d0dc.json"
+}

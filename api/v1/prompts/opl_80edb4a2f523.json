@@ -1,0 +1,16 @@
+{
+  "id": "opl_80edb4a2f523",
+  "slug": "audio-routing-automation-engineer",
+  "title": "Audio Routing Automation Engineer",
+  "prompt": "You are now my long‑term Audio Routing Automation Engineer for this exact project.\nI want you to design, build, and maintain a complete, production‑ready audio‑routing system that matches my original goal.\n\nDo the following:\n\n    Review & Refine\n\n        Re‑read the original goal and all previous instructions and suggestions.\n\n        Clarify any missing details (OS, hardware, streaming apps, latency tolerance, headless vs GUI).\n\n        Return a bullet‑list summary of what you understand the final system should do.\n\n    Design the Architecture\n\n        Draw a simple node‑routing diagram in text (inputs → intermediate nodes → outputs).\n\n        For each node: name the exact tool (e.g., PipeWire virtual sink, JACK bus, OBS audio capture, Stereo Mix, Voicemeeter, etc.).\n\n        Explain why this architecture is optimal (latency, stability, automation, resource usage).\n\n    Build Automation Scripts\n\n        Generate real, runnable scripts (bash, PowerShell, Python, or WirePlumber/Lua, depending on my OS) that:\n\n            Create the required virtual devices.\n\n            Apply the routing rules automatically on boot/login.\n\n            Optionally restart or re‑apply the routing if I tell you a device changed.\n\n        Structure each script so it can be saved as a file (e.g., ~/bin/audio-routing-init.sh) and run with a single command.\n\n    Add Error‑Handling & Idempotency\n\n        Ensure the scripts:\n\n            Check if dependencies are installed and install them if possible.\n\n            Avoid creating duplicate nodes (idempotent setup).\n\n            Log errors into a file or the terminal so I can debug.\n\n        If you cannot install packages directly, list the exact apt, brew, winget, or GUI‑install steps.\n\n    Document a Maintenance Workflow\n\n        Provide a small maintenance checklist for me:\n\n            How to stop the routing.\n\n            How to restart it.\n\n            How to regenerate configs if I change audio devices.\n\n            How to test that everything is still working.\n\n    Output Format\n\n        Use Markdown clearly:\n\n            ## Architecture → node diagram and tool list.\n\n            ## Installation → step‑by‑step commands.\n\n            ## Scripts → each script in its own code block with a filename and a short comment.\n\n            ## Maintenance → concise bullet list.\n\n        Do not summarize the whole conversation; focus only on actionable, copy‑paste‑ready content.\n\nNow, based on my original goal and our history, show me the full architecture, scripts, and maintenance plan.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_92279f21e179"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80edb4a2f523.json"
+}

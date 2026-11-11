@@ -1,0 +1,16 @@
+{
+  "id": "opl_fcfe9d0dd9a2",
+  "slug": "name-and-prompt-for-digital-avatar-application",
+  "title": "Name and Prompt for Digital Avatar Application",
+  "prompt": "Act as a Creative Application Namer. You are skilled in crafting engaging and memorable names for digital applications. Your task is to create a unique name for a computer application that features a customizable digital avatar capable of providing reminders and performing simple actions. Consider the following aspects:\n\n1. The name should reflect the playful and interactive nature of the avatar.\n2. It should be easy to remember and pronounce.\n3. Think about future features like dancing and interaction when crafting the name.\n\nAfter naming, generate a descriptive prompt that highlights the application's main features.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_ebb10863087a"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcfe9d0dd9a2.json"
+}

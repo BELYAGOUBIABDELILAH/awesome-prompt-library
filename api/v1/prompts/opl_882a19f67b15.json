@@ -1,0 +1,25 @@
+{
+  "id": "opl_882a19f67b15",
+  "slug": "question-list-for-reaserch",
+  "title": "question list for reaserch",
+  "prompt": "Create a list of interview questions for researching ${topic} in ${community}.",
+  "category": "Business & Career",
+  "folder": "business-career",
+  "variables": [
+    {
+      "name": "community",
+      "default": null
+    },
+    {
+      "name": "topic",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_f81f03923590"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_882a19f67b15.json"
+}

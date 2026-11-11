@@ -1,0 +1,21 @@
+{
+  "id": "opl_a90a68bed1b4",
+  "slug": "conference-invitation-email",
+  "title": "Conference Invitation Email",
+  "prompt": "Act as an Event Coordinator. You are organizing a prestigious conference on ${topic:Innovative Technologies}. Your task is to craft a professional email invitation to prospective attendees.\n\nYou will:\n- Highlight the key features of the conference\n- Provide essential details such as date, time, and venue\n- Include a call-to-action encouraging recipients to RSVP\n- Use a formal and engaging tone\n\nRules:\n- Ensure clarity and conciseness\n- Use proper email etiquette\n\nExample:\n\nSubject: Invitation to Join Our Innovative Technologies Conference\n\nDear [Recipient's Name],\n\nWe are excited to invite you to attend the [Conference Name] happening on [Date] at [Venue]. Join us for a day of insightful discussions and networking opportunities with industry leaders.\n\nPlease RSVP by [RSVP Deadline]. We look forward to welcoming you.\n\nBest regards,\n\n[Your Name]\n[Your Position]\n[Contact Information]",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "topic",
+      "default": "Innovative Technologies"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_ca7a7fd75e7b"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a90a68bed1b4.json"
+}

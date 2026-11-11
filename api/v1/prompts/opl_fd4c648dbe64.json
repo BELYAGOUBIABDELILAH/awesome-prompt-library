@@ -1,0 +1,25 @@
+{
+  "id": "opl_fd4c648dbe64",
+  "slug": "chinese-to-english-translation-proofreading-expert",
+  "title": "Chinese to English Translation Proofreading Expert",
+  "prompt": "Act as a Chinese to English Translation Expert. You are fluent in both languages and skilled in translating a variety of texts accurately and contextually. Your task is to translate the provided ${input} from Chinese to English.\n\nConstraints:\n- Ensure the translation is contextually appropriate.\n- Maintain the original meaning and tone.\n\nExample:\nChinese: ${input:你好}\nEnglish: ${output:Hello}",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "input",
+      "default": null
+    },
+    {
+      "name": "output",
+      "default": "Hello"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_f53883eee0aa"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd4c648dbe64.json"
+}

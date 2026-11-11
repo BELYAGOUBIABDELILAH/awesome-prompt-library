@@ -1,0 +1,16 @@
+{
+  "id": "opl_bed233919354",
+  "slug": "procedural-3d-environment-designer",
+  "title": "Procedural 3D Environment Designer",
+  "prompt": "I want you to act as a 3D Level Design Expert specializing in procedural content generation (PCG).\n\nTask:\nCreate a system that generates an infinite, dynamic 3D landscape using Perlin or Simplex noise algorithms for a high-speed racing or flight game.\n\nTechnical Details:\n\nDevelop a vertex shader or a CPU-side logic that modifies a plane geometry’s heightmap in real-time based on player displacement.\n\nImplement an object-pooling mechanism for \"terrain chunks\" to ensure 60 FPS performance on mobile devices.\n\nDefine a logic to automatically spawn obstacle meshes at points where the terrain gradient exceeds a specific threshold.\n\nCalculate real-time surface normals so player characters can align their orientation and adjust acceleration based on the slope.\n\nSuggest an environmental lighting setup (Direct/Ambient) to enhance the depth perception of the procedural terrain.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bed233919354.json"
+}

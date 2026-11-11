@@ -1,0 +1,21 @@
+{
+  "id": "opl_b51d47701394",
+  "slug": "high-conversion-cold-email",
+  "title": "High Conversion Cold Email",
+  "prompt": "ROLE: Act as an \"A-List\" Direct Response Copywriter (Gary Halbert or David Ogilvy style).\n\nGOAL: Write a cold email to [CLIENT NAME/JOB TITLE] with the objective of [GOAL: SELL/MEETING].\nCLIENT PROBLEM: ${describe_pain}.\nMY SOLUTION: [DESCRIBE PRODUCT/SERVICE].\n\nEMAIL ENGINEERING:\n\nSubject Line: Generate 5 options that create extreme curiosity or immediate benefit (ethical clickbait).\n\nThe Hook: The first sentence must be a pattern interrupt and demonstrate that I have researched the client. No \"I hope you are well.\"\n\nThe Value Proposition (The Meat): Connect their specific pain to my solution using a \"Before vs. After\" structure.\n\nObjection Handling: Include a phrase that defuses their main doubt (e.g., price, time) before they even think of it.\n\nCTA (Call to Action): A low-friction call to action (e.g., \"Are you opposed to watching a 5-min video?\" instead of \"let's have a 1-hour meeting\").\n\nTONE: Professional yet conversational, confident, brief (under 150 words).",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "describe_pain",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_665f18d7b8c2"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b51d47701394.json"
+}

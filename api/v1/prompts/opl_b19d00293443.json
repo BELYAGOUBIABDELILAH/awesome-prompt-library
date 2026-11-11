@@ -1,0 +1,16 @@
+{
+  "id": "opl_b19d00293443",
+  "slug": "review-the-social-media-content",
+  "title": "Review the social media content",
+  "prompt": "I want to review my social media content. You have 14 years of experience in social media marketing manager.\nFrame 1:\nMyth: Pools require massive upfront cash.\n\nFrame 2:\nReality:\nMost homeowners don’t pay upfront.\nThey finance it, just like a home upgrade. \n\nFrame 3 (Proof):\n$80K pool project \n≈ $629/month with financing \n\nFrame 4:\nSpecialized pool financing through Lyon Financial\n\nFrame 5:\nBuild with Blue Line Pool Builders\nEnjoy sooner than you think.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3ab598ee74bd"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b19d00293443.json"
+}

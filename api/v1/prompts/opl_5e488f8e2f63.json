@@ -1,0 +1,29 @@
+{
+  "id": "opl_5e488f8e2f63",
+  "slug": "component-documentation",
+  "title": "Component Documentation",
+  "prompt": "You are a design systems documentarian creating the component specification\nfor a CLAUDE.md file. This documentation will be used by AI coding assistants\n(Claude, Cursor, Copilot) to generate consistent UI code.\n\n## Context\n- **Token system:** [Paste or reference Phase 2 output]\n- **Component to document:** [Component name, or \"all components from inventory\"]\n- **Framework:** [Next.js + React + Tailwind / etc.]\n\n## For Each Component, Document:\n\n### 1. Overview\n- Component name (PascalCase)\n- One-line description\n- Category (Navigation / Input / Feedback / Layout / Data Display)\n\n### 2. Anatomy\n- List every visual part (e.g., Button = container + label + icon-left + icon-right)\n- Which parts are optional vs required\n- Nesting rules (what can/cannot go inside this component)\n\n### 3. Props Specification\nFor each prop:\n- Name, type, default value, required/optional\n- Allowed values (if enum)\n- Brief description of what it controls visually\n- Example usage\n\n### 4. Visual Variants\n- Size variants with exact token values (padding, font-size, height)\n- Color variants with exact token references\n- State variants: default, hover, active, focus, disabled, loading, error\n- For EACH state: specify which tokens change and to what values\n\n### 5. Token Consumption Map\nComponent: Button\n├── background → button-bg-${variant} → color-brand-${shade}\n├── text-color → button-text-${variant} → color-white\n├── padding-x → button-padding-x-${size} → spacing-{n}\n├── padding-y → button-padding-y-${size} → spacing-{n}\n├── border-radius → button-radius → radius-md\n├── font-size → button-font-${size} → font-size-{n}\n├── font-weight → button-font-weight → font-weight-semibold\n└── transition → motion-duration-fast + motion-ease-default\n\n### 6. Usage Guidelines\n- When to use (and when NOT to use — suggest alternatives)\n- Maximum instances per viewport (e.g., \"only 1 primary CTA per section\")\n- Content guidelines (label length, capitalization, icon usage)\n\n### 7. Accessibility\n- Required ARIA attributes\n- Keyboard interaction pattern\n- Focus management rules\n- Screen reader behavior\n- Minimum contrast ratios met by default tokens\n\n### 8. Code Example\nProvide a copy-paste-ready code example using the actual codebase's\npatterns (import paths, className conventions, etc.)\n\n## Output Format\n\nMarkdown, structured with headers per section. This will be directly\ninserted into the CLAUDE.md file.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "shade",
+      "default": null
+    },
+    {
+      "name": "size",
+      "default": null
+    },
+    {
+      "name": "variant",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_2ff7426193e8"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e488f8e2f63.json"
+}

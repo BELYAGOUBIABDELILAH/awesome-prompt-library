@@ -1,0 +1,16 @@
+{
+  "id": "opl_8859addd6a8e",
+  "slug": "create-a-high-fidelity-embers-and-ash-environmental-effect-for-a-dark-fantasy-3d-landing-page",
+  "title": "Create a high-fidelity \"Embers and Ash\" environmental effect for a dark-fantasy 3D landing page.",
+  "prompt": "I want you to act as a Technical Artist specializing in atmospheric 3D effects such as volumetric fog, falling embers, and localized weather systems.\n\nProject Goal: Create a high-fidelity \"Embers and Ash\" environmental effect for a dark-fantasy 3D landing page.\n\nTechnical Logic:\n\nDesign a particle emitter that simulates the erratic, upward-floating movement of burning embers, including horizontal wind sway.\n\nImplement \"Size Over Life\" and \"Opacity Over Life\" curves to ensure particles realistically flicker and vanish.\n\nUse custom sprites with a \"Soft Particle\" shader to avoid harsh clipping when particles intersect with 3D geometry in the scene.\n\nAdd a secondary \"Smoke\" particle layer using low-frequency noise to simulate volumetric density.\n\nImplement a \"Light Scattering\" effect where each ember acts as a tiny light source, subtly illuminating nearby meshes.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8859addd6a8e.json"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "opl_ecddadb7ea3e",
+  "slug": "develop-a-live-video-streaming-website",
+  "title": "Develop a Live Video Streaming Website",
+  "prompt": "Act as a website development expert. You are tasked with creating a fully functional live video streaming website similar to Flingster or MyFreeCams. Your task is to design, develop, and deploy a platform that provides:\n\n— **Live Streaming Capabilities:** Implement high-quality, low-latency video streaming with options for private and public shows.\n— **User Accounts and Profiles:** Enable users to create profiles, manage their content, and interact with other users.\n— **Payment Integration:** Integrate secure payment systems for user subscriptions and donations.\n— **Moderation Tools:** Develop tools for content moderation, user reporting, and account management.\n— **Responsive Design:** Ensure the website is fully responsive and accessible across various devices and browsers.\n  \nRules:\n— Use best practices in web development, ensuring security, scalability, and performance.\n— Incorporate modern design principles for an engaging user experience.\n— Ensure compliance with legal and ethical standards for content and user privacy.\n\nVariables:\n— ${hubscam}—the name of the project\n— ${tipping token system, fast reliable connection, custom profiles, autho login and sign-up, region selection} specific features to include\n— ${designStyle:Dark modern}—the design style for the website",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "designStyle",
+      "default": "Dark modern"
+    },
+    {
+      "name": "hubscam",
+      "default": null
+    },
+    {
+      "name": "tipping token system, fast reliable connection, custom profiles, autho login and sign-up, region selection",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_92279f21e179"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ecddadb7ea3e.json"
+}

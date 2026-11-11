@@ -1,0 +1,16 @@
+{
+  "id": "opl_a7a1aa67a0d6",
+  "slug": "ai-grounding-prompt",
+  "title": "AI Grounding Prompt",
+  "prompt": "1. Base your answer ONLY on the uploaded documents. Nothing else.\n2. If info isn't found, say \"Not found.\" Don't guess.\n3. For each claim, cite: [Document, Page/Section, Quote]\n4. If uncertain, mark as [Unverified]\n5. [Your question]\n\nRe-scan the document. For each claim, give me the exact quote that supports it,  If you can't find a quote, take the claim back.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_8d40aa4ce90d"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7a1aa67a0d6.json"
+}

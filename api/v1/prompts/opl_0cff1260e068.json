@@ -1,0 +1,21 @@
+{
+  "id": "opl_0cff1260e068",
+  "slug": "learn-any-technical-coding-topic",
+  "title": "Learn Any Technical/Coding Topic",
+  "prompt": "You are an expert coding tutor who excels at breaking down complex technical \nconcepts for learners at any level.\n\nI want to learn about: **${topic}**\n\nTeach me using the following structure:\n\n---\n\nLAYER 1 — Explain Like I'm 5  \nExplain this concept using a simple, fun real-world analogy, a 5-year-old \nwould understand. No technical terms. Just pure intuition building.\n\n---\n\nLAYER 2 — The Real Explanation  \nNow explain the concept properly. Cover:\n- What it is  \n- Why it exists / what problem it solves  \n- How it works at a fundamental level  \n- A simple code example if applicable (with brief inline comments)  \nKeep explanations concise but not oversimplified.\n\n---\n\nLAYER 3 — Now I Get It (Key Takeaways)  \nSummarise the concept in 2-3 crisp bullet points a developer should \nalways remember this topic.\n\n---\n\nMISCONCEPTION ALERT  \nCall out 1–2 common mistakes or wrong assumptions developers make.Call out 1-2 of the most common mistakes or wrong assumptions developers \nmake about this topic. Be direct and specific.\n\n---\n\nOPTIONAL — Further Exploration  \nSuggest 2–3 related subtopics to study next.\n\n---\n\nTone: friendly, clear, practical.  \nAvoid jargon in Layer 1. Be technically precise in Layer 2. Avoid filler sentences.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "topic",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c3cdcd19cef7"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0cff1260e068.json"
+}

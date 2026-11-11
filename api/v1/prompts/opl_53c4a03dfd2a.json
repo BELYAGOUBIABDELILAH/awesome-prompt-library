@@ -1,0 +1,16 @@
+{
+  "id": "opl_53c4a03dfd2a",
+  "slug": "mdct-step-by-step-calculation",
+  "title": "MDCT Step-by-Step Calculation",
+  "prompt": "Implement MDCT for the input sequence:\n\nx(n) = [1, 2, 3, 4]\n\nSteps:\n1. Identify N and 2N\n2. Apply MDCT formula\n3. Show cosine values clearly\n4. Display step-by-step calculation table\n5. Give final coefficients",
+  "category": "Games & Fun",
+  "folder": "games-fun",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_be9dae92ff53"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53c4a03dfd2a.json"
+}

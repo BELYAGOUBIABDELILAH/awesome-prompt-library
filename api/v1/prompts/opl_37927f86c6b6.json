@@ -1,0 +1,16 @@
+{
+  "id": "opl_37927f86c6b6",
+  "slug": "character-sheet",
+  "title": "CHARACTER SHEET",
+  "prompt": "Create a professional character reference sheet of the exact same person from the uploaded reference image on a plain white background.\n\nThe character must match the uploaded reference image EXACTLY in both appearance and artistic style. If the reference image is a drawing, illustration, or stylized artwork, replicate the same drawing style, line work, shading technique, and rendering method. If the reference image is photorealistic, the result must also be photorealistic. The visual style must be identical to the reference.\n\nLayout: three rows.\n\nTop row: four equally sized close-up head shots placed side by side — front facing, left profile, right profile, and back of head.\n\nBottom row: three equally sized full body views placed side by side — full body front, full body side profile, and full body back.\n\nReplicate every detail from the reference image exactly:\n- facial structure\n- skin tone\n- natural blemishes and pore texture (if visible)\n- hair color, texture, and styling\n- exact iris color and eye details\n- realistic eye moisture and catchlights if applicable to the style\n\nThe exact same outfit must be worn in every view with identical details, folds, colors, and materials.\n\nLighting should be soft, neutral studio lighting that is flat and evenly distributed with no shadows and no color cast.\n\nAll views must remain perfectly consistent with each other and with the reference image.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_813dbd1df8ba"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37927f86c6b6.json"
+}

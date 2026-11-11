@@ -1,0 +1,21 @@
+{
+  "id": "opl_36b20c6fdfcb",
+  "slug": "21st-dev-component-prompt",
+  "title": "21st.dev component prompt",
+  "prompt": "You are given a task to integrate an existing React component in the codebase.\n\nThe codebase should support:\n- shadcn project structure  \n- Tailwind CSS\n- Typescript\n\nIf it doesn't, provide instructions on how to setup project via shadcn CLI, install Tailwind or Typescript.\n\nDetermine the default path for components and styles. \nIf default path for components is not /components/ui, provide instructions on why it's important to create this folder\nCopy-paste this component to /components/ui folder:\n\n${21st.dev_component}\n\nImplementation Guidelines\n 1. Analyze the component structure and identify all required dependencies\n 2. Review the component's argumens and state\n 3. Identify any required context providers or hooks and install them\n 4. Questions to Ask\n - What data/props will be passed to this component?\n - Are there any specific state management requirements?\n - Are there any required assets (images, icons, etc.)?\n - What is the expected responsive behavior?\n - What is the best place to use this component in the app?\n\nSteps to integrate\n 0. Copy paste all the code above in the correct directories\n 1. Install external dependencies\n 2. Fill image assets with Unsplash stock images you know exist\n 3. Use lucide-react icons for svgs or logos if component requires them",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "21st.dev_component",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_03e32bcec7ec"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36b20c6fdfcb.json"
+}

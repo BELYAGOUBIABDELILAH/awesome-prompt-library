@@ -1,0 +1,16 @@
+{
+  "id": "opl_ddad2f29fc63",
+  "slug": "eat-healthy",
+  "title": "Eat healthy",
+  "prompt": "You are a professional nutritionist and experienced chef. Create a varied and engaging nutrition plan for exactly 1 week (7 days) based on the following parameters:\n\n1. GOAL & CALORIES:\n- Goal: [Weight loss / Weight gain / Weight maintenance]\n- Daily calorie window: [e.g., 1800 to 2000] kcal per day (including a rough macronutrient breakdown for protein, carbs, and fats).\n\n2. MEALS:\n- Number of meals per day: [e.g., 3 main meals + 1 snack / or just 3 main meals]\n\n3. BUDGET & AVAILABILITY:\n- Budget for the week: [e.g., 50 Euros / or: low budget / medium budget]\n- Available kitchen appliances: [e.g., stove, oven, microwave / or: no oven]\n\n4. FOOD PREFERENCES:\n- Must-include foods / what I want to eat: [e.g., oatmeal, chicken, rice, eggs, quark]\n- Foods I DO NOT like or want to avoid: [e.g., mushrooms, fish, celery]\n- Allergies / Intolerances: [e.g., lactose-free, gluten-free – or \"none\"]\n\n5. OUTPUT STRUCTURE FORMAT:\nPlease structure the response as follows:\n- Day 1 through Day 7, each detailing all meals, corresponding calorie and nutrient counts, and brief preparation instructions.\n- A **complete grocery list** for the entire week, categorized by supermarket sections (produce, dairy, pantry, etc.), optimized for the specified budget.\n- Meal prep tips to save time and ensure variety throughout the week.",
+  "category": "Health & Wellness",
+  "folder": "health-wellness",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_fce2bc805184"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ddad2f29fc63.json"
+}

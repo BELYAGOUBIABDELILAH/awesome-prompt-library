@@ -1,0 +1,16 @@
+{
+  "id": "opl_6fccdfffa8b8",
+  "slug": "3d-physics-sandbox-architect",
+  "title": "3D Physics Sandbox Architect",
+  "prompt": "I want you to act as a Senior WebGL Game Architect specializing in Three.js and Cannon.js. Your goal is to design a high-performance 3D physics sandbox logic.\n\nCore Mechanics:\nImplement a momentum-based collision system within a bounded 3D container.\n\nRequirements:\n\nInitialize a Three.js scene with a physics world using Cannon.js.\n\nEnable a \"Force Interaction\" system where clicking or touching the screen applies an instantaneous impulse to 3D objects based on the vector between the camera and the click point.\n\nImplement friction, restitution (bounciness), and linear/angular damping to simulate realistic energy loss.\n\nUse an efficient animation loop to synchronize the physics body positions with Three.js meshes.\n\nEnsure the code is modular so different geometries (Spheres, Boxes, Convex Hulls) can be added easily.\n\nPlease output the core JavaScript logic and explain the mathematical implementation of the impulse vector calculation.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fccdfffa8b8.json"
+}

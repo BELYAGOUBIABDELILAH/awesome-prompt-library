@@ -1,0 +1,1410 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Promptstack · Reusable AI Prompt Library & Static API</title>
+  <meta name="description" content="Promptstack is a collection of reusable prompts organized by category. Browse the library, find a prompt, and adapt it to your task.">
+  <meta property="og:title" content="Promptstack · Reusable AI Prompt Library & Static API">
+  <meta property="og:description" content="Promptstack is a collection of reusable prompts organized by category. Browse the library, find a prompt, and adapt it to your task.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="./assets/android-chrome-512x512.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Promptstack · Reusable AI Prompt Library & Static API">
+  <meta name="twitter:description" content="Promptstack is a collection of reusable prompts organized by category. Browse the library, find a prompt, and adapt it to your task.">
+  <meta name="twitter:image" content="./assets/android-chrome-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
+  <link rel="shortcut icon" href="./favicon.ico">
+  <link rel="manifest" href="./assets/site.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #000000;
+      --surface: #181818;
+      --surface-hover: #1f1f1f;
+      --surface-elevated: #272727;
+      --border: #272727;
+      --border-hover: #3a3a3a;
+      --brand: #da6220;
+      --brand-hover: #e87332;
+      --brand-light: rgba(218, 98, 32, 0.14);
+      --text: #f6f4f1;
+      --text-muted: #a8a29e;
+      --text-subtle: #78716c;
+      --success: #10b981;
+      --code-bg: #121212;
+      --radius-sm: 6px;
+      --radius-md: 10px;
+      --radius-lg: 14px;
+      --radius-xl: 18px;
+      --font-sans: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-mono: "Geist Mono", ui-monospace, SFMono-Regular, "Cascadia Code", Consolas, monospace;
+      --ease: cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      font-size: 16px;
+      line-height: 24px;
+      font-weight: 400;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+    }
+
+    a { color: var(--brand); text-decoration: none; transition: color 300ms var(--ease); }
+    a:hover { color: var(--brand-hover); text-decoration: none; }
+    code, pre, .mono { font-family: var(--font-mono); }
+
+    .shell { width: min(78rem, calc(100% - 3rem)); margin: 0 auto; }
+
+    /* Floating Navigation (Skill B7) */
+    header {
+      position: sticky;
+      top: 16px;
+      z-index: 50;
+      padding: 0 1.5rem;
+    }
+    .nav-floating {
+      width: min(78rem, 100%);
+      margin: 0 auto;
+      height: 52px;
+      background: rgba(24, 24, 24, 0.82);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 16px;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+    }
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 600;
+      font-size: 16px;
+      color: var(--text);
+      text-decoration: none;
+    }
+    .nav-brand img {
+      width: 26px;
+      height: 26px;
+      border-radius: var(--radius-sm);
+      display: block;
+    }
+    .nav-brand-badge {
+      background: var(--brand-light);
+      color: var(--brand);
+      font-size: 12px;
+      line-height: 16px;
+      padding: 2px 8px;
+      border-radius: var(--radius-sm);
+      font-weight: 600;
+      font-family: var(--font-mono);
+    }
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      font-size: 14px;
+      font-weight: 500;
+    }
+    .nav-links a { color: var(--text-muted); }
+    .nav-links a:hover { color: var(--text); }
+    .nav-github-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--surface-elevated);
+      color: var(--text);
+      padding: 6px 12px;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      font-size: 13px;
+      font-weight: 600;
+      transition: background 300ms var(--ease), border-color 300ms var(--ease);
+    }
+    .nav-github-btn:hover {
+      background: var(--surface-hover);
+      border-color: var(--border-hover);
+      color: var(--text);
+    }
+
+    /* Hero Section (Skill B5) */
+    .hero {
+      padding: 96px 0 64px;
+      text-align: center;
+    }
+    .hero h1 {
+      max-width: 680px;
+      margin: 0 auto;
+      font-size: 48px;
+      line-height: 52px;
+      font-weight: 600;
+      letter-spacing: -0.03em;
+      text-wrap: balance;
+      /* Left to right gradient on heading text per B5 */
+      background: linear-gradient(90deg, #f6f4f1 0%, #a8a29e 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .hero p {
+      max-width: 620px;
+      margin: 20px auto 0;
+      color: var(--text-muted);
+      font-size: 18px;
+      line-height: 28px;
+      text-wrap: pretty;
+    }
+
+    .hero-actions {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      margin-top: 32px;
+    }
+    /* Skip to content link */
+    .skip-link {
+      position: absolute;
+      top: -60px;
+      left: 16px;
+      background: var(--brand);
+      color: #ffffff;
+      padding: 8px 12px;
+      border-radius: var(--radius-sm);
+      font-size: 14px;
+      font-weight: 600;
+      z-index: 1000;
+      transition: top 200ms var(--ease);
+    }
+    .skip-link:focus { top: 16px; color: #ffffff; }
+
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      background: var(--brand);
+      color: #ffffff;
+      border: 1px solid var(--brand);
+      border-radius: var(--radius-sm);
+      font-size: 14px;
+      line-height: 20px;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: inherit;
+      transition: background 300ms var(--ease), transform 200ms var(--ease);
+    }
+    .btn-primary:hover {
+      background: var(--brand-hover);
+      color: #ffffff;
+      transform: translateY(-1px);
+    }
+    .btn-primary:active { transform: scale(0.98); }
+
+    .btn-secondary {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      background: var(--surface);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-size: 14px;
+      line-height: 20px;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: inherit;
+      transition: background 300ms var(--ease), border-color 300ms var(--ease);
+    }
+    .btn-secondary:hover {
+      background: var(--surface-hover);
+      border-color: var(--border-hover);
+      color: var(--text);
+    }
+    .btn-secondary:active { transform: scale(0.98); }
+
+    /* Stats Strip */
+    .stats-strip {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      max-width: 52rem;
+      margin: 48px auto 0;
+    }
+    .stat-box {
+      padding: 16px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      text-align: left;
+    }
+    .stat-box .num {
+      display: block;
+      font-size: 24px;
+      line-height: 32px;
+      font-weight: 600;
+      color: var(--text);
+      font-variant-numeric: tabular-nums;
+      font-family: var(--font-mono);
+    }
+    .stat-box .lbl {
+      display: block;
+      font-size: 12px;
+      line-height: 16px;
+      color: var(--text-subtle);
+      margin-top: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    /* Section Headings */
+    .section-head { margin-bottom: 24px; }
+    .section-head h2 {
+      font-size: 30px;
+      line-height: 36px;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      margin: 0 0 6px;
+      color: var(--text);
+    }
+    .section-head p {
+      margin: 0;
+      color: var(--text-muted);
+      font-size: 15px;
+      line-height: 22px;
+      text-wrap: pretty;
+    }
+
+    /* Explorer Section */
+    .explorer { padding: 48px 0; }
+    .search-panel { display: flex; flex-direction: column; gap: 16px; margin-bottom: 24px; }
+    .search-input-wrap { position: relative; width: 100%; }
+    .search-input-wrap svg {
+      position: absolute;
+      left: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-subtle);
+      pointer-events: none;
+    }
+    .search-input {
+      width: 100%;
+      height: 48px;
+      padding: 0 88px 0 46px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      color: var(--text);
+      font-size: 15px;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 300ms var(--ease);
+    }
+    .search-input:focus { border-color: var(--brand); }
+    .search-shortcut {
+      position: absolute;
+      right: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      padding: 3px 8px;
+      background: var(--surface-elevated);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-size: 12px;
+      color: var(--text-subtle);
+      font-family: var(--font-mono);
+      pointer-events: none;
+    }
+    .search-clear {
+      position: absolute;
+      right: 48px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--text-subtle);
+      font-size: 14px;
+      cursor: pointer;
+      display: none;
+      padding: 4px;
+    }
+    .search-clear:hover { color: var(--text); }
+
+    /* Category Filter Pills */
+    .filter-pills { display: flex; flex-wrap: wrap; gap: 8px; }
+    .pill {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 13px;
+      line-height: 18px;
+      padding: 6px 14px;
+      border-radius: 999px;
+      cursor: pointer;
+      font-family: inherit;
+      font-weight: 500;
+      transition: background 300ms var(--ease), border-color 300ms var(--ease), color 300ms var(--ease);
+      white-space: nowrap;
+    }
+    .pill:hover { background: var(--surface-hover); color: var(--text); border-color: var(--border-hover); }
+    .pill.active {
+      background: var(--brand);
+      color: #ffffff;
+      border-color: var(--brand);
+      font-weight: 600;
+    }
+    .pill-count {
+      opacity: 0.8;
+      font-size: 12px;
+      font-family: var(--font-mono);
+      margin-left: 4px;
+    }
+
+    /* Results Toolbar */
+    .results-toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 14px;
+      color: var(--text-muted);
+      margin: 16px 0 12px;
+    }
+
+    /* Prompt Cards Grid */
+    .prompt-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(23rem, 1fr));
+      gap: 16px;
+    }
+    .prompt-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: border-color 300ms var(--ease), transform 200ms var(--ease), background 300ms var(--ease);
+      cursor: pointer;
+    }
+    .prompt-card:hover {
+      border-color: var(--brand);
+      transform: translateY(-2px);
+      background: var(--surface-hover);
+    }
+    .card-top { margin-bottom: 12px; }
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+    .cat-badge {
+      font-size: 11px;
+      line-height: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-weight: 600;
+      color: var(--brand);
+      background: var(--brand-light);
+      padding: 3px 8px;
+      border-radius: var(--radius-sm);
+    }
+    .var-badge {
+      font-size: 11px;
+      line-height: 14px;
+      color: #38bdf8;
+      background: rgba(56, 189, 248, 0.1);
+      padding: 3px 8px;
+      border-radius: var(--radius-sm);
+      font-family: var(--font-mono);
+    }
+    .card-title {
+      font-size: 17px;
+      line-height: 24px;
+      font-weight: 600;
+      margin: 0 0 8px;
+      color: var(--text);
+    }
+    .card-snippet {
+      font-size: 14px;
+      line-height: 20px;
+      color: var(--text-muted);
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin: 0;
+    }
+    .card-actions {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 20px;
+      padding-top: 14px;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+    }
+    .btn-view {
+      font-size: 13px;
+      color: var(--brand);
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      font-weight: 600;
+      font-family: inherit;
+    }
+    .btn-view:hover { color: var(--brand-hover); text-decoration: underline; }
+    .btn-copy {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      line-height: 16px;
+      color: var(--text-muted);
+      background: var(--surface-elevated);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 6px 12px;
+      cursor: pointer;
+      font-family: inherit;
+      font-weight: 600;
+      transition: background 300ms var(--ease), color 300ms var(--ease), border-color 300ms var(--ease);
+    }
+    .btn-copy:hover { color: var(--text); border-color: var(--border-hover); }
+    .btn-copy.copied { background: var(--brand); color: #ffffff; border-color: var(--brand); }
+
+    /* Pagination */
+    .pagination {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      margin-top: 36px;
+    }
+    .btn-page {
+      padding: 8px 16px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 20px;
+      font-weight: 500;
+      cursor: pointer;
+      font-family: inherit;
+      transition: background 300ms var(--ease), border-color 300ms var(--ease);
+    }
+    .btn-page:disabled { opacity: 0.35; cursor: not-allowed; }
+    .btn-page:not(:disabled):hover { background: var(--surface-hover); border-color: var(--border-hover); }
+
+    /* Modal Dialog */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.8);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      z-index: 100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    .modal-backdrop.open { display: flex; }
+    .modal {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-xl);
+      width: min(54rem, 100%);
+      max-height: calc(100vh - 48px);
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 24px 64px rgba(0, 0, 0, 0.6);
+      animation: modalIn 200ms var(--ease);
+    }
+    @keyframes modalIn {
+      from { opacity: 0; transform: scale(0.97); }
+      to { opacity: 1; transform: scale(1); }
+    }
+    .modal-head {
+      padding: 20px 24px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    .modal-head h3 {
+      margin: 6px 0 0;
+      font-size: 20px;
+      line-height: 28px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .modal-close {
+      background: none;
+      border: none;
+      color: var(--text-subtle);
+      font-size: 20px;
+      cursor: pointer;
+      line-height: 1;
+      padding: 4px;
+      border-radius: var(--radius-sm);
+    }
+    .modal-close:hover { color: var(--text); }
+    .modal-body {
+      padding: 24px;
+      overflow-y: auto;
+      flex: 1;
+    }
+    .variables-box {
+      margin-bottom: 20px;
+      padding: 16px;
+      background: rgba(218, 98, 32, 0.06);
+      border: 1px solid rgba(218, 98, 32, 0.25);
+      border-radius: var(--radius-md);
+    }
+    .variables-box h4 {
+      margin: 0 0 12px;
+      font-size: 13px;
+      color: var(--brand);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .var-field {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      margin-bottom: 10px;
+    }
+    .var-field:last-child { margin-bottom: 0; }
+    .var-field label {
+      font-size: 12px;
+      font-family: var(--font-mono);
+      color: var(--text-muted);
+    }
+    .var-input {
+      padding: 8px 12px;
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text);
+      font-size: 14px;
+      font-family: inherit;
+    }
+    .var-input:focus { outline: none; border-color: var(--brand); }
+    .prompt-content {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 20px;
+      font-size: 14px;
+      line-height: 22px;
+      white-space: pre-wrap;
+      word-break: break-word;
+      color: #e5e5e5;
+      max-height: 24rem;
+      overflow-y: auto;
+    }
+    .modal-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 16px;
+      font-size: 13px;
+      color: var(--text-subtle);
+    }
+    .modal-foot {
+      padding: 16px 24px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      background: rgba(0, 0, 0, 0.25);
+    }
+    .modal-foot-left { font-size: 13px; color: var(--text-subtle); font-family: var(--font-mono); }
+    .modal-actions { display: flex; gap: 12px; }
+
+    /* Guides Section */
+    .guides-section { padding: 48px 0; border-top: 1px solid var(--border); }
+    .guides-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+      gap: 16px;
+    }
+    .guide-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      text-decoration: none;
+      color: inherit;
+      transition: border-color 300ms var(--ease), transform 200ms var(--ease);
+    }
+    .guide-card:hover {
+      border-color: var(--brand);
+      transform: translateY(-2px);
+      text-decoration: none;
+    }
+    .guide-tag {
+      display: inline-block;
+      font-size: 11px;
+      line-height: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-weight: 600;
+      color: var(--brand);
+      background: var(--brand-light);
+      padding: 3px 8px;
+      border-radius: var(--radius-sm);
+      margin-bottom: 12px;
+      font-family: var(--font-mono);
+    }
+    .guide-card h3 {
+      margin: 0 0 8px;
+      font-size: 17px;
+      line-height: 24px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .guide-card p {
+      margin: 0 0 16px;
+      font-size: 14px;
+      line-height: 20px;
+      color: var(--text-muted);
+    }
+    .guide-link {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--brand);
+    }
+
+    /* Endpoints Section */
+    .endpoints-section { padding: 48px 0; border-top: 1px solid var(--border); }
+    .endpoint-row {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      align-items: center;
+      gap: 16px;
+      padding: 14px 20px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      margin-bottom: 10px;
+    }
+    .method-get {
+      color: var(--brand);
+      font-weight: 700;
+      font-size: 12px;
+      line-height: 16px;
+      padding: 3px 8px;
+      background: var(--brand-light);
+      border-radius: var(--radius-sm);
+    }
+    .endpoint-path { font-size: 14px; word-break: break-all; color: var(--text); }
+    .endpoint-desc { color: var(--text-muted); font-size: 13px; margin-top: 2px; }
+
+    /* Tagline Reveal Section (Skill B11) */
+    .tagline-reveal-section {
+      padding: 72px 0;
+      text-align: center;
+      border-top: 1px solid var(--border);
+    }
+    .tagline-reveal-inner {
+      max-width: 680px;
+      margin: 0 auto;
+    }
+    .tagline-text {
+      font-size: 30px;
+      line-height: 42px;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      margin: 0;
+      text-wrap: balance;
+    }
+    .reveal-word {
+      display: inline-block;
+      color: var(--text);
+      opacity: 0.28;
+      transition: opacity 500ms var(--ease), color 500ms var(--ease);
+      margin: 0 4px;
+    }
+    .reveal-word.revealed {
+      opacity: 1;
+      color: var(--text);
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal-word {
+        opacity: 1 !important;
+        transition: none !important;
+      }
+    }
+
+    /* Footer */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 48px 0;
+      text-align: center;
+      color: var(--text-subtle);
+      font-size: 14px;
+      line-height: 20px;
+    }
+    footer p { margin: 4px 0; }
+    .footer-links {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      margin-top: 12px;
+      font-size: 13px;
+    }
+    .footer-links a {
+      color: var(--text-muted);
+    }
+    .footer-links a:hover {
+      color: var(--text);
+    }
+    .footer-logo {
+      width: 32px;
+      height: 32px;
+      border-radius: var(--radius-sm);
+      margin-bottom: 12px;
+    }
+
+    /* Responsive */
+    @media (max-width: 50rem) {
+      .hero h1 { font-size: 36px; line-height: 42px; }
+      .stats-strip { grid-template-columns: repeat(2, 1fr); }
+      .endpoint-row { grid-template-columns: 1fr; gap: 8px; }
+      .prompt-grid { grid-template-columns: 1fr; }
+      .nav-links { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <a href="#explorer" class="skip-link">Skip to prompt explorer</a>
+
+  <!-- Floating Navigation -->
+  <header>
+    <div class="nav-floating">
+      <a class="nav-brand" href="./">
+        <img src="./assets/favicon-32x32.png" alt="Axiom logo" width="26" height="26">
+        <span>Promptstack</span>
+        <span class="nav-brand-badge" id="nav-brand-badge">2,671 Prompts</span>
+      </a>
+      <nav class="nav-links">
+        <a href="#explorer">Explorer</a>
+        <a href="#guides">Guides</a>
+        <a href="#api">API</a>
+        <a class="nav-github-btn" href="https://github.com/BELYAGOUBIABDELILAH/promptstack" target="_blank" rel="noopener">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+          </svg>
+          GitHub
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero shell">
+    <h1>Reusable prompts organized by category</h1>
+    <p>Promptstack is a collection of reusable prompts organized by category. Browse the library, find a prompt, and adapt it to your task.</p>
+    
+    <div class="hero-actions">
+      <a href="#explorer" class="btn-primary">Browse Prompts</a>
+      <a href="#api" class="btn-secondary">View API Routes</a>
+    </div>
+
+    <div class="stats-strip">
+      <div class="stat-box">
+        <span class="num" id="stat-prompts">2,671</span>
+        <span class="lbl">Prompts</span>
+      </div>
+      <div class="stat-box">
+        <span class="num" id="stat-categories">19</span>
+        <span class="lbl">Categories</span>
+      </div>
+      <div class="stat-box">
+        <span class="num" id="stat-sources">329</span>
+        <span class="lbl">Sources Credited</span>
+      </div>
+      <div class="stat-box">
+        <span class="num">0</span>
+        <span class="lbl">API Keys Needed</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Explorer Section -->
+  <main class="shell explorer" id="explorer">
+    <div class="section-head">
+      <h2>Prompt Explorer</h2>
+      <p>Search by title, category, or variable keyword. Instant filtering across all 2,671 catalog entries.</p>
+    </div>
+
+    <div class="search-panel">
+      <div class="search-input-wrap">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="search-input" class="search-input" placeholder="Search prompts (e.g. code review, sql query, marketing, elevator pitch)..." autocomplete="off" spellcheck="false">
+        <span class="search-shortcut">/</span>
+        <button id="search-clear" class="search-clear" title="Clear search">✕</button>
+      </div>
+
+      <div class="filter-pills" id="category-pills">
+        <button class="pill active" data-category="all">All <span class="pill-count">2,671</span></button>
+      </div>
+    </div>
+
+    <div class="results-toolbar">
+      <span id="results-count">Loading prompt catalog...</span>
+      <span id="results-page-info"></span>
+    </div>
+
+    <div class="prompt-grid" id="prompt-grid" aria-live="polite">
+      <!-- Prompt cards rendered by JS -->
+    </div>
+
+    <div class="pagination" id="pagination">
+      <button class="btn-page" id="btn-prev" disabled>← Previous</button>
+      <span id="page-indicator" style="font-size: 13px; color: var(--text-muted); font-family: var(--font-mono);">Page 1</span>
+      <button class="btn-page" id="btn-next">Next →</button>
+    </div>
+  </main>
+
+  <!-- Tagline Reveal Section (Skill B11) -->
+  <section class="tagline-reveal-section shell" id="tagline-reveal">
+    <div class="tagline-reveal-inner">
+      <h2 class="tagline-text" id="reveal-tagline">
+        <span class="reveal-word">Every</span>
+        <span class="reveal-word">prompt</span>
+        <span class="reveal-word">is</span>
+        <span class="reveal-word">structured</span>
+        <span class="reveal-word">for</span>
+        <span class="reveal-word">repeatable</span>
+        <span class="reveal-word">results,</span>
+        <br>
+        <span class="reveal-word">ready</span>
+        <span class="reveal-word">to</span>
+        <span class="reveal-word">copy</span>
+        <span class="reveal-word">or</span>
+        <span class="reveal-word">fetch</span>
+        <span class="reveal-word">via</span>
+        <span class="reveal-word">static</span>
+        <span class="reveal-word">JSON.</span>
+      </h2>
+    </div>
+  </section>
+
+  <!-- Guides & Resources Section -->
+  <section class="guides-section shell" id="guides">
+    <div class="section-head">
+      <h2>Prompt Guides and References</h2>
+      <p>Tested design patterns, foundational research papers, and official model documentation.</p>
+    </div>
+    <div class="guides-grid">
+      <a class="guide-card" href="https://github.com/BELYAGOUBIABDELILAH/promptstack/blob/main/resources/prompt-patterns.md" target="_blank" rel="noopener">
+        <div>
+          <span class="guide-tag">5 Structural Patterns</span>
+          <h3>Prompt Engineering Patterns</h3>
+          <p>Delimited context framing, few shot demonstrations, chain of thought, negative constraints, and JSON schema enforcement.</p>
+        </div>
+        <span class="guide-link">Read guide →</span>
+      </a>
+      <a class="guide-card" href="https://github.com/BELYAGOUBIABDELILAH/promptstack/blob/main/resources/official-guides.md" target="_blank" rel="noopener">
+        <div>
+          <span class="guide-tag">Documentation</span>
+          <h3>Official Model Documentation</h3>
+          <p>Guides from OpenAI, Anthropic, and Google Cloud on instruction following, system steering, and agent design.</p>
+        </div>
+        <span class="guide-link">View documentation →</span>
+      </a>
+      <a class="guide-card" href="https://github.com/BELYAGOUBIABDELILAH/promptstack/blob/main/resources/courses.md" target="_blank" rel="noopener">
+        <div>
+          <span class="guide-tag">Hands-on Tutorials</span>
+          <h3>Courses and Interactive Tutorials</h3>
+          <p>Hands-on Jupyter notebook courses from DeepLearning.AI, Anthropic Interactive, and Google Prompting Essentials.</p>
+        </div>
+        <span class="guide-link">Explore courses →</span>
+      </a>
+      <a class="guide-card" href="https://github.com/BELYAGOUBIABDELILAH/promptstack/blob/main/resources/books-and-papers.md" target="_blank" rel="noopener">
+        <div>
+          <span class="guide-tag">Research Papers</span>
+          <h3>Foundational Research Papers</h3>
+          <p>Papers on Chain of Thought (Wei et al.), Tree of Thoughts (Yao et al.), and The Prompt Report survey.</p>
+        </div>
+        <span class="guide-link">Browse papers →</span>
+      </a>
+    </div>
+  </section>
+
+  <!-- API Routes Section -->
+  <section class="endpoints-section shell" id="api">
+    <div class="section-head">
+      <h2>Static API Routes</h2>
+      <p>Served directly via GitHub Pages. Fully CORS-enabled static JSON with zero rate limits.</p>
+    </div>
+    <div id="endpoint-list">
+      <div class="endpoint-row">
+        <span class="method-get mono">GET</span>
+        <div>
+          <div class="endpoint-path mono" id="ep-stats">./v1/stats.json</div>
+          <div class="endpoint-desc">Library statistics, counts, and category breakdown</div>
+        </div>
+        <button class="btn-copy" onclick="copyEndpoint('./v1/stats.json', this)">Copy URL</button>
+      </div>
+      <div class="endpoint-row">
+        <span class="method-get mono">GET</span>
+        <div>
+          <div class="endpoint-path mono" id="ep-catalog">./v1/catalog.json</div>
+          <div class="endpoint-desc">Complete lightweight searchable catalog of all 2,671 prompts</div>
+        </div>
+        <button class="btn-copy" onclick="copyEndpoint('./v1/catalog.json', this)">Copy URL</button>
+      </div>
+      <div class="endpoint-row">
+        <span class="method-get mono">GET</span>
+        <div>
+          <div class="endpoint-path mono" id="ep-categories">./v1/categories/index.json</div>
+          <div class="endpoint-desc">Directory of all 19 categories with prompt counts</div>
+        </div>
+        <button class="btn-copy" onclick="copyEndpoint('./v1/categories/index.json', this)">Copy URL</button>
+      </div>
+      <div class="endpoint-row">
+        <span class="method-get mono">GET</span>
+        <div>
+          <div class="endpoint-path mono" id="ep-category">./v1/categories/{folder}.json</div>
+          <div class="endpoint-desc">All full text prompts in a specific category (e.g. coding-development)</div>
+        </div>
+        <button class="btn-copy" onclick="copyEndpoint('./v1/categories/coding-development.json', this)">Copy URL</button>
+      </div>
+      <div class="endpoint-row">
+        <span class="method-get mono">GET</span>
+        <div>
+          <div class="endpoint-path mono" id="ep-prompt">./v1/prompts/{id}.json</div>
+          <div class="endpoint-desc">Individual prompt by stable ID with metadata and variables</div>
+        </div>
+        <button class="btn-copy" onclick="copyEndpoint('./v1/prompts/opl_00200359664e.json', this)">Copy URL</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Prompt Modal Dialog -->
+  <div class="modal-backdrop" id="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal">
+      <div class="modal-head">
+        <div>
+          <span class="cat-badge" id="modal-cat">Category</span>
+          <h3 id="modal-title">Prompt Title</h3>
+        </div>
+        <button class="modal-close" id="modal-close" aria-label="Close modal">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="variables-box" id="modal-vars-box" style="display: none;">
+          <h4>Prompt Variables</h4>
+          <div id="modal-vars-list"></div>
+        </div>
+        <pre class="prompt-content" id="modal-prompt-content"></pre>
+        <div class="modal-meta" id="modal-meta"></div>
+      </div>
+      <div class="modal-foot">
+        <div class="modal-foot-left" id="modal-char-count">0 characters</div>
+        <div class="modal-actions">
+          <button class="btn-primary" id="btn-modal-copy">Copy Prompt</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <div class="shell">
+      <img src="./assets/android-chrome-192x192.png" alt="Promptstack logo" class="footer-logo">
+      <p><strong>Promptstack</strong> · Free and open source prompt repository</p>
+      <p>Released under the MIT license. Maintained by Abdelilah Belyagoubi.</p>
+      <div class="footer-links">
+        <a href="https://github.com/BELYAGOUBIABDELILAH/promptstack/blob/main/LICENSE" target="_blank" rel="noopener">License</a>
+        <a href="https://github.com/BELYAGOUBIABDELILAH/promptstack" target="_blank" rel="noopener">GitHub</a>
+        <a href="#explorer">Explorer</a>
+        <a href="#api">API</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- App Script -->
+  <script>
+    (function () {
+      let catalog = [];
+      let filtered = [];
+      let activeCategory = 'all';
+      let currentPage = 1;
+      const PAGE_SIZE = 24;
+      let rawPromptCache = new Map();
+      let activePrompt = null;
+
+      const searchInput = document.getElementById('search-input');
+      const searchClear = document.getElementById('search-clear');
+      const categoryPills = document.getElementById('category-pills');
+      const promptGrid = document.getElementById('prompt-grid');
+      const resultsCount = document.getElementById('results-count');
+      const btnPrev = document.getElementById('btn-prev');
+      const btnNext = document.getElementById('btn-next');
+      const pageIndicator = document.getElementById('page-indicator');
+
+      // Modal elements
+      const modalBackdrop = document.getElementById('modal-backdrop');
+      const modalClose = document.getElementById('modal-close');
+      const modalCat = document.getElementById('modal-cat');
+      const modalTitle = document.getElementById('modal-title');
+      const modalVarsBox = document.getElementById('modal-vars-box');
+      const modalVarsList = document.getElementById('modal-vars-list');
+      const modalPromptContent = document.getElementById('modal-prompt-content');
+      const modalMeta = document.getElementById('modal-meta');
+      const modalCharCount = document.getElementById('modal-char-count');
+      const btnModalCopy = document.getElementById('btn-modal-copy');
+
+      // Fetch Stats
+      fetch('./v1/stats.json')
+        .then(r => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`);
+          return r.json();
+        })
+        .then(data => {
+          if (data.total_prompts) {
+            document.getElementById('stat-prompts').textContent = data.total_prompts.toLocaleString();
+            document.getElementById('stat-categories').textContent = data.total_categories;
+            const badge = document.getElementById('nav-brand-badge');
+            if (badge) badge.textContent = `${data.total_prompts.toLocaleString()} Prompts`;
+          }
+          if (data.total_sources) {
+            document.getElementById('stat-sources').textContent = data.total_sources.toLocaleString();
+          }
+          if (data.categories) {
+            renderCategoryPills(data.categories, data.total_prompts);
+          }
+        })
+        .catch(err => {
+          console.warn('Could not load stats.json:', err);
+        });
+
+      // Fetch Catalog
+      fetch('./v1/catalog.json')
+        .then(r => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`);
+          return r.json();
+        })
+        .then(data => {
+          catalog = data;
+          applyFilters();
+        })
+        .catch(err => {
+          resultsCount.textContent = 'Failed to load prompt catalog. Check connection or API files.';
+          console.error(err);
+        });
+
+      function renderCategoryPills(categories, total) {
+        categoryPills.innerHTML = '';
+        const allBtn = document.createElement('button');
+        allBtn.className = 'pill active';
+        allBtn.dataset.category = 'all';
+        allBtn.innerHTML = `All <span class="pill-count">${total.toLocaleString()}</span>`;
+        allBtn.addEventListener('click', () => setCategory('all', allBtn));
+        categoryPills.appendChild(allBtn);
+
+        for (const cat of categories) {
+          const btn = document.createElement('button');
+          btn.className = 'pill';
+          btn.dataset.category = cat.folder;
+          btn.innerHTML = `${cat.name} <span class="pill-count">${cat.prompt_count}</span>`;
+          btn.addEventListener('click', () => setCategory(cat.folder, btn));
+          categoryPills.appendChild(btn);
+        }
+      }
+
+      function setCategory(folder, btnEl) {
+        activeCategory = folder;
+        document.querySelectorAll('.filter-pills .pill').forEach(p => p.classList.remove('active'));
+        btnEl.classList.add('active');
+        currentPage = 1;
+        applyFilters();
+      }
+
+      function applyFilters() {
+        const query = (searchInput.value || '').trim().toLowerCase();
+        searchClear.style.display = query ? 'block' : 'none';
+
+        filtered = catalog.filter(item => {
+          if (activeCategory !== 'all' && item.folder !== activeCategory) return false;
+          if (!query) return true;
+          return item.title.toLowerCase().includes(query) ||
+                 item.snippet.toLowerCase().includes(query) ||
+                 (item.variables && item.variables.some(v => v.toLowerCase().includes(query)));
+        });
+
+        currentPage = 1;
+        renderGrid();
+      }
+
+      function renderGrid() {
+        resultsCount.textContent = `Showing ${filtered.length.toLocaleString()} prompts`;
+        promptGrid.innerHTML = '';
+
+        if (filtered.length === 0) {
+          promptGrid.innerHTML = '<div style="grid-column: 1 / -1; padding: 48px; text-align: center; color: var(--text-muted);">No prompts found matching your search.</div>';
+          document.getElementById('pagination').style.display = 'none';
+          return;
+        }
+
+        document.getElementById('pagination').style.display = 'flex';
+        const totalPages = Math.ceil(filtered.length / PAGE_SIZE) || 1;
+        const start = (currentPage - 1) * PAGE_SIZE;
+        const pageItems = filtered.slice(start, start + PAGE_SIZE);
+
+        pageIndicator.textContent = `Page ${currentPage} of ${totalPages}`;
+        btnPrev.disabled = currentPage <= 1;
+        btnNext.disabled = currentPage >= totalPages;
+
+        for (const item of pageItems) {
+          const card = document.createElement('article');
+          card.className = 'prompt-card';
+          card.onclick = () => openModal(item);
+
+          const varCount = item.variables ? item.variables.length : 0;
+          card.innerHTML = `
+            <div class="card-top">
+              <div class="card-meta">
+                <span class="cat-badge">${escapeHtml(item.category)}</span>
+                ${varCount > 0 ? `<span class="var-badge">${varCount} var${varCount > 1 ? 's' : ''}</span>` : ''}
+              </div>
+              <h3 class="card-title">${escapeHtml(item.title)}</h3>
+              <p class="card-snippet">${escapeHtml(item.snippet)}...</p>
+            </div>
+            <div class="card-actions">
+              <button type="button" class="btn-view">View Prompt →</button>
+              <button type="button" class="btn-copy" onclick="event.stopPropagation(); quickCopy(this, '${item.id}')">Copy</button>
+            </div>
+          `;
+          promptGrid.appendChild(card);
+        }
+      }
+
+      // Quick Copy
+      window.quickCopy = function(btn, id) {
+        fetchPromptText(id).then(text => {
+          navigator.clipboard.writeText(text).then(() => {
+            const originalText = btn.textContent;
+            btn.textContent = 'Copied';
+            btn.classList.add('copied');
+            setTimeout(() => {
+              btn.textContent = originalText;
+              btn.classList.remove('copied');
+            }, 1500);
+          });
+        });
+      };
+
+      window.copyEndpoint = function(relUrl, btn) {
+        const fullUrl = new URL(relUrl, window.location.href).href;
+        navigator.clipboard.writeText(fullUrl).then(() => {
+          const orig = btn.textContent;
+          btn.textContent = 'Copied';
+          btn.classList.add('copied');
+          setTimeout(() => {
+            btn.textContent = orig;
+            btn.classList.remove('copied');
+          }, 1500);
+        });
+      };
+
+      async function fetchPromptText(id) {
+        if (rawPromptCache.has(id)) return rawPromptCache.get(id);
+        try {
+          const res = await fetch(`./v1/prompts/${id}.json`);
+          const data = await res.json();
+          rawPromptCache.set(id, data.prompt);
+          return data.prompt;
+        } catch (e) {
+          return 'Error loading prompt content.';
+        }
+      }
+
+      async function openModal(item) {
+        activePrompt = item;
+        modalCat.textContent = item.category;
+        modalTitle.textContent = item.title;
+        modalPromptContent.textContent = 'Loading full prompt...';
+        modalBackdrop.classList.add('open');
+        document.body.style.overflow = 'hidden';
+
+        const text = await fetchPromptText(item.id);
+        activePrompt.rawText = text;
+        renderModalPrompt(text);
+
+        // Variables setup
+        if (item.variables && item.variables.length > 0) {
+          modalVarsBox.style.display = 'block';
+          modalVarsList.innerHTML = '';
+          item.variables.forEach(v => {
+            const div = document.createElement('div');
+            div.className = 'var-field';
+            div.innerHTML = `
+              <label for="var-${v}">${escapeHtml(v)}</label>
+              <input type="text" id="var-${v}" class="var-input" placeholder="Value for ${v}..." data-var="${v}">
+            `;
+            div.querySelector('input').addEventListener('input', updateInterpolatedPrompt);
+            modalVarsList.appendChild(div);
+          });
+        } else {
+          modalVarsBox.style.display = 'none';
+        }
+
+        modalMeta.innerHTML = `
+          <span>ID: <code class="mono">${item.id}</code></span>
+          <span>·</span>
+          <a href="./v1/prompts/${item.id}.json" target="_blank" rel="noopener">JSON API</a>
+          <span>·</span>
+          <a href="https://github.com/BELYAGOUBIABDELILAH/promptstack/blob/main/prompts/${item.folder}/${item.slug}.md" target="_blank" rel="noopener">Markdown Source</a>
+        `;
+      }
+
+      function updateInterpolatedPrompt() {
+        if (!activePrompt || !activePrompt.rawText) return;
+        let text = activePrompt.rawText;
+        const inputs = modalVarsList.querySelectorAll('input');
+        inputs.forEach(input => {
+          const varName = input.dataset.var;
+          const val = input.value;
+          if (val) {
+            const regex = new RegExp('\\$\\{' + varName + '(?::[^}]*)?\\}', 'g');
+            text = text.replace(regex, val);
+          }
+        });
+        renderModalPrompt(text);
+      }
+
+      function renderModalPrompt(text) {
+        modalPromptContent.textContent = text;
+        modalCharCount.textContent = `${text.length.toLocaleString()} characters · ${text.split(/\\s+/).filter(Boolean).length.toLocaleString()} words`;
+      }
+
+      function closeModal() {
+        modalBackdrop.classList.remove('open');
+        document.body.style.overflow = '';
+        activePrompt = null;
+      }
+
+      modalClose.addEventListener('click', closeModal);
+      modalBackdrop.addEventListener('click', (e) => {
+        if (e.target === modalBackdrop) closeModal();
+      });
+
+      btnModalCopy.addEventListener('click', () => {
+        const text = modalPromptContent.textContent;
+        navigator.clipboard.writeText(text).then(() => {
+          btnModalCopy.textContent = 'Copied to Clipboard';
+          setTimeout(() => {
+            btnModalCopy.textContent = 'Copy Prompt';
+          }, 1500);
+        });
+      });
+
+      // Pagination events
+      btnPrev.addEventListener('click', () => {
+        if (currentPage > 1) {
+          currentPage--;
+          renderGrid();
+          window.scrollTo({ top: document.getElementById('explorer').offsetTop - 60, behavior: 'smooth' });
+        }
+      });
+
+      btnNext.addEventListener('click', () => {
+        const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+        if (currentPage < totalPages) {
+          currentPage++;
+          renderGrid();
+          window.scrollTo({ top: document.getElementById('explorer').offsetTop - 60, behavior: 'smooth' });
+        }
+      });
+
+      // Search events
+      searchInput.addEventListener('input', applyFilters);
+      searchClear.addEventListener('click', () => {
+        searchInput.value = '';
+        applyFilters();
+        searchInput.focus();
+      });
+
+      // Keyboard shortcuts
+      document.addEventListener('keydown', (e) => {
+        if (e.key === '/' && document.activeElement !== searchInput) {
+          e.preventDefault();
+          searchInput.focus();
+        } else if (e.key === 'Escape' && modalBackdrop.classList.contains('open')) {
+          closeModal();
+        }
+      });
+
+      // Tagline Reveal Observer (Skill B11)
+      const revealWords = document.querySelectorAll('.reveal-word');
+      if (revealWords.length > 0) {
+        if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+          revealWords.forEach(w => w.classList.add('revealed'));
+        } else if ('IntersectionObserver' in window) {
+          const taglineSection = document.getElementById('tagline-reveal');
+          if (taglineSection) {
+            const observer = new IntersectionObserver((entries) => {
+              entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                  revealWords.forEach((w, idx) => {
+                    setTimeout(() => {
+                      w.classList.add('revealed');
+                    }, idx * 60);
+                  });
+                  observer.disconnect();
+                }
+              });
+            }, { threshold: 0.25 });
+            observer.observe(taglineSection);
+          }
+        } else {
+          revealWords.forEach(w => w.classList.add('revealed'));
+        }
+      }
+
+      function escapeHtml(str) {
+        return String(str || '').replace(/[&<>"']/g, m => ({
+          '&': '&amp;',
+          '<': '&lt;',
+          '>': '&gt;',
+          '"': '&quot;',
+          "'": '&#39;'
+        })[m]);
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "id": "opl_a3270af8d7e3",
+  "slug": "the-solar-priestess-of-amun",
+  "title": "The Solar Priestess of Amun",
+  "prompt": "{\n  \"title\": \"The Solar Priestess of Amun\",\n  \"description\": \"A stunning, stylized portrait of a woman transformed into an Ancient Egyptian priestess, blending photorealism with the texture of tomb paintings.\",\n  \"prompt\": \"You will perform an image edit using the female from the provided photo as the main subject. Preserve her core likeness. Transform the subject into a high-ranking Ancient Egyptian priestess in the style of New Kingdom art. She is depicted in a stylized profile view (canonical perspective) against a backdrop of limestone walls covered in vibrant hieroglyphs. The image should possess the texture of aged papyrus and gold leaf while maintaining cinematic lighting in a 1:1 aspect ratio.\",\n  \"details\": {\n    \"year\": \"1250 BC\",\n    \"genre\": \"Ancient Egyptian Art\",\n    \"location\": \"The inner sanctuary of the Temple of Karnak, surrounded by massive sandstone columns.\",\n    \"lighting\": [\n      \"Warm golden sunlight\",\n      \"Flickering torchlight shadows\",\n      \"Specular highlights on gold jewelry\"\n    ],\n    \"camera_angle\": \"Side profile shot at eye level, mimicking the traditional Egyptian art perspective.\",\n    \"emotion\": [\n      \"Regal\",\n      \"Devout\",\n      \"Serene\"\n    ],\n    \"color_palette\": [\n      \"Lapis Lazuli Blue\",\n      \"Burnished Gold\",\n      \"Ochre Red\",\n      \"Turquoise\"\n    ],\n    \"atmosphere\": [\n      \"Sacred\",\n      \"Timeless\",\n      \"Mystical\",\n      \"Opulent\"\n    ],\n    \"environmental_elements\": \"Carved hieroglyphs on the background wall, floating dust motes caught in shafts of light, sacred lotus flowers.\",\n    \"subject1\": {\n      \"costume\": \"A pleated white linen dress (kalasiris), a heavy gold Wesekh collar inlaid with semi-precious stones, and a vulture headdress.\",\n      \"subject_expression\": \"A stoic, commanding gaze looking forward.\",\n      \"subject_action\": \"Holding a ceremonial Ankh symbol raised slightly in one hand.\"\n    },\n    \"negative_prompt\": {\n      \"exclude_visuals\": [\n        \"modern fashion\",\n        \"denim\",\n        \"digital technology\",\n        \"cars\"\n      ],\n      \"exclude_styles\": [\n        \"3D render\",\n        \"anime\",\n        \"impressionism\",\n        \"cyberpunk\"\n      ],\n      \"exclude_colors\": [\n        \"neon green\",\n        \"electric purple\"\n      ],\n      \"exclude_objects\": [\n        \"eyeglasses\",\n        \"watches\",\n        \"modern buildings\"\n      ]\n    }\n  }\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_16c23a584c02"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3270af8d7e3.json"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "opl_c41c18c9eddf",
+  "slug": "write-an-email",
+  "title": "Write an Email",
+  "prompt": "Write a ${tone:professional|friendly} email to ${recipient} about ${topic}.\n\nThe email should:\n- Be approximately ${length:200} words\n- Include a clear call to action\n- Use ${language:English} language",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "language",
+      "default": "English"
+    },
+    {
+      "name": "length",
+      "default": "200"
+    },
+    {
+      "name": "recipient",
+      "default": null
+    },
+    {
+      "name": "tone",
+      "default": "professional|friendly"
+    },
+    {
+      "name": "topic",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_ddb4b3cb8b7b"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c41c18c9eddf.json"
+}

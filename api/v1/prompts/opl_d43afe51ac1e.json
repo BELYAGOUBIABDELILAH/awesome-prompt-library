@@ -1,0 +1,16 @@
+{
+  "id": "opl_d43afe51ac1e",
+  "slug": "resonance-wave-synchronic-clusters",
+  "title": "《Resonance Wave: Synchronic Clusters》",
+  "prompt": "I want you to act as a Creative Technologist and VFX Architect. Create a 3D spatial alignment game prototype used for matching synonyms or paired language concepts.\n\nGame Name: 《Resonance Wave: Synchronic Clusters》.\n\nGame Function: The user is presented with two large floating geometric structures constructed entirely out of interactive particle clouds. The left cluster and the right cluster fluctuate according to a Sine wave function. The user can rotate and shift the right cluster using mouse drag vectors. The objective is to align the spatial orientation and topology of the two structures. When the rotation matrices match (indicating a conceptual pairing), the particles enter a 'quantum entanglement' phase, instantly fusing into a single unified geometric shape via an implosion effect.\n\nDesign Style: Dreamlike surrealism. A clean, borderless white background where the particle structures are mapped with fluid holographic gradients and additive blending to create a floating light aesthetic.\n\nTechnologies Used: Three.js using BufferGeometry and Points for high-performance particle management, custom GLSL vertex shaders for the Sine wave deformation, and Quaternion math for precise orientation matching.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d43afe51ac1e.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "opl_c16e2b2df9d1",
+  "slug": "claude-md-assembly",
+  "title": "CLAUDE.md Assembly",
+  "prompt": "You are compiling the definitive CLAUDE.md design system reference file.\nThis file will live in the project root and serve as the single source of\ntruth for any AI assistant (or human developer) working on this codebase.\n\n## Inputs\n- **Token architecture:** [Phase 2 output]\n- **Component documentation:** [Phase 3 output]\n- **Project metadata:**\n  - Project name: ${name}\n  - Tech stack: [Next.js 14+ / React 18+ / Tailwind 3.x / etc.]\n  - Node version: ${version}\n  - Package manager: [npm / pnpm / yarn]\n\n## CLAUDE.md Structure\n\nCompile the final file with these sections IN THIS ORDER:\n\n### 1. Project Identity\n- Project name, description, positioning\n- Tech stack summary (one table)\n- Directory structure overview (src/ layout)\n\n### 2. Quick Reference Card\nA condensed cheat sheet — the most frequently needed info at a glance:\n- Primary colors with hex values (max 6)\n- Font stack\n- Spacing scale (visual representation: 4, 8, 12, 16, 24, 32, 48, 64)\n- Breakpoints\n- Border radius values\n- Shadow values\n- Z-index map\n\n### 3. Design Tokens — Full Reference\nOrganized by tier (Primitive → Semantic → Component).\nEach token entry: name, value, CSS variable, Tailwind class equivalent.\nUse tables for scannability.\n\n### 4. Typography System\n- Type scale table (name, size, weight, line-height, letter-spacing, usage)\n- Responsive rules\n- Font loading strategy\n\n### 5. Color System\n- Full palette with swatches description (name, hex, usage context)\n- Semantic color mapping table\n- Dark mode mapping (if applicable)\n- Contrast ratio compliance notes\n\n### 6. Layout System\n- Grid specification\n- Container widths\n- Spacing system with visual scale\n- Breakpoint behavior\n\n### 7. Component Library\n[Insert Phase 3 output for each component]\n\n### 8. Motion & Animation\n- Named presets table (name, duration, easing, usage)\n- Rules: when to animate, when not to\n- Performance constraints\n\n### 9. Coding Conventions\n- File naming patterns\n- Import order\n- Component file structure template\n- CSS class ordering convention (if Tailwind)\n- State management patterns used\n\n### 10. Rules & Constraints\nHard rules that must never be broken:\n- \"Never use inline hex colors — always reference tokens\"\n- \"All interactive elements must have visible focus states\"\n- \"Minimum touch target: 44x44px\"\n- \"All images must have alt text\"\n- \"No z-index values outside the defined scale\"\n- [Add project-specific rules]\n\n## Formatting Requirements\n- Use markdown tables for all token/value mappings\n- Use code blocks for all code examples\n- Keep each section self-contained (readable without scrolling to other sections)\n- Include a table of contents at the top with anchor links\n- Maximum line length: 100 characters for readability\n- Prefer explicit values over \"see above\" references\n\n## Critical Rule\nThis file must be AUTHORITATIVE. If there's ambiguity between the\nCLAUDE.md and the actual code, the CLAUDE.md should be updated to\nmatch reality — never the other way around. This documents what IS,\nnot what SHOULD BE (that's a separate roadmap).",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "name",
+      "default": null
+    },
+    {
+      "name": "version",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_2ff7426193e8"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c16e2b2df9d1.json"
+}

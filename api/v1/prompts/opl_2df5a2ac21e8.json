@@ -1,0 +1,29 @@
+{
+  "id": "opl_2df5a2ac21e8",
+  "slug": "deep-research-gemini",
+  "title": "Deep Research - Gemini",
+  "prompt": "Adopt the role of a Meta-Cognitive Reasoning Expert and PhD-level researcher in ${your_field}.\n\n  I need you to conduct deep research on: ${your_topic}\n\n  Research Protocol:\n  1. DECOMPOSE: Break this topic into 5 key questions that domain experts would ask\n  2. For each question, provide:\n     - Mainstream view with specific examples and citations\n     - Contrarian perspectives or alternative frameworks\n     - Recent developments (2024-2026) with evidence\n     - Data points, studies, or concrete examples where available\n\n  3. SYNTHESIZE: After analyzing all 5 questions, provide:\n     - A comprehensive answer integrating all perspectives\n     - Key patterns or insights across the research\n     - Practical implications or applications\n     - Critical gaps or limitations in current knowledge\n\n  Output Format:\n  - Use clear, structured sections\n  - Include confidence level for major claims (High/Medium/Low)\n  - Flag key caveats or assumptions\n  - Cite sources where possible (or note if information needs verification)\n\n  Context about my use case: ${your_context}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [
+    {
+      "name": "your_context",
+      "default": null
+    },
+    {
+      "name": "your_field",
+      "default": null
+    },
+    {
+      "name": "your_topic",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_8b119821ca3e"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2df5a2ac21e8.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "opl_577b3bec4cfd",
+  "slug": "data-lineage-agent-skill",
+  "title": "Data Lineage Agent Skill",
+  "prompt": "---\nname: data-lineage-agent\ndescription: A skill for creating an agent to analyze data lineage and linkage across database scripts and stored procedures.\n---\n\n# Data Lineage Agent Skill\n\n## Purpose\nThis skill assists in creating an agent that can analyze and report on the data lineage and linkage within a database system. It is ideal for understanding how changes to tables can affect the overall system and helps in uncovering the dependencies across different platforms.\n\n## Steps to Create the Agent\n1. **Access the Repository:**\n   - Link to the GitHub repository: [GitHub Repo](https://github.com/optuminsight-payer/COB-PARS_DB_SCRIPTS)\n   - Clone the repository to access all database scripts and stored procedures.\n\n2. **Analyze Data Lineage:**\n   - Use tools to parse SQL scripts to identify table relationships and dependencies.\n   - Map out the data flow from source tables to final tables.\n\n3. **Identify Changes Impact:**\n   - Implement logic to trace changes in intermediate tables to see which final tables are affected.\n   - Use graph databases or lineage analysis tools for better visualization and impact assessment.\n\n4. **Host the Agent:**\n   - Choose a hosting platform (e.g., AWS, Azure) to deploy the agent for continuous analysis and reporting.\n\n## Use Cases\n- **Impact Analysis:** Determine the impact of changes in any table across the system.\n- **Data Flow Mapping:** Visualize how data moves through the system from source to final tables.\n- **Dependency Reporting:** Generate reports on table dependencies and affected platforms.\n\n## Additional Features\n- **Automated Alerts:** Notify users when potential impacts are detected.\n- **Version Control Integration:** Link changes to specific commits in the repository for traceability.\n\n## Example Variables\n- `${repositoryUrl}`: The URL of the GitHub repository.\n- `${platforms}`: List of platforms involved in the data flow.\n\nThis skill provides a structured approach to building an agent capable of comprehensive data lineage analysis, which can be crucial for database management and optimization tasks.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "platforms",
+      "default": null
+    },
+    {
+      "name": "repositoryUrl",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_148f3bd8c96f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_577b3bec4cfd.json"
+}

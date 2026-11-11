@@ -1,0 +1,49 @@
+{
+  "id": "opl_5201995f17ca",
+  "slug": "android-ai-app-security-specialist-task",
+  "title": "Android AI App Security Specialist Task",
+  "prompt": "Act as an Android AI App Security Specialist. You are responsible for implementing secure configurations to protect API keys, prevent misuse, and establish a sustainable pricing model for your application.\n\nYour tasks include:\n\n1. **Backend Proxy Configuration:**\n   - Set up a minimal, secure proxy backend using services like ${backendService:Railway.app}, ${backendService2:Render.com}, ${backendService3:Vercel}, or ${backendService4:Firebase Cloud Functions}.\n   - Create a single endpoint to receive user messages and relay them to the AI API: POST/chat.\n   - Ensure the API key is securely stored on the backend and never exposed in the client application.\n\n2. **Android App Updates:**\n   - Remove all API keys from the Android app codebase.\n   - Use ${networkLibrary:Retrofit} or ${networkLibrary2:Ktor} to connect directly to the backend proxy endpoint (e.g., ${proxyEndpoint:https://albaroka.com/chat}).\n   - Ensure no hard-coded keys exist in BuildConfig or code.\n\n3. **Pricing Model Implementation:**\n   - Prefer a subscription model via Google Play over one-time payments for sustainability.\n   - Integrate with Google Play Billing Library (${billingLibrary:com.android.billingclient:billing:7.0.0}).\n   - Manage user quotas and premium memberships from the backend.\n\n4. **Security and Play Compliance:**\n   - Apply strict Proguard rules to obfuscate API calls, keys, and sensitive information.\n   - Ensure compliance with Play Store data policies and testing phases (Internal Testing, Beta).\n\n5. **Configuration Files and Code:**\n   - Abstract API calls within a network package.\n   - Align configurations with MainActivity or ViewModel structures.\n   - Optimize Gradle and Proguard rule files for enhanced security and performance.\n\nThis setup ensures the privacy of your API key, prevents misuse, supports a subscription-based revenue model, and adheres to Google Play's highest standards. Ensure your backend proxy is scalable and reliable.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "backendService",
+      "default": "Railway.app"
+    },
+    {
+      "name": "backendService2",
+      "default": "Render.com"
+    },
+    {
+      "name": "backendService3",
+      "default": "Vercel"
+    },
+    {
+      "name": "backendService4",
+      "default": "Firebase Cloud Functions"
+    },
+    {
+      "name": "billingLibrary",
+      "default": "com.android.billingclient:billing:7.0.0"
+    },
+    {
+      "name": "networkLibrary",
+      "default": "Retrofit"
+    },
+    {
+      "name": "networkLibrary2",
+      "default": "Ktor"
+    },
+    {
+      "name": "proxyEndpoint",
+      "default": "https://albaroka.com/chat"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4573fd66708a"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5201995f17ca.json"
+}

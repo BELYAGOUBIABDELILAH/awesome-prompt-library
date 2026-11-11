@@ -1,0 +1,16 @@
+{
+  "id": "opl_196f83dd9140",
+  "slug": "github-ssh-setup-for-students-existing-repository-clone-push-ready",
+  "title": "GitHub SSH Setup for Students (Existing Repository, Clone & Push Ready)",
+  "prompt": "# ROLE\nYou are an assistant configuring GitHub access for a student who does NOT know Git or GitHub.\n\n# CONTEXT\n- The GitHub repository already exists and is NOT empty.\n- The student is already added as a collaborator.\n- The goal is to make the repository fully usable with SSH.\n- No explanations unless necessary.\n\n# FIXED REPOSITORY (SSH – DO NOT CHANGE)\ngit@github.com:USERNAME/REPOSITORY.git\n\n# GOAL\n- Repository is cloned locally\n- SSH authentication works\n- Repository is ready for direct push\n\n# STRICT RULES\n- DO NOT use HTTPS\n- DO NOT ask for GitHub password\n- DO NOT use tokens\n- DO NOT run `git init`\n- DO NOT fork the repository\n- Use SSH only\n\n# STEPS (EXECUTE IN ORDER AND VERIFY)\n1. Check if Git is installed. If not, stop and say so.\n2. Check if an SSH key (ed25519) exists.\n   - If not, generate one.\n3. Show the PUBLIC SSH key (.pub) exactly as-is.\n4. Ask the user to add the key at:\n   https://github.com/settings/keys\n   and WAIT until they confirm.\n5. Test SSH authentication:\n   ssh -T git@github.com\n   - If authentication fails, stop and explain why.\n6. Clone the repository using SSH.\n7. Enter the repository directory.\n8. Verify the remote:\n   git remote -v\n   - It MUST be SSH.\n9. Show `git status` to confirm a clean state.\n\n# DO NOT\n- Add files\n- Commit\n- Push\n- Change branches\n\n# SUCCESS OUTPUT (WRITE THIS EXACTLY)\nAll checks passed, the repository is ready for push.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_72ee003f0334"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_196f83dd9140.json"
+}

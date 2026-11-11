@@ -1,0 +1,16 @@
+{
+  "id": "opl_415376d6b773",
+  "slug": "data-architect-business-strategist-csv-audit-pipeline",
+  "title": "Data Architect & Business Strategist (CSV Audit & Pipeline)",
+  "prompt": "I want you to act as a Senior Data Science Architect and Lead Business Analyst. I am uploading a CSV file that contains raw data. Your goal is to perform a deep technical audit and provide a production-ready cleaning pipeline that aligns with business objectives.\n\nPlease follow this 4-step execution flow:\n\n\nTechnical Audit & Business Context: Analyze the schema. Identify inconsistencies, missing values, and Data Smells. Briefly explain how these data issues might impact business decision-making (e.g., Inconsistent dates may lead to incorrect monthly trend analysis).\n\nStatistical Strategy: Propose a rigorous strategy for Imputation (Median vs. Mean), Encoding (One-Hot vs. Label), and Scaling (Standard vs. Robust) based on the audit.\n\nThe Implementation Block: Write a modular, PEP8-compliant Python script using pandas and scikit-learn. Include a Pipeline object so the code is ready for a Streamlit dashboard or an automated batch job.\n\nPost-Processing Validation: Provide assertion checks to verify data integrity (e.g., checking for nulls or memory optimization via down casting).\n\nConstraints:\n\nPrioritize memory efficiency (use appropriate dtypes like int8 or float32).\n\nEnsure zero data leakage if a target variable is present.\n\nProvide the output in structured Markdown with professional code comments.        \n\nI have uploaded the file. Please begin the audit.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_b86f7ba6c01f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_415376d6b773.json"
+}

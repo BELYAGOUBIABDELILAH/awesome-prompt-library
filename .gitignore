@@ -1,0 +1,32 @@
+node_modules/
+.DS_Store
+*.log
+.env
+
+# Automation workflows & private credentials
+n8n.json
+n18.json
+n8n workflow.json
+
+# Private prompt queue and master collection CSVs (never publish)
+data/master-prompt-candidates.csv
+data/google-sheet-daily-queue.csv
+data/consolidated_prompts.*
+
+# Local audit archives and agent state
+archive/
+.gemini/
+
+# Temporary planning, scratch, and raw asset staging
+plan.md
+privacy.md
+Axiom/
+*.bundle
+*.tmp
+*.bak
+
+# OS and editor artifacts
+Thumbs.db
+*.swp
+*.swo
+*~

@@ -1,0 +1,33 @@
+{
+  "id": "opl_c0a0e2004b94",
+  "slug": "handle-the-bug-in-feature",
+  "title": "Handle the bug in feature",
+  "prompt": "Act as a senior Flutter engineer + GIS/map system expert (ArcGIS-like SDK).\n\n## Context\nI am a non-technical developer using AI to build a map-based app (Flutter + Map SDK).\n\nThis feature involves:\n- Map rendering\n- Layer loading\n- Dynamic property application (styling / behavior)\n\nThere is a bug, and previous AI fixes made the system more complex.\n\nI do NOT understand:\n- How map SDK handles layers internally\n- When properties are applied (before/after render)\n- Full data flow across UI → logic → SDK\n\nYou MUST first explain system clearly before fixing.\n\n---\n\n## Inputs\n\nFeature:\n${feature_description}\n\nExpected Behavior:\n${expected_behavior}\n\nActual Issue:\n${actual_issue}\n\nCode:\n${code_snippet}\n\n---\n\n## Output Format (STRICT)\n\n### 1. Map System Flow (Visual + Layer-Specific)\n\n#### A. Flow Diagram\nProvide a real flow diagram based on the given feature and code, showing:\n- User action\n- UI layer\n- Controller/state handling\n- Layer creation\n- SDK interaction\n- Property application\n- Rendering\n- UI update\n\n---\n\n#### B. Explain Each Stage\nExplain clearly:\n- What happens at each step\n- What data is passed between layers\n- What the SDK is likely doing internally\n\n---\n\n#### C. Critical Timing Points (IMPORTANT)\nIdentify:\n- When the layer is created\n- When data is loaded from source\n- When properties SHOULD be applied relative to SDK lifecycle\n\n---\n\n### 2. Expected Behavior (Map-Specific)\nDefine expected behavior based on inputs:\n- Successful layer load\n- Correct property application\n- Failure scenarios (invalid input, missing data, SDK failure)\n\nIf unclear, ask up to 3 specific questions and STOP.\n\n---\n\n### 3. Current Behavior\nExplain what is actually happening using:\n- The provided issue description\n- The given code\n\n---\n\n### 4. Mismatch (Critical)\nIdentify exactly:\n- Where expected behavior differs from actual behavior\n- Which step in the flow is failing\n\n---\n\n### 5. Root Cause (Precise)\nIdentify the exact reason for the bug:\n- Timing issue\n- Incorrect layer reference\n- State not updating\n- Async handling issue\n\nPoint to specific function, block, or lifecycle stage in the code.\n\nIf unsure, clearly state assumptions.\n\n---\n\n### 6. Minimal Fix (STRICT)\n- Provide the smallest possible change\n- Do NOT rewrite the system\n- Provide ONLY the modified code snippet\n\nFocus on:\n- Fixing timing\n- Correcting data flow\n- Fixing state updates\n\n---\n\n### 7. Why Fix Works\nExplain how the fix resolves the issue:\n- Link it to the system flow\n- Link it to SDK behavior\n- Link it to timing/lifecycle\n\n---\n\n### 8. Map-Specific Risks (IMPORTANT)\nAnalyze:\n- Impact on other layers\n- Performance implications\n- Possible re-render issues\n\n---\n\n### 9. Prevention (Map Architecture)\nSuggest improvements:\n- Better layer lifecycle handling\n- Proper placement of property logic:\n  - Config layer\n  - Renderer\n  - Controller\n\n---\n\n## Constraints\n- Do NOT assume SDK behavior without stating it\n- Do NOT move logic randomly\n- Do NOT add conditions blindly\n- Focus on timing and data flow\n\n---\n\n## Fallback Rule\nIf inputs are insufficient:\n- Ask up to 3 specific questions\n- STOP and wait for clarification\n\n---\n\n## Self-Check\nBefore answering:\n- Did I map the bug to a specific flow step?\n- Did I identify a timing issue if present?\n- Is the fix minimal and scoped?\n- Did I avoid over-engineering?",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "actual_issue",
+      "default": null
+    },
+    {
+      "name": "code_snippet",
+      "default": null
+    },
+    {
+      "name": "expected_behavior",
+      "default": null
+    },
+    {
+      "name": "feature_description",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4613311d5ff9"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0a0e2004b94.json"
+}

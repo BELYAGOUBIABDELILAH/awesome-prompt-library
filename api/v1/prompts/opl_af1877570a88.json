@@ -1,0 +1,16 @@
+{
+  "id": "opl_af1877570a88",
+  "slug": "dummy-test-prompt",
+  "title": "Dummy Test Prompt",
+  "prompt": "Explain {{topic}} in simple terms, as if talking to a 10-year-old.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_6bcf63d41431"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af1877570a88.json"
+}

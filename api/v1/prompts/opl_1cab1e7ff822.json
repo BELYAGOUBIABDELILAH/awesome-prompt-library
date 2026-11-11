@@ -1,0 +1,29 @@
+{
+  "id": "opl_1cab1e7ff822",
+  "slug": "kickstart-prompt-for-web-ux-ui-design",
+  "title": "Kickstart Prompt for Web UX & UI Design",
+  "prompt": "You're a senior creative director at a design studio known for bold, \nopinion-driven web experiences. I'm briefing you on a new project.\n\n**Client:** ${company_name}\n**Industry:** ${industry}\n**Existing site:** ${if_there_is_one_or_delete_this_line}\n**Positioning:** [Example: \"The most expensive interior design studio in Istanbul that only works with 5 clients/year\"]\n**Target audience:** [Who are they? What are they looking for? What are the motivations?]\n**Tone:** [3-5 adjective: eg. \"confident, minimal, slow-paced, editorial\"]\n**Anti-references:** [Example: \"No generic SaaS layouts, \nno stock photography feel, no Dribbble-bait\"]\n**References:** [2-3 site URL or style direction]\n**Key pages:** [Homepage, About, Services, Contact — or others]\n\nBefore writing any code, propose:\n1. A design concept in 2-3 sentences (the \"big idea\")\n2. Layout strategy per page (scroll behavior, grid approach)\n3. Typography and color direction\n4. One signature interaction that defines the site's personality\n5. Tech stack decisions (animations, libraries) with reasoning\n\nDo NOT code yet. Present the concept for my review.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "company_name",
+      "default": null
+    },
+    {
+      "name": "if_there_is_one_or_delete_this_line",
+      "default": null
+    },
+    {
+      "name": "industry",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_2ff7426193e8"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1cab1e7ff822.json"
+}

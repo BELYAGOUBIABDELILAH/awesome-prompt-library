@@ -1,0 +1,16 @@
+{
+  "id": "opl_a2ddde78a719",
+  "slug": "split-word-rejoin",
+  "title": "Split Word Rejoin",
+  "prompt": "Remove the - character and restore the split words in the markdown content.",
+  "category": "Games & Fun",
+  "folder": "games-fun",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_ed77f68824c0"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2ddde78a719.json"
+}

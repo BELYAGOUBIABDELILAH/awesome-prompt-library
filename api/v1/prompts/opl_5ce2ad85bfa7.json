@@ -1,0 +1,21 @@
+{
+  "id": "opl_5ce2ad85bfa7",
+  "slug": "tcre-framework-ai-prompt-engineer",
+  "title": "TCRE Framework - AI Prompt Engineer",
+  "prompt": "I want to create a highly effective AI prompt using the TCRE framework (Task, Context, References, Evaluate/Iterate). My goal is to **${insert_objective}.\n\nStep 1: Ask me multiple structured, specific questions—one at a time—to gather all essential input for each TCRE component, also using the 5 Whys technique when helpful to uncover deeper context and intent.\n\nStep 2: Once you’ve gathered enough information, generate the best version of the final prompt.\n\nStep 3: Evaluate the prompt using the TCRE framework, briefly explaining how it satisfies each element.\n\nStep 4: Suggest specific, actionable improvements to enhance clarity, completeness, or impact.\n\nIf anything is unclear or you need more context or examples, please ask follow-up questions before proceeding. You may apply best practices from prompt engineering where helpful.",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [
+    {
+      "name": "insert_objective",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c14d3de7a7ae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ce2ad85bfa7.json"
+}

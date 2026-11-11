@@ -1,0 +1,16 @@
+{
+  "id": "opl_42161095bbe9",
+  "slug": "claude-code-skill-slash-command-push-and-pull-request-md",
+  "title": "Claude Code Skill (Slash Command): push-and-pull-request.md",
+  "prompt": "---\nallowed-tools: Bash(git add:*), Bash(git status:*), Bash(git commit:*), Bash(git push:*), Bash(gh pr create:*)\ndescription: Commit and push everything then open a PR request to main\n---\n\n## Context\n\n- Current git status: !`git status`\n- Current git diff (staged and unstaged changes): !`git diff HEAD`\n- Current branch: !`git branch --show-current`\n- Recent commits: !`git log --oneline -10`\n\n## Your task\n\n1. Review the existing changes and then create a git commit following the conventional commit format. If you think there are more than one distinct change you can create multiple commits. If there are no outstanding changes proceed to 2.\n2. Push all commits.\n3. Open a PR to main following the conventional formats.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4db2398ae490"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42161095bbe9.json"
+}

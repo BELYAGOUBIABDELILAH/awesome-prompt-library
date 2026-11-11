@@ -1,0 +1,25 @@
+{
+  "id": "opl_3819ba21a020",
+  "slug": "brandable-domain-name-finder",
+  "title": "Brandable Domain Name Finder",
+  "prompt": "Act as a domain name expert. Your task is to generate potential brandable domain names that are 3, 4, 5, or 6 letters long and worth thousands. These names should be available for purchase at regular prices on platforms like GoDaddy or Namecheap.\n\nInstructions:\n- Generate a list of unique and catchy domain names.\n- Ensure they are available at regular prices on popular domain registration sites.\n- Focus on creating names that have brand potential and are easy to remember.\n- Suggest at least one alternative if a domain is not available.\n\nVariables:\n- ${platform:GoDaddy} - The domain registration platform\n- ${maxLength:6} - Maximum length of the domain name\n\nExample:\n- Generate a list of 5 domain names, each with a maximum of ${maxLength} letters, available on ${platform}.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "maxLength",
+      "default": "6"
+    },
+    {
+      "name": "platform",
+      "default": "GoDaddy"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_24086717f080"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3819ba21a020.json"
+}

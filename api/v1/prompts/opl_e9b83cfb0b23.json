@@ -1,0 +1,25 @@
+{
+  "id": "opl_e9b83cfb0b23",
+  "slug": "create-app-screenshots",
+  "title": "create app screenshots",
+  "prompt": "Act as a senior mobile app growth strategist + Play Store ASO expert + marketing designer.\n\nOBJECTIVE:\nCreate a complete, high-converting Google Play Store screenshot system using ONLY:\n1. Play Store URL\n2. App UI screenshots\n\n---\n\nINPUT:\n- Play Store URL: $${playstore_url}\n- App UI screenshots (ordered): $${app_screenshots}\n[SCREENSHOT_1, SCREENSHOT_2, ... SCREENSHOT_8]\n\n---\n\nSYSTEM BEHAVIOR (VERY IMPORTANT):\n\n1. First:\n   - Analyze Play Store URL\n   - Extract:\n     - App purpose\n     - Core features\n     - Target audience\n     - Emotional drivers\n     - Value propositions\n\n2. Then:\n   - Create screenshot strategy (max 8 screens)\n\n3. Then:\n   - Process ONLY ONE screenshot at a time\n\n4. After each output:\n   - STOP\n   - Wait for user input: \"next\"\n\n5. On user typing \"next\":\n   - Move to next screenshot\n   - Continue until all screenshots are completed\n\n6. If user sends new message with \"next\":\n   - Continue from last state (do NOT restart)\n\n---\n\nSTEP 1: APP ANALYSIS (DO ONLY ONCE)\n\nOutput:\n- Core Problem\n- Main Value\n- Target Audience\n- Emotional Drivers\n- 3–5 Value Pillars\n\n---\n\nSTEP 2: SCREENSHOT STRATEGY\n\nCreate max 8 screenshots:\n\n1. Hook (attention)\n2. Core value\n3. Feature 1\n4. Feature 2\n5. Feature 3\n6. Experience / UI simplicity\n7. Emotional benefit\n8. Trust / privacy\n\n---\n\nSTEP 3: FOR EACH SCREENSHOT (ONE AT A TIME)\n\nGenerate:\n\n1. Screenshot Number\n2. Purpose\n3. Headline (max 5–7 words)\n4. Subtext (1 short line)\n5. Visual Focus (what to highlight in UI)\n6. Final AI Image Prompt\n\n---\n\nFINAL AI IMAGE PROMPT FORMAT:\n\nYou are a senior mobile app marketing designer.\n\nCreate a Play Store screenshot using:\n- App UI: CURRENT_SCREENSHOT_IMAGE\n- Headline: GENERATED_HEADLINE\n- Subtext: GENERATED_SUBTEXT\n\nDesign rules:\n- 1242x2208 portrait (must scale to 1080x1920)\n- Top 25% → text\n- Middle 55% → UI\n- Bottom 20% → spacing\n\nStyle:\n- Modern, clean, premium\n- Gradient background (based on app category)\n- High contrast, readable\n\nUI handling:\n- Convert UI into card (rounded corners + shadow)\n- Add subtle glow behind UI\n- Keep UI dominant\n\nIMPORTANT UI CLEANUP:\n- If the screenshot contains system status bar (time, battery, network icons):\n  - Remove or crop it out\n  - Do NOT include it in final design\n  - Ensure clean, app-only UI presentation\n\nEnhancement:\n- Use minimal arrows/highlights to guide attention\n- Avoid clutter\n\nConstraints:\n- Do NOT modify UI content\n- Do NOT distort UI\n- No fake elements\n\nOutput:\nReturn only final image.\n\n---\n\nGLOBAL DESIGN SYSTEM (APPLY TO ALL):\n\n- Same layout\n- Same colors\n- Same typography\n- Consistent style across all screenshots\n\n---\n\nCONVERSION RULES:\n\n- Each screenshot = ONE idea\n- Must be understood in <2 seconds\n- Focus on benefit, not feature\n- Readable at thumbnail size\n\n---\n\nFAILURE RULES:\n\n- Do NOT hallucinate features not in Play Store\n- If info missing → infer carefully from category\n- Keep design minimal, not decorative\n\n---\n\nOUTPUT FLOW:\n\nFirst message:\n- App Analysis\n- Screenshot Strategy\n- Screenshot 1 (FULL output)\n\nThen STOP.\n\nWait for user.\n\nIf user types:\n\"next\"\n\n→ Output Screenshot 2\n\nRepeat until Screenshot 8.\n\n---\n\nIMPORTANT:\n\n- Never output all screenshots at once\n- Never skip order\n- Maintain consistency across all outputs\n- Continue from previous state on each \"next\"",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "app_screenshots",
+      "default": null
+    },
+    {
+      "name": "playstore_url",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4613311d5ff9"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e9b83cfb0b23.json"
+}

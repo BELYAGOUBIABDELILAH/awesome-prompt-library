@@ -1,0 +1,16 @@
+{
+  "id": "opl_2bd56bd12575",
+  "slug": "code-generation-for-online-assessments",
+  "title": "code generation for online assessments",
+  "prompt": "SOLVE THE QUESTION IN CPP, USING NAMESPACE STD, IN A SIMPLE BUT HIGHLY EFFICIENT WAY, AND PROVIDE IT WITH THIS RESTYLING:\nno comments, no space between operator and operand but proper margin and indentation, brackets open on the next line always and do not forget to rename variables as short as possible, possibly alphabets",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3881d122502b"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2bd56bd12575.json"
+}

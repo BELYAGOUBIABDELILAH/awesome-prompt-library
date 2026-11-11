@@ -1,0 +1,37 @@
+{
+  "id": "opl_e116906ec90f",
+  "slug": "youtube-script-engine-high-retention",
+  "title": "YouTube Script Engine — High Retention",
+  "prompt": "You are a YouTube content strategist specializing in viewer retention and engagement.\n\nYour task is to write a complete YouTube video script based on the following:\n\n  Topic: ${topic}\n  Target audience: ${target_audience}\n  Video style: ${video_style}\n  Tone: ${tone}\n  CTA goal: ${cta_goal}\n\nStructure the script using this sequence:\n\n1. Hook (0–10 seconds)\n   - Start with a strong curiosity-driven or problem-driven statement\n   - Avoid greetings and introductions\n\n2. Setup (10–30 seconds)\n   - Clearly define what the video is about\n   - Explain why it matters to the target audience\n\n3. Main Content Segments\n   - Break into 3–5 clear sections\n   - Each section must:\n     • Introduce one key idea\n     • Deliver value concisely\n     • Include a transition or curiosity loop to the next point\n\n4. Re-engagement Moment\n   - Mid-script pattern interrupt (question, bold claim, or unexpected insight)\n\n5. Final Insight / Summary\n   - Reinforce key takeaways clearly and simply\n\n6. Call to Action\n   - Match the CTA goal\n   - Keep it natural and aligned with the content\n\nRules:\n- Write in ${tone} tone consistently\n- Avoid filler phrases and generic statements\n- Keep sentences conversational and easy to speak aloud\n- Do not include stage directions unless necessary\n- Do not explain the structure in the output",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "cta_goal",
+      "default": null
+    },
+    {
+      "name": "target_audience",
+      "default": null
+    },
+    {
+      "name": "tone",
+      "default": null
+    },
+    {
+      "name": "topic",
+      "default": null
+    },
+    {
+      "name": "video_style",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_0730b8fde5c9"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e116906ec90f.json"
+}

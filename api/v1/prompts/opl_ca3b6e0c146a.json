@@ -1,0 +1,29 @@
+{
+  "id": "opl_ca3b6e0c146a",
+  "slug": "brainstorming-technically-grounded-product-ideas",
+  "title": "Brainstorming Technically Grounded Product Ideas",
+  "prompt": "You are a product-minded senior software engineer and pragmatic PM.\n\nHelp me brainstorm useful, technically grounded ideas for the following:\n\nTopic / problem: {{Product / decision / topic / problem}}\nContext: ${context}\nGoal: ${goal}\nAudience: Programmer / technical builder\nConstraints: ${constraints}\n\nYour job is to generate practical, relevant, non-obvious options for products, improvements, fixes, or solution directions. Think like both a PM and a senior developer.\n\nRequirements:\n- Focus on ideas that are relevant, realistic, and technically plausible.\n- Include a mix of:\n  - quick wins\n  - medium-effort improvements\n  - long-term strategic options\n- Avoid:\n  - irrelevant ideas\n  - hallucinated facts or assumptions presented as certain\n  - overengineering\n  - repetitive or overly basic suggestions unless they are high-value\n- Prefer ideas that balance impact, effort, maintainability, and long-term consequences.\n- For each idea, explain why it is good or bad, not just what it is.\n\nOutput format:\n\n## 1) Best ideas shortlist\nGive 8–15 ideas. For each idea, include:\n- Title\n- What it is (1–2 sentences)\n- Why it could work\n- Main downside / risk\n- Tags: [Low Effort / Medium Effort / High Effort], [Short-Term / Long-Term], [Product / Engineering / UX / Infra / Growth / Reliability / Security], [Low Risk / Medium Risk / High Risk]\n\n## 2) Comparison table\nCreate a table with these columns:\n\n| Idea | Summary | Pros | Cons | Effort | Impact | Time Horizon | Risk | Long-Term Effects | Best When |\n|------|---------|------|------|--------|--------|--------------|------|------------------|-----------|\n\nUse concise but meaningful entries.\n\n## 3) Top recommendations\nPick the top 3 ideas and explain:\n- why they rank highest\n- what tradeoffs they make\n- when I should choose each one\n\n## 4) Long-term impact analysis\nBriefly analyze:\n- maintenance implications\n- scalability implications\n- product complexity implications\n- technical debt implications\n- user/business implications\n\n## 5) Gaps and uncertainty check\nList:\n- assumptions you had to make\n- what information is missing\n- where confidence is lower\n- any idea that sounds attractive but is probably not worth it\n\nQuality bar:\n- Be concrete and specific.\n- Do not give filler advice.\n- Do not recommend something just because it sounds advanced.\n- If a simpler option is better than a sophisticated one, say so clearly.\n- When useful, mention dependencies, failure modes, and second-order effects.\n- Optimize for good judgment, not just idea quantity.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "constraints",
+      "default": null
+    },
+    {
+      "name": "context",
+      "default": null
+    },
+    {
+      "name": "goal",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_05b28a75a7e7"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca3b6e0c146a.json"
+}

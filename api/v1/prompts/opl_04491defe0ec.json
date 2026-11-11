@@ -1,0 +1,16 @@
+{
+  "id": "opl_04491defe0ec",
+  "slug": "notion-transcript-designer-prompt",
+  "title": "Notion Transcript Designer Prompt",
+  "prompt": "INPUT\n\nTranscript text:\n[PASTE OTTER.AI TRANSCRIPT HERE]\n\nOUTPUT REQUIREMENTS\n\nGenerate a Notion-style page with these features:\n\n1. Design Elements\nInclude a sleek, stylish design with a bright yet unified appearance\nApply a consistent visual hierarchy system (headings, separators, whitespace)\nPropose a gentle color scheme using emojis, highlights, and styles (Notion only)\nMaintain readability and visual balance\n2. Content Structure\n\nArrange the material in a structured manner like this:\n\n🧭 Overview/Summary\n📌 Key Themes\n🧠 Insights/Takeaways\n🗂️ Notes (by topic/section/time if necessary)\n🚀 Action Points/Next Steps\n❓ Outstanding Questions/Open Issues (as needed)\n\nCustomize the section headings as appropriate for the transcript.\n\n3. Formatting Conventions\nEmploy headings (H1, H2, H3) for organization purposes\nLeverage bullet points for clarity and easy skimming\nEmphasize important points with highlights or bolding\nBreak down lengthy passages into smaller units\nIncorporate strategic emojis where possible for navigation aid and tone setting\n4. Clarity & Enhancement\nTransform chaotic transcript text into professional language without changing facts\nEliminate redundancies and irrelevant information\nCluster relevant information systematically\nEnhance fluidity and consistency without introducing new information\n5. Deliverables\n\nSubmit solely the Notion-ready page content to be pasted into Notion (nothing else).",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4f602c10c7aa"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04491defe0ec.json"
+}

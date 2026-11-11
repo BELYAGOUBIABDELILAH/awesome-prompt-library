@@ -1,0 +1,16 @@
+{
+  "id": "opl_37bd4411833e",
+  "slug": "game-design",
+  "title": "Game design",
+  "prompt": "Prompt:\n\"Act as a Lead System Designer. I want to design a [System Name, e.g., Weapon Resonance System].\n​Inputs: > - Genre: [e.g., Action RPG]\n​Player Goal: [e.g., Vertical Power Progression]\n​Task: > Please provide a structural design covering:\n​Primary Loop: How players interact with this system daily.\n​System Constraints: Resource sinks and fountains.\n​Interconnectivity: How this system feeds into the [Combat/Economy] system.\n​Scalability: How to add new content to this system in the next 2 years without breaking balance.\"",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_92069238d2ec"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37bd4411833e.json"
+}

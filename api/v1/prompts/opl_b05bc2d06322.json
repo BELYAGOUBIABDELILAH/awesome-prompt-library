@@ -1,0 +1,21 @@
+{
+  "id": "opl_b05bc2d06322",
+  "slug": "test",
+  "title": "test",
+  "prompt": "---\nname: test\ndescription: A clear description of what this skill does and when to use it\n---\n\n# test\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...\n\n${名称}",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "名称",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_710b920e7400"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b05bc2d06322.json"
+}

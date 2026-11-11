@@ -1,0 +1,16 @@
+{
+  "id": "opl_6a1c43a06672",
+  "slug": "aa-cli-taste",
+  "title": "aa/cli taste",
+  "prompt": "# Cli taste of AA\n- Use pnpm as the package manager for CLI projects. Confidence: 1.00\n- Use TypeScript for CLI projects. Confidence: 0.95\n- Use tsup as the build tool for CLI projects. Confidence: 0.95\n- Use vitest for testing CLI projects. Confidence: 0.95\n- Use Commander.js for CLI command handling. Confidence: 0.95\n- Use clack for interactive user input in CLI projects. Confidence: 0.95\n- Check for existing CLI name conflicts before running npm link. Confidence: 0.95\n- Organize CLI commands in a dedicated commands folder with each module separated. Confidence: 0.95\n- Include a small 150px ASCII art welcome banner displaying the CLI name. Confidence: 0.95\n- Use lowercase flags for version and help commands (-v, --version, -h, --help). Confidence: 0.85\n- Start projects with version 0.0.1 instead of 1.0.0. Confidence: 0.85\n- Version command should output only the version number with no ASCII art, banner, or additional information. Confidence: 0.90\n- Read CLI version from package.json instead of hardcoding it in the source code. Confidence: 0.75\n- Always use ora for loading spinners in CLI projects. Confidence: 0.95\n- Use picocolors for terminal string coloring in CLI projects. Confidence: 0.90\n- Use Ink for building interactive CLI UIs in CommandCode projects. Confidence: 0.80\n- Use ink-spinner for loading animations in Ink-based CLIs. Confidence: 0.70\n- Hide internal flags from help: .addOption(new Option('--local').hideHelp()). Confidence: 0.90\n- Use pnpm.onlyBuiltDependencies in package.json to pre-approve native binary builds. Confidence: 0.60\n- Use ANSI Shadow font for ASCII art at large terminal widths and ANSI Compact for small widths. Confidence: 0.85\n- Use minimal white, gray, and black colors for ASCII art banners. Confidence: 0.85\n- Check if package is publishable using `npx can-i-publish` before building or publishing. Confidence: 0.85",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_8ae357691d22"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a1c43a06672.json"
+}

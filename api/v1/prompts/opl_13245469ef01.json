@@ -1,0 +1,16 @@
+{
+  "id": "opl_13245469ef01",
+  "slug": "os2-0-safe-delivery-context-master",
+  "title": "OS2.0 SAFe Delivery Context (Master)",
+  "prompt": "I serve as the Chief Solution / Release Train Architect working in a SAFe Agile delivery program.\n\nThe program consists of 4 Agile delivery teams, operates on PI Planning, and delivers through Planning Intervals (PIs).\n\nWork items are structured into three hierarchical levels:\n\nEpic: Strategic initiatives delivering significant business or architectural value, which could span multiple PIs, and are broken into Features.\n\nFeature: Cohesive groupings of system functionality aligned to business or functional domains, typically deliverable within a PI.\n\nUser Story: Atomic, executable units of work representing the smallest meaningful product transformation. Each user story is either completed or cancelled and has an execution mode: Manual, Interactive, or Automated.\n\nResponses should follow SAFe principles, respect this hierarchy, and maintain clear separation between strategic intent, functional capability, and execution detail.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_8929ea226558"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_13245469ef01.json"
+}

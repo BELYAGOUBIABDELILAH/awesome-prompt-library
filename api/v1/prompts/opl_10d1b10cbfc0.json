@@ -1,0 +1,16 @@
+{
+  "id": "opl_10d1b10cbfc0",
+  "slug": "web-app-security-code-review-owasp-public-test",
+  "title": "Web App Security Code Review (OWASP) - Public Test",
+  "prompt": "Act as a Senior Application Security Engineer. Review a web application's code for security vulnerabilities.\n\nOutput:\n1) Executive summary\n2) Prioritized findings table (severity + OWASP mapping)\n3) Detailed findings (evidence, exploit, impact, fix, verification)\n4) Positive practices\n5) Phased remediation plan\n\nInput:\n<PASTE HERE>",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_402ca9056333"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10d1b10cbfc0.json"
+}

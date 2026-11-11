@@ -1,0 +1,16 @@
+{
+  "id": "opl_7fc08efed29b",
+  "slug": "improve-documentation-wording-and-fix-github-link",
+  "title": "Improve documentation wording and fix GitHub link",
+  "prompt": "Act as a technical documentation reviewer\n\nReview the text I provide and identify:\n\nGrammar and spelling errors\nBroken or incorrect links\nUnclear or awkward wording\nConsistency issues\nFormatting improvements\n\nProvide specific suggestions and explain why each change improves the documentation.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_951dec2d9b21"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7fc08efed29b.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_cd180c361748",
+  "slug": "3d-kinetic-ball-simulation",
+  "title": "3D Kinetic Ball Simulation",
+  "prompt": "I want you to act as an expert front-end game engineer specializing in single-file HTML5 games. Your task is to produce a SINGLE FILE (index.html) implementation of a 3D Kinetic Bounce Arena.\n\nGAME SPEC:\n\nTitle: Kinetic Bounce Arena\n\nCore mechanic: Launch a glowing sphere into a rotating 3D cylinder container filled with 25 smaller physics-driven particles.\n\nGoal: Keep the main sphere bouncing by adjusting the container's tilt via mouse movement.\n\nTECH REQUIREMENTS:\n\nSingle file: <!doctype html> with inline <style> and <script> using p5.js (loaded via CDN).\n\nRendering: WebGL mode in p5.js, 600x600 canvas centered on page.\n\nPhysics: Implement 3D bounding box collision detection for the cylinder walls and sphere-to-particle momentum transfer. Particles must leave fading colorful motion trails.\n\nDesign style: Dark synthwave aesthetic with emissive neon materials, glowing particle vectors, and smooth automatic camera zoom scaling.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd180c361748.json"
+}

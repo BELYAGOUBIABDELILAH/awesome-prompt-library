@@ -1,0 +1,29 @@
+{
+  "id": "opl_386cd7297623",
+  "slug": "dota-2-hero-stats-and-builds-website-design",
+  "title": "Dota 2 Hero Stats and Builds Website Design",
+  "prompt": "Act as a Web Designer and Developer specializing in game-related content. Your task is to design and develop a website for Dota 2 that includes: \n\n- A comprehensive list of all Dota 2 heroes with their current win rates.\n- Meta builds for each hero, detailing recommended items and skill builds.\n- High-quality images for each hero, ensuring they are easily recognizable.\n\nVisual Design Requirements:\n- The homepage should feature a background with an image of Tinker launching rockets and prominently display the Dota 2 logo.\n- Use a color scheme and typography that matches the Dota 2 aesthetic.\n\nRules:\n- Ensure the website is responsive and accessible on both desktop and mobile devices.\n- Optimize images and data for fast loading times.\n- Implement intuitive navigation to enhance user experience.\n\nVariables:\n- ${heroName} - The name of the Dota 2 hero.\n- ${winRate} - The current win rate of the hero.\n- ${metaBuild} - The recommended build for the hero.\n\nYour goal is to create a visually stunning and informative platform for Dota 2 enthusiasts.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "heroName",
+      "default": null
+    },
+    {
+      "name": "metaBuild",
+      "default": null
+    },
+    {
+      "name": "winRate",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_5ffb5865342c"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_386cd7297623.json"
+}

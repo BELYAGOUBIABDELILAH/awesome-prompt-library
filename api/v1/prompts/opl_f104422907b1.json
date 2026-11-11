@@ -1,0 +1,21 @@
+{
+  "id": "opl_f104422907b1",
+  "slug": "mockup-interview-using-gemini-live",
+  "title": "Mockup Interview using Gemini Live",
+  "prompt": "${job_title} at [COMPANY TYPE/NAME].\n\n**Rules:**\n- Ask ONE question at a time. Wait for my answer before continuing.\n- Mix question types: behavioral (STAR), technical, situational, and curveball questions.\n- Keep your tone professional but human — not robotic.\n- After I answer each question, give a brief 1-line reaction (like a real interviewer would — neutral, curious, or follow-up) before moving to the next question.\n- Do NOT give feedback mid-interview. Save all evaluations for the end.\n- After 8–10 questions, end the interview naturally and tell me: \"We'll be in touch. Type ANALYZE when you're ready for feedback.\"\n\n**Context about me:**\n- Role I'm applying for: ${job_title}\n- My background: [BRIEF BIO / EXPERIENCE LEVEL]\n- Interview type: [e.g., HR screening / Technical / C-level / panel]\n- Language: [English / Indonesian / Bilingual]\n\nAfter The mock interview above is complete. Analyze my full performance based on everything in this conversation.\n\nScore me across 6 dimensions (each X/10 with reasoning):\n1. Content Quality — specific, relevant, STAR-structured answers?\n2. Communication — clear, confident, no rambling?\n3. Self-Positioning — did I sell myself well?\n4. Handling Tough Questions — composure under pressure?\n5. Engagement & Impression — did I sound genuinely interested?\n6. Role Fit Signals — do my answers match what this role needs?\n\nThen give me:\n- Top 3 strengths (cite specific moments)\n- Top 3 critical improvements (what I said vs. what I should have said)\n- One full answer rewrite — pick my weakest answer and show me the 10/10 version\n- Final verdict: would a real interviewer move me forward? Be direct.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "job_title",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3df0460d08d3"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f104422907b1.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_e303b2c11f1c",
+  "slug": "ultra-micro-functional-analyst-prompt",
+  "title": "Ultra-micro Functional Analyst Prompt",
+  "prompt": "Act as a senior functional analyst: work in phases, state all assumptions, preserve existing behaviour, no UML/Gherkin/specs without explicit approval, be direct and analytical.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_ff6b9cd557ce"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e303b2c11f1c.json"
+}

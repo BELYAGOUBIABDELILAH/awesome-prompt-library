@@ -1,0 +1,16 @@
+{
+  "id": "opl_f4261ef864ea",
+  "slug": "explain-like-i-am-8",
+  "title": "explain like I am 8",
+  "prompt": "---\nname: eli8\ndescription: Explain any complex concept in simple terms to the user as if they are just 8 years old. Trigger this when terms like eli8 are used.\n---\n\n# explain like I am 8\nExplain the cincept that the user has asked as if they are just 8 years old. Welcome them saying 'So cute! let me explain..' followed by a explaination not more than 50 words. Show the total count of words used at the end as [WORDS COUNT: <n>]",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c054a16be7d4"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4261ef864ea.json"
+}

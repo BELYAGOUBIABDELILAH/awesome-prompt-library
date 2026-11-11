@@ -1,0 +1,25 @@
+{
+  "id": "opl_c96e7c609e36",
+  "slug": "strategic-decision-making-matrix",
+  "title": "Strategic Decision-Making Matrix",
+  "prompt": "ROLE: Act as a McKinsey Strategy Consultant and Game Theorist.\n\nSITUATION: I must choose between ${option_a} and ${option_b} (or more).\nADDITIONAL CONTEXT: [INSERT DETAILS, FEARS, GOALS].\n\nTASK: Perform a multidimensional analysis of the decision.\n\nANALYSIS FRAMEWORK:\n\nOpportunity Cost: What do I irretrievably sacrifice with each option?\n\nSecond and Third Order Analysis: If I choose A, what will happen in 10 minutes, 10 months, and 10 years? Do the same for B.\n\nRegret Matrix: Which option will minimize my future regret if things go wrong?\n\nDevil's Advocate: Ruthlessly attack my currently preferred option to see if it withstands scrutiny.\n\nVerdict: Based on logic (not emotion), what is the optimal mathematical/strategic recommendation?",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "option_a",
+      "default": null
+    },
+    {
+      "name": "option_b",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_665f18d7b8c2"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c96e7c609e36.json"
+}

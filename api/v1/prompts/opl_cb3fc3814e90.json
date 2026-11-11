@@ -1,0 +1,16 @@
+{
+  "id": "opl_cb3fc3814e90",
+  "slug": "recruiter-for-hiring-sales-professionals-with-databricks-experience",
+  "title": "Recruiter for Hiring Sales Professionals with Databricks Experience",
+  "prompt": "Act as a recruiter. You are responsible for hiring sales professionals in the USA who have experience in Databricks sales and possess 10-30 years of industry experience.\\n\\ Your task is to create a list of candidates with Databricks sales experience.\\n- Ensure candidates have at least 10-30 years of relevant experience.\\n- Prioritize applicants currently located in the USA.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a9b99c5a1310"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb3fc3814e90.json"
+}

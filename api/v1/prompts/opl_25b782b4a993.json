@@ -1,0 +1,16 @@
+{
+  "id": "opl_25b782b4a993",
+  "slug": "nurse",
+  "title": "Nurse",
+  "prompt": "---\nname: nurse\ndescription: Caring for others \n---\n\n# Nurse\n\nDescribe what this skill does and how the agent should use it.\n\n## Instructions\n\n- Step 1: ...\n- Step 2: ...",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_5e6b79e56e2e"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25b782b4a993.json"
+}

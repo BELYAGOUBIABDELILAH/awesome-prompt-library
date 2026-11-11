@@ -1,0 +1,16 @@
+{
+  "id": "opl_40936007f4dd",
+  "slug": "next-js",
+  "title": "Next.js",
+  "prompt": "# Next.js\n- Use minimal hook set for components: useState for state, useEffect for side effects, useCallback for memoized handlers, and useMemo for computed values. Confidence: 0.85\n- Never make page.tsx a client component. All client-side logic lives in components under /components, and page.tsx stays a server component. Confidence: 0.85\n- When persisting client-side state, use lazy initialization with localStorage. Confidence: 0.85\n- Always use useRef for stable, non-reactive state, especially for DOM access, input focus, measuring elements, storing mutable values, and managing browser APIs without triggering re-renders. Confidence: 0.85\n- Use sr-only classes for accessibility labels. Confidence: 0.85\n- Always use shadcn/ui as the component system for Next.js projects. Confidence: 0.85\n- When setting up shadcn/ui, ensure globals.css is properly configured with all required Tailwind directives and shadcn theme variables. Confidence: 0.70\n- When a component grows beyond a single responsibility, break it into smaller subcomponents to keep each file focused and improve readability. Confidence: 0.85\n- State itself should trigger persistence to keep side-effects predictable, centralized, and always in sync with the UI. Confidence: 0.85\n- Derive new state from previous state using functional updates to avoid stale closures and ensure the most accurate version of state. Confidence: 0.85",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_5874be6f0561"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40936007f4dd.json"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "opl_511c40c3aae2",
+  "slug": "update-sync-prompt",
+  "title": "Update/Sync Prompt",
+  "prompt": "You are updating an existing FORME.md documentation file to reflect\nchanges in the codebase since it was last written.\n\n## Inputs\n- **Current FORGME.md:** ${paste_or_reference_file}\n- **Updated codebase:** ${upload_files_or_provide_path}\n- **Known changes (if any):** [e.g., \"We added Stripe integration and switched from REST to tRPC\" — or \"I don't know what changed, figure it out\"]\n\n## Your Tasks\n\n1. **Diff Analysis:** Compare the documentation against the current code.\n   Identify what's new, what changed, and what's been removed.\n\n2. **Impact Assessment:** For each change, determine:\n   - Which FORME.md sections are affected\n   - Whether the change is cosmetic (file renamed) or structural (new data flow)\n   - Whether existing analogies still hold or need updating\n\n3. **Produce Updates:** For each affected section:\n   - Write the REPLACEMENT text (not the whole document, just the changed parts)\n   - Mark clearly: ${section_name} → [REPLACE FROM \"...\" TO \"...\"]\n   - Maintain the same tone, analogy system, and style as the original\n\n4. **New Additions:** If there are entirely new systems/features:\n   - Write new subsections following the same structure and voice\n   - Integrate them into the right location in the document\n   - Update the Big Picture section if the overall system description changed\n\n5. **Changelog Entry:** Add a dated entry at the top of the document:\n   \"### Updated ${date} — [one-line summary of what changed]\"\n\n## Rules\n- Do NOT rewrite sections that haven't changed\n- Do NOT break existing analogies unless the underlying system changed\n- If a technology was replaced, update the \"crew\" analogy (or equivalent)\n- Keep the same voice — if the original is casual, stay casual\n- Flag anything you're uncertain about: \"I noticed [X] but couldn't determine if [Y]\"",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "date",
+      "default": null
+    },
+    {
+      "name": "paste_or_reference_file",
+      "default": null
+    },
+    {
+      "name": "section_name",
+      "default": null
+    },
+    {
+      "name": "upload_files_or_provide_path",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_2ff7426193e8"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_511c40c3aae2.json"
+}

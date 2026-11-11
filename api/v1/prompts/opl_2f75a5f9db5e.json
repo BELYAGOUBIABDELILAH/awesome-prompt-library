@@ -1,0 +1,25 @@
+{
+  "id": "opl_2f75a5f9db5e",
+  "slug": "angular-directive-generator",
+  "title": "Angular Directive Generator",
+  "prompt": "You are an expert Angular developer. Generate a complete Angular directive based on the following description:\n\nDirective Description: ${description}\nDirective Type: [structural | attribute]\nSelector Name: [e.g. appHighlight, *appIf]\nInputs needed: [list any @Input() properties]\nTarget element behavior: ${what_should_happen_to_the_host_element}\n\nGenerate:\n1. The full directive TypeScript class with proper decorators\n2. Any required imports\n3. Host bindings or listeners if needed\n4. A usage example in a template\n5. A brief explanation of how it works\n\nUse Angular 17+ standalone directive syntax. Follow Angular style guide conventions.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "description",
+      "default": null
+    },
+    {
+      "name": "what_should_happen_to_the_host_element",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_dacf8cde6bca"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f75a5f9db5e.json"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "opl_34d44d6b02cf",
+  "slug": "email-sequence-with-storytelling",
+  "title": "EMAIL SEQUENCE WITH STORYTELLING",
+  "prompt": "Product: ${offer} | Avatar: ${customer} | Timing: 24-48h\n\n🔵 EMAIL 1: WELCOME\nSubject: \"Your ${lead_magnet} is ready + something unexpected\"\n├─ Immediate value delivery\n├─ Set expectations (what they'll receive and when)\n├─ Personal intro (who you are, why this matters)\n└─ Micro-ask: \"Reply with your biggest challenge in [topic]\"\n\n🟢 EMAIL 2: ORIGIN STORY\nSubject: \"How I went from ${point_a} to ${point_b}\"\n├─ Your transformation: problem → rock bottom → turning point\n├─ Connect with their current situation\n├─ Introduce unique framework\n└─ Soft CTA: Read complete case study\n\n🟡 EMAIL 3: EDUCATION\nSubject: \"[N] mistakes costing you $[X] in [topic]\"\n├─ Common mistake + why it happens + consequences\n├─ Correction + expected outcome\n├─ Repeat 2-3x\n└─ CTA: \"Want help? Schedule a call\"\n\n🟠 EMAIL 4: SOCIAL PROOF\nSubject: \"How ${customer} achieved ${result} in ${timeframe}\"\n├─ Case study: initial situation → process → results\n├─ Objections they had (same as reader's)\n├─ What convinced them\n└─ Direct CTA: \"Get the same results\"\n\n🔴 EMAIL 5: MECHANISM REVEAL\nSubject: \"The exact system behind [result]\"\n├─ Reveal unique methodology (name the framework)\n├─ Why it's different/superior\n├─ Tease your offer\n└─ CTA: \"Access the complete system\"\n\n🟣 EMAIL 6: OBJECTIONS + URGENCY\nSubject: \"Still not sure? Read this\"\n├─ Top 3 objections addressed directly\n├─ Guarantee or risk-reversal\n├─ Real scarcity (cohort closes, bonus expires)\n└─ Urgent CTA: \"Last chance - closes in 24h\"\n\n⚫️ EMAIL 7: LAST OPPORTUNITY\nSubject: \"${name}, this ends today\"\n├─ Value recap (transformation bullets)\n├─ \"If it's not for you, that's okay - but...\"\n├─ Future vision (act now vs don't act)\n├─ Final CTA + non-buyer contingency\n└─ Transition: \"You'll keep receiving value...\"\n\nTARGET METRICS:\n├─ Open rate: 40-50%\n├─ Click rate: 8-12%\n├─ Reply rate: 5-10%\n└─ Conversion: 3-7% (emails 5-6)",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "customer",
+      "default": null
+    },
+    {
+      "name": "lead_magnet",
+      "default": null
+    },
+    {
+      "name": "name",
+      "default": null
+    },
+    {
+      "name": "offer",
+      "default": null
+    },
+    {
+      "name": "point_a",
+      "default": null
+    },
+    {
+      "name": "point_b",
+      "default": null
+    },
+    {
+      "name": "result",
+      "default": null
+    },
+    {
+      "name": "timeframe",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_665f18d7b8c2"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34d44d6b02cf.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_0e070efaf03a",
+  "slug": "analyze-chat-history-with-user",
+  "title": "Analyze Chat History With User",
+  "prompt": "I'd like you to analyze this file containing all of my chat history with a friend of mine. Please summarize the sentiment of our conversations and list the dominant themes discussed.",
+  "category": "Games & Fun",
+  "folder": "games-fun",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_5a9d4cea35ac"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e070efaf03a.json"
+}

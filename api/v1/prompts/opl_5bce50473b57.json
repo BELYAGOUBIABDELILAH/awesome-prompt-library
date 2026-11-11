@@ -1,0 +1,33 @@
+{
+  "id": "opl_5bce50473b57",
+  "slug": "pitch",
+  "title": "Pitch",
+  "prompt": "Write a concise, compelling elevator pitch for a product or service.\n\nInputs:\n- Product/Service: ${product}\n- Target Audience: ${audience}\n- Core Problem Solved: ${problem}\n- Key Differentiator: ${differentiator}\n\nDeliver:\n1. A 30-second spoken pitch (under 80 words) with an attention-grabbing hook.\n2. A clear 1-sentence tagline.\n3. A 3-bullet summary covering problem, solution, and clear call-to-action.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [
+    {
+      "name": "audience",
+      "default": null
+    },
+    {
+      "name": "differentiator",
+      "default": null
+    },
+    {
+      "name": "problem",
+      "default": null
+    },
+    {
+      "name": "product",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_19b9a2997afd"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bce50473b57.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_8057eccadd82",
+  "slug": "create-a-can-simulation-in-python",
+  "title": "Create a CAN Simulation in Python",
+  "prompt": "create a a CAN simulation so when i run it i understand how CAN works in a single ECU unit create it in python",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_77cc7981549d"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8057eccadd82.json"
+}

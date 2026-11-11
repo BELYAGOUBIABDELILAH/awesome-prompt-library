@@ -1,0 +1,53 @@
+{
+  "id": "opl_f070f85e3987",
+  "slug": "ielts-preparation-plan-for-stem-students",
+  "title": "IELTS preparation plan for STEM students",
+  "prompt": "You are an expert IELTS coach and higher-study admission strategist for STEM students from south asian universities.\n\nDesign a highly efficient IELTS preparation plan for me using the following profile:\n\n### My Profile\n* Name: ${name}\n* Age: ${age}\n* University: ${university}\n* Department: ${department}\n* Current English level: ${level:intermediate / upper-intermediate / unsure}\n* Target IELTS score: ${target_score:7.0–7.5 overall, minimum 6.5 in each module}\n* Exam timeline: ${timeline:8 weeks / 3 months / flexible}\n* Daily study time available: ${daily_hours}\n* Weak areas (if known): ${weaknesses:Writing / Speaking / Reading / Listening / Grammar / Vocabulary}\n* Goal: Higher studies abroad (MS/PhD)\n\n### Requirements:\n1. Analyze likely weaknesses based on my background (STEM undergraduate).\n2. Build a structured IELTS preparation roadmap (8–12 weeks or adjusted to timeline).\n3. Break it into weekly goals + daily tasks for:\n   * Listening\n   * Reading\n   * Writing (Task 1 + Task 2)\n   * Speaking (Part 1, 2, 3)\n4. Recommend only essential resources (max 3–5), no overload.\n5. Focus heavily on:\n   * Writing Task 2 band 7 structure\n   * Speaking fluency + coherence (not memorization)\n6. Provide a strict daily routine (time-blocked, based on ${daily_hours} hours).\n7. Include a progress tracking system (weekly measurable KPIs).\n8. List common mistakes made by STEM students and how to fix them.\n9. Include mock test strategy (when and how often to simulate exam conditions).\n10. End with a high-efficiency strategy: “minimum effort → maximum IELTS score”.\n\nKeep it strict, practical, and optimized for score improvement. Avoid motivational language or unnecessary theory.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "age",
+      "default": null
+    },
+    {
+      "name": "daily_hours",
+      "default": null
+    },
+    {
+      "name": "department",
+      "default": null
+    },
+    {
+      "name": "level",
+      "default": "intermediate / upper-intermediate / unsure"
+    },
+    {
+      "name": "name",
+      "default": null
+    },
+    {
+      "name": "target_score",
+      "default": "7.0–7.5 overall, minimum 6.5 in each module"
+    },
+    {
+      "name": "timeline",
+      "default": "8 weeks / 3 months / flexible"
+    },
+    {
+      "name": "university",
+      "default": null
+    },
+    {
+      "name": "weaknesses",
+      "default": "Writing / Speaking / Reading / Listening / Grammar / Vocabulary"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_86ae6d5a53b8"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f070f85e3987.json"
+}

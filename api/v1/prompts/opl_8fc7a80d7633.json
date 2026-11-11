@@ -1,0 +1,16 @@
+{
+  "id": "opl_8fc7a80d7633",
+  "slug": "principled",
+  "title": "Principled",
+  "prompt": "Bias implementation toward the principled long-term solution that reduces maintenance and improves quality. Do not default to the smallest-diff fix.",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_973367426c07"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fc7a80d7633.json"
+}

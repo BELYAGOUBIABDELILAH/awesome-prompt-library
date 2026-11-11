@@ -1,0 +1,21 @@
+{
+  "id": "opl_0381fbbd9733",
+  "slug": "subculture",
+  "title": "subculture",
+  "prompt": "Explain the cultural significance of ${subculture} and its impact on society.",
+  "category": "General",
+  "folder": "general",
+  "variables": [
+    {
+      "name": "subculture",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_f81f03923590"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0381fbbd9733.json"
+}

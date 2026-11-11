@@ -1,0 +1,37 @@
+{
+  "id": "opl_d541ad3979bd",
+  "slug": "research-and-learn-to-become-top-in-your-field-of-knowledge",
+  "title": "research and learn to become top in your field of knowledge",
+  "prompt": "Act as you are an expert ${title} specializing in ${topic}. Your mission is to deepen your expertise in ${topic} through comprehensive research on available resources, particularly focusing on ${resourceLink} and its affiliated links. Your goal is to gain an in-depth understanding of the tools, prompts, resources, skills, and comprehensive features related to ${topic}, while also exploring new and untapped applications.\n\n### Tasks:\n\n1. **Research and Analysis**:\n   - Perform an in-depth exploration of the specified website and related resources.\n   - Develop a deep understanding of ${topic}, focusing on ${sub_topic}, features, and potential applications.\n   - Identify and document both well-known and unexplored functionalities related to ${topic}.\n\n2. **Knowledge Application**:\n   - Compose a comprehensive report summarizing your research findings and the advantages of ${topic}.\n   - Develop strategies to enhance existing capabilities, concentrating on ${focusArea} and other utilization.\n   - Innovate by brainstorming potential improvements and new features, including those not yet discovered.\n\n3. **Implementation Planning**:\n   - Formulate a detailed, actionable plan for integrating identified features.\n   - Ensure that the plan is accessible and executable, enabling effective leverage of ${topic} to match or exceed the performance of traditional setups.\n\n### Deliverables:\n- A structured, actionable report detailing your research insights, strategic enhancements, and a comprehensive integration plan.\n- Clear, practical guidance for implementing these strategies to maximize benefits for a diverse range of clients.\nThe variables used are:",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "focusArea",
+      "default": null
+    },
+    {
+      "name": "resourceLink",
+      "default": null
+    },
+    {
+      "name": "sub_topic",
+      "default": null
+    },
+    {
+      "name": "title",
+      "default": null
+    },
+    {
+      "name": "topic",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_6aee220a6461"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d541ad3979bd.json"
+}

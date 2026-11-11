@@ -1,0 +1,16 @@
+{
+  "id": "opl_e45e8a603e5c",
+  "slug": "messy-desk-study-moment-university-student",
+  "title": "Messy Desk Study Moment - University Student",
+  "prompt": "{\n  \"subject\": {\n    \"description\": \"A cheerful university student studying at home, captured during a casual study session. Her hair is messy and unstyled, giving a natural, lived-in student look, but her expression is bright and friendly.\",\n    \"body\": {\n      \"type\": \"Natural, youthful build.\",\n      \"details\": \"Relaxed but upright posture, comfortable and engaged rather than tired. Hands naturally resting near notebooks or a laptop.\",\n      \"pose\": \"Seated at the desk, smiling toward the camera placed directly on the desk surface.\"\n    }\n  },\n  \"wardrobe\": {\n    \"top\": \"Comfortable everyday clothing such as an oversized t-shirt, cozy sweater, or simple long-sleeve top.\",\n    \"bottom\": \"Casual shorts, sweatpants, or leggings suitable for studying at home.\",\n    \"accessories\": \"Minimal; possibly a hair tie on wrist, simple glasses, or small stud earrings.\"\n  },\n  \"scene\": {\n    \"location\": \"Inside a student apartment or bedroom.\",\n    \"background\": \"Wall behind the desk with shelves, notes, photos, or personal items softly visible.\",\n    \"details\": \"The desk is slightly messy with textbooks, notebooks, loose papers, pens, highlighters, a laptop, and a coffee mug or water bottle. The clutter feels casual and functional, not chaotic.\"\n  },\n  \"camera\": {\n    \"angle\": \"Camera placed on the left corner of the desk, at desk height, angled slightly upward and inward toward the subject.\",\n    \"lens\": \"Smartphone camera.\",\n    \"aspect_ratio\": \"9:16\",\n    \"framing\": \"Desk items appear in the foreground, creating an intimate, desk-level perspective as if the viewer is sitting at the table.\"\n  },\n  \"lighting\": {\n    \"type\": \"Soft indoor lighting from a desk lamp combined with ambient room light.\",\n    \"quality\": \"Warm, balanced lighting with gentle shadows, creating a cozy and positive study atmosphere.\"\n  }\n}",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c7aed4995794"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e45e8a603e5c.json"
+}

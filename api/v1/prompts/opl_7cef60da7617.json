@@ -1,0 +1,21 @@
+{
+  "id": "opl_7cef60da7617",
+  "slug": "details-of-the-given-bug",
+  "title": "details of the given bug",
+  "prompt": "Act as a senior software analyst.\n\n## Goal\nFrom the given input text, extract and structure the following three elements:\n\n1. describ_feature → What feature or system is being discussed\n2. what_should_happen → Expected behavior\n3. what_is_happen → Actual behavior / issue\n\n---\n\n## Input\n${paste_any_raw_text_here}\n- Could be messy\n- Could include logs, chat, code comments, or mixed explanations\n\n---\n\n## Instructions\n\n- Read the entire input carefully\n- Infer missing context when reasonably possible\n- Do NOT hallucinate unclear details\n- If something is missing, return \"UNCLEAR\"\n\n---\n\n## Extraction Rules\n\n### 1. describ_feature\n- Summarize the feature/system in 1–2 lines\n- Focus on purpose, not implementation details\n\n### 2. what_should_happen\n- Describe ideal/expected behavior\n- Include conditions if mentioned\n\n### 3. what_is_happen\n- Describe actual issue or incorrect behavior\n- Be precise and factual\n- Include errors, unexpected results, or failures\n\n---\n\n## Output Format (STRICT)\n\n## Output Format (STRICT)\n\nReturn ONLY this points: \"describ_feature\": \"...\",\n\n\n \"what_should_happen\": \"...\",\n\n\n \"what_is_happen\": \"...\"\n\n---\n\n## Constraints\n- No extra text \n- No explanations\n- No assumptions beyond reasonable inference\n- Keep each field concise but complete",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "paste_any_raw_text_here",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_4613311d5ff9"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7cef60da7617.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "opl_3a23ff6e184e",
+  "slug": "prd-and-technical-documentation-generator",
+  "title": "prd-and-technical-documentation-generator",
+  "prompt": "---\nname: prd-and-technical-documentation-generator\ndescription: A skill for generating comprehensive Product Requirements Documents (PRDs) and technical documentation for projects.\n---\n\n# PRD and Technical Documentation Generator\n\nThis skill is designed to assist in the creation of detailed Product Requirements Documents (PRDs) and accompanying technical documentation.\n\n## Instructions\n\n1. **Define the Product or Feature**: Clearly specify the product or feature for which the documentation is being created.\n2. **Gather Requirements**: Identify and list all necessary requirements, including functional and non-functional aspects.\n3. **Structure the PRD**:\n   - **Introduction**: Provide a brief overview of the product or feature.\n   - **Problem Statement**: Describe the problem the product or feature aims to solve.\n   - **Objectives**: Outline the main goals and objectives.\n   - **Scope**: Define the scope, including what is included and excluded.\n   - **Requirements**: Detail functional and non-functional requirements.\n   - **User Stories**: Include user stories to illustrate usage scenarios.\n4. **Technical Documentation**:\n   - **Architecture Overview**: Provide an architectural diagram and description.\n   - **Technical Specifications**: Detail the technical requirements and specifications.\n   - **APIs and Interfaces**: List APIs and interfaces, including usage and examples.\n   - **Security and Compliance**: Outline security measures and compliance requirements.\n\n## Examples\n\n- **Example Input**: \"Create a PRD for a new e-commerce platform feature\"\n- **Example Output**: A structured document with all sections populated with relevant information.\n\n## Variables\n\n- ${productFeature} - The specific product feature or initiative.\n- ${documentType:PRD} - Type of document to generate (PRD or Technical).\n\nUtilize this skill to efficiently produce comprehensive documentation that supports project objectives and stakeholder needs.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "documentType",
+      "default": "PRD"
+    },
+    {
+      "name": "productFeature",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_2cbd4de6df9f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3a23ff6e184e.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_48cf76228afa",
+  "slug": "high-end-technology-inspired-website-ui-redesign",
+  "title": "High-End Technology-Inspired Website UI Redesign",
+  "prompt": "Act as a UI/UX designer using Image2. Your task is to create several high-end, technology-inspired UI designs for a website front end. You must:\n- Retain all existing functionalities (no additions or deletions)\n- Focus on modifying the layout and theme\n- Design with a high-end, futuristic tech aesthetic\n- Generate multiple style options for client selection\n\nConstraints:\n- Ensure the design is suitable for a modern, high-tech website\n- Keep the user experience intuitive and seamless\n\nYour output will include:\n- A set of image designs showcasing different styles\n- Each design must highlight the website's functionality while offering a fresh aesthetic",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_07ad3c6ca12c"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_48cf76228afa.json"
+}

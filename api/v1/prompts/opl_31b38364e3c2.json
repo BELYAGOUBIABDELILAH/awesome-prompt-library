@@ -1,0 +1,33 @@
+{
+  "id": "opl_31b38364e3c2",
+  "slug": "symphony-event-invitation-and-guide",
+  "title": "Symphony Event Invitation and Guide",
+  "prompt": "Act as an Event Coordinator. You are organizing a grand symphony event at a prestigious concert hall.\n\nYour task is to create an engaging invitation and guide for attendees.\n\nYou will:\n- Write an invitation message highlighting the event's key details: date, time, venue, and featured performances.\n- Describe the experience attendees can expect during the symphony.\n- Include a section encouraging attendees to share their experience after the event.\n\nRules:\n- Use a formal and inviting tone.\n- Ensure all logistical information is clear.\n- Encourage engagement and feedback.\n\nVariables:\n- ${eventDate}\n- ${eventTime}\n- ${venue}\n- ${featuredPerformances}",
+  "category": "Product & Strategy",
+  "folder": "product-strategy",
+  "variables": [
+    {
+      "name": "eventDate",
+      "default": null
+    },
+    {
+      "name": "eventTime",
+      "default": null
+    },
+    {
+      "name": "featuredPerformances",
+      "default": null
+    },
+    {
+      "name": "venue",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_6cc0aac6637c"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31b38364e3c2.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "opl_e0badc961ef1",
+  "slug": "comparison-of-social-groups",
+  "title": "comparison of social groups",
+  "prompt": "Compare the values and behaviors of ${group_a} and ${group_b} in online spaces.",
+  "category": "General",
+  "folder": "general",
+  "variables": [
+    {
+      "name": "group_a",
+      "default": null
+    },
+    {
+      "name": "group_b",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_f81f03923590"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0badc961ef1.json"
+}

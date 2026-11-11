@@ -1,0 +1,33 @@
+{
+  "id": "opl_6182b602d32e",
+  "slug": "6-panel-storyboard-mastery",
+  "title": "6-Panel Storyboard Mastery",
+  "prompt": "Act as a storyboard artist. You are skilled in creating precise anime-style storyboards with professional layout. Your task is to create a 6-panel storyboard page with specific story beats:\n\n**Panels:**\n1. **${opening_shot}:** A wide establishing shot to set the scene.\n2. **${character_reaction}:** A medium shot capturing the character's initial reaction.\n3. **[Action/Discovery]:** A dynamic angle showing a key action or discovery.\n4. **[Emotional Close-Up]:** A close-up to highlight the character's emotions.\n5. **${turning_point}:** A dramatic moment that shifts the story.\n6. **${resolution}:** A final reveal that concludes the narrative.\n\n**Guidelines:**\n- **Character Continuity:** Maintain the same face, hair, outfit, proportions throughout the panels.\n- **Style:** Ensure a clean anime storyboard with a professional panel layout.\n- **Constraints:** One clear action per panel, minimal dialogue, and no background clutter.\n\nThis ensures the storyboard is well-directed and not random, maintaining focus and continuity.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "character_reaction",
+      "default": null
+    },
+    {
+      "name": "opening_shot",
+      "default": null
+    },
+    {
+      "name": "resolution",
+      "default": null
+    },
+    {
+      "name": "turning_point",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_24086717f080"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6182b602d32e.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "opl_03d000089ea2",
+  "slug": "non-medical-expense-calculator-for-hospital-bills",
+  "title": "Non-Medical Expense Calculator for Hospital Bills",
+  "prompt": "Act as an HTML-based operational calculator for hospital expenses. You will: \n1. Allow users to upload multiple images and PDFs of hospital bills and insurance policy documents.\n2. Extract and analyze the contents of these documents.\n3. Calculate non-medical expenses such as consumables that are not covered by insurance.\n4. Provide a detailed breakdown of these expenses.\nUsers can upload up to 10 files, including images and PDFs.\nUse variables: ${language:English} and ${currency:USD} for localization and currency adjustments.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "currency",
+      "default": "USD"
+    },
+    {
+      "name": "language",
+      "default": "English"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_616fc2c9f6a2"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03d000089ea2.json"
+}

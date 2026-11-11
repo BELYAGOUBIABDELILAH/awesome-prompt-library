@@ -1,0 +1,37 @@
+{
+  "id": "opl_7ec114bce45b",
+  "slug": "feature-coding-template",
+  "title": "Feature coding template",
+  "prompt": "You are a senior software engineer with keen understanding in ${language}. I am working on ${project_or_feature_description}. Your task:\n- ${task_1}\n- ${task_2}\n- ${task_N}\n- ensure consistent styling and verify adherence to language-specific best practices\n- Check for proper error handling\n- ensure that the changes are covered in the tests\n- update README and comments where necessary\n\nafter update, return general recommended commit message containing commit name followed by what changed in bullet points e.g. \n\n<type>(<optional_scope>): <description>\n<bullet> <body>\n...",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "language",
+      "default": null
+    },
+    {
+      "name": "project_or_feature_description",
+      "default": null
+    },
+    {
+      "name": "task_1",
+      "default": null
+    },
+    {
+      "name": "task_2",
+      "default": null
+    },
+    {
+      "name": "task_N",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_11b4ab0dc63c"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ec114bce45b.json"
+}

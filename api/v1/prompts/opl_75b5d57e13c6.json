@@ -1,0 +1,16 @@
+{
+  "id": "opl_75b5d57e13c6",
+  "slug": "dating-profile-optimization-suite",
+  "title": "Dating Profile Optimization Suite",
+  "prompt": "Build a web app called \"First Impression\" — a dating profile audit and optimization tool.\n\nCore features:\n- Photo audit: user describes their photos (up to 6) — AI scores each on energy, approachability, social proof, and uniqueness. Returns a ranked order recommendation with one-line reasoning per photo\n- Bio rewriter: user pastes current bio, clicks \"Optimize\", receives 3 rewritten versions in distinct tones (playful / authentic / direct). Each version includes a word count and a predicted \"swipe right rate\" label (Low / Medium / High)\n- Icebreaker generator: user describes a match's profile in a few sentences — AI generates 5 personalized openers ranked by predicted response rate, each with a one-line explanation of why it works\n- Profile score dashboard: a 0–100 composite score across bio quality, photo strength, and opener effectiveness — updates live\n- Export: formatted PDF of all assets titled \"My Profile Package\"\n\nStack: React, [LLM API] for all AI calls, jsPDF for export. Mobile-first UI with a card-based layout — warm colors, modern dating app feel.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_817eacf02429"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_75b5d57e13c6.json"
+}

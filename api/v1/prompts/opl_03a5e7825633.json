@@ -1,0 +1,16 @@
+{
+  "id": "opl_03a5e7825633",
+  "slug": "researchers-in-the-library",
+  "title": "Researchers in the Library",
+  "prompt": "Generate a video for Researchers in the Lab going to the library, make it programmatic video creation, maybe use LoRA and Remotion",
+  "category": "Research & Analysis",
+  "folder": "research-analysis",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_b84bfa141e36"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03a5e7825633.json"
+}

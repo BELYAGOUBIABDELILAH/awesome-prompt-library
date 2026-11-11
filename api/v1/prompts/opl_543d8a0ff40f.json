@@ -1,0 +1,21 @@
+{
+  "id": "opl_543d8a0ff40f",
+  "slug": "spec-interview",
+  "title": "Spec Interview",
+  "prompt": "read this${specmd:spec.md} and interview me in detail using the\nAskUserQuestionTool (or similar tool) about literally anything: technical\nimplementation, UI & UX, concerns, tradeoffs, etc. but make\nsure the questions are not obvious\n\nbe very in-depth and continue interviewing me continually until\nit's complete, then write the spec to the file",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "specmd",
+      "default": "spec.md"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_8f26494da822"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_543d8a0ff40f.json"
+}

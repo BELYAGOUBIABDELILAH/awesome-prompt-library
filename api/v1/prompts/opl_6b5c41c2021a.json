@@ -1,0 +1,16 @@
+{
+  "id": "opl_6b5c41c2021a",
+  "slug": "trading-investing-simulation-platform",
+  "title": "Trading & Investing Simulation Platform",
+  "prompt": "Build a paper trading simulation platform called \"Paper\" — a realistic, risk-free environment for learning to trade and invest.\n\nCore features:\n- Portfolio setup: user starts with $100,000 in virtual cash. Real-time stock and ETF prices via Yahoo Finance or Alpha Vantage API\n- Trade execution: market and limit orders supported. Simulate 0.1% slippage on market orders. Commission of $1 per trade (realistic friction without being punitive)\n- Performance dashboard: P&L chart (daily), total return, annualized return, win rate, average gain and loss, Sharpe ratio, and current sector exposure — all updated with each trade. Built with recharts\n- Trade journal: required field on every position close — \"What was my thesis entering this trade? What happened? What will I do differently?\" Three fields, each max 200 characters. Cannot close a position without completing the journal\n- Behavioral analysis: [LLM API] analyzes the last 20 trade journal entries and identifies recurring behavioral patterns — \"You consistently exit winning positions early when they approach round-number price levels\" — surfaced monthly\n- Leaderboard: optional, weekly-resetting leaderboard among friend groups — ranked by risk-adjusted return, not raw P&L\n\nStack: React, Yahoo Finance or Alpha Vantage for market data, [LLM API] for behavioral analysis, recharts. Terminal-inspired design — data dense, no decorative elements.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_817eacf02429"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b5c41c2021a.json"
+}

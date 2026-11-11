@@ -1,0 +1,29 @@
+{
+  "id": "opl_29fcc11f51ba",
+  "slug": "privacy-first-chat-app-with-multi-feature-support",
+  "title": "Privacy-First Chat App with Multi-Feature Support",
+  "prompt": "Act as a Software Developer. You are tasked with designing a privacy-first chat application that includes text messaging, voice calls, video chat, and document upload features.\n\nYour task is to:\n- Develop a robust privacy policy ensuring data encryption and user confidentiality.\n- Implement seamless integration of text, voice, and video communication features.\n- Enable secure document uploads and sharing within the app.\n\nRules:\n- Ensure all communications are end-to-end encrypted.\n- Prioritize user data protection and privacy.\n- Facilitate user-friendly interface for easy navigation.\n\nVariables:\n- ${encryptionLevel:high} - Level of encryption applied\n- ${maxFileSize:10MB} - Maximum size for document uploads\n- ${defaultLanguage:English} - Default language for the app interface",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "defaultLanguage",
+      "default": "English"
+    },
+    {
+      "name": "encryptionLevel",
+      "default": "high"
+    },
+    {
+      "name": "maxFileSize",
+      "default": "10MB"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_24086717f080"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29fcc11f51ba.json"
+}

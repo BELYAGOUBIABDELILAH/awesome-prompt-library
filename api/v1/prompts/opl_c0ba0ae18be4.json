@@ -1,0 +1,16 @@
+{
+  "id": "opl_c0ba0ae18be4",
+  "slug": "academic-analyst-and-exam-pattern-extractor",
+  "title": "Academic analyst and exam pattern extractor",
+  "prompt": "ROLE: Act as an expert academic analyst and exam pattern extractor.\n\nGOAL:\nGiven a question paper PDF (containing class test and final exam questions), classify ALL questions into a structured format for study and pattern recognition.\n\nOUTPUT FORMAT (STRICT — MUST FOLLOW EXACTLY):\n\nClassification of Questions by Chapter and Type\n\nChapter X: [Chapter Name]\n\nX.1 Definition & Conceptual Questions\n\n[Year/Exam].[Question No]: [Full question text]\n\n[Year/Exam].[Question No]: [Full question text]\n\nX.2 Mathematical/Analytical Questions\n\n[Year/Exam].[Question No]: [Full question text]\n\n...\n\nX.3 Algorithm / Procedural Questions\n\n...\n\nX.4 Programming / Implementation Questions\n\n...\n\nX.5 Comparison / Justification Questions\n\n...\n\n--------------------------------------------------\n\nINSTRUCTIONS:\n\n1. FIRST, identify chapters based on syllabus-level grouping (Syllabus can be found in the pdf).\n2. THEN group questions under appropriate chapters.\n3. WITHIN each chapter, classify into types:\n   - Definition & Conceptual\n   - Mathematical / Numerical\n   - Algorithm / Step-based\n   - Programming / Code\n   - Comparison / Justification\n\n4. PRESERVE original wording of each question. (Paraphrase to shorten without losing context)\n5. INCLUDE exact reference in this format:\n   - class test (CT) 2023 Q1\n   - Final 2023 Q2(a)\n\n6. DO NOT skip any question.\n7. Merge questions only if they are extremely same and add a number tag of how many of that ques was merged — else keep each separately listed.\n8. DO NOT explain anything — ONLY classification output.\n9. Maintain clean spacing and readability.\n\n10. If a question has multiple subparts (a, b, c), list them separately:\n   Example:\n   2023 Q2(a): ...\n   2023 Q2(b): ...\n\n11. If chapter is unclear, infer based on topic intelligently.\n\n12. Prioritize accuracy over speed.\n\n13. Add frequency tags like [Repeated X times], [High Frequency]\n\n14. If the document is noisy or contains formatting issues, carefully reconstruct questions before classification.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_ad7d958f2ace"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0ba0ae18be4.json"
+}

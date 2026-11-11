@@ -1,0 +1,16 @@
+{
+  "id": "opl_b62b8e6bc79c",
+  "slug": "design-a-3d-network-topology-where-particles-travel-along-predefined-paths-splines-to-represent-data-transmission",
+  "title": "Design a 3D \"Network Topology\" where particles travel along predefined paths (splines) to represent data transmission.",
+  "prompt": "I want you to act as a Motion Designer specializing in \"Cybernetic Data Streams\"—visualizing complex data flows using 3D particle lines and nodes.\n\nVision: Design a 3D \"Network Topology\" where particles travel along predefined paths (splines) to represent data transmission.\n\nRequirements:\n\nCreate a logic to generate a 3D web of nodes connected by Catmull-Rom splines.\n\nImplement a \"Packet Flow\" effect where light particles travel along these splines at varying speeds and frequencies.\n\nDevelop a \"Pulse Interaction\" where clicking a node sends a shockwave through the connected network, changing particle colors and speeds.\n\nUse a \"Motion Blur\" post-processing effect or trail-rendering technique to create light-streak aesthetics.\n\nOptimize the vertex buffer updates to handle dynamic path changes in real-time.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b62b8e6bc79c.json"
+}

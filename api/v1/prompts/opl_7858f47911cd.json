@@ -1,0 +1,25 @@
+{
+  "id": "opl_7858f47911cd",
+  "slug": "fix-latex-dollars",
+  "title": "Fix LaTeX dollars",
+  "prompt": "Investigate and fix the actual $ usages in Markdown content.\n\nThe $ fall into three classes:\n\n- Currency (escape these) — $1, $2 billion, R$ 549 → these pairs cause all the warnings\n- Real math (leave alone) — $\\rightarrow$, $O(1)\\text{ streaming}$ → valid, no warnings\n- Shell code (leave alone) — $(curl…), ${ZSH_CUSTOM}, $HOME → inside code blocks\n\n\nExecute in 4 steps:\n\n- Investigate — greps the content, classifies every $ into currency / real math / shell code, and reports counts before changing anything.\n- Apply — checks the tree is clean, then writes and runs the exact tested Python script (code-fence-, inline-code-, frontmatter-, and math-span-aware; idempotent via the (?<!\\\\) lookbehind so re-running never double-escapes).\n- Verify the diff — the safety net: greps that must print nothing for real math ($\\rightarrow$, \\text) and shell vars ($HOME, $(…), ${VAR}). If anything legit was touched, it tells you to git checkout -- . and stops.\n- Print instructions — outputs the build-verify and commit/push commands for user to run.\n\nDo not autonomously run any build, commit, or push.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "VAR",
+      "default": null
+    },
+    {
+      "name": "ZSH_CUSTOM",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_53979eb31ab3"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7858f47911cd.json"
+}

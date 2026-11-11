@@ -1,0 +1,16 @@
+{
+  "id": "opl_7a98c17464c1",
+  "slug": "self-summary",
+  "title": "Self-summary",
+  "prompt": "Give me a summary of what you know about me so far",
+  "category": "General",
+  "folder": "general",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_5a9d4cea35ac"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7a98c17464c1.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_bc4c200fb1c2",
+  "slug": "operating-systems",
+  "title": "Operating systems",
+  "prompt": "I want a detailed course module, with simple explanations and done comprehensively.\nSources should be from the Operating Systems Concepts by Abraham Shartschartz",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_7df1f8f1c997"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc4c200fb1c2.json"
+}

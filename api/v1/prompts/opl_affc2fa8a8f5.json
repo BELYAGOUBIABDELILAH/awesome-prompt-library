@@ -1,0 +1,16 @@
+{
+  "id": "opl_affc2fa8a8f5",
+  "slug": "competitor-awareness",
+  "title": "Competitor Awareness",
+  "prompt": "give the best prompt to identify the complete company profile of euler, like core aspeccts to focus on, fundraising, growth strategy, series funding, execution plan, vc involvement, etc. Basically complete data about Euler motors",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_ca86249a8ae0"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_affc2fa8a8f5.json"
+}

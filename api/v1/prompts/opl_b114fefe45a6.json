@@ -1,0 +1,16 @@
+{
+  "id": "opl_b114fefe45a6",
+  "slug": "typographic-portrait-artwork-creation",
+  "title": "Typographic Portrait Artwork Creation",
+  "prompt": "Transform the provided portrait into a 9:16 vertical typographic artwork built exclusively from repeated name text.\n\nSTRICT RULES:\n- The image must be composed ONLY of text (e.g., \"MUSTAFA KEMAL ATATÜRK\").\n- No lines, no strokes, no outlines, no shapes, no shading, no gradients.\n- Do NOT draw anything. Do NOT use any brush or illustration effect.\n- No stamp borders or shapes — only pure text.\n- Every visible detail must come from the text itself.\n\nTEXT CONSTRAINT:\n- ALL text must be small and consistent in size.\n- Do NOT use large or oversized text anywhere.\n- Font size should remain uniform across the entire image.\n- The text should feel like fine grain / micro-typography.\n\nPreserve the exact facial identity and proportions from the input image.\n\nCOMPOSITION:\n- Slightly zoomed-out portrait (not close-up).\n- Include full head with some negative space around.\n\nREGIONAL CONTROL:\n- Forehead area should be clean or extremely sparse.\n- Focus density on eyes, nose, mouth, jawline.\n\nSHADING METHOD:\n- Create depth ONLY by changing text density (not size).\n- Dark areas = very dense text repetition.\n- Light areas = sparse text placement.\n- No gradient effects — density alone must simulate light and shadow.\n\nArrange text with slight variations in rotation and spacing, but keep it controlled and clean.\n\nStyle:\nminimal, high-contrast black text on light background, elegant and editorial.\n\nNo extra text outside the repeated name. No logos. No decorative elements.\n\nThe result should look like a refined typographic portrait where shadows are created purely through text density, with zero size variation.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_72ee003f0334"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b114fefe45a6.json"
+}

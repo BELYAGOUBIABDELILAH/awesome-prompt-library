@@ -1,0 +1,16 @@
+{
+  "id": "opl_7dddbbf8ab92",
+  "slug": "adding-these-development-in-a-gasifier-design-tool",
+  "title": "adding these development in a gasifier design tool",
+  "prompt": "Add:\n1) how can we say that calculated velocity is correct and it is desired by gasifier. give remarks to check the max and min velocity and then show the criteria pass.\n2) Tar loading and tar dew-point study\n3) Fluidization calculation for BFB/CFB: Umf, terminal velocity, particle PSD, distributor pressure drop.\n4) Oxygen safety study, inerting and purging calculation\n5) Methanol synthesis gas ratio simulation and loop purge/compression study.\n6) carbon conversion, turndown calculation performance, efficiency\n7) I have Biomass Proximate Analysis and Ultimate analysis, how it helps\n8) It must ask me which type of gasifier and when i select, it must show me detailed calculations and heat mass balance for that gasifier.\n9) It must ask me comparison between which gasifiers and once i ticked, it shows that in the summary sheet only not on the front page.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_68eba6064a20"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7dddbbf8ab92.json"
+}

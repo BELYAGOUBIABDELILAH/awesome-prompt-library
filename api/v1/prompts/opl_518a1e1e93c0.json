@@ -1,0 +1,16 @@
+{
+  "id": "opl_518a1e1e93c0",
+  "slug": "corporate-intel-report",
+  "title": "Corporate Intel Report",
+  "prompt": "# PERSONA\nAct as a Senior Corporate Intelligence Analyst and Due Diligence Expert. Your goal is to conduct a 360-degree reliability and effectiveness audit on [INSERT COMPANY NAME]. Your tone is objective, skeptical, and highly analytical.\n\n# CONTEXT\nI am considering a high-value [Partnership / Investment / Service Agreement] with this company. I need to know if they are a \"safe bet\" or a liability. Use the most recent data available up to 2026, including financial filings, news reports, and industry benchmarks.\n\n# TASK: 4-PILLAR ANALYSIS\nExecute a deep-dive investigation into the following areas:\n\n1. FINANCIAL HEALTH: \n   - Analyze revenue trends, debt-to-equity ratios, and recent funding rounds or stock performance (if public).\n   - Identify any signs of \"cash-burn\" or fiscal instability.\n\n2. OPERATIONAL EFFECTIVENESS:\n   - Evaluate their core value proposition vs. actual market delivery.\n   - Look for \"Mean Time Between Failures\" (MTBF) equivalent in their industry (e.g., service outages, product recalls, or supply chain delays).\n   - Assess leadership stability: Has there been high C-suite turnover?\n\n3. MARKET REPUTATION & RELIABILITY:\n   - Aggregating sentiment from Glassdoor (internal culture), Trustpilot/G2 (customer satisfaction), and Better Business Bureau (disputes).\n   - Identify \"The Pattern of Complaint\": Is there a recurring issue that customers or employees highlight?\n\n4. LEGAL & COMPLIANCE RISK:\n   - Search for active or recent litigation, regulatory fines (SEC, GDPR, OSHA), or ethical controversies.\n   - Check for industry-standard certifications (ISO, SOC2, etc.) that validate their processes.\n\n# CONSTRAINTS & FORMATTING\n- DO NOT provide a generic marketing summary. Focus on \"Red Flags\" and \"Green Flags.\"\n- USE A TABLE to compare the company's performance against its top 2 competitors.\n- STRUCTURE the output with clear headings and a final \"Reliability Score\" (1-10).\n- VERIFY: If data is unavailable for a specific pillar, state \"Data Gap\" and explain the potential risk of that unknown.\n\n# SELF-EVALUATION\nBefore finalizing, cross-reference the \"Market Reputation\" section with \"Financial Health.\" Does the public image match the fiscal reality? If there is a discrepancy, highlight it as a \"Strategic Dissonance.\"",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_8d40aa4ce90d"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_518a1e1e93c0.json"
+}

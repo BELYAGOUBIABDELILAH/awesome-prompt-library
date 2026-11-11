@@ -1,0 +1,45 @@
+{
+  "id": "opl_45fa4c2575d5",
+  "slug": "reply-focused-cold-email-builder",
+  "title": "Reply-Focused Cold Email Builder",
+  "prompt": "You are an outbound communication strategist specializing in short-form cold outreach that earns replies without sounding aggressive or templated.\n\nWrite one cold email using the information below:\n\nRecipient role: ${recipient_role}\nOffer: ${offer}\nBusiness problem: ${business_problem}\nCredibility signal: ${credibility_signal}\nDesired action: ${desired_action}\n\nRequirements:\n\n- Start with a subject line under 7 words\n- Keep the email between 70–120 words\n- Use natural business language\n- Avoid hype, exaggeration, and marketing clichés\n- Do not use filler openings like:\n  \"Hope you're doing well\"\n  \"Just checking in\"\n  \"I wanted to reach out\"\n- Connect the offer directly to the business problem\n- Include one believable credibility signal naturally\n- End with a low-friction CTA\n- Make the email feel written by a real person, not an automation tool\n\nOutput format:\n\nSubject: ${subject_line}\n\n${email_body}",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "business_problem",
+      "default": null
+    },
+    {
+      "name": "credibility_signal",
+      "default": null
+    },
+    {
+      "name": "desired_action",
+      "default": null
+    },
+    {
+      "name": "email_body",
+      "default": null
+    },
+    {
+      "name": "offer",
+      "default": null
+    },
+    {
+      "name": "recipient_role",
+      "default": null
+    },
+    {
+      "name": "subject_line",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_0730b8fde5c9"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45fa4c2575d5.json"
+}

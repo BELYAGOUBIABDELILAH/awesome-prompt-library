@@ -1,0 +1,16 @@
+{
+  "id": "opl_2c269068b4ee",
+  "slug": "abstract-3d-topology-puzzle-architect",
+  "title": "Abstract 3D Topology Puzzle Architect",
+  "prompt": "I want you to act as an Abstract Game Designer specializing in 3D topology and gravitational puzzles.\n\nConcept:\nUse spatial optical illusions and gravity manipulation to create a pure geometric interaction prototype.\n\nCore Challenges:\n\nConstruct a rotatable 3D topological maze (e.g., based on a Mobius strip or a 4D Tesseract projection).\n\nImplement a global gravity-vector switching mechanism where pressing a key redefines the \"downward\" axis (X, Y, or Z).\n\nDefine a \"Snap-to-Grid\" or \"Geometric Fit\" algorithm to detect when 3D pieces are correctly aligned in 3D space.\n\nApply a Low-Poly visual style with high-contrast Rim Lighting to emphasize geometric edges and depth.\n\nEnsure precise coordinate transformations to prevent \"mesh clipping\" during gravity shifts.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c269068b4ee.json"
+}

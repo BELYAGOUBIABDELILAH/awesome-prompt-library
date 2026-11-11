@@ -1,0 +1,37 @@
+{
+  "id": "opl_fc2605cd4164",
+  "slug": "academic-paper-figure-generator-nano-banana-pro",
+  "title": "Academic Paper Figure Generator - Nano Banana Pro",
+  "prompt": "Create a professional academic figure for scientific publication using the following guidelines:\n\n${figure_type:Type of figure (architecture diagram, flowchart, data visualization, conceptual model, experimental setup)}\n${subject:Specific subject or topic}\n${style:Visual style preference (minimal, detailed, technical, conceptual)}\n\nGuidelines:\n- Use clean, professional design suitable for academic journals\n- Ensure high contrast and readability\n- Include clear labels and legends when needed\n- Use consistent color scheme (typically blues, grays, and accent colors)\n- Maintain scientific accuracy\n- Optimize for the specified resolution (${resolution:2K})\n- Consider the target publication format\n\nGenerate a ${aspect_ratio:16:9} aspect ratio image that effectively communicates the ${subject} concept to an academic audience.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [
+    {
+      "name": "aspect_ratio",
+      "default": "16:9"
+    },
+    {
+      "name": "figure_type",
+      "default": "Type of figure (architecture diagram, flowchart, data visualization, conceptual model, experimental setup)"
+    },
+    {
+      "name": "resolution",
+      "default": "2K"
+    },
+    {
+      "name": "style",
+      "default": "Visual style preference (minimal, detailed, technical, conceptual)"
+    },
+    {
+      "name": "subject",
+      "default": "Specific subject or topic"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_eb06933b1cae"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fc2605cd4164.json"
+}

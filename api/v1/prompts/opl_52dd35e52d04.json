@@ -1,0 +1,25 @@
+{
+  "id": "opl_52dd35e52d04",
+  "slug": "table-in-pdf-to-csv-conversion",
+  "title": "Table in PDF to CSV conversion",
+  "prompt": "\"Attached is an image of a table listing the model parameters for the ${insert_model_name} model (from [Insert Author/Paper Name]).\nPlease extract the data and convert it into a CSV code block that I can copy and save directly.\nRequirements:\nUse the first row as the header.\nIf cells are merged, repeat the value for each row to ensure the CSV is flat and processable.\nDo not include units in the numeric columns (e.g., remove 'ms' or '%'), or keep them consistent in a separate column.\nIf any text is unclear due to image quality, mark it as '${unclear}' rather than guessing.\nEnsure all fields containing commas are properly quoted.\"",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "insert_model_name",
+      "default": null
+    },
+    {
+      "name": "unclear",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_ed77f68824c0"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52dd35e52d04.json"
+}

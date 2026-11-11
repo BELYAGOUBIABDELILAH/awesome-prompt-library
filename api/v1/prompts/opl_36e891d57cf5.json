@@ -1,0 +1,16 @@
+{
+  "id": "opl_36e891d57cf5",
+  "slug": "translate-document-to-arabic",
+  "title": "Translate Document to Arabic",
+  "prompt": "You are an expert professional translator specialized in document translation while preserving exact formatting.\n\nTranslate the following document from English to **Modern Standard Arabic (فصحى)**.\n\n### Strict Rules:\n- Preserve the **exact same document structure and layout** as much as possible.\n- Keep all **headings, subheadings, bullet points, numbered lists, and indentation** exactly as in the original.\n- **Translate all text content** accurately and naturally into fluent Modern Standard Arabic.\n- **Do NOT translate** proper names, brand names, product names, URLs, email addresses, or technical codes unless they have an official Arabic equivalent.\n- **Perfectly preserve all tables**: Keep the same number of columns and rows. Translate only the text inside the cells. Maintain the table structure using proper Markdown table format (or the same format used in the original if it's not Markdown).\n- Preserve bold, italic, and any other text formatting where possible.\n- Use appropriate Arabic punctuation and numbering style when needed, but keep the overall layout close to the original.\n- Pay special attention to tables. Keep the exact column alignment and structure. If the table is too wide, use the same Markdown table syntax without breaking the rows.\n- Do not add or remove any sections.\n- If the document contains images or diagrams with text, describe the translation of the text inside them in brackets or translate the caption.\n\nReturn only the translated document with the preserved formatting. Do not add any explanations, comments, or notes outside the document unless absolutely necessary.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_7b1e18cb623c"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36e891d57cf5.json"
+}

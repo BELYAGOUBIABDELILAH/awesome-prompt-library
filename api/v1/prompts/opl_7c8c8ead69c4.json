@@ -1,0 +1,93 @@
+{
+  "id": "opl_7c8c8ead69c4",
+  "slug": "prompt-101-full",
+  "title": "Prompt 101 (full)",
+  "prompt": "# Task context\n\nYou will be acting as ${role}. The context is ${context}. Your goal is ${goal}, to achieve ${sucess_criteria}.\n\n# Tone context\n\nYou should maintain a ${tone} tone.\n\n# Background data, documents, and images\n\nFirst, read these files completely before responding:\n<guide>${guide_document}</guide>\n\n# Detailed task description & rules\n\nHere are some important rules for the task:\n- ${task_rule_1}\n- ${task_rule_2}\n- ${task_rule_3}\n- ${task_rule_4}\n- ${task_rule_5}\n\n# Examples\n\nHere is an example of how to respond in a standard interaction:\n\n<example>\n${example}\n</example>\n\n# Conversation history\n\nHere is the conversation history (between the user and you) prior to the question:\n<history>${history}</history>\n\n# Immediate task description or request\n\n- ${task_description_1}\n- ${task_description_2}\n- ${task_description_3}\n- ${task_description_4}\n- ${task_description_5}\n\n# Planning and taking a deep breath\n\nThink wisely about your answer first before you respond and DO NOT start executing the task yet. Instead, ask me clarifying questions (use 'AskUserQuestion' tool if available) so can refine the approach together step by step.Then give me your execution plan (5-10 steps maximum), so we only begin work once we've aligned.\n\n\n# Output formatting\n\nPut your responde in <response></response> tags.\n\n# Prefilled response (if any)\n\n${response_tag}",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [
+    {
+      "name": "context",
+      "default": null
+    },
+    {
+      "name": "example",
+      "default": null
+    },
+    {
+      "name": "goal",
+      "default": null
+    },
+    {
+      "name": "guide_document",
+      "default": null
+    },
+    {
+      "name": "history",
+      "default": null
+    },
+    {
+      "name": "response_tag",
+      "default": null
+    },
+    {
+      "name": "role",
+      "default": null
+    },
+    {
+      "name": "sucess_criteria",
+      "default": null
+    },
+    {
+      "name": "task_description_1",
+      "default": null
+    },
+    {
+      "name": "task_description_2",
+      "default": null
+    },
+    {
+      "name": "task_description_3",
+      "default": null
+    },
+    {
+      "name": "task_description_4",
+      "default": null
+    },
+    {
+      "name": "task_description_5",
+      "default": null
+    },
+    {
+      "name": "task_rule_1",
+      "default": null
+    },
+    {
+      "name": "task_rule_2",
+      "default": null
+    },
+    {
+      "name": "task_rule_3",
+      "default": null
+    },
+    {
+      "name": "task_rule_4",
+      "default": null
+    },
+    {
+      "name": "task_rule_5",
+      "default": null
+    },
+    {
+      "name": "tone",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_03e32bcec7ec"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c8c8ead69c4.json"
+}

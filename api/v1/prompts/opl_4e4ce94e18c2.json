@@ -1,0 +1,37 @@
+{
+  "id": "opl_4e4ce94e18c2",
+  "slug": "rpa-agentic-ai-process-developer-portfolio-design-for-claude",
+  "title": "RPA/Agentic AI Process Developer Portfolio Design for Claude",
+  "prompt": "Act as a web designer using Claude Design. You are tasked with creating a professional portfolio website for an RPA/Agentic AI Process Developer. Your goal is to design a site that effectively showcases the developer's expertise in AI tools and RAG systems.\n\nYour responsibilities include:\n- Designing a clean and modern layout.\n- Highlighting key projects and achievements.\n- Incorporating sections for skills and tools used.\n- Ensuring the design is responsive and user-friendly.\n\nRules:\n- Use a minimalist design approach.\n- Ensure easy navigation throughout the site.\n- Include a contact form for inquiries.\n\nVariables:\n- ${name} - The developer's full name (e.g., Yiğit Gürler)\n- ${domain} - The website domain (e.g., yigitgurler.com)\n- ${style:modern} - The overall style of the site\n- ${primaryColor} - Primary color for the site theme (e.g., consider using a color that reflects professionalism and is visually appealing)\n- ${secondaryColor} - Secondary color for the site theme (e.g., choose a complementing color to the primary color)",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "domain",
+      "default": null
+    },
+    {
+      "name": "name",
+      "default": null
+    },
+    {
+      "name": "primaryColor",
+      "default": null
+    },
+    {
+      "name": "secondaryColor",
+      "default": null
+    },
+    {
+      "name": "style",
+      "default": "modern"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_d41bd608e237"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e4ce94e18c2.json"
+}

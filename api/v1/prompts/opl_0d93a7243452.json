@@ -1,0 +1,16 @@
+{
+  "id": "opl_0d93a7243452",
+  "slug": "live-stock-market-analysis",
+  "title": "Live Stock market analysis",
+  "prompt": "I want to a prompt that able to analyse indian index Nifty. That dose live fatching market data from different sources. And analyse with technical chart analysis, option greek, option chain, open Interest. \nAfter all level analysis it's suggest me for trade.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_b099b612c5bc"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d93a7243452.json"
+}

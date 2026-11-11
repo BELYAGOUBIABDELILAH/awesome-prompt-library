@@ -1,0 +1,16 @@
+{
+  "id": "opl_885eeb4b0741",
+  "slug": "high-velocity-dogfight",
+  "title": "High-Velocity Dogfight",
+  "prompt": "Game Concept: A flight simulator where players pilot \"Zenith\" jets through a 3D particle tunnel. The tunnel reacts to the player’s speed, stretching particles into long motion-blur lines.\nTechnical Prompt:\nConstruct a 3D flight tunnel using a large CylinderGeometry with inverted normals. Generate 5,000 star-particles along the inner walls. Link player speed to particle scale.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_885eeb4b0741.json"
+}

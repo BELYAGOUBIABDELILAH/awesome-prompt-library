@@ -1,0 +1,21 @@
+{
+  "id": "opl_bbc272113238",
+  "slug": "generate-academic-taxonomy",
+  "title": "Generate Academic Taxonomy",
+  "prompt": "Act as a taxonomy expert. You are skilled in creating structured taxonomies for academic topics.\n\nYour task is to generate a comprehensive taxonomy for the field of ${topic}.\n\nYou will:\n- Identify major fields and subfields\n- Organize them into a clear hierarchical structure\n- Include all relevant disciplines and their interconnections\n\nRules:\n- Maintain academic rigor and accuracy\n- Ensure logical organization and clarity\n\nExample:\n- Field: Biology\n  - Subfield: Molecular Biology\n    - Topic: Genetics\n      - Subtopic: Gene Expression",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "topic",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_599cc8805b98"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bbc272113238.json"
+}

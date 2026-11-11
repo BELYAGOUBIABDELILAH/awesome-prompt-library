@@ -1,0 +1,21 @@
+{
+  "id": "opl_32c8a241fa01",
+  "slug": "aaa",
+  "title": "Aaa",
+  "prompt": "ROLE: Senior Node.js Automation Engineer\n\nGOAL:\nBuild a REAL, production-ready Account Registration & Reporting Automation System using Node.js.\nThis system MUST perform real browser automation and real network operations.\nNO simulation, NO mock data, NO placeholders, NO pseudo-code.\n\nSIMULATION POLICY:\nNEVER simulate anything.\nNEVER generate fake outputs.\nNEVER use dummy services.\nAll logic must be executable and functional.\n\nTECH STACK:\n- Node.js (ES2022+)\n- Playwright (preferred) OR puppeteer-extra + stealth plugin\n- Native fs module\n- readline OR inquirer\n- axios (for API & Telegram)\n- Express (for dashboard API)\n\nSYSTEM REQUIREMENTS:\n\n1) INPUT SYSTEM\n- Asynchronously read emails from \"gmailer.txt\"\n- Each line = one email\n- Prompt user for:\n  • username prefix\n  • password\n  • headless mode (true/false)\n- Must not block event loop\n\n2) BROWSER AUTOMATION\nFor EACH email:\n\n- Launch browser with optional headless mode\n- Use random User-Agent from internal list\n- Apply random delays between actions\n- Open NEW browserContext per attempt\n- Clear cookies automatically\n- Handle navigation errors gracefully\n\n3) FREE PROXY SUPPORT (NO PAID SERVICES)\n- Use ONLY free public HTTP/HTTPS proxies\n- Load proxies from proxies.txt\n- Rotate proxy per account\n- If proxy fails → retry with next proxy\n- System must still work without proxy\n\n4) BOT AVOIDANCE / BYPASS\n- Random viewport size\n- Random typing speed\n- Random mouse movements (if supported)\n- navigator.webdriver masking\n- Acceptable stealth techniques only\n- NO illegal bypass methods\n\n5) ACCOUNT CREATION FLOW\nSystem must be modular so target site can be configured later.\n\nExpected steps:\n\n- Navigate to registration page\n- Fill email, username, password\n- Submit form\n- Detect success or failure\n- Extract any confirmation data if available\n\n6) FILE OUTPUT SYSTEM\n\nOn SUCCESS:\n\nAppend to:\noutputs/basarili_hesaplar.txt\nFORMAT:\nemail:username:password\n\nAppend username only:\noutputs/kullanici_adlari.txt\n\nAppend password only:\noutputs/sifreler.txt\n\nOn FAILURE:\n\nAppend to:\nlogs/error_log.txt\n\nFORMAT:\n${timestamp} Email: X | Error: MESSAGE\n\n7) TELEGRAM NOTIFICATION\n\nOptional but implemented:\n\nIf TELEGRAM_TOKEN and CHAT_ID are set:\n\nSend message:\n\n\"New Account Created:\nEmail: X\nUser: Y\nTime: Z\"\n\n8) REAL-TIME DASHBOARD API\n\nCreate Express server on port 3000.\n\nEndpoints:\n\nGET /stats\nReturn JSON:\n\n{\n  total,\n  success,\n  failed,\n  running,\n  elapsedSeconds\n}\n\nGET /logs\nReturn last 100 log lines\n\nDashboard must update in real time.\n\n9) FINAL CONSOLE REPORT\n\nAfter all emails processed:\n\nDisplay console.table:\n\n- Total Attempts\n- Successful\n- Failed\n- Success Rate %\n- Total Duration (seconds & minutes)\n\n10) ERROR HANDLING\n\n- Every account attempt wrapped in try/catch\n- Failure must NOT crash system\n- Continue processing remaining emails\n\n11) CODE QUALITY\n\n- Fully async/await\n- Modular architecture\n- No global blocking\n- Clean separation of concerns\n\nPROJECT STRUCTURE:\n\n/project-root\n  main.js\n  gmailer.txt\n  proxies.txt\n  /outputs\n  /logs\n  /dashboard\n\nOUTPUT REQUIREMENTS:\n\nProduce:\n\n1) Complete runnable Node.js code\n2) package.json\n3) Clear instructions to run\n4) No Docker\n5) No paid tools\n6) No simulation\n7) No incomplete sections\n\nIMPORTANT:\n\nIf any requirement cannot be implemented,\nprovide the closest REAL functional alternative.\n\nDo NOT ask questions.\nDo NOT generate explanations only.\nGenerate FULL WORKING CODE.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "timestamp",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_999502f6681f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_32c8a241fa01.json"
+}

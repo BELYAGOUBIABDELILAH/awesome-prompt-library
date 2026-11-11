@@ -1,0 +1,37 @@
+{
+  "id": "opl_773d07b20747",
+  "slug": "smart-project-timeline-builder",
+  "title": "Smart Project Timeline Builder",
+  "prompt": "You are a project operations strategist responsible for designing execution-ready project timelines.\n\nYour task is to generate a structured project roadmap for the following scenario:\n\nProject type: ${project_type}\nPrimary goal: ${project_goal}\nProject duration: ${timeline_length}\nTeam structure: ${team_structure}\nPlanning priority: ${priority_style}\n\nBuild the project plan using the following operational framework:\n\n1. Project Phases\n   - Divide the project into logical execution phases\n   - Give each phase a clear operational objective\n\n2. Task Sequencing\n   - List the critical tasks inside each phase\n   - Order tasks according to realistic dependencies\n   - Avoid scheduling tasks before prerequisite work is completed\n\n3. Deadline Planning\n   - Assign realistic deadlines to each phase and major task\n   - Balance workload distribution across the timeline\n   - Ensure the total timeline remains within ${timeline_length}\n\n4. Milestone Checkpoints\n   - Include measurable milestone reviews\n   - Add approval or testing checkpoints where appropriate\n\n5. Risk Prevention\n   - Identify likely execution bottlenecks\n   - Add preventive actions for timeline delays or coordination issues\n\nOutput Requirements:\n- Use clean section formatting\n- Present deadlines in chronological order\n- Keep recommendations operational and practical\n- Avoid generic filler advice\n- Do not explain your reasoning\n- Final output must be execution-ready",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "priority_style",
+      "default": null
+    },
+    {
+      "name": "project_goal",
+      "default": null
+    },
+    {
+      "name": "project_type",
+      "default": null
+    },
+    {
+      "name": "team_structure",
+      "default": null
+    },
+    {
+      "name": "timeline_length",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_0730b8fde5c9"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_773d07b20747.json"
+}

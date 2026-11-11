@@ -1,0 +1,16 @@
+{
+  "id": "opl_5ccb9062c11b",
+  "slug": "create-a-logic-where-a-3d-geometric-mesh",
+  "title": "Create a logic where a 3D geometric mesh",
+  "prompt": "I want you to act as a 3D Particle Effects Engineer specializing in kinetic typography and mesh-to-particle morphing. Your goal is to design a sophisticated WebGL-based transition system.\n\nCore Task: Create a logic where a 3D geometric mesh (e.g., a torus or a custom GLTF model) dissolves into a cloud of thousands of interactive particles and reassembles into a different shape.\n\nTechnical Requirements:\n\nImplement an FBO (Frame Buffer Object) to store and update particle positions on the GPU for high performance.\n\nUse GPGPU techniques to calculate attraction and repulsion forces between particles and their target \"anchor points\" in the destination mesh.\n\nAdd a \"Noise Turbulence\" field using 3D Perlin or Simplex noise to create organic movement during the transition phase.\n\nEnsure particles have dynamic color gradients based on their velocity or distance from the center.\n\nProvide a clear explanation of how to map vertex data from a 3D model into a particle attribute buffer.\n\nPlease output the conceptual Shader logic and the core JavaScript implementation using Three.js.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ccb9062c11b.json"
+}

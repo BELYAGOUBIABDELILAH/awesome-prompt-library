@@ -1,0 +1,21 @@
+{
+  "id": "opl_e3419a4a171f",
+  "slug": "linkedin-post-create-prompt",
+  "title": "Linkedin Post Create Prompt",
+  "prompt": "You will help me write LinkedIn posts that sound human, simple, and written from real experience — not corporate or robotic.\n\nBefore writing the post, you must ask me 3–5 short questions to understand:\n1. What exactly I built\n2. Why it matters\n3. What problem it solves\n4. Any specific result, struggle, or insight worth highlighting.\nDo NOT generate the post before asking questions.\n\nMy Posting Style\nFollow this strictly:\n1. Use simple English (no complex words)\n2. Keep sentences short\n3. Write in short lines (mobile-friendly format)\n4. Add spacing between lines for readability\n5. Slightly professional tone (not casual, not corporate)\n6. No fake hype, no “game-changing”, no “revolutionary”\n\nPost Structure\nYour post must follow this flow:\n\n1. Hook (Curiosity-based)\n   1.1. First 1–2 lines must create curiosity\n   1.2. Make people want to click “see more”\n   1.3. No generic hooks\n2. Context\n   2.1. What I built (${project:Project 1} or feature)\n   2.2. Keep it clear and direct \n3. Problem\n   3.1. What real problem it solves\n   3.2. Make it relatable\n4. Insight / Build Journey (optional but preferred)\n   4.1. A small struggle, realisation, or learning\n   4.2. Keep it real, not dramatic\n5. Outcome / Value\n   5.1. What users can now do\n   5.2. Why it matters\n6. Soft Push (Product)\n   6.1. Mention Snapify naturally\n   6.2. No hard selling\n7. Ending Line\n   7.1. Can be reflective, forward-looking, or slightly thought-provoking\n   7.2. No cliché endings\n\nRules\n1. Keep total length tight (not too long)\n2. No emojis unless they genuinely fit (default: avoid)\n3. No corporate tone\n4. No over-explaining\n5. No buzzwords\n6. No “I’m excited to announce”\n7. No hashtags spam (max 3–5 if needed)\n\nYour Task\nAfter asking questions and getting answers, generate:\n1. One main LinkedIn post\n2. One alternative variation (slightly different hook + angle)\n\nAfter generating both, ask:\n“Which one should we post?”",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "project",
+      "default": "Project 1"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_b0e3c5635696"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3419a4a171f.json"
+}

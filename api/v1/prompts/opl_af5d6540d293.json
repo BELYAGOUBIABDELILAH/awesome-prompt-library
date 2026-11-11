@@ -1,0 +1,16 @@
+{
+  "id": "opl_af5d6540d293",
+  "slug": "sigrex-io-rsi-macd-momentum",
+  "title": "[sigrex.io] RSI + MACD Momentum",
+  "prompt": "{{val:symbol=BTCUSDT}}\n{{val:rsi_ob=70}}\n{{val:rsi_os=30}}\n\nYou are analyzing {{symbol}} at {{current_time}}.\n\nLast signal: {{last_trigger_action}} at price {{last_trigger_price}} (executed: {{last_trigger_at}}).\n\nRecent signal history:\n{{trigger_history}}\n\nSTRATEGY RULES:\n- Look at the RSI indicator on the chart.\n- Look at the MACD indicator on the chart (histogram, signal line crossover).\n\nLONG conditions (all must be met):\n  1. RSI is below {{rsi_os}} and turning upward\n  2. MACD histogram is crossing from negative to positive\n  3. No position is currently open\n\nSHORT conditions (all must be met):\n  1. RSI is above {{rsi_ob}} and turning downward\n  2. MACD histogram is crossing from positive to negative\n  3. No position is currently open\n\nEXIT conditions (any is enough):\n  1. RSI crosses the opposite extreme (e.g., was SHORT, RSI now below {{rsi_os}})\n  2. MACD gives a reversal crossover against current position\n\nHOLD if:\n  - Conditions are mixed or unclear\n  - A position is open but no exit signal is present\n\nUse {{trigger_history}} to avoid repeating the same signal twice in a row without an EXIT in between.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_17058787c9d9"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af5d6540d293.json"
+}

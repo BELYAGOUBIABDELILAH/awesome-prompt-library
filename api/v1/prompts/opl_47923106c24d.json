@@ -1,0 +1,29 @@
+{
+  "id": "opl_47923106c24d",
+  "slug": "optimize-database-queries",
+  "title": "Optimize Database Queries",
+  "prompt": "Analyze and optimize the following slow database query:\n\nDatabase Engine: ${engine:PostgreSQL}\nSchema / Table Definitions:\n${schema:Provide relevant table DDL, column types, and existing indexes}\n\nSlow Query:\n${query}\n\nYour task:\n1. Identify performance bottlenecks (sequential scans, unindexed joins, non-sargable WHERE predicates).\n2. Provide the rewritten, optimized SQL query.\n3. Recommend any composite or covering indexes with explanation.\n4. Show how to verify using EXPLAIN ANALYZE.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "engine",
+      "default": "PostgreSQL"
+    },
+    {
+      "name": "query",
+      "default": null
+    },
+    {
+      "name": "schema",
+      "default": "Provide relevant table DDL, column types, and existing indexes"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_5a7023191612"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47923106c24d.json"
+}

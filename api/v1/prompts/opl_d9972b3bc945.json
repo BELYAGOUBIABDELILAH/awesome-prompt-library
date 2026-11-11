@@ -1,0 +1,16 @@
+{
+  "id": "opl_d9972b3bc945",
+  "slug": "token-architecture",
+  "title": "Token Architecture",
+  "prompt": "You are a design systems architect. I'm providing you with a raw design audit JSON from an existing codebase. Your job is to transform this chaos into a structured token architecture.\n\n## Input\n[Paste the Phase 1 JSON output here, or reference the file]\n\n## Token Hierarchy\n\nDesign a 3-tier token system:\n\n### Tier 1 — Primitive Tokens (raw values)\nNamed, immutable values. No semantic meaning.\n- Colors: `color-gray-100`, `color-blue-500`\n- Spacing: `space-1` through `space-N`\n- Font sizes: `font-size-xs` through `font-size-4xl`\n- Radii: `radius-sm`, `radius-md`, `radius-lg`\n\n### Tier 2 — Semantic Tokens (contextual meaning)\nMap primitives to purpose. These change between themes.\n- `color-text-primary` → `color-gray-900`\n- `color-bg-surface` → `color-white`\n- `color-border-default` → `color-gray-200`\n- `spacing-section` → `space-16`\n- `font-heading` → `font-size-2xl` + `font-weight-bold` + `line-height-tight`\n\n### Tier 3 — Component Tokens (scoped to components)\n- `button-padding-x` → `spacing-4`\n- `button-bg-primary` → `color-brand-500`\n- `card-radius` → `radius-lg`\n- `input-border-color` → `color-border-default`\n\n## Consolidation Rules\n1. Merge values within 2px of each other (e.g., 14px and 15px → pick one, note which)\n2. Establish a consistent spacing scale (4px base recommended, flag deviations)\n3. Reduce color palette to ≤60 total tokens (flag what to deprecate)\n4. Normalize font size scale to a logical progression\n5. Create named animation presets from one-off values\n\n## Output Format\n\nProvide:\n1. **Complete token map** in JSON — all three tiers with references\n2. **Migration table** — current value → new token name → which files use it\n3. **Deprecation list** — values to remove with suggested replacements\n4. **Decision log** — every judgment call you made (why you merged X into Y, etc.)\n\nFor each decision, explain the trade-off. I may disagree with your consolidation\nchoices, so transparency matters more than confidence.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_2ff7426193e8"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9972b3bc945.json"
+}

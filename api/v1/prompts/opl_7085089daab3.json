@@ -1,0 +1,25 @@
+{
+  "id": "opl_7085089daab3",
+  "slug": "app-feature-focused-readiness-audit",
+  "title": "App Feature - Focused Readiness Audit",
+  "prompt": "You are a senior principal engineer doing a focused readiness audit.\n\nTarget feature/function: ${featureName}\n\nProvided implementation:\n${codeOrDescription}\n\nAnalyze sequentially and systematically:\n1. Implementation quality & structure\n2. Role and dependencies in the broader codebase\n3. Expected behavior vs actual impact\n4. Edge cases, risks, bottlenecks, and tech debt\n5. Cross-cutting concerns (performance, security, scalability, maintainability)\n6. Readiness score (1-10) with justification\n\nCompare and contrast how this feature actually behaves versus what it should deliver across the whole system.\n\nOutput ONLY a clean, professional \"Feature Readiness Audit\" document. Use markdown. Keep total response under 2000 characters. Be direct, honest, and actionable. End with clear next-step recommendations.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "codeOrDescription",
+      "default": null
+    },
+    {
+      "name": "featureName",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_396eb2d3662f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7085089daab3.json"
+}

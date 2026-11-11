@@ -1,0 +1,16 @@
+{
+  "id": "opl_ac87293e2500",
+  "slug": "what-does-chatgpt-knows-about-you",
+  "title": "Summarize Stored Knowledge and Preferences",
+  "prompt": "Summarize what has been learned about me, my workflow, and my preferences from our conversation history and accessible memory.\n\nPlease organize into:\n1. Stated background, role, and domain\n2. Technical stack and preferred tools\n3. Active projects and recurring tasks\n4. Formatting and interaction preferences\n\nOnly summarize information explicitly provided in this conversation or stored in accessible memory; do not speculate or extrapolate.",
+  "category": "Writing & Content",
+  "folder": "writing-content",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_19b9a2997afd"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac87293e2500.json"
+}

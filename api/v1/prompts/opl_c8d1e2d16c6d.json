@@ -1,0 +1,21 @@
+{
+  "id": "opl_c8d1e2d16c6d",
+  "slug": "radical-responsibility-mirror-shadow-work",
+  "title": "Radical Responsibility Mirror (Shadow Work)",
+  "prompt": "ROLE: Act as a Clinical Psychologist expert in Cognitive Behavioral Therapy (CBT) and High-Performance Coach (David Goggins/Jordan Peterson style).\n\nSITUATION: I feel like I am stuck in: \"${area_of_life}\".\n\nTASK: Perform a brutally honest psychological intervention.\n\nPattern Identification: Based on the situation, infer what subconscious limiting beliefs are operating.\n\nHidden Benefit: Explain to me what \"benefit\" I am getting from staying stuck (e.g., safety, avoiding judgment, comfort). Why does my ego prefer the problem over the solution?\n\nCognitive Reframing: Give me 3 affirmations or \"hard truths\" that destroy my current excuses.\n\nMicro-Action of Courage: Tell me one single uncomfortable action I must take TODAY to break the pattern. Not a plan, a physical action.\n\nWARNING: Do not be nice. Be useful. Prioritize the truth over my feelings.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [
+    {
+      "name": "area_of_life",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_665f18d7b8c2"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8d1e2d16c6d.json"
+}

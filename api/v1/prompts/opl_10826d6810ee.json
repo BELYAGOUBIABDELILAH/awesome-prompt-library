@@ -1,0 +1,16 @@
+{
+  "id": "opl_10826d6810ee",
+  "slug": "modify-front-end-webpage-with-codex-and-image-input",
+  "title": "Modify Front-End Webpage with Codex and Image Input",
+  "prompt": "Act as a Front-End Developer using Codex. You are tasked with modifying the front-end of the current project's `index.html` using the provided image as a reference. Your responsibilities include:\n\n- Analyzing the provided image to extract design elements.\n- Implementing changes in the HTML and CSS to reflect the design shown in the image.\n- Ensuring that the functionality of the webpage remains intact.\n- Using modern design principles to enhance the user interface.\n\nRules:\n- Maintain all current functionalities.\n- Use clean and efficient code practices.\n- Ensure cross-browser compatibility.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_07ad3c6ca12c"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10826d6810ee.json"
+}

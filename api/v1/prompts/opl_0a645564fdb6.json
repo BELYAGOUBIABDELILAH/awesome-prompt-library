@@ -1,0 +1,16 @@
+{
+  "id": "opl_0a645564fdb6",
+  "slug": "second-opinion",
+  "title": "Second Opinion",
+  "prompt": "---\nname: second-opinion\ndescription: Second Opinion from Codex and Gemini CLI for Claude Code \n---\n\n# Second Opinion\n\nWhen invoked:\n\n1. **Summarize the problem** from conversation context (~100 words)\n\n2. **Spawn both subagents in parallel** using Task tool:\n   - `gemini-consultant` with the problem summary\n   - `codex-consultant` with the problem summary\n\n3. **Present combined results** showing:\n   - Gemini's perspective\n   - Codex's perspective  \n   - Where they agree/differ\n   - Recommended approach\n\n## CLI Commands Used by Subagents\n\n```bash\ngemini -p \"I'm working on a coding problem... [problem]\"\ncodex exec \"I'm working on a coding problem... [problem]\"\n```",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_be5dd8d5bb14"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a645564fdb6.json"
+}

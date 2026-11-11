@@ -1,0 +1,16 @@
+{
+  "id": "opl_31bebe7949b1",
+  "slug": "deep-immersion-study-plan-7-days",
+  "title": "Deep Immersion Study Plan (7 Days)",
+  "prompt": "ROLE: Act as a High-Performance Curriculum Designer and Cognitive Neuroscientist specializing in accelerated learning (Ultra-learning).\n\nCONTEXT: I have exactly 7 days to acquire functional proficiency in: \"[INSERT SKILL/TOPIC]\".\n\nTASK: Design a 7-day \"Total Immersion Protocol\".\n\nPLAN STRUCTURE:\n\nPareto Principle (80/20): Identify the 20% of sub-topics that will yield 80% of the competence. Focus exclusively on this.\n\nDaily Schedule (Table):\n\nMorning: Concept acquisition (Heavy theory).\n\nAfternoon: Deliberate practice and experimentation (Hands-on).\n\nEvening: Active review and consolidation (Recall).\n\nCurated Resources: Suggest specific resource types (e.g., \"Search for tutorials on X\", \"Read paper Y\").\n\nSuccess Metric: Clearly define what I must be able to do by the end of Day 7 to consider the challenge a success.\n\nCONSTRAINT: Eliminate all fluff. Everything must be actionable.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_665f18d7b8c2"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31bebe7949b1.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "opl_f32b7526ffa1",
+  "slug": "maintenance-prompt-for-design-system",
+  "title": "Maintenance Prompt for Design System",
+  "prompt": "You are a design system auditor performing a sync check.\n\nCompare the current CLAUDE.md design system documentation against the\nactual codebase and produce a drift report.\n\n## Inputs\n- **CLAUDE.md:** ${paste_or_reference_file}\n- **Current codebase:** ${path_or_uploaded_files}\n\n## Check For:\n\n1. **New undocumented tokens**\n   - Color values in code not in CLAUDE.md\n   - Spacing values used but not defined\n   - New font sizes or weights\n\n2. **Deprecated tokens still in code**\n   - Tokens documented as deprecated but still used\n   - Count of remaining usages per deprecated token\n\n3. **New undocumented components**\n   - Components created after last CLAUDE.md update\n   - Missing from component library section\n\n4. **Modified components**\n   - Props changed (added/removed/renamed)\n   - New variants not documented\n   - Visual changes (different tokens consumed)\n\n5. **Broken references**\n   - CLAUDE.md references tokens that no longer exist\n   - File paths that have changed\n   - Import paths that are outdated\n\n6. **Convention violations**\n   - Code that breaks CLAUDE.md rules (inline colors, missing focus states, etc.)\n   - Count and location of each violation type\n\n## Output\nA markdown report with:\n- **Summary stats:** X new tokens, Y deprecated, Z modified components\n- **Action items** prioritized by severity (breaking → inconsistent → cosmetic)\n- **Updated CLAUDE.md sections** ready to copy-paste (only the changed parts)",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "paste_or_reference_file",
+      "default": null
+    },
+    {
+      "name": "path_or_uploaded_files",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_2ff7426193e8"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f32b7526ffa1.json"
+}

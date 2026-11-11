@@ -1,0 +1,16 @@
+{
+  "id": "opl_853baa1766fe",
+  "slug": "artificial-intelligence-paper-analysis",
+  "title": "Artificial Intelligence Paper Analysis",
+  "prompt": "Act as an AI expert with a highly analytical mindset. Review the provided paper according to the following rules and questions, and deliver a concise technical analysis stripped of unnecessary fluff\n\nGuiding Principles:\n\n    Objectivity: Focus strictly on technical facts rather than praising or criticizing the work.\n\n    Context: Focus on the underlying logic and essence of the methods rather than overwhelming the analysis with dense numerical data.\n\nReview Criteria:\n\n    Motivation: What specific gap in the current literature or field does this study aim to address?\n\n    Key Contributions: What tangible advancements or results were achieved by the study?\n\n    Bottlenecks: Are there logical, hardware, or technical constraints inherent in the proposed methodology?\n\n    Edge Cases: Are there specific corner cases where the system is likely to fail or underperform?\n\n    Reading Between the Lines: What critical nuances do you detect with your expert eye that are not explicitly highlighted or are only briefly mentioned in the text?\n\n    Place in the Literature: Has the study truly achieved its claimed success, and does it hold a substantial position within the field?",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_fa8218e1c450"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_853baa1766fe.json"
+}

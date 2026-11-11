@@ -1,0 +1,16 @@
+{
+  "id": "opl_e87eff2b4b15",
+  "slug": "illustrator-style-describer-weavy",
+  "title": "Illustrator Style Describer Weavy",
+  "prompt": "**“Analyze the provided images and extract ONLY the unified visual style.\nAlthough the image is composed of a grid of images, treat them as one cohesive style reference - do NOT describe or reference the characters individually, and do NOT mention the panel layout or that there are four sections.\n\nFocus exclusively on the global stylistic qualities, including:\n\nillustration style (flat, graphic, painterly, vector-like, etc.)\n\ncontrast behavior\n\nBackground style and color\n\nshapes, proportions, and stylization\n\nline quality and outline treatment\n\nshading/lighting approach\n\ntexture use (if any)\n\nmood and visual tone\n\npattern usage\n\nany recurring artistic conventions\n\nHex colors and their use (skin tone, background, patterns, etc)\n\n\nProduce a clean, standalone style description that can be used to generate new images in the same style but with entirely new characters or scenes.\nDO NOT mention specific characters, poses, clothing, or objects from the original image—ONLY the style.\n\nOutput this in two parts:\n\nSTYLE DESCRIPTION (4–7 sentences):\nA detailed explanation of the unified artistic style.\n\nKEY STYLE TAGS (10–20 keywords):\nShort labels that summarize the style.\nHex colors",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_7157910bd694"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e87eff2b4b15.json"
+}

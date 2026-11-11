@@ -1,0 +1,25 @@
+{
+  "id": "opl_7397334d1d01",
+  "slug": "project-breakdown",
+  "title": "Project Breakdown",
+  "prompt": "ROLE: Act as a Senior Project Manager certified in PMP and Agile Scrum Master with Fortune 500 experience.\n\nINPUT: My current project is: \"${describe_project}\".\n\nGOAL: I need a fail-proof execution plan.\n\nREASONING STEPS (CHAIN OF THOUGHT):\n\nDeconstruction: Break down the project into Logical Phases (Phase 1: Foundation, Phase 2: Development, Phase 3: Launch/Delivery).\n\nCritical Path: Identify the tasks that, if delayed, delay the entire project. Mark them as ${critical}.\n\nResource Allocation: For each phase, list the tools, skills, and human capital required.\n\nPre-mortem Analysis: Imagine the project has failed 3 months from now. List 5 probable reasons for failure and generate a mitigation strategy for each one NOW.\n\nFORMAT: Markdown table for the schedule and bulleted list for the risk analysis.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "critical",
+      "default": null
+    },
+    {
+      "name": "describe_project",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_665f18d7b8c2"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7397334d1d01.json"
+}

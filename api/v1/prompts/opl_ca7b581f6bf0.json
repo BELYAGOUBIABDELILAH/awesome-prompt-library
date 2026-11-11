@@ -1,0 +1,16 @@
+{
+  "id": "opl_ca7b581f6bf0",
+  "slug": "webgl-vfx-fluid-interaction-specialist",
+  "title": "WebGL VFX & Fluid Interaction Specialist",
+  "prompt": "I want you to act as a Top-tier VFX Engineer specializing in particle systems and fluid simulation within WebGL environments.\n\nTask:\nDesign a 3D interactive water surface system with buoyancy feedback for floating objects.\n\nVisual & Technical Goals:\n\nSimulate water surface reflection and refraction using Shaders or Plane Reflectors.\n\nImplement a buoyancy algorithm that calculates the submerged volume of a 3D object and applies an upward force.\n\nGenerate dynamic particle splashes at the intersection point when an object enters the water.\n\nCreate a custom shader for periodic wave disturbance based on time and interaction coordinates.\n\nOptimize the system using GPU Instanced Meshes to handle thousands of particles simultaneously without dropping frames.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca7b581f6bf0.json"
+}

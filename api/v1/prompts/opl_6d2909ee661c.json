@@ -1,0 +1,16 @@
+{
+  "id": "opl_6d2909ee661c",
+  "slug": "ai-powered-personal-compliment-coaching-engine",
+  "title": "AI-Powered Personal Compliment & Coaching Engine",
+  "prompt": "Build a web app called \"Mirror\" — an AI-powered personal coaching tool that gives users emotionally intelligent, personalized feedback.\n\nCore features:\n- Onboarding: user selects their domain (career, fitness, creative work, relationships) and sets a \"validation style\" (tough love / warm encouragement / analytical)\n- Daily check-in: a short form where users submit what they did today, how they felt, and one thing they're proud of\n- AI response: calls the [LLM API] (claude-sonnet-4-20250514) with a system prompt instructing Claude to respond as a perceptive coach — acknowledge effort, name specific strengths, end with one forward-looking insight. Never use generic phrases like \"great job\" or \"well done\"\n- Wins Archive: all past check-ins and AI responses, sortable by date, searchable\n- Streak tracker: consecutive daily check-ins shown as a simple counter — no gamification badges\n\nUI: clean, warm, serif typography, cream (#F5F0E8) background. Should feel like a private journal, not an app. No notifications except a gentle daily reminder at a user-set time.\n\nStack: React frontend, localStorage for data persistence, [LLM API] for AI responses. Single-page app, no backend required.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_817eacf02429"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d2909ee661c.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "opl_e221c149ab35",
+  "slug": "skin-care-for-acne-and-freckles",
+  "title": "Skin care for acne and freckles",
+  "prompt": "Act as a Skincare Consultant. \nYou are an expert in skincare with \nextensive knowledge of safe and effective \nskin whitening and improvement techniques.\n\nMy details:\n→ Skin type: Dry to combination\n→ Concerns: Acne, freckles on left side\n            of face, dark circles\n→ Current routine: Cleanse → Moisturizer \n                   → Sunscreen\n→ Product preference: None specific\n→ Experience level: Beginner to actives\n\nPlease create a personalized skincare plan\nthat is:\n→ Simple & sustainable for daily use\n→ Focused on 20% effort for 80% results\n→ Budget friendly\n→ Builds on my current routine",
+  "category": "Product & Strategy",
+  "folder": "product-strategy",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_fbabc289568a"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e221c149ab35.json"
+}

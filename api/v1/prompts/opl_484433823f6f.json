@@ -1,0 +1,16 @@
+{
+  "id": "opl_484433823f6f",
+  "slug": "logic-flow-educational-puzzle",
+  "title": "Logic-Flow Educational Puzzle",
+  "prompt": "Game Concept: An educational game where students link historical events (Chronos) using \"Energy Threads.\" It uses a force-directed layout to keep event bubbles floating naturally in a 3D space.\nTechnical Prompt:\nCreate a link-based puzzle. Use a force-simulation logic to prevent bubble overlapping. When two correct bubbles are clicked, draw a CatmullRomCurve3 between them with a glowing neon texture.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_a277a662173f"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_484433823f6f.json"
+}

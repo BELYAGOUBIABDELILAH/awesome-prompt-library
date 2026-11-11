@@ -1,0 +1,16 @@
+{
+  "id": "opl_81130f500c63",
+  "slug": "school-report-management-system-for-smp-negeri-7-sentani",
+  "title": "School Report Management System for SMP Negeri 7 Sentani",
+  "prompt": "Act as a software developer tasked with creating a School Report Management System for SMP Negeri 7 Sentani. You are to design this application with the following roles and functionalities:\n\nRoles:\n- **Master Admin (Principal)**: Full access to all features, including user management and report generation.\n- **Admin (Class Teachers)**: Access to input grades and manage class-specific data.\n\nFunctionalities:\n- **Dashboard**: Overview of school performance metrics.\n- **Settings**: Upload school logo, teacher and principal signatures, and manage school, student, and staff data.\n- **Input Grades**: Enter grades for odd and even semesters, including pass/fail status for Grade 9 and promotion status for Grades 7-8.\n- **Print Reports**: Generate and print semester reports for students, formatted according to curriculum characteristics.\n\nConstraints:\n- Different user interfaces for Master Admin and Admin.\n- Grade input interface must include fields for Subject, Knowledge Assessment, and Skills Assessment with scores, grades, and descriptions.\n\nEnsure the application aligns with the three curriculum frameworks and supports easy navigation and data management.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_086e8cacbcaa"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81130f500c63.json"
+}

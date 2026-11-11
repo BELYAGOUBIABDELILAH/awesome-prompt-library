@@ -1,0 +1,21 @@
+{
+  "id": "opl_4662a31a8bf9",
+  "slug": "senior-market-research-analyst-specializing-in-digital-advertising-and-cross-border-e-commerce",
+  "title": "senior market research analyst specializing in digital advertising and cross-border e-commerce.",
+  "prompt": "Role:\nAct as a senior market research analyst specializing in digital advertising and cross-border e-commerce.\n\nTask:\nCreate a detailed country entry report for ${insert_country_name}to help me sell products using Meta Ads (Facebook/Instagram) and TikTok Ads.\n\nAssumptions:\nI know nothing about this country — not its culture, economy, or digital landscape.\n\nReport Structure – follow exactly:\nCountry Introduction (geography, population, language, currency, internet penetration, mobile usage, and key cultural notes relevant to advertising).\nMarket Analysis for E-commerce & Social Commerce\nEconomic overview (GDP, disposable income, consumer spending trends)\nPopular payment methods\nLogistics & delivery considerations\n\nAd platform reach: Meta vs. TikTok (user demographics, engagement rates, ad costs if available)\nSocial Media Trends (specific to Meta & TikTok in that country)\nTop content formats (e.g., challenges, UGC, influencer niches)\nPeak engagement times\nCultural do's & don'ts for ads\nEmerging trends from the last 6 months\nMost Selling Products (by category) – list top 5–7 product categories currently trending on Meta/TikTok ads in that country, with 1 example per category.\nRecommended first 3 products to test + why they fit local trends.\n\nTone: Actionable, data-driven, and beginner-friendly.\n\nOutput language: English.\n\nall infomations must be from 2025 and 2026",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [
+    {
+      "name": "insert_country_name",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_8eaccbc9ffcb"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4662a31a8bf9.json"
+}

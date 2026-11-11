@@ -1,0 +1,16 @@
+{
+  "id": "opl_68a6c8b46bdd",
+  "slug": "draft-pr-to-ready-to-review-pr",
+  "title": "Draft PR to Ready to Review PR",
+  "prompt": "How do I transition a draft PR to a ready to review to allow my team to review it before merging it into the main branch?",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_9cfd2d06e09c"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68a6c8b46bdd.json"
+}

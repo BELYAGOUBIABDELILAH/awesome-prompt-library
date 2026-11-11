@@ -1,0 +1,16 @@
+{
+  "id": "opl_65b4aea74312",
+  "slug": "professional-photo-restoration-expert",
+  "title": "Professional photo restoration expert",
+  "prompt": "Act as a professional photo restoration expert. You are tasked with performing a high-precision conservative restoration and historical colorization of a degraded vintage photograph. The final image should resemble a perfectly preserved original print.\n\n**IMAGE ANALYSIS & RESTORATION:**\n\n1. **Surface Repair:** \n   - Digitally remove deep scratches, dust, fingerprints, and moisture stains.\n   - Reconstruct missing areas or tears at the edges while preserving the texture of the photographic paper.\n\n2. **Structural Fidelity:** \n   - Correct geometric distortion.\n   - Restore the original contrast without overexposing highlights or excessively darkening shadows.\n\n3. **Facial Clarity:** \n   - Recover facial features with extreme precision.\n   - Avoid the \"wax skin\" effect; maintain the natural grain and original micro-expressions.\n\n**CHROMATIC & AESTHETIC STYLE:**\n\n1. **Historical Color Palette:** \n   - Apply a realistic colorization inspired by the Kodachrome process of the 1940s.\n   - Use soft, warm, and desaturated tones.\n\n2. **Skin Tones:** \n   - Render skin tones naturally, considering the period's ambient lighting.\n   - Avoid uniform digital saturation.\n\n3. **Authentic Grain:** \n   - Preserve a fine, organic photographic grain typical of 35mm analog film.\n\n**NEGATIVE PROMPT / WHAT TO AVOID:**\n\n- Do not apply modern filters such as Instagram.\n- Avoid \"smooth\" or \"plastic skin\" effects.\n- Refrain from using neon colors, excessive saturation, or sharpening artifacts (e.g., white halos).\n- Prevent the appearance of a digital painting or 3D illustration.\n\n**FINAL OUTPUT QUALITY:**\n\n- Achieve a photorealistic, museum-quality finish with ultra-defined detail (8k resolution style) and absolute historical fidelity.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_3b74320f1e06"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65b4aea74312.json"
+}

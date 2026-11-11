@@ -1,0 +1,1087 @@
+{
+  "last_updated": "2026-11-11T19:11:14.076Z",
+  "page": 17,
+  "per_page": 100,
+  "total": 2672,
+  "total_pages": 27,
+  "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
+  "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
+  "prompts": [
+    {
+      "id": "opl_ca5ba9765d76",
+      "slug": "mongodb-helper",
+      "title": "MongoDB Helper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca5ba9765d76.json"
+    },
+    {
+      "id": "opl_4655c950679e",
+      "slug": "monitor-purchasing-advisor",
+      "title": "Monitor Purchasing Advisor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4655c950679e.json"
+    },
+    {
+      "id": "opl_f650a97fcba5",
+      "slug": "monotonous-newsletter-maker",
+      "title": "Monotonous Newsletter Maker",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f650a97fcba5.json"
+    },
+    {
+      "id": "opl_554b82a69074",
+      "slug": "monthly-updates",
+      "title": "Monthly Updates",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_554b82a69074.json"
+    },
+    {
+      "id": "opl_890c7e002f8d",
+      "slug": "moody-cinematic-portrait-photography",
+      "title": "Moody Cinematic Portrait Photography",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_890c7e002f8d.json"
+    },
+    {
+      "id": "opl_4b017088438d",
+      "slug": "moral-dilemma-choices",
+      "title": "Moral Dilemma Choices",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b017088438d.json"
+    },
+    {
+      "id": "opl_77e5377569c7",
+      "slug": "morning-coffee",
+      "title": "Morning coffee",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_77e5377569c7.json"
+    },
+    {
+      "id": "opl_63811265f6d3",
+      "slug": "morning-email-and-calendar-summary",
+      "title": "Morning Email And Calendar Summary",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_63811265f6d3.json"
+    },
+    {
+      "id": "opl_78499a4e433a",
+      "slug": "mothers-day",
+      "title": "Mothers day",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_78499a4e433a.json"
+    },
+    {
+      "id": "opl_5aebd22dee7e",
+      "slug": "motivational-coach",
+      "title": "Motivational Coach",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5aebd22dee7e.json"
+    },
+    {
+      "id": "opl_3c34aeca983a",
+      "slug": "motivational-speaker",
+      "title": "Motivational Speaker",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c34aeca983a.json"
+    },
+    {
+      "id": "opl_dd3ee155f757",
+      "slug": "movie-binge-strategist-on-call",
+      "title": "Movie Binge Strategist On Call",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dd3ee155f757.json"
+    },
+    {
+      "id": "opl_0ad8b058ebc4",
+      "slug": "movie-critic",
+      "title": "Movie Critic",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ad8b058ebc4.json"
+    },
+    {
+      "id": "opl_1a697decf44f",
+      "slug": "mppt-simulation",
+      "title": "MPPT Simulation仿真代码",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "algorithm",
+          "default": "Incremental Conductance"
+        },
+        {
+          "name": "software",
+          "default": "MATLAB"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a697decf44f.json"
+    },
+    {
+      "id": "opl_ae9111f88366",
+      "slug": "multi-agent-frameworks-guide",
+      "title": "Multi-Agent Frameworks Guide",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae9111f88366.json"
+    },
+    {
+      "id": "opl_14679da4e2e3",
+      "slug": "multi-audience-application-discovery-documentation-prompt",
+      "title": "Multi-Audience Application Discovery & Documentation Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14679da4e2e3.json"
+    },
+    {
+      "id": "opl_47e73b1d5e18",
+      "slug": "multi-tenant-data-isolation",
+      "title": "Multi-Tenant Data Isolation",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_47e73b1d5e18.json"
+    },
+    {
+      "id": "opl_91b538e4c251",
+      "slug": "multilingual-writing-improvement-assistant",
+      "title": "Multilingual Writing Improvement Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91b538e4c251.json"
+    },
+    {
+      "id": "opl_f12ec3bddf75",
+      "slug": "multimodal-ai-questions",
+      "title": "Multimodal AI Questions",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f12ec3bddf75.json"
+    },
+    {
+      "id": "opl_e4bd56ad3db0",
+      "slug": "multiplayer-3d-plane-game",
+      "title": "Multiplayer 3D Plane Game",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4bd56ad3db0.json"
+    },
+    {
+      "id": "opl_a231d06e63ce",
+      "slug": "m-nchener-skyline-als-umrissbild-darstellen",
+      "title": "Münchener Skyline als Umrissbild darstellen",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a231d06e63ce.json"
+    },
+    {
+      "id": "opl_705760cfec31",
+      "slug": "museum-steps-full-body-cultural",
+      "title": "Museum Steps (full-body, cultural)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_705760cfec31.json"
+    },
+    {
+      "id": "opl_a10adfac45cc",
+      "slug": "music-player",
+      "title": "Music Player",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a10adfac45cc.json"
+    },
+    {
+      "id": "opl_00c5444afc47",
+      "slug": "music-video-designer",
+      "title": "Music Video Designer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_00c5444afc47.json"
+    },
+    {
+      "id": "opl_d658dae745b0",
+      "slug": "musician-portfolio-website-design",
+      "title": "Musician Portfolio Website Design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "calendarLibrary",
+          "default": "FullCalendar"
+        },
+        {
+          "name": "layoutFramework",
+          "default": "CSS Grid"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d658dae745b0.json"
+    },
+    {
+      "id": "opl_b9b52321f043",
+      "slug": "muslim-imam",
+      "title": "Muslim Imam",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9b52321f043.json"
+    },
+    {
+      "id": "opl_90a822a1b669",
+      "slug": "m-zisyenler-i-in-kariyer-y-netimi-deste-i",
+      "title": "Müzisyenler için Kariyer Yönetimi Desteği",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "experienceLevel",
+          "default": "Beginner"
+        },
+        {
+          "name": "language",
+          "default": "Turkish"
+        },
+        {
+          "name": "musicStyle",
+          "default": "Indie"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90a822a1b669.json"
+    },
+    {
+      "id": "opl_e619183558ec",
+      "slug": "my-ideal-job-documenter",
+      "title": "My Ideal Job Documenter",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e619183558ec.json"
+    },
+    {
+      "id": "opl_66c6f1ca12e9",
+      "slug": "my-kalashala",
+      "title": "My Kalashala",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66c6f1ca12e9.json"
+    },
+    {
+      "id": "opl_f0aba3db64b4",
+      "slug": "2026-size-neler-getirecek",
+      "title": "Mystical 2026 Astrology Poster",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "birth_date",
+          "default": null
+        },
+        {
+          "name": "birth_place",
+          "default": null
+        },
+        {
+          "name": "birth_time",
+          "default": null
+        },
+        {
+          "name": "ref_image",
+          "default": null
+        },
+        {
+          "name": "tr_or_en",
+          "default": null
+        },
+        {
+          "name": "user_uploaded_image",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0aba3db64b4.json"
+    },
+    {
+      "id": "opl_df7129346485",
+      "slug": "n8n-agent-implementation",
+      "title": "N8N Agent Implementation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_df7129346485.json"
+    },
+    {
+      "id": "opl_b526987361f7",
+      "slug": "n8n-automation-ideator",
+      "title": "N8N Automation Ideator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b526987361f7.json"
+    },
+    {
+      "id": "opl_715a0835186c",
+      "slug": "n8n-script-writer",
+      "title": "N8N Script Writer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_715a0835186c.json"
+    },
+    {
+      "id": "opl_42ae41de67f9",
+      "slug": "n8n-workflow-editor",
+      "title": "N8N Workflow Editor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42ae41de67f9.json"
+    },
+    {
+      "id": "opl_fcfe9d0dd9a2",
+      "slug": "name-and-prompt-for-digital-avatar-application",
+      "title": "Name and Prompt for Digital Avatar Application",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcfe9d0dd9a2.json"
+    },
+    {
+      "id": "opl_92bd40007621",
+      "slug": "name-my-bot",
+      "title": "Name My Bot",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_92bd40007621.json"
+    },
+    {
+      "id": "opl_a2e3faf6b462",
+      "slug": "nano-banana-pro-prompt-generator-instruction-outputs-json-bl",
+      "title": "Nano Banana Pro Prompt Generator Instruction (Outputs JSON blocks like these)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2e3faf6b462.json"
+    },
+    {
+      "id": "opl_dc08e8e310f1",
+      "slug": "nanobanana-try-clothing",
+      "title": "nanobanana try clothing",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dc08e8e310f1.json"
+    },
+    {
+      "id": "opl_40edc16be67f",
+      "slug": "narcissistic-emotional-abuse-gaslighting-identifier",
+      "title": "Narcissistic & Emotional Abuse: Gaslighting Identifier",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40edc16be67f.json"
+    },
+    {
+      "id": "opl_a084a9602383",
+      "slug": "narcissistic-personality-disorder",
+      "title": "Narcissistic Personality Disorder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a084a9602383.json"
+    },
+    {
+      "id": "opl_85bc45ae2d4f",
+      "slug": "narrative-momentum-prediction-engine",
+      "title": "Narrative Momentum Prediction Engine",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85bc45ae2d4f.json"
+    },
+    {
+      "id": "opl_96c02e7af37f",
+      "slug": "narrative-point-of-view-transformer",
+      "title": "Narrative Point of View Transformer",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96c02e7af37f.json"
+    },
+    {
+      "id": "opl_808ead823329",
+      "slug": "national-safety-week",
+      "title": "National safety week",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_808ead823329.json"
+    },
+    {
+      "id": "opl_853c4a0bda43",
+      "slug": "native-english-editor",
+      "title": "Native English Editor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_853c4a0bda43.json"
+    },
+    {
+      "id": "opl_cd8627a3b9fe",
+      "slug": "natural-language-schema-definition-mongodb",
+      "title": "Natural Language Schema Definition - MongoDB",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd8627a3b9fe.json"
+    },
+    {
+      "id": "opl_c9ad3dea2c81",
+      "slug": "natural-language-schema-definition-neo4j",
+      "title": "Natural Language Schema Definition Neo4j",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9ad3dea2c81.json"
+    },
+    {
+      "id": "opl_5f209dff50bc",
+      "slug": "natural-language-to-csv",
+      "title": "Natural Language To CSV",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f209dff50bc.json"
+    },
+    {
+      "id": "opl_ce705d50236d",
+      "slug": "natural-language-to-json",
+      "title": "Natural Language To JSON",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce705d50236d.json"
+    },
+    {
+      "id": "opl_fbe7790d4e52",
+      "slug": "natural-language-to-sql",
+      "title": "Natural Language to SQL",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbe7790d4e52.json"
+    },
+    {
+      "id": "opl_d1fc09a208d1",
+      "slug": "natural-language-to-yaml",
+      "title": "Natural Language To YAML",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d1fc09a208d1.json"
+    },
+    {
+      "id": "opl_9db571502ee7",
+      "slug": "navigate-large-codebase-quickly",
+      "title": "Navigate Large Codebase Quickly",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9db571502ee7.json"
+    },
+    {
+      "id": "opl_565f0bd783b4",
+      "slug": "nbx",
+      "title": "NBX",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_565f0bd783b4.json"
+    },
+    {
+      "id": "opl_6b3941ff33dc",
+      "slug": "neo4j-helper",
+      "title": "Neo4j Helper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b3941ff33dc.json"
+    },
+    {
+      "id": "opl_a0536087661c",
+      "slug": "neon-flow-grid-snake",
+      "title": "Neon Flow Grid Snake",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a0536087661c.json"
+    },
+    {
+      "id": "opl_9df8057b4afc",
+      "slug": "network-engineer",
+      "title": "Network Engineer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "deadline",
+          "default": "two weeks"
+        },
+        {
+          "name": "environment",
+          "default": "corporate"
+        },
+        {
+          "name": "equipmentType",
+          "default": "routers"
+        },
+        {
+          "name": "networkType",
+          "default": "LAN"
+        },
+        {
+          "name": "priority",
+          "default": "medium"
+        },
+        {
+          "name": "securityLevel",
+          "default": "high"
+        },
+        {
+          "name": "taskType",
+          "default": "configuration"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9df8057b4afc.json"
+    },
+    {
+      "id": "opl_c8f3a99a40c7",
+      "slug": "network-engineer-home-edition",
+      "title": "Network Engineer: Home Edition",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8f3a99a40c7.json"
+    },
+    {
+      "id": "opl_d5d9e5f7fbc7",
+      "slug": "network-packet-analyzer-cli",
+      "title": "Network Packet Analyzer CLI",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5d9e5f7fbc7.json"
+    },
+    {
+      "id": "opl_f4408d7c691a",
+      "slug": "network-router-emulator",
+      "title": "Network Router emulator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4408d7c691a.json"
+    },
+    {
+      "id": "opl_0c7056cce6f8",
+      "slug": "networking-engineer-portfolio-website",
+      "title": "Networking Engineer Portfolio Website",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "contactEmail",
+          "default": null
+        },
+        {
+          "name": "name",
+          "default": null
+        },
+        {
+          "name": "skills",
+          "default": "Network Design, Network Security, Troubleshooting"
+        },
+        {
+          "name": "theme",
+          "default": "dark"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c7056cce6f8.json"
+    },
+    {
+      "id": "opl_30c4e1b512a9",
+      "slug": "networking-hardware-advice",
+      "title": "Networking Hardware Advice",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_30c4e1b512a9.json"
+    },
+    {
+      "id": "opl_d9140c2d27dc",
+      "slug": "neurodivergence-explorer",
+      "title": "Neurodivergence Explorer",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9140c2d27dc.json"
+    },
+    {
+      "id": "opl_4d1e6cd9e7c1",
+      "slug": "new-language-creator",
+      "title": "New Language Creator",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d1e6cd9e7c1.json"
+    },
+    {
+      "id": "opl_b59764a0925d",
+      "slug": "new-year-celebration-video-for-antioch-textile",
+      "title": "New Year Celebration Video for Antioch Textile",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b59764a0925d.json"
+    },
+    {
+      "id": "opl_12c2ba5f12db",
+      "slug": "new-youtube-ideas",
+      "title": "New YouTube Ideas",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12c2ba5f12db.json"
+    },
+    {
+      "id": "opl_ef47a924d490",
+      "slug": "news-article-summary-generator",
+      "title": "News Article Summary Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef47a924d490.json"
+    },
+    {
+      "id": "opl_7240ec79aaa7",
+      "slug": "news-brief-generator",
+      "title": "News Brief Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7240ec79aaa7.json"
+    },
+    {
+      "id": "opl_a3f44ea44b70",
+      "slug": "news-roundup-by-topic",
+      "title": "News Roundup By Topic",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3f44ea44b70.json"
+    },
+    {
+      "id": "opl_40936007f4dd",
+      "slug": "next-js",
+      "title": "Next.js",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40936007f4dd.json"
+    },
+    {
+      "id": "opl_fa0fb6dadcfe",
+      "slug": "next-js-react-comprehensive-clash-of-clans-tool",
+      "title": "Next.js React Comprehensive Clash of Clans Tool",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "featureList",
+          "default": "formation copying, strategy teaching, community discussion"
+        },
+        {
+          "name": "framework",
+          "default": "Next.js"
+        },
+        {
+          "name": "library",
+          "default": "React"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa0fb6dadcfe.json"
+    },
+    {
+      "id": "opl_507d80210d04",
+      "slug": "next-js-specialized-front-end-developer",
+      "title": "Next.js Specialized Front-End Developer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_507d80210d04.json"
+    },
+    {
+      "id": "opl_690bba1dc52d",
+      "slug": "nfc-expert",
+      "title": "NFC Expert",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_690bba1dc52d.json"
+    },
+    {
+      "id": "opl_82d1ffdb9261",
+      "slug": "nigeria",
+      "title": "Nigeria",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82d1ffdb9261.json"
+    },
+    {
+      "id": "opl_b02b76ece173",
+      "slug": "night-balcony-scene-in-ankara-with-efes",
+      "title": "Night Balcony Scene in Ankara with Efes",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b02b76ece173.json"
+    },
+    {
+      "id": "opl_8f263c5147e8",
+      "slug": "night-club",
+      "title": "Night club",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8f263c5147e8.json"
+    },
+    {
+      "id": "opl_9b7fd8ba3f8a",
+      "slug": "night-neon-alley-half-body-edgy",
+      "title": "Night Neon Alley (half-body, edgy)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b7fd8ba3f8a.json"
+    },
+    {
+      "id": "opl_e4725ab756a4",
+      "slug": "night-shift-dessert-shop",
+      "title": "Night Shift Dessert Shop",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4725ab756a4.json"
+    },
+    {
+      "id": "opl_a1ea772ae7a0",
+      "slug": "nightclub-booth-flash-half-body-party-candids",
+      "title": "Nightclub Booth Flash (half-body, party candids)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a1ea772ae7a0.json"
+    },
+    {
+      "id": "opl_6d94ee619fb1",
+      "slug": "nightclub-mirror-selfie",
+      "title": "Nightclub Mirror Selfie",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d94ee619fb1.json"
+    },
+    {
+      "id": "opl_f3553b7a95a7",
+      "slug": "nightlife-candid-flash-photography",
+      "title": "Nightlife Candid Flash Photography",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3553b7a95a7.json"
+    },
+    {
+      "id": "opl_a6e93c08f969",
+      "slug": "nixos-linux-specialist",
+      "title": "NixOS Linux Specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e93c08f969.json"
+    },
+    {
+      "id": "opl_d5d052551582",
+      "slug": "no-bs-marketing-strategist",
+      "title": "No-BS Marketing Strategist",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5d052551582.json"
+    },
+    {
+      "id": "opl_cb8faa2637a6",
+      "slug": "nocodb-development-copilot",
+      "title": "NocoDB Development Copilot",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb8faa2637a6.json"
+    },
+    {
+      "id": "opl_7e98b3c5ec3d",
+      "slug": "nocodb-formula-generator",
+      "title": "NocoDB Formula Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e98b3c5ec3d.json"
+    },
+    {
+      "id": "opl_6cc5774dfeb7",
+      "slug": "node-web-app-for-czech-invoice-pdf-generation",
+      "title": "Node Web App for Czech Invoice PDF Generation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "outputPath",
+          "default": null
+        },
+        {
+          "name": "provisionRules",
+          "default": null
+        },
+        {
+          "name": "xmlData",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6cc5774dfeb7.json"
+    },
+    {
+      "id": "opl_3d333aa75ece",
+      "slug": "node-js-automation-script-developer",
+      "title": "Node.js Automation Script Developer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "taskType",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d333aa75ece.json"
+    },
+    {
+      "id": "opl_c609e279a607",
+      "slug": "noise-sensitivity-support",
+      "title": "Noise Sensitivity Support",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c609e279a607.json"
+    },
+    {
+      "id": "opl_03d000089ea2",
+      "slug": "non-medical-expense-calculator-for-hospital-bills",
+      "title": "Non-Medical Expense Calculator for Hospital Bills",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "currency",
+          "default": "USD"
+        },
+        {
+          "name": "language",
+          "default": "English"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03d000089ea2.json"
+    },
+    {
+      "id": "opl_f1539c67cc61",
+      "slug": "non-personal-email-challenge",
+      "title": "Non-Personal Email Challenge",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1539c67cc61.json"
+    },
+    {
+      "id": "opl_3b94005802b0",
+      "slug": "non-technical-it-help-clarity-assistant",
+      "title": "Non-Technical IT Help & Clarity Assistant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b94005802b0.json"
+    },
+    {
+      "id": "opl_4484fe99e3d6",
+      "slug": "nooms-brand-story-portfolio-background-storytelling-format",
+      "title": "NOOMS Brand Story & Portfolio Background – Storytelling Format",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4484fe99e3d6.json"
+    },
+    {
+      "id": "opl_7186b754819f",
+      "slug": "nostalgic-road-trip-atmospheric-35mm-film-photograph-prompt",
+      "title": "Nostalgic Road Trip - Atmospheric 35mm Film Photograph Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7186b754819f.json"
+    },
+    {
+      "id": "opl_1472379e8395",
+      "slug": "note",
+      "title": "Note",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1472379e8395.json"
+    },
+    {
+      "id": "opl_dbfe5a9befed",
+      "slug": "note-guru",
+      "title": "Note Guru",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "archive_folder",
+          "default": "old"
+        },
+        {
+          "name": "main_folder",
+          "default": null
+        },
+        {
+          "name": "path_to_folder",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": "#"
+        },
+        {
+          "name": "topic_max",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbfe5a9befed.json"
+    },
+    {
+      "id": "opl_f5e599ff3733",
+      "slug": "note-taking-assistant",
+      "title": "Note-Taking assistant",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f5e599ff3733.json"
+    },
+    {
+      "id": "opl_f0542746a92c",
+      "slug": "notebooklm-lecture-notes",
+      "title": "notebooklm_lecture_notes",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0542746a92c.json"
+    },
+    {
+      "id": "opl_04491defe0ec",
+      "slug": "notion-transcript-designer-prompt",
+      "title": "Notion Transcript Designer Prompt",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04491defe0ec.json"
+    },
+    {
+      "id": "opl_c6f52e30e8b4",
+      "slug": "novelist",
+      "title": "Novelist",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6f52e30e8b4.json"
+    },
+    {
+      "id": "opl_c9ce63cb5594",
+      "slug": "numerology-expert-guidance",
+      "title": "Numerology Expert Guidance",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "birthDate",
+          "default": null
+        },
+        {
+          "name": "fullName",
+          "default": null
+        },
+        {
+          "name": "language",
+          "default": "Russia"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9ce63cb5594.json"
+    },
+    {
+      "id": "opl_25b782b4a993",
+      "slug": "nurse",
+      "title": "Nurse",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25b782b4a993.json"
+    },
+    {
+      "id": "opl_1c54153e4699",
+      "slug": "nutritionist",
+      "title": "Nutritionist",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c54153e4699.json"
+    }
+  ]
+}
