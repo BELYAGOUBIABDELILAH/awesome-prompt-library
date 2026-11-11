@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1078 prompts in this category**
+**1079 prompts in this category**
 
 ## Table of Contents
 
@@ -1052,6 +1052,7 @@
 - [Version Review](version-review.md)
 - [Vibe Coding Master](vibe-coding-master.md)
 - [Vibe Coding with Commands and Skills](vibe-coding-with-commands-and-skills.md)
+- [Vibe Coding with Modern Designs and SEO](vibe-coding-with-modern-designs-and-seo.md)
 - [Vibrant Fauvist Style Sunlit Living Room Illustration](vibrant-fauvist-style-sunlit-living-room-illustration.md)
 - [Video extractor prompt](video-extractor-prompt.md)
 - [Video review and teacher](video-review-and-teacher.md)

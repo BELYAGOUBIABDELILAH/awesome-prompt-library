@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T22:20:40.582Z",
+  "last_updated": "2026-11-11T23:20:45.886Z",
   "page": 27,
   "per_page": 100,
-  "total": 2675,
+  "total": 2676,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_cf2b4f2e7197",
+      "slug": "voice-conversation-coach",
+      "title": "Voice Conversation Coach",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf2b4f2e7197.json"
+    },
     {
       "id": "opl_3dfbc550f265",
       "slug": "vr-headset-experience-simulator",
