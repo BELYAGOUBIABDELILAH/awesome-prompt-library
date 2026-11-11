@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 14,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_a115f383422e",
+      "slug": "interdisciplinary-connections-and-applications",
+      "title": "Interdisciplinary Connections and Applications",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a115f383422e.json"
+    },
     {
       "id": "opl_574bbcf062d7",
       "slug": "interior-decorator",
@@ -1053,15 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33de18a44b74.json"
-    },
-    {
-      "id": "opl_b8b492281df4",
-      "slug": "lead-data-analyst-for-actionable-insights",
-      "title": "Lead Data Analyst for Actionable Insights",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b8b492281df4.json"
     }
   ]
 }

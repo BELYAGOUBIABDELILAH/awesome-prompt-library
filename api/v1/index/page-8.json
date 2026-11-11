@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 8,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
@@ -233,6 +233,15 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ac8df9dc203.json"
+    },
+    {
+      "id": "opl_f4af36697973",
+      "slug": "custom-poster-and-wallpaper-design-with-image-upload",
+      "title": "Custom Poster and Wallpaper Design with Image Upload",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4af36697973.json"
     },
     {
       "id": "opl_e33543f574fb",
@@ -1249,15 +1258,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd55f06a61f9.json"
-    },
-    {
-      "id": "opl_29e94698a289",
-      "slug": "design-user-interface-components",
-      "title": "Design User Interface Components",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29e94698a289.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 19,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_fd42dc46dc9a",
+      "slug": "philosophy-teacher",
+      "title": "Philosophy Teacher",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd42dc46dc9a.json"
+    },
     {
       "id": "opl_7560136c647d",
       "slug": "photo-emhanced",
@@ -1238,15 +1247,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6c83b8d2aba.json"
-    },
-    {
-      "id": "opl_1052a137a821",
-      "slug": "programmable-keyboards",
-      "title": "Programmable Keyboards",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1052a137a821.json"
     }
   ]
 }

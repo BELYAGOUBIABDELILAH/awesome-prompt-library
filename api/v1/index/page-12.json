@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 12,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_d279c71ce649",
+      "slug": "giant-object-in-city",
+      "title": "Giant Object in City",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [
+        {
+          "name": "date",
+          "default": null
+        },
+        {
+          "name": "location",
+          "default": null
+        },
+        {
+          "name": "object",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d279c71ce649.json"
+    },
     {
       "id": "opl_64e9dda08ed2",
       "slug": "gifted-adult-helper",
@@ -1013,15 +1035,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9eb13dea0260.json"
-    },
-    {
-      "id": "opl_d0bfe077ed98",
-      "slug": "horoscope-l",
-      "title": "Horoscope l",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0bfe077ed98.json"
     }
   ]
 }

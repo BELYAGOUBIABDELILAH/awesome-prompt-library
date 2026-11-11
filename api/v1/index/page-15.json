@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 15,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_b8b492281df4",
+      "slug": "lead-data-analyst-for-actionable-insights",
+      "title": "Lead Data Analyst for Actionable Insights",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b8b492281df4.json"
+    },
     {
       "id": "opl_61d6f639ad8f",
       "slug": "lead-data-analyst-with-data-engineering-expertise",
@@ -1033,24 +1042,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_928127979184.json"
-    },
-    {
-      "id": "opl_f32b7526ffa1",
-      "slug": "maintenance-prompt-for-design-system",
-      "title": "Maintenance Prompt for Design System",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "paste_or_reference_file",
-          "default": null
-        },
-        {
-          "name": "path_or_uploaded_files",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f32b7526ffa1.json"
     }
   ]
 }

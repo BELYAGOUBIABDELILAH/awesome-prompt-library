@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 21,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_21721b391d32",
+      "slug": "realistic-food-image-generator",
+      "title": "Realistic Food Image Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "FOOD_NAME",
+          "default": "Fried chicken tenders with french fries"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_21721b391d32.json"
+    },
     {
       "id": "opl_6b9bd925efac",
       "slug": "realistic-i-mage-json-prompt",
@@ -1097,15 +1111,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d4334c8e07e4.json"
-    },
-    {
-      "id": "opl_e0c11649bc92",
-      "slug": "school-life-mentor",
-      "title": "School Life Mentor",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0c11649bc92.json"
     }
   ]
 }

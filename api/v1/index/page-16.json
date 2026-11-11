@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 16,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_f32b7526ffa1",
+      "slug": "maintenance-prompt-for-design-system",
+      "title": "Maintenance Prompt for Design System",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "paste_or_reference_file",
+          "default": null
+        },
+        {
+          "name": "path_or_uploaded_files",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f32b7526ffa1.json"
+    },
     {
       "id": "opl_bc18b8e6736c",
       "slug": "make-ai-responses-sound-more-human-like",
@@ -1162,15 +1180,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10826d6810ee.json"
-    },
-    {
-      "id": "opl_7aa81dc33df1",
-      "slug": "module-wrap-up-next-steps-video-generation",
-      "title": "Module Wrap-Up & Next Steps Video Generation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7aa81dc33df1.json"
     }
   ]
 }

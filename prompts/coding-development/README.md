@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1077 prompts in this category**
+**1078 prompts in this category**
 
 ## Table of Contents
 
@@ -302,6 +302,7 @@
 - [Custom Doc Generator](custom-doc-generator.md)
 - [Custom Localization and AI Integration for Apps](custom-localization-and-ai-integration-for-apps.md)
 - [Custom Logo Design for Website](custom-logo-design-for-website.md)
+- [Custom Poster and Wallpaper Design with Image Upload](custom-poster-and-wallpaper-design-with-image-upload.md)
 - [Custom Tech Doc Creator](custom-tech-doc-creator.md)
 - [Customer Complaint Reply System](customer-complaint-reply-system.md)
 - [Customizable Job Scanner](customizable-job-scanner.md)

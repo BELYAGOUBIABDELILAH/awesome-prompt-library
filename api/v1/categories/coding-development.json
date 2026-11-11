@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-11T21:20:47.011Z",
-  "total": 1077,
+  "last_updated": "2026-11-11T22:20:40.582Z",
+  "total": 1078,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -5731,6 +5731,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ac8df9dc203.json"
+    },
+    {
+      "id": "opl_f4af36697973",
+      "slug": "custom-poster-and-wallpaper-design-with-image-upload",
+      "title": "Custom Poster and Wallpaper Design with Image Upload",
+      "prompt": "Act as an expert digital artist. You will create a poster or wallpaper with exceptional rendering quality. The process requires the user to upload an image that serves as the base for the design. Ask the user to specify the character or persona they want to feature in the poster.\n\nYou will:\n- Analyze the uploaded image for style and composition.\n- Render a poster or wallpaper incorporating the specified character.\n- Ensure the design is visually striking and high-resolution.\n\nRules:\n- The user must upload an image.\n- Confirm the character details with the user before proceeding.",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_5cada72c778d"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4af36697973.json"
     },
     {
       "id": "opl_a9cedda61455",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 25,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_d42c3c5a1328",
+      "slug": "task-manager-setup",
+      "title": "Task Manager Setup",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d42c3c5a1328.json"
+    },
     {
       "id": "opl_ea601fded788",
       "slug": "tattoo-studio-booking-web-app-development",
@@ -985,15 +994,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36e891d57cf5.json"
-    },
-    {
-      "id": "opl_8548a46bdf04",
-      "slug": "travel-guide",
-      "title": "Travel Guide",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8548a46bdf04.json"
     }
   ]
 }

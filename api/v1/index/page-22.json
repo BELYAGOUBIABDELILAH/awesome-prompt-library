@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 22,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_e0c11649bc92",
+      "slug": "school-life-mentor",
+      "title": "School Life Mentor",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0c11649bc92.json"
+    },
     {
       "id": "opl_81130f500c63",
       "slug": "school-report-management-system-for-smp-negeri-7-sentani",
@@ -1230,15 +1239,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f13263bb5ca.json"
-    },
-    {
-      "id": "opl_1be06113a63d",
-      "slug": "small-functional-analyst-mode",
-      "title": "Small Functional Analyst mode",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1be06113a63d.json"
     }
   ]
 }

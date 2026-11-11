@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 9,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_29e94698a289",
+      "slug": "design-user-interface-components",
+      "title": "Design User Interface Components",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29e94698a289.json"
+    },
     {
       "id": "opl_582598e81265",
       "slug": "designing-a-feature-testing-page-for-enterprise-wechat-dingtalk",
@@ -1078,15 +1087,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e80dce9b871.json"
-    },
-    {
-      "id": "opl_2d81ef5e9c7a",
-      "slug": "dut-citation-accuracy-project",
-      "title": "DUT Citation Accuracy Project",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2d81ef5e9c7a.json"
     }
   ]
 }

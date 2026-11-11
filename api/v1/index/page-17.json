@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 17,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_7aa81dc33df1",
+      "slug": "module-wrap-up-next-steps-video-generation",
+      "title": "Module Wrap-Up & Next Steps Video Generation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7aa81dc33df1.json"
+    },
     {
       "id": "opl_9b5e072a011f",
       "slug": "mom-and-boy",
@@ -1077,28 +1086,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6f52e30e8b4.json"
-    },
-    {
-      "id": "opl_c9ce63cb5594",
-      "slug": "numerology-expert-guidance",
-      "title": "Numerology Expert Guidance",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "birthDate",
-          "default": null
-        },
-        {
-          "name": "fullName",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": "Russia"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9ce63cb5594.json"
     }
   ]
 }

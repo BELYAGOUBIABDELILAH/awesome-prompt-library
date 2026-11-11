@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 13,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_d0bfe077ed98",
+      "slug": "horoscope-l",
+      "title": "Horoscope l",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0bfe077ed98.json"
+    },
     {
       "id": "opl_4410f34fde6c",
       "slug": "horror-story-in-hindi",
@@ -1109,15 +1118,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be57fee3a0a7.json"
-    },
-    {
-      "id": "opl_a115f383422e",
-      "slug": "interdisciplinary-connections-and-applications",
-      "title": "Interdisciplinary Connections and Applications",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a115f383422e.json"
     }
   ]
 }

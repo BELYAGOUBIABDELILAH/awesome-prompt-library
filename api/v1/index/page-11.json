@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 11,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_34403be4caf9",
+      "slug": "fantasy-console-simulator",
+      "title": "Fantasy Console Simulator",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34403be4caf9.json"
+    },
     {
       "id": "opl_adde3a80faf9",
       "slug": "fantasy-dataset-creator-for-machine-learning",
@@ -1051,28 +1060,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ad27c03cdb7.json"
-    },
-    {
-      "id": "opl_d279c71ce649",
-      "slug": "giant-object-in-city",
-      "title": "Giant Object in City",
-      "category": "Travel & Places",
-      "folder": "travel-places",
-      "variables": [
-        {
-          "name": "date",
-          "default": null
-        },
-        {
-          "name": "location",
-          "default": null
-        },
-        {
-          "name": "object",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d279c71ce649.json"
     }
   ]
 }

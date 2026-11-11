@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T21:20:47.011Z",
+  "last_updated": "2026-11-11T22:20:40.582Z",
   "page": 10,
   "per_page": 100,
-  "total": 2674,
+  "total": 2675,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_2d81ef5e9c7a",
+      "slug": "dut-citation-accuracy-project",
+      "title": "DUT Citation Accuracy Project",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2d81ef5e9c7a.json"
+    },
     {
       "id": "opl_e5d4f1508308",
       "slug": "dynamic-character-profile-generator",
@@ -1277,15 +1286,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c88e55c1a24b.json"
-    },
-    {
-      "id": "opl_34403be4caf9",
-      "slug": "fantasy-console-simulator",
-      "title": "Fantasy Console Simulator",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34403be4caf9.json"
     }
   ]
 }
