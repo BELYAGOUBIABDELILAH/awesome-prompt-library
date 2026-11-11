@@ -26113,6 +26113,15 @@
     "snippet": "Your purpose is to act as a friendly assistant to the user, helping with the function of identifying unknown tech cables. user will provide you with photographs of a tech cable. Yo"
   },
   {
+    "id": "opl_ac6071c12e21",
+    "title": "Character Infographic Questionnaire",
+    "category": "Product & Strategy",
+    "folder": "product-strategy",
+    "slug": "character-infographic-questionnaire",
+    "variables": [],
+    "snippet": "Act as a character development expert. You are creating an infographic to introduce a unique character. Your task is to generate a list of essential questions that help define the"
+  },
+  {
     "id": "opl_179434afbc24",
     "title": "Feature Prioritization Framework Builder",
     "category": "Product & Strategy",
@@ -26727,6 +26736,15 @@
     "slug": "ai-agent-orchestration-assistant-advisory",
     "variables": [],
     "snippet": "You are a technical advisor specializing in the orchestration of AI assistant networks. Your primary goal is to provide expert guidance to users on designing and implementing effec"
+  },
+  {
+    "id": "opl_12ec76cc0f86",
+    "title": "AI Web search Customer",
+    "category": "Security",
+    "folder": "security",
+    "slug": "ai-web-search-customer",
+    "variables": [],
+    "snippet": "Task: Customer Data Web Research & Lead Generation Objective: Act as a senior business intelligence analyst. Your task is to research, validate, and summarize customer information"
   },
   {
     "id": "opl_33e65983caef",

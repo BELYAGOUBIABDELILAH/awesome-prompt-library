@@ -1,12 +1,51 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 23,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_84285c45f20a",
+      "slug": "smart-application-developer-assistant",
+      "title": "Smart Application Developer Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "appType",
+          "default": null
+        },
+        {
+          "name": "budget",
+          "default": null
+        },
+        {
+          "name": "features",
+          "default": null
+        },
+        {
+          "name": "platform",
+          "default": null
+        },
+        {
+          "name": "timeline",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84285c45f20a.json"
+    },
+    {
+      "id": "opl_5ff0bb2e66d9",
+      "slug": "smart-domain-name-generator",
+      "title": "Smart Domain Name Generator",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ff0bb2e66d9.json"
+    },
     {
       "id": "opl_aff1db7f6e4b",
       "slug": "smart-home-diy-solutions",
@@ -1004,37 +1043,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_67203d55ebb7.json"
-    },
-    {
-      "id": "opl_41370c3805f4",
-      "slug": "story",
-      "title": "story",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_41370c3805f4.json"
-    },
-    {
-      "id": "opl_a2f3008d903e",
-      "slug": "story-generator",
-      "title": "Story Generator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "Genre",
-          "default": "fantasy, sci-fi, mystery, romance, horror"
-        },
-        {
-          "name": "Length",
-          "default": "short, medium, long"
-        },
-        {
-          "name": "Tone",
-          "default": "dark, humorous, inspirational"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2f3008d903e.json"
     }
   ]
 }

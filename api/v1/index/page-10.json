@@ -1,12 +1,71 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 10,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_e5d4f1508308",
+      "slug": "dynamic-character-profile-generator",
+      "title": "Dynamic character profile generator",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e5d4f1508308.json"
+    },
+    {
+      "id": "opl_ee1c4c546780",
+      "slug": "dynamic-chinese-fire-horse-celebration",
+      "title": "Dynamic Chinese Fire Horse Celebration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "additional_mood",
+          "default": "Excitement and joy radiate from all characters"
+        },
+        {
+          "name": "artistic_style",
+          "default": "Chinese ink wash with dynamic, flowing lines that capture rapid movement. The brushstrokes are bold and energetic, creating a sense of rushing movement and intensity"
+        },
+        {
+          "name": "color_meaning",
+          "default": "warmth, joy, and celebration"
+        },
+        {
+          "name": "color_palette",
+          "default": "Vibrant reds, golds, oranges, blacks, white highlights for intensity, contrasting with additional accent colors"
+        },
+        {
+          "name": "companion_character",
+          "default": "a mysterious ethereal character"
+        },
+        {
+          "name": "composition",
+          "default": "Vertical portrait, the horse and companion moving diagonally across the frame, with dynamic elements creating movement in the background. The motion creates a sense of forward momentum"
+        },
+        {
+          "name": "environment_elements",
+          "default": "festive red Chinese lanterns bursting throughout, and fireworks illuminating the night sky in brilliant reds, golds, and oranges"
+        },
+        {
+          "name": "flame_colors",
+          "default": "golden and crimson flames"
+        },
+        {
+          "name": "mood",
+          "default": "Vibrant, celebratory, passionate, energetic"
+        },
+        {
+          "name": "style_balance",
+          "default": "the traditional aesthetic with celebratory elements"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee1c4c546780.json"
+    },
     {
       "id": "opl_c387809e62df",
       "slug": "dynamic-cover-letter-generator",
@@ -1227,33 +1286,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34403be4caf9.json"
-    },
-    {
-      "id": "opl_adde3a80faf9",
-      "slug": "fantasy-dataset-creator-for-machine-learning",
-      "title": "Fantasy Dataset Creator for Machine Learning",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_adde3a80faf9.json"
-    },
-    {
-      "id": "opl_f9349eb86c8c",
-      "slug": "faq-generator",
-      "title": "FAQ Generator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "language",
-          "default": null
-        },
-        {
-          "name": "Product/Service/Project/Company/Industry Description",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9349eb86c8c.json"
     }
   ]
 }

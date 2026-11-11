@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 12,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_64e9dda08ed2",
+      "slug": "gifted-adult-helper",
+      "title": "Gifted Adult Helper",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_64e9dda08ed2.json"
+    },
+    {
+      "id": "opl_073d496cbb79",
+      "slug": "girl-of-dreams",
+      "title": "Girl of Dreams",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_073d496cbb79.json"
+    },
     {
       "id": "opl_e28a7b19a8f8",
       "slug": "girl-taking-selfie-with-avatar-characters-in-cinema",
@@ -1004,33 +1022,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0bfe077ed98.json"
-    },
-    {
-      "id": "opl_4410f34fde6c",
-      "slug": "horror-story-in-hindi",
-      "title": "Horror Story in Hindi",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4410f34fde6c.json"
-    },
-    {
-      "id": "opl_f1a202e3435d",
-      "slug": "hospital-pharmacy-course-pdf-study-assistant",
-      "title": "Hospital Pharmacy Course PDF Study Assistant",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "pdfTitle",
-          "default": null
-        },
-        {
-          "name": "sectionFocus",
-          "default": "General Overview"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1a202e3435d.json"
     }
   ]
 }

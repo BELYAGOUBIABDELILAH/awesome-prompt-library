@@ -1,12 +1,50 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 4,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prompts": [
+    {
+      "id": "opl_fabe451f53a3",
+      "slug": "ast-code-analysis-superpower",
+      "title": "AST Code Analysis Superpower",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "analysis_focus",
+          "default": "security"
+        },
+        {
+          "name": "framework",
+          "default": "React"
+        },
+        {
+          "name": "language",
+          "default": "javascript"
+        },
+        {
+          "name": "max_nesting",
+          "default": "3"
+        },
+        {
+          "name": "sample_size",
+          "default": "10"
+        },
+        {
+          "name": "severity_level",
+          "default": "ERROR"
+        },
+        {
+          "name": "simple_code_lines",
+          "default": "50"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fabe451f53a3.json"
+    },
     {
       "id": "opl_1fdb00c50c4c",
       "slug": "astrologer",
@@ -1114,15 +1152,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ea4c4ba9e7f.json"
-    },
-    {
-      "id": "opl_0fee12603cdd",
-      "slug": "buddha",
-      "title": "Buddha",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0fee12603cdd.json"
     }
   ]
 }

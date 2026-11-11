@@ -1,12 +1,39 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 20,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_7397334d1d01",
+      "slug": "project-breakdown",
+      "title": "Project Breakdown",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "critical",
+          "default": null
+        },
+        {
+          "name": "describe_project",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7397334d1d01.json"
+    },
+    {
+      "id": "opl_25852e884e42",
+      "slug": "project-builder",
+      "title": "Project Builder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25852e884e42.json"
+    },
     {
       "id": "opl_badf0fb03bad",
       "slug": "project-evaluation-for-production-decision",
@@ -1083,24 +1110,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_21721b391d32.json"
-    },
-    {
-      "id": "opl_6b9bd925efac",
-      "slug": "realistic-i-mage-json-prompt",
-      "title": "Realistic İmage JSON Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b9bd925efac.json"
-    },
-    {
-      "id": "opl_0eff21b3c783",
-      "slug": "realistic-mirror-selfie-image-prompt",
-      "title": "Realistic Mirror-Selfie Image Prompt",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0eff21b3c783.json"
     }
   ]
 }

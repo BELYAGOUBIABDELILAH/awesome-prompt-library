@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 3,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prompts": [
+    {
+      "id": "opl_12ec76cc0f86",
+      "slug": "ai-web-search-customer",
+      "title": "AI Web search Customer",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12ec76cc0f86.json"
+    },
     {
       "id": "opl_49bf7807f6e7",
       "slug": "ai-workflow-automation-specialist",
@@ -1127,44 +1136,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c7230231a4a.json"
-    },
-    {
-      "id": "opl_fabe451f53a3",
-      "slug": "ast-code-analysis-superpower",
-      "title": "AST Code Analysis Superpower",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "analysis_focus",
-          "default": "security"
-        },
-        {
-          "name": "framework",
-          "default": "React"
-        },
-        {
-          "name": "language",
-          "default": "javascript"
-        },
-        {
-          "name": "max_nesting",
-          "default": "3"
-        },
-        {
-          "name": "sample_size",
-          "default": "10"
-        },
-        {
-          "name": "severity_level",
-          "default": "ERROR"
-        },
-        {
-          "name": "simple_code_lines",
-          "default": "50"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fabe451f53a3.json"
     }
   ]
 }

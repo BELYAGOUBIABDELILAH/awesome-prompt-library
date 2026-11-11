@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 18,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_25b782b4a993",
+      "slug": "nurse",
+      "title": "Nurse",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25b782b4a993.json"
+    },
+    {
+      "id": "opl_1c54153e4699",
+      "slug": "nutritionist",
+      "title": "Nutritionist",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c54153e4699.json"
+    },
     {
       "id": "opl_a03d001fd94c",
       "slug": "objection-handling",
@@ -1109,24 +1127,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd42dc46dc9a.json"
-    },
-    {
-      "id": "opl_7560136c647d",
-      "slug": "photo-emhanced",
-      "title": "Photo emhanced",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7560136c647d.json"
-    },
-    {
-      "id": "opl_de10e7847f71",
-      "slug": "photo-enhancement-and-repair-with-transparent-background",
-      "title": "Photo Enhancement and Repair with Transparent Background",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_de10e7847f71.json"
     }
   ]
 }

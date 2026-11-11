@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 6,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_b3cb1214e9e8",
+      "slug": "cinematic-thriller-silhouette",
+      "title": "Cinematic Thriller Silhouette",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3cb1214e9e8.json"
+    },
+    {
+      "id": "opl_eabcd4aa3577",
+      "slug": "cinematic-triptych-a-day-in-the-countryside",
+      "title": "Cinematic Triptych: A Day in the Countryside",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eabcd4aa3577.json"
+    },
     {
       "id": "opl_ade6f777babb",
       "slug": "cinematic-ultra-realistic-image-to-video-prompt-engineer",
@@ -1241,29 +1259,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f08b70baa5b6.json"
-    },
-    {
-      "id": "opl_a90a68bed1b4",
-      "slug": "conference-invitation-email",
-      "title": "Conference Invitation Email",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "topic",
-          "default": "Innovative Technologies"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a90a68bed1b4.json"
-    },
-    {
-      "id": "opl_dd26d5863071",
-      "slug": "consolidate-duplicate-code",
-      "title": "Consolidate Duplicate Code",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dd26d5863071.json"
     }
   ]
 }

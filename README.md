@@ -55,14 +55,14 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [AI & Automation](prompts/ai-automation) | 121 | Agent prompts, workflow scripts, and system setup |
 | [General](prompts/general) | 86 | Everyday productivity, brainstorming, and utilities |
 | [Education & Learning](prompts/education-learning) | 74 | Explanations, study guides, and concept breakdowns |
-| [Security](prompts/security) | 63 | Code auditing, threat modeling, and security policy |
+| [Security](prompts/security) | 64 | Code auditing, threat modeling, and security policy |
 | [Business & Career](prompts/business-career) | 58 | Resumes, cover letters, and workplace communication |
 | [Documentation](prompts/documentation) | 57 | Technical specs, README files, and API docs |
 | [Health & Wellness](prompts/health-wellness) | 29 | Fitness planning, nutrition ideas, and habit tracking |
 | [Research & Analysis](prompts/research-analysis) | 25 | Literature review, synthesis, and comparative analysis |
 | [Games & Fun](prompts/games-fun) | 20 | Interactive games, roleplay, and trivia |
 | [Sales & Business](prompts/sales-business) | 20 | Outreach emails, pitch decks, and discovery questions |
-| [Product & Strategy](prompts/product-strategy) | 16 | Feature specs, roadmaps, and competitive analysis |
+| [Product & Strategy](prompts/product-strategy) | 17 | Feature specs, roadmaps, and competitive analysis |
 | [Travel & Places](prompts/travel-places) | 5 | Itineraries, city guides, and travel planning |
 | [Food & Recipes](prompts/food-recipes) | 3 | Recipe generation, meal ideas, and cooking advice |
 | [Philosophy & Humanities](prompts/philosophy-humanities) | 1 | Ethics, philosophy, and critical thinking |

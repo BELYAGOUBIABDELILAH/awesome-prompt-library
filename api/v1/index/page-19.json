@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 19,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_7560136c647d",
+      "slug": "photo-emhanced",
+      "title": "Photo emhanced",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7560136c647d.json"
+    },
+    {
+      "id": "opl_de10e7847f71",
+      "slug": "photo-enhancement-and-repair-with-transparent-background",
+      "title": "Photo Enhancement and Repair with Transparent Background",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_de10e7847f71.json"
+    },
     {
       "id": "opl_cb4ceedb067e",
       "slug": "photo-shoot-for-branding",
@@ -1229,33 +1247,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1052a137a821.json"
-    },
-    {
-      "id": "opl_7397334d1d01",
-      "slug": "project-breakdown",
-      "title": "Project Breakdown",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "critical",
-          "default": null
-        },
-        {
-          "name": "describe_project",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7397334d1d01.json"
-    },
-    {
-      "id": "opl_25852e884e42",
-      "slug": "project-builder",
-      "title": "Project Builder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25852e884e42.json"
     }
   ]
 }

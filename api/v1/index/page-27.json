@@ -1,12 +1,39 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 27,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_9a678834565a",
+      "slug": "vr-horror-death-chatroom-simulator",
+      "title": "VR Horror Death Chatroom Simulator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "environment",
+          "default": "abandoned_mansion"
+        },
+        {
+          "name": "intensity",
+          "default": "medium"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a678834565a.json"
+    },
+    {
+      "id": "opl_4a239b53c5c0",
+      "slug": "vscode-codetour-expert-agent",
+      "title": "VSCode CodeTour Expert Agent",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4a239b53c5c0.json"
+    },
     {
       "id": "opl_15afc0159c52",
       "slug": "vulnerability-auditor-agent-role",

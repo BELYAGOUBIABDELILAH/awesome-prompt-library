@@ -1,12 +1,35 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 7,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_a90a68bed1b4",
+      "slug": "conference-invitation-email",
+      "title": "Conference Invitation Email",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "topic",
+          "default": "Innovative Technologies"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a90a68bed1b4.json"
+    },
+    {
+      "id": "opl_dd26d5863071",
+      "slug": "consolidate-duplicate-code",
+      "title": "Consolidate Duplicate Code",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dd26d5863071.json"
+    },
     {
       "id": "opl_fe6b2e690902",
       "slug": "constraint-first-recipe-generator-playful-edition",
@@ -1226,41 +1249,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_89da3c9de2eb.json"
-    },
-    {
-      "id": "opl_9a853f570394",
-      "slug": "cruelty-free-beauty-product-checker",
-      "title": "Cruelty-Free Beauty Product Checker",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "cruelty_free_kitty",
-          "default": null
-        },
-        {
-          "name": "leaping_bunny",
-          "default": null
-        },
-        {
-          "name": "urban_decay",
-          "default": null
-        },
-        {
-          "name": "versed",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a853f570394.json"
-    },
-    {
-      "id": "opl_39d17082b932",
-      "slug": "cryptic-messenger",
-      "title": "Cryptic Messenger",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39d17082b932.json"
     }
   ]
 }

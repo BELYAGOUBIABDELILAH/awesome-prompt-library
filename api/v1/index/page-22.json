@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 22,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_81130f500c63",
+      "slug": "school-report-management-system-for-smp-negeri-7-sentani",
+      "title": "School Report Management System for SMP Negeri 7 Sentani",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81130f500c63.json"
+    },
+    {
+      "id": "opl_2b2168b9482e",
+      "slug": "scientific-calculator",
+      "title": "Scientific Calculator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b2168b9482e.json"
+    },
     {
       "id": "opl_27b3ce1a4ec8",
       "slug": "scientific-data-visualizer",
@@ -1221,45 +1239,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1be06113a63d.json"
-    },
-    {
-      "id": "opl_84285c45f20a",
-      "slug": "smart-application-developer-assistant",
-      "title": "Smart Application Developer Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "appType",
-          "default": null
-        },
-        {
-          "name": "budget",
-          "default": null
-        },
-        {
-          "name": "features",
-          "default": null
-        },
-        {
-          "name": "platform",
-          "default": null
-        },
-        {
-          "name": "timeline",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84285c45f20a.json"
-    },
-    {
-      "id": "opl_5ff0bb2e66d9",
-      "slug": "smart-domain-name-generator",
-      "title": "Smart Domain Name Generator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ff0bb2e66d9.json"
     }
   ]
 }

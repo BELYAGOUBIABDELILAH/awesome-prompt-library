@@ -1,12 +1,43 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 24,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_41370c3805f4",
+      "slug": "story",
+      "title": "story",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_41370c3805f4.json"
+    },
+    {
+      "id": "opl_a2f3008d903e",
+      "slug": "story-generator",
+      "title": "Story Generator",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "Genre",
+          "default": "fantasy, sci-fi, mystery, romance, horror"
+        },
+        {
+          "name": "Length",
+          "default": "short, medium, long"
+        },
+        {
+          "name": "Tone",
+          "default": "dark, humorous, inspirational"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2f3008d903e.json"
+    },
     {
       "id": "opl_3b9f9a1ef1e1",
       "slug": "storyboard-grid",
@@ -1035,29 +1066,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d42c3c5a1328.json"
-    },
-    {
-      "id": "opl_ea601fded788",
-      "slug": "tattoo-studio-booking-web-app-development",
-      "title": "Tattoo Studio Booking Web App Development",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea601fded788.json"
-    },
-    {
-      "id": "opl_5ce2ad85bfa7",
-      "slug": "tcre-framework-ai-prompt-engineer",
-      "title": "TCRE Framework - AI Prompt Engineer",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [
-        {
-          "name": "insert_objective",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ce2ad85bfa7.json"
     }
   ]
 }

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 21,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_6b9bd925efac",
+      "slug": "realistic-i-mage-json-prompt",
+      "title": "Realistic İmage JSON Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b9bd925efac.json"
+    },
+    {
+      "id": "opl_0eff21b3c783",
+      "slug": "realistic-mirror-selfie-image-prompt",
+      "title": "Realistic Mirror-Selfie Image Prompt",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0eff21b3c783.json"
+    },
     {
       "id": "opl_6fa2c4d73547",
       "slug": "realistic-mirror-selfie-scene-creation",
@@ -1088,24 +1106,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0c11649bc92.json"
-    },
-    {
-      "id": "opl_81130f500c63",
-      "slug": "school-report-management-system-for-smp-negeri-7-sentani",
-      "title": "School Report Management System for SMP Negeri 7 Sentani",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81130f500c63.json"
-    },
-    {
-      "id": "opl_2b2168b9482e",
-      "slug": "scientific-calculator",
-      "title": "Scientific Calculator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b2168b9482e.json"
     }
   ]
 }

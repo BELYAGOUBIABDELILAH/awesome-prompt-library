@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**63 prompts in this category**
+**64 prompts in this category**
 
 ## Table of Contents
 
@@ -12,6 +12,7 @@
 - [🚀 STRATEGIC MODE](strategic-mode.md)
 - [🛡️ RED TEAM MODE](red-team-mode.md)
 - [AI Agent Orchestration Assistant (Advisory)](ai-agent-orchestration-assistant-advisory.md)
+- [AI Web search Customer](ai-web-search-customer.md)
 - [Analyze Security Scan Results](analyze-security-scan-results.md)
 - [Android Forensics](android-forensics.md)
 - [Assess Third-Party Dependency Risks](assess-third-party-dependency-risks.md)

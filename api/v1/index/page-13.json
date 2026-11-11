@@ -1,12 +1,39 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 13,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_4410f34fde6c",
+      "slug": "horror-story-in-hindi",
+      "title": "Horror Story in Hindi",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4410f34fde6c.json"
+    },
+    {
+      "id": "opl_f1a202e3435d",
+      "slug": "hospital-pharmacy-course-pdf-study-assistant",
+      "title": "Hospital Pharmacy Course PDF Study Assistant",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "pdfTitle",
+          "default": null
+        },
+        {
+          "name": "sectionFocus",
+          "default": "General Overview"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1a202e3435d.json"
+    },
     {
       "id": "opl_29edca344305",
       "slug": "hostile-interview-simulator",
@@ -1091,24 +1118,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a115f383422e.json"
-    },
-    {
-      "id": "opl_574bbcf062d7",
-      "slug": "interior-decorator",
-      "title": "Interior Decorator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_574bbcf062d7.json"
-    },
-    {
-      "id": "opl_71819a84070f",
-      "slug": "internal-documentation-generation-assistant",
-      "title": "Internal Documentation Generation Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_71819a84070f.json"
     }
   ]
 }

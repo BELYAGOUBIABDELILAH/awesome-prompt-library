@@ -1,0 +1,16 @@
+{
+  "id": "opl_12ec76cc0f86",
+  "slug": "ai-web-search-customer",
+  "title": "AI Web search Customer",
+  "prompt": "Task: Customer Data Web Research & Lead Generation\nObjective: Act as a senior business intelligence analyst. Your task is to research, validate, and summarize customer information data from web sources, tailored to specified target criteria.\n\nResearch Parameters\nTarget Industry: [e.g., SaaS, Manufacturing]\n\nCompany Size: [e.g., 50-200 employees]\n\nGeography: [e.g., North America]\n\nKey Contacts/Decision Makers: [e.g., CTO, VP of Sales]\n\nGuidelines & Constraints\nPersona: Act as a thorough research analyst. Focus on accurate, verifiable contact and firmographic data.\n\nEvidence Threshold: Only include data that can be cross-verified from at least two independent web sources (e.g., LinkedIn profile + corporate website). If information cannot be verified, flag as unconfirmed.\n\nSource Prioritization: Prioritize professional networks (LinkedIn, Crunchbase), official company websites, press releases, and credible business directories. Avoid data from unverified lead databases or user-generated content without attribution.\n\nExclusion Criteria: Do not suggest generic search tips. Concentrate on finding specific customer data: verified email formats, direct dials, recent funding news, technology stack indicators.\n\nCompliance: Ensure all research methods adhere to data privacy regulations (GDPR, CCPA) and terms of service of the platforms searched. Do not scrape or use personal data unethically.\n\nRequired Output Format\nValidated Leads: List organizations and contacts with verified details and source URLs.\n\nUnconfirmed Leads: Potential matches with some evidence, clearly marked as needing further validation.\n\nMarket Insights: Aggregated trends or common characteristics observed across the researched customer segment.\n\nRisks & Data Decay: Note when data was sourced and potential for outdated information.",
+  "category": "Security",
+  "folder": "security",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_bda8e1835c37"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12ec76cc0f86.json"
+}

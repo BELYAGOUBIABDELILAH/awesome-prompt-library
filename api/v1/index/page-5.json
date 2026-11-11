@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 5,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_0fee12603cdd",
+      "slug": "buddha",
+      "title": "Buddha",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0fee12603cdd.json"
+    },
     {
       "id": "opl_f0a8f3af3515",
       "slug": "budget-request-generator",
@@ -687,6 +696,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33963e08dfbe.json"
     },
     {
+      "id": "opl_ac6071c12e21",
+      "slug": "character-infographic-questionnaire",
+      "title": "Character Infographic Questionnaire",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac6071c12e21.json"
+    },
+    {
       "id": "opl_37927f86c6b6",
       "slug": "character-sheet",
       "title": "CHARACTER SHEET",
@@ -1081,24 +1099,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8a61512ca56b.json"
-    },
-    {
-      "id": "opl_b3cb1214e9e8",
-      "slug": "cinematic-thriller-silhouette",
-      "title": "Cinematic Thriller Silhouette",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3cb1214e9e8.json"
-    },
-    {
-      "id": "opl_eabcd4aa3577",
-      "slug": "cinematic-triptych-a-day-in-the-countryside",
-      "title": "Cinematic Triptych: A Day in the Countryside",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eabcd4aa3577.json"
     }
   ]
 }

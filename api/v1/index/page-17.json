@@ -1,12 +1,47 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 17,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_9b5e072a011f",
+      "slug": "mom-and-boy",
+      "title": "Mom and boy",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b5e072a011f.json"
+    },
+    {
+      "id": "opl_9b0caed2c960",
+      "slug": "monetization-strategy-for-blockchain-based-merging-games",
+      "title": "Monetization Strategy for Blockchain-Based Merging Games",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "blockchainPlatform",
+          "default": "Sui"
+        },
+        {
+          "name": "gameName",
+          "default": "Merging Game"
+        },
+        {
+          "name": "globalTrends",
+          "default": "Global"
+        },
+        {
+          "name": "targetMarket",
+          "default": "Turkey"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b0caed2c960.json"
+    },
     {
       "id": "opl_ca5ba9765d76",
       "slug": "mongodb-helper",
@@ -1064,24 +1099,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c9ce63cb5594.json"
-    },
-    {
-      "id": "opl_25b782b4a993",
-      "slug": "nurse",
-      "title": "Nurse",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25b782b4a993.json"
-    },
-    {
-      "id": "opl_1c54153e4699",
-      "slug": "nutritionist",
-      "title": "Nutritionist",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c54153e4699.json"
     }
   ]
 }

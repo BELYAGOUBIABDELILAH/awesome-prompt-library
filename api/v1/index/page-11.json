@@ -1,12 +1,39 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 11,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_adde3a80faf9",
+      "slug": "fantasy-dataset-creator-for-machine-learning",
+      "title": "Fantasy Dataset Creator for Machine Learning",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_adde3a80faf9.json"
+    },
+    {
+      "id": "opl_f9349eb86c8c",
+      "slug": "faq-generator",
+      "title": "FAQ Generator",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "language",
+          "default": null
+        },
+        {
+          "name": "Product/Service/Project/Company/Industry Description",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9349eb86c8c.json"
+    },
     {
       "id": "opl_b057b71f1c56",
       "slug": "farmers-market-colorful-produce-candid",
@@ -1046,24 +1073,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d279c71ce649.json"
-    },
-    {
-      "id": "opl_64e9dda08ed2",
-      "slug": "gifted-adult-helper",
-      "title": "Gifted Adult Helper",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_64e9dda08ed2.json"
-    },
-    {
-      "id": "opl_073d496cbb79",
-      "slug": "girl-of-dreams",
-      "title": "Girl of Dreams",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_073d496cbb79.json"
     }
   ]
 }

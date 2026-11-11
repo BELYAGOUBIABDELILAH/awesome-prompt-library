@@ -1,0 +1,16 @@
+{
+  "id": "opl_ac6071c12e21",
+  "slug": "character-infographic-questionnaire",
+  "title": "Character Infographic Questionnaire",
+  "prompt": "Act as a character development expert. You are creating an infographic to introduce a unique character.\n\nYour task is to generate a list of essential questions that help define the character’s core traits and original elements.\n\nYou will:\n- Focus on questions that bring out the character’s personality, background, and motivations\n- Avoid irrelevant or superficial questions\n\nRules:\n- Ensure questions are open-ended to allow for detailed responses\n- Cover aspects like characterBackground, characterPersonality, and characterMotivations\n- Maintain a tone that is engaging\n\nExamples of questions:\n1. What is the character’s primary motivation?\n2. How does their background influence their actions?\n3. What are their key personality traits?\n4. How do they respond to challenges?\n5. What is the character’s name?\n6. What unique features or abilities does the character have?\n7. What is the character's story or background?",
+  "category": "Product & Strategy",
+  "folder": "product-strategy",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_5cada72c778d"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac6071c12e21.json"
+}

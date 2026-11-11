@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 16,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_bc18b8e6736c",
+      "slug": "make-ai-responses-sound-more-human-like",
+      "title": "Make AI responses sound more Human-like",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc18b8e6736c.json"
+    },
+    {
+      "id": "opl_7f029d4cb708",
+      "slug": "make-ai-write-naturally",
+      "title": "Make AI write naturally",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7f029d4cb708.json"
+    },
     {
       "id": "opl_529aa447df01",
       "slug": "make-flowers-bloom-in-an-image",
@@ -1153,41 +1171,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7aa81dc33df1.json"
-    },
-    {
-      "id": "opl_9b5e072a011f",
-      "slug": "mom-and-boy",
-      "title": "Mom and boy",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b5e072a011f.json"
-    },
-    {
-      "id": "opl_9b0caed2c960",
-      "slug": "monetization-strategy-for-blockchain-based-merging-games",
-      "title": "Monetization Strategy for Blockchain-Based Merging Games",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "blockchainPlatform",
-          "default": "Sui"
-        },
-        {
-          "name": "gameName",
-          "default": "Merging Game"
-        },
-        {
-          "name": "globalTrends",
-          "default": "Global"
-        },
-        {
-          "name": "targetMarket",
-          "default": "Turkey"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b0caed2c960.json"
     }
   ]
 }

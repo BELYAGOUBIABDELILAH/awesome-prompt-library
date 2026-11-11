@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-11T19:11:14.076Z",
+  "last_updated": "2026-11-11T21:20:47.011Z",
   "page": 9,
   "per_page": 100,
-  "total": 2672,
+  "total": 2674,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_582598e81265",
+      "slug": "designing-a-feature-testing-page-for-enterprise-wechat-dingtalk",
+      "title": "Designing a Feature Testing Page for Enterprise WeChat/DingTalk",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_582598e81265.json"
+    },
+    {
+      "id": "opl_d1d6735c921f",
+      "slug": "desktop-upgrade-planner",
+      "title": "Desktop Upgrade Planner",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d1d6735c921f.json"
+    },
     {
       "id": "opl_03e08310cf8f",
       "slug": "detailed-analysis-of-youtube-channels-databases-and-profiles",
@@ -1069,65 +1087,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2d81ef5e9c7a.json"
-    },
-    {
-      "id": "opl_e5d4f1508308",
-      "slug": "dynamic-character-profile-generator",
-      "title": "Dynamic character profile generator",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e5d4f1508308.json"
-    },
-    {
-      "id": "opl_ee1c4c546780",
-      "slug": "dynamic-chinese-fire-horse-celebration",
-      "title": "Dynamic Chinese Fire Horse Celebration",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "additional_mood",
-          "default": "Excitement and joy radiate from all characters"
-        },
-        {
-          "name": "artistic_style",
-          "default": "Chinese ink wash with dynamic, flowing lines that capture rapid movement. The brushstrokes are bold and energetic, creating a sense of rushing movement and intensity"
-        },
-        {
-          "name": "color_meaning",
-          "default": "warmth, joy, and celebration"
-        },
-        {
-          "name": "color_palette",
-          "default": "Vibrant reds, golds, oranges, blacks, white highlights for intensity, contrasting with additional accent colors"
-        },
-        {
-          "name": "companion_character",
-          "default": "a mysterious ethereal character"
-        },
-        {
-          "name": "composition",
-          "default": "Vertical portrait, the horse and companion moving diagonally across the frame, with dynamic elements creating movement in the background. The motion creates a sense of forward momentum"
-        },
-        {
-          "name": "environment_elements",
-          "default": "festive red Chinese lanterns bursting throughout, and fireworks illuminating the night sky in brilliant reds, golds, and oranges"
-        },
-        {
-          "name": "flame_colors",
-          "default": "golden and crimson flames"
-        },
-        {
-          "name": "mood",
-          "default": "Vibrant, celebratory, passionate, energetic"
-        },
-        {
-          "name": "style_balance",
-          "default": "the traditional aesthetic with celebratory elements"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee1c4c546780.json"
     }
   ]
 }
