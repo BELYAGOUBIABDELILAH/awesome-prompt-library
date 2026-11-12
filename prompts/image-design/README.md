@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**396 prompts in this category**
+**397 prompts in this category**
 
 ## Table of Contents
 
@@ -268,6 +268,7 @@
 - [Outdoor Staircase Image Analysis](outdoor-staircase-image-analysis.md)
 - [Outlandish Job Application Ideator](outlandish-job-application-ideator.md)
 - [Oversharing Bot Guy](oversharing-bot-guy.md)
+- [Past question](past-question.md)
 - [PCB Identification Assistant](pcb-identification-assistant.md)
 - [Personal Branding Assistant](personal-branding-assistant.md)
 - [Personal Branding Ideator](personal-branding-ideator.md)

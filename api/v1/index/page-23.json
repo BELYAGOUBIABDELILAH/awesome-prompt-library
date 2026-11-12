@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T09:20:46.416Z",
+  "last_updated": "2026-11-12T10:20:42.620Z",
   "page": 23,
   "per_page": 100,
-  "total": 2686,
+  "total": 2687,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_728d6cf269a3",
+      "slug": "simple-text-anonymisation",
+      "title": "Simple Text Anonymisation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_728d6cf269a3.json"
+    },
     {
       "id": "opl_69b984fc92b8",
       "slug": "simple-text-editor",
@@ -1026,15 +1035,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb150cc7272c.json"
-    },
-    {
-      "id": "opl_101a1d26588e",
-      "slug": "step-4b-story-development",
-      "title": "Step 4b: Story Development",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_101a1d26588e.json"
     }
   ]
 }

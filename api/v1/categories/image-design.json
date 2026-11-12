@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-12T09:20:46.416Z",
-  "total": 396,
+  "last_updated": "2026-11-12T10:20:42.620Z",
+  "total": 397,
   "prompts": [
     {
       "id": "opl_71932c41e62e",
@@ -4608,6 +4608,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_641484c68e7f.json"
+    },
+    {
+      "id": "opl_c72cbf51da69",
+      "slug": "past-question",
+      "title": "Past question",
+      "prompt": "I want it to be uniosun style of questions including mcq question and True or false explain each complex part and give a very short summary that \nwill surely come out in exam",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_bfd7b1396796"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c72cbf51da69.json"
     },
     {
       "id": "opl_a9fc15930a17",

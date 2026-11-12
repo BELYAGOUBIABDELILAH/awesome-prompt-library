@@ -21000,6 +21000,16 @@
     "path": "prompts/image-design/cinematic-landscape-photography-of-horse-drawn-wagon.md"
   },
   {
+    "act": "Past question",
+    "category": "Image & Design",
+    "prompt": "I want it to be uniosun style of questions including mcq question and True or false explain each complex part and give a very short summary that \nwill surely come out in exam",
+    "source": "adediwuratemitope745@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "past-question",
+    "folder": "image-design",
+    "path": "prompts/image-design/past-question.md"
+  },
+  {
     "act": "A/B Testing Plan",
     "category": "Marketing & Social",
     "prompt": "Create a plan to test and optimize different aspects of your digital presence to improve conversion rates.\nStructure:\n- Hypothesis: What we believe will happen and why\n- Variable being tested: (headline / CTA / layout / image / copy)\n- Control version: [current]\n- Test version: [proposed change]\n- Success metric: (CVR / CTR / time on page / bounce rate)\n- Minimum sample size needed and estimated duration\n- How to declare a winner (statistical significance threshold: 95%)\nRun one test at a time. Document results before moving to the next.",

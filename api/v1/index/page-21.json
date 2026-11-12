@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T09:20:46.416Z",
+  "last_updated": "2026-11-12T10:20:42.620Z",
   "page": 21,
   "per_page": 100,
-  "total": 2686,
+  "total": 2687,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_d26c5dc0fb8d",
+      "slug": "readability-logic-simulator",
+      "title": "Readability Logic Simulator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d26c5dc0fb8d.json"
+    },
     {
       "id": "opl_e75aed4db22e",
       "slug": "readme-page-generator",
@@ -1119,15 +1128,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b0a963873333.json"
-    },
-    {
-      "id": "opl_6c9a2504cbd9",
-      "slug": "sales",
-      "title": "Sales",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c9a2504cbd9.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T09:20:46.416Z",
+  "last_updated": "2026-11-12T10:20:42.620Z",
   "page": 25,
   "per_page": 100,
-  "total": 2686,
+  "total": 2687,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_8b2a8586a891",
+      "slug": "system-prompt-to-image",
+      "title": "System Prompt To Image",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8b2a8586a891.json"
+    },
     {
       "id": "opl_28e9ba661f59",
       "slug": "system-prompt-to-user-prompt",
@@ -998,15 +1007,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d2a55d1ab3f.json"
-    },
-    {
-      "id": "opl_c1d2440353a8",
-      "slug": "trace-authentication-and-authorization-flow",
-      "title": "Trace Authentication and Authorization Flow",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1d2440353a8.json"
     }
   ]
 }

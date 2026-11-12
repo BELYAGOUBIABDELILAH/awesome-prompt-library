@@ -1,8 +1,8 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-12T09:20:46.416Z",
-  "total_prompts": 2686,
-  "source_records": 2686,
+  "last_updated": "2026-11-12T10:20:42.620Z",
+  "total_prompts": 2687,
+  "source_records": 2687,
   "total_sources": 336,
   "total_categories": 19,
   "total_pages": 27,
@@ -26,7 +26,7 @@
     {
       "folder": "image-design",
       "name": "Image & Design",
-      "prompt_count": 396,
+      "prompt_count": 397,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/image-design.json"
     },
     {

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T09:20:46.416Z",
+  "last_updated": "2026-11-12T10:20:42.620Z",
   "page": 18,
   "per_page": 100,
-  "total": 2686,
+  "total": 2687,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
@@ -693,6 +693,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_866814c368a2.json"
     },
     {
+      "id": "opl_c72cbf51da69",
+      "slug": "past-question",
+      "title": "Past question",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c72cbf51da69.json"
+    },
+    {
       "id": "opl_877f47fe8ef3",
       "slug": "patent-illustration-design-with-solidworks-and-origin-styles",
       "title": "Patent Illustration Design with SolidWorks and Origin Styles",
@@ -1126,28 +1135,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec7b895ad10a.json"
-    },
-    {
-      "id": "opl_0642e543aec5",
-      "slug": "persuasive-article-or-proposal-writing-guide",
-      "title": "Persuasive Article or Proposal Writing Guide",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "context",
-          "default": null
-        },
-        {
-          "name": "number",
-          "default": null
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0642e543aec5.json"
     }
   ]
 }
