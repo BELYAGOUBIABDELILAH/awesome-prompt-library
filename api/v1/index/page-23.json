@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T01:20:39.065Z",
+  "last_updated": "2026-11-12T02:20:38.350Z",
   "page": 23,
   "per_page": 100,
-  "total": 2678,
+  "total": 2679,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_80916cbed723",
+      "slug": "slap-game-challenge-act-as-the-ultimate-slap-game-master",
+      "title": "Slap Game Challenge: Act as the Ultimate Slap Game Master",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80916cbed723.json"
+    },
     {
       "id": "opl_6327a46d86bf",
       "slug": "small-batch-prompt-generator",
@@ -1043,15 +1052,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7eb857ebb461.json"
-    },
-    {
-      "id": "opl_19379276ee0c",
-      "slug": "stock-phrase-suggestor",
-      "title": "Stock Phrase Suggestor",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19379276ee0c.json"
     }
   ]
 }

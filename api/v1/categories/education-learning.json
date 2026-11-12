@@ -1,8 +1,8 @@
 {
   "folder": "education-learning",
   "name": "Education & Learning",
-  "last_updated": "2026-11-12T01:20:39.065Z",
-  "total": 74,
+  "last_updated": "2026-11-12T02:20:38.350Z",
+  "total": 75,
   "prompts": [
     {
       "id": "opl_eed064e780bd",
@@ -1023,6 +1023,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd42dc46dc9a.json"
+    },
+    {
+      "id": "opl_81236d05f87c",
+      "slug": "physiology-pratical",
+      "title": "Physiology pratical",
+      "prompt": "I want you to  teach me like a uniosun lecture and make it easy to understand the best in the world ever",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_bfd7b1396796"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81236d05f87c.json"
     },
     {
       "id": "opl_e80c3657ef46",

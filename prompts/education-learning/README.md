@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**74 prompts in this category**
+**75 prompts in this category**
 
 ## Table of Contents
 
@@ -59,6 +59,7 @@
 - [Pharmacy Research Assistant](pharmacy-research-assistant.md)
 - [Philosopher](philosopher.md)
 - [Philosophy Teacher](philosophy-teacher.md)
+- [Physiology pratical](physiology-pratical.md)
 - [Prompt Engineering Tool Ideas](prompt-engineering-tool-ideas.md)
 - [Public Speaking Coach](public-speaking-coach.md)
 - [School Life Mentor](school-life-mentor.md)

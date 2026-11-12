@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T01:20:39.065Z",
+  "last_updated": "2026-11-12T02:20:38.350Z",
   "page": 27,
   "per_page": 100,
-  "total": 2678,
+  "total": 2679,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_b12f61799c88",
+      "slug": "vision-to-json",
+      "title": "Vision-to-json",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b12f61799c88.json"
+    },
     {
       "id": "opl_4a2dc69add89",
       "slug": "visual-web-application-development",

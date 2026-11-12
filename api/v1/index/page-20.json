@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T01:20:39.065Z",
+  "last_updated": "2026-11-12T02:20:38.350Z",
   "page": 20,
   "per_page": 100,
-  "total": 2678,
+  "total": 2679,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_8e41a8f821bc",
+      "slug": "profile-application-performance",
+      "title": "Profile Application Performance",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e41a8f821bc.json"
+    },
     {
       "id": "opl_d6c83b8d2aba",
       "slug": "profile-pic-rebuild",
@@ -1070,24 +1079,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_636b4436d7ff.json"
-    },
-    {
-      "id": "opl_e52e720c5580",
-      "slug": "real-time-screen-translation-assistant",
-      "title": "Real-Time Screen Translation Assistant",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "sourceLanguage",
-          "default": "English"
-        },
-        {
-          "name": "targetLanguage",
-          "default": "Spanish"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e52e720c5580.json"
     }
   ]
 }

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T01:20:39.065Z",
+  "last_updated": "2026-11-12T02:20:38.350Z",
   "page": 21,
   "per_page": 100,
-  "total": 2678,
+  "total": 2679,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_e52e720c5580",
+      "slug": "real-time-screen-translation-assistant",
+      "title": "Real-Time Screen Translation Assistant",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "sourceLanguage",
+          "default": "English"
+        },
+        {
+          "name": "targetLanguage",
+          "default": "Spanish"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e52e720c5580.json"
+    },
     {
       "id": "opl_b28fc8423e4d",
       "slug": "realistic-amateur-phone-photo-with-whatsapp-chat",
@@ -1119,15 +1137,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7bf06b3f487.json"
-    },
-    {
-      "id": "opl_e234d26fa7fe",
-      "slug": "scam-detection-conversation-helper",
-      "title": "Scam Detection Conversation Helper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e234d26fa7fe.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T01:20:39.065Z",
+  "last_updated": "2026-11-12T02:20:38.350Z",
   "page": 19,
   "per_page": 100,
-  "total": 2678,
+  "total": 2679,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
@@ -141,6 +141,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5286ff866ab7.json"
+    },
+    {
+      "id": "opl_81236d05f87c",
+      "slug": "physiology-pratical",
+      "title": "Physiology pratical",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_81236d05f87c.json"
     },
     {
       "id": "opl_94b55e88f223",
@@ -1238,15 +1247,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b368ec29e71c.json"
-    },
-    {
-      "id": "opl_8e41a8f821bc",
-      "slug": "profile-application-performance",
-      "title": "Profile Application Performance",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e41a8f821bc.json"
     }
   ]
 }
