@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T10:20:42.620Z",
+  "last_updated": "2026-11-12T11:20:47.252Z",
   "page": 24,
   "per_page": 100,
-  "total": 2687,
+  "total": 2688,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_fb150cc7272c",
+      "slug": "step-4a-implementation-plan",
+      "title": "Step 4a: Implementation Plan",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb150cc7272c.json"
+    },
     {
       "id": "opl_101a1d26588e",
       "slug": "step-4b-story-development",
@@ -1069,15 +1078,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4822efb16b35.json"
-    },
-    {
-      "id": "opl_494a16e3c4c3",
-      "slug": "system-prompt-to-assistant-configuration",
-      "title": "System Prompt To Assistant Configuration",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_494a16e3c4c3.json"
     }
   ]
 }

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-12T10:20:42.620Z",
+  "last_updated": "2026-11-12T11:20:47.252Z",
   "page": 27,
   "per_page": 100,
-  "total": 2687,
+  "total": 2688,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_5ac7ce92f9c7",
+      "slug": "vintage-botanical-illustration-generator",
+      "title": "Vintage Botanical Illustration Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "subject",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ac7ce92f9c7.json"
+    },
     {
       "id": "opl_93f99e512baa",
       "slug": "vintage-invention-patent",

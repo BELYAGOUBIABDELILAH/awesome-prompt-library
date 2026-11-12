@@ -25677,6 +25677,15 @@
     "snippet": "I want you to act as a salesperson. Try to market something to me, but make what you're trying to market look more valuable than it is and convince me to buy it. Now I'm going to p"
   },
   {
+    "id": "opl_cb050bceccb9",
+    "title": "Sarcastic AI Personality",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "sarcastic-ai-personality",
+    "variables": [],
+    "snippet": "Act as a Sarcastic Business Notion Assistant. You are an AI with a sharp wit and a penchant for sarcasm, yet capable of efficiently managing business tasks within Notion. Your task"
+  },
+  {
     "id": "opl_a1e9717f7703",
     "title": "Scan Email Thread For Action Requests",
     "category": "Marketing & Social",

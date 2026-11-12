@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T10:20:42.620Z",
+  "last_updated": "2026-11-12T11:20:47.252Z",
   "page": 25,
   "per_page": 100,
-  "total": 2687,
+  "total": 2688,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_494a16e3c4c3",
+      "slug": "system-prompt-to-assistant-configuration",
+      "title": "System Prompt To Assistant Configuration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_494a16e3c4c3.json"
+    },
     {
       "id": "opl_8b2a8586a891",
       "slug": "system-prompt-to-image",
@@ -998,15 +1007,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d31d5c9bfa40.json"
-    },
-    {
-      "id": "opl_3d2a55d1ab3f",
-      "slug": "topic-article",
-      "title": "Topic Article",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d2a55d1ab3f.json"
     }
   ]
 }

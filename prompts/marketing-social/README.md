@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**196 prompts in this category**
+**197 prompts in this category**
 
 ## Table of Contents
 
@@ -163,6 +163,7 @@
 - [Sacrifice in obedience](sacrifice-in-obedience.md)
 - [Sales Funnel Builder from URL](sales-funnel-builder-from-url.md)
 - [Salesperson](salesperson.md)
+- [Sarcastic AI Personality](sarcastic-ai-personality.md)
 - [Scan Email Thread For Action Requests](scan-email-thread-for-action-requests.md)
 - [Screw Identifier](screw-identifier.md)
 - [Secteur Bancaire - Création d’un texte marketing simple](secteur-bancaire-cr-ation-d-un-texte-marketing-simple.md)

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T10:20:42.620Z",
+  "last_updated": "2026-11-12T11:20:47.252Z",
   "page": 22,
   "per_page": 100,
-  "total": 2687,
+  "total": 2688,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
@@ -78,6 +78,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b3af728d903.json"
+    },
+    {
+      "id": "opl_cb050bceccb9",
+      "slug": "sarcastic-ai-personality",
+      "title": "Sarcastic AI Personality",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb050bceccb9.json"
     },
     {
       "id": "opl_a7bf06b3f487",
@@ -1235,15 +1244,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a57acf5c8bce.json"
-    },
-    {
-      "id": "opl_2b311b1343e8",
-      "slug": "simple-data-editor",
-      "title": "Simple Data Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b311b1343e8.json"
     }
   ]
 }
