@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T19:20:41.021Z",
+  "last_updated": "2026-11-12T20:20:40.147Z",
   "page": 22,
   "per_page": 100,
-  "total": 2696,
+  "total": 2697,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_376138fabaff",
+      "slug": "rubber-duck-debugging-with-ai",
+      "title": "Rubber Duck Debugging with AI",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_376138fabaff.json"
+    },
     {
       "id": "opl_14a4f01069f7",
       "slug": "rugged-product-locator",
@@ -1231,15 +1240,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02acb4c606cb.json"
-    },
-    {
-      "id": "opl_84dcfb2ca90f",
-      "slug": "shields-io-badge-generator",
-      "title": "Shields.io Badge Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84dcfb2ca90f.json"
     }
   ]
 }

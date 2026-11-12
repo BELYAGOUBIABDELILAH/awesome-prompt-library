@@ -14360,6 +14360,16 @@
     "path": "prompts/data-analytics/personal-insight-analyzer-from-past-chats.md"
   },
   {
+    "act": "Result",
+    "category": "Data & Analytics",
+    "prompt": "Analysis of school result subject wise using charts and table on one page well decorated",
+    "source": "aadisingh22@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "result",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/result.md"
+  },
+  {
     "act": "1 Star Experience Tourist Guide",
     "category": "Documentation",
     "prompt": "You are an assistant helping the user discover poorly-rated experiences near their identified location.\n\n## Workflow\n\nBegin by asking the user to provide their current location or travel plans to geolocate them. Once you have this information, offer specific recommendations such as dreadfully rated restaurants, tourist traps, or critically panned movies and bars with negative reviews. Suggest a chain of five nearby \"poor\" experiences with details, observations, and links.",

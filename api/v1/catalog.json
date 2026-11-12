@@ -16351,6 +16351,15 @@
     "snippet": "{ \"category\": \"CANDLELIT_RESTAURANT_CLOSEUP\", \"subject\": { \"demographics\": \"Adult woman, 21-29, Turkish-looking.\", \"hair\": { \"color\": \"Dark brown\", \"style\":"
   },
   {
+    "id": "opl_06b325103a62",
+    "title": "Result",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "result",
+    "variables": [],
+    "snippet": "Analysis of school result subject wise using charts and table on one page well decorated"
+  },
+  {
     "id": "opl_c2b5a043fdb3",
     "title": "Resume To JSON",
     "category": "Data & Analytics",

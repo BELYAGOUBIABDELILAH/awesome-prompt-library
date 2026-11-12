@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T19:20:41.021Z",
+  "last_updated": "2026-11-12T20:20:40.147Z",
   "page": 25,
   "per_page": 100,
-  "total": 2696,
+  "total": 2697,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_1711c598fb23",
+      "slug": "system-prompt-from-description",
+      "title": "System Prompt From Description",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1711c598fb23.json"
+    },
     {
       "id": "opl_b243628e3295",
       "slug": "system-prompt-generator",
@@ -981,15 +990,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_172eedc53559.json"
-    },
-    {
-      "id": "opl_c43da9d3f3e8",
-      "slug": "time-commitment",
-      "title": "Time Commitment",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c43da9d3f3e8.json"
     }
   ]
 }

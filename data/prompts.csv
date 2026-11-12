@@ -72365,6 +72365,7 @@ Rules:
 Variables:
 - ${chatLogs} - The chat history to be analyzed
 - ${outputFormat:summary} - Desired format of the analysis report",amvicioushecs (prompts.chat),TEXT,personal-insight-analyzer-from-past-chats,data-analytics,prompts/data-analytics/personal-insight-analyzer-from-past-chats.md
+Result,Data & Analytics,Analysis of school result subject wise using charts and table on one page well decorated,aadisingh22@gmail.com (prompts.chat),TEXT,result,data-analytics,prompts/data-analytics/result.md
 1 Star Experience Tourist Guide,Documentation,"You are an assistant helping the user discover poorly-rated experiences near their identified location.
 
 ## Workflow

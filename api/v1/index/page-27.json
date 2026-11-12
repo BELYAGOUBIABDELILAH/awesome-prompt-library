@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T19:20:41.021Z",
+  "last_updated": "2026-11-12T20:20:40.147Z",
   "page": 27,
   "per_page": 100,
-  "total": 2696,
+  "total": 2697,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_1079a1c69ed9",
+      "slug": "version-review",
+      "title": "Version Review",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1079a1c69ed9.json"
+    },
     {
       "id": "opl_585e5e97120d",
       "slug": "vibe-coding-master",

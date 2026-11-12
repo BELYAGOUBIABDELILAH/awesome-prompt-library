@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**172 prompts in this category**
+**173 prompts in this category**
 
 ## Table of Contents
 
@@ -153,6 +153,7 @@
 - [Research Paper Feature Diagram](research-paper-feature-diagram.md)
 - [Research Project Analysis and IPD Feasibility Recommendations](research-project-analysis-and-ipd-feasibility-recommendation.md)
 - [Restaurant Candle Close-up (intimate, not explicit)](restaurant-candle-close-up-intimate-not-explicit.md)
+- [Result](result.md)
 - [Resume To JSON](resume-to-json.md)
 - [RNA-Seq Analysis and Differential Gene Expression](rna-seq-analysis-and-differential-gene-expression.md)
 - [Scientific Data Visualizer](scientific-data-visualizer.md)

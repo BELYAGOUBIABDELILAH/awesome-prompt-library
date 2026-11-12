@@ -1,8 +1,8 @@
 {
   "folder": "data-analytics",
   "name": "Data & Analytics",
-  "last_updated": "2026-11-12T19:20:41.021Z",
-  "total": 172,
+  "last_updated": "2026-11-12T20:20:40.147Z",
+  "total": 173,
   "prompts": [
     {
       "id": "opl_af5d6540d293",
@@ -2698,6 +2698,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_821723c99689.json"
+    },
+    {
+      "id": "opl_06b325103a62",
+      "slug": "result",
+      "title": "Result",
+      "prompt": "Analysis of school result subject wise using charts and table on one page well decorated",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_410d04ae7a32"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06b325103a62.json"
     },
     {
       "id": "opl_c2b5a043fdb3",

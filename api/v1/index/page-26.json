@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T19:20:41.021Z",
+  "last_updated": "2026-11-12T20:20:40.147Z",
   "page": 26,
   "per_page": 100,
-  "total": 2696,
+  "total": 2697,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_c43da9d3f3e8",
+      "slug": "time-commitment",
+      "title": "Time Commitment",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c43da9d3f3e8.json"
+    },
     {
       "id": "opl_6d182c1d2b3c",
       "slug": "time-layer-photography",
@@ -1143,15 +1152,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6e2c5219e17.json"
-    },
-    {
-      "id": "opl_1079a1c69ed9",
-      "slug": "version-review",
-      "title": "Version Review",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1079a1c69ed9.json"
     }
   ]
 }

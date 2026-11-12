@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T19:20:41.021Z",
+  "last_updated": "2026-11-12T20:20:40.147Z",
   "page": 21,
   "per_page": 100,
-  "total": 2696,
+  "total": 2697,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
@@ -761,6 +761,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f6e8d7fe359.json"
     },
     {
+      "id": "opl_06b325103a62",
+      "slug": "result",
+      "title": "Result",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06b325103a62.json"
+    },
+    {
       "id": "opl_317ba9304618",
       "slug": "resume-customization-prompt-strategic-integrity",
       "title": "Resume Customization Prompt – STRATEGIC INTEGRITY",
@@ -1105,15 +1114,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e4ce94e18c2.json"
-    },
-    {
-      "id": "opl_376138fabaff",
-      "slug": "rubber-duck-debugging-with-ai",
-      "title": "Rubber Duck Debugging with AI",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_376138fabaff.json"
     }
   ]
 }

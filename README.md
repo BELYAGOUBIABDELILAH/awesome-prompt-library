@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C695-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-2%2C696-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -51,7 +51,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Image & Design](prompts/image-design) | 397 | Image generation, composition, and visual styling |
 | [Writing & Content](prompts/writing-content) | 256 | Editing, copywriting, storytelling, and translation |
 | [Marketing & Social](prompts/marketing-social) | 197 | Campaign copy, social posts, and audience research |
-| [Data & Analytics](prompts/data-analytics) | 172 | Data extraction, SQL queries, and metrics evaluation |
+| [Data & Analytics](prompts/data-analytics) | 173 | Data extraction, SQL queries, and metrics evaluation |
 | [AI & Automation](prompts/ai-automation) | 122 | Agent prompts, workflow scripts, and system setup |
 | [General](prompts/general) | 87 | Everyday productivity, brainstorming, and utilities |
 | [Education & Learning](prompts/education-learning) | 75 | Explanations, study guides, and concept breakdowns |
