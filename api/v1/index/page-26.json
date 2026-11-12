@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-12T18:20:44.984Z",
+  "last_updated": "2026-11-12T19:20:41.021Z",
   "page": 26,
   "per_page": 100,
-  "total": 2695,
+  "total": 2696,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_6d182c1d2b3c",
+      "slug": "time-layer-photography",
+      "title": "Time Layer Photography",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "era1",
+          "default": "1890s sepia Ottoman period"
+        },
+        {
+          "name": "era2",
+          "default": "1960s faded color"
+        },
+        {
+          "name": "era3",
+          "default": "present day digital clarity"
+        },
+        {
+          "name": "location",
+          "default": "Galata Tower, Istanbul"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d182c1d2b3c.json"
+    },
     {
       "id": "opl_f1e90823beca",
       "slug": "time-travel-guide",
@@ -1126,15 +1152,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1079a1c69ed9.json"
-    },
-    {
-      "id": "opl_585e5e97120d",
-      "slug": "vibe-coding-master",
-      "title": "Vibe Coding Master",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_585e5e97120d.json"
     }
   ]
 }

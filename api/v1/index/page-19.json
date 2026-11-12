@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T18:20:44.984Z",
+  "last_updated": "2026-11-12T19:20:41.021Z",
   "page": 19,
   "per_page": 100,
-  "total": 2695,
+  "total": 2696,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_113c6b8e2f03",
+      "slug": "personality-sketcher",
+      "title": "Personality Sketcher",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_113c6b8e2f03.json"
+    },
     {
       "id": "opl_d97491f33a37",
       "slug": "personalized-ai",
@@ -1325,15 +1334,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9599f2fd627e.json"
-    },
-    {
-      "id": "opl_0e9dcbbaf183",
-      "slug": "professional-full-stack-developer-for-network-mapping-monito",
-      "title": "Professional Full-Stack Developer for Network Mapping & Monitoring Application",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e9dcbbaf183.json"
     }
   ]
 }

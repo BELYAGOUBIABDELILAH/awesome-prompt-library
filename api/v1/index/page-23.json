@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T18:20:44.984Z",
+  "last_updated": "2026-11-12T19:20:41.021Z",
   "page": 23,
   "per_page": 100,
-  "total": 2695,
+  "total": 2696,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_cd88a6720bd1",
+      "slug": "shift-tracking-telegram-mini-app",
+      "title": "Shift Tracking Telegram Mini App",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "employeeRole",
+          "default": null
+        },
+        {
+          "name": "shiftDate",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd88a6720bd1.json"
+    },
     {
       "id": "opl_cd0486ec5d66",
       "slug": "shopping-list-generator-non-food",
@@ -1035,15 +1053,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6928de0896b.json"
-    },
-    {
-      "id": "opl_dafeeea168a8",
-      "slug": "statistic-finder",
-      "title": "Statistic Finder",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dafeeea168a8.json"
     }
   ]
 }

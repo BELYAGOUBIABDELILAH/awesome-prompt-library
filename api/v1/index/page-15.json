@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-12T18:20:44.984Z",
+  "last_updated": "2026-11-12T19:20:41.021Z",
   "page": 15,
   "per_page": 100,
-  "total": 2695,
+  "total": 2696,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_aff5e396fb2d",
+      "slug": "lagrange-lens-blue-wolf",
+      "title": "Lagrange Lens: Blue Wolf",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "fact",
+          "default": null
+        },
+        {
+          "name": "inference",
+          "default": null
+        },
+        {
+          "name": "reported",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aff5e396fb2d.json"
+    },
     {
       "id": "opl_0e1c3c2c0c9a",
       "slug": "landing-page-copy-architect-conversion-framework-prompt",
@@ -1014,20 +1036,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_88b7740181fb.json"
-    },
-    {
-      "id": "opl_846623685e77",
-      "slug": "lost-in-country-with-chatgpt-image-2",
-      "title": "Lost in [Country] with ChatGPT Image 2",
-      "category": "Security",
-      "folder": "security",
-      "variables": [
-        {
-          "name": "country",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_846623685e77.json"
     }
   ]
 }

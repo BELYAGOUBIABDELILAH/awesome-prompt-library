@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T18:20:44.984Z",
+  "last_updated": "2026-11-12T19:20:41.021Z",
   "page": 24,
   "per_page": 100,
-  "total": 2695,
+  "total": 2696,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_dafeeea168a8",
+      "slug": "statistic-finder",
+      "title": "Statistic Finder",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dafeeea168a8.json"
+    },
     {
       "id": "opl_6d9cff84d552",
       "slug": "statistician",
@@ -1069,15 +1078,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1711c598fb23.json"
-    },
-    {
-      "id": "opl_b243628e3295",
-      "slug": "system-prompt-generator",
-      "title": "System Prompt Generator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b243628e3295.json"
     }
   ]
 }

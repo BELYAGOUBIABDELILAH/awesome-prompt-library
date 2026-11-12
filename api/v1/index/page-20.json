@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T18:20:44.984Z",
+  "last_updated": "2026-11-12T19:20:41.021Z",
   "page": 20,
   "per_page": 100,
-  "total": 2695,
+  "total": 2696,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_0e9dcbbaf183",
+      "slug": "professional-full-stack-developer-for-network-mapping-monito",
+      "title": "Professional Full-Stack Developer for Network Mapping & Monitoring Application",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e9dcbbaf183.json"
+    },
     {
       "id": "opl_ccf3be71d6f7",
       "slug": "professional-github-dashboard-for-portfolio-enhancement",
@@ -1125,15 +1134,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a83a08bdedea.json"
-    },
-    {
-      "id": "opl_091376dcdead",
-      "slug": "random-ai-assistant-ideator",
-      "title": "Random AI Assistant Ideator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_091376dcdead.json"
     }
   ]
 }

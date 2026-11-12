@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T18:20:44.984Z",
+  "last_updated": "2026-11-12T19:20:41.021Z",
   "page": 17,
   "per_page": 100,
-  "total": 2695,
+  "total": 2696,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_a360ff10d9b5",
+      "slug": "mirror-selfie-scene-description",
+      "title": "Mirror Selfie Scene Description",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a360ff10d9b5.json"
+    },
     {
       "id": "opl_06ae622d03ec",
       "slug": "mirror-selfie-with-face-preservation",
@@ -1052,15 +1061,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d333aa75ece.json"
-    },
-    {
-      "id": "opl_c609e279a607",
-      "slug": "noise-sensitivity-support",
-      "title": "Noise Sensitivity Support",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c609e279a607.json"
     }
   ]
 }

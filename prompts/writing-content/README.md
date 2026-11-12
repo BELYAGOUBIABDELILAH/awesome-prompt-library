@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**255 prompts in this category**
+**256 prompts in this category**
 
 ## Table of Contents
 
@@ -121,6 +121,7 @@
 - [Hyper-Realistic 3D Isometric Ottoman Masterpiece](hyper-realistic-3d-isometric-ottoman-masterpiece.md)
 - [Image Analysis for Night Portrait in Heavy Snowfall](image-analysis-for-night-portrait-in-heavy-snowfall.md)
 - [Immigration Project Presentation Specialist](immigration-project-presentation-specialist.md)
+- [Impasto Oil Portrait of an Iranian Woman with “خفه شدم از سکوت”](impasto-oil-portrait-of-an-iranian-woman-with.md)
 - [In-Depth Article Enhancement with Research](in-depth-article-enhancement-with-research.md)
 - [Innovative Math Teaching Method](innovative-math-teaching-method.md)
 - [Investigative Research Assistant](investigative-research-assistant.md)

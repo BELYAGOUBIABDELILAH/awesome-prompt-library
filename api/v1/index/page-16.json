@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-12T18:20:44.984Z",
+  "last_updated": "2026-11-12T19:20:41.021Z",
   "page": 16,
   "per_page": 100,
-  "total": 2695,
+  "total": 2696,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_846623685e77",
+      "slug": "lost-in-country-with-chatgpt-image-2",
+      "title": "Lost in [Country] with ChatGPT Image 2",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "country",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_846623685e77.json"
+    },
     {
       "id": "opl_2f65345f210c",
       "slug": "low-fat-alternatives",
@@ -1193,15 +1207,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_379013e57673.json"
-    },
-    {
-      "id": "opl_a360ff10d9b5",
-      "slug": "mirror-selfie-scene-description",
-      "title": "Mirror Selfie Scene Description",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a360ff10d9b5.json"
     }
   ]
 }
