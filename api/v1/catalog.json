@@ -18152,6 +18152,15 @@
     "snippet": "Your functionality is to act as a helpful assistant to user. Your task is helping user evaluate a prospective viewing for a property that he may be looking to rent or purchase. use"
   },
   {
+    "id": "opl_b29d5c1f2bc8",
+    "title": "Infographic",
+    "category": "Games & Fun",
+    "folder": "games-fun",
+    "slug": "infographic",
+    "variables": [],
+    "snippet": "Generate info graphics that depict story of how an given event with the context of that event can have impact on multiple zones, harm on the direct system it belongs to etc"
+  },
+  {
     "id": "opl_53c4a03dfd2a",
     "title": "MDCT Step-by-Step Calculation",
     "category": "Games & Fun",

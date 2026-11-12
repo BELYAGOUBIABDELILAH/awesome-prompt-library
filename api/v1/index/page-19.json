@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-12T06:20:41.268Z",
+  "last_updated": "2026-11-12T07:20:41.468Z",
   "page": 19,
   "per_page": 100,
-  "total": 2683,
+  "total": 2684,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_7bd392616da4",
+      "slug": "pet-store-advertising-campaign-strategy",
+      "title": "Pet Store Advertising Campaign Strategy",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "campaignMessage",
+          "default": null
+        },
+        {
+          "name": "mediaChannels",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bd392616da4.json"
+    },
     {
       "id": "opl_1a7ced0fad63",
       "slug": "phantom-strike",
@@ -1218,44 +1240,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_439b3cbb4ff7.json"
-    },
-    {
-      "id": "opl_6ef6d74f75e7",
-      "slug": "professional-real-estate-appointment-setter",
-      "title": "Professional Real Estate Appointment Setter",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "communicationMethod",
-          "default": "email"
-        },
-        {
-          "name": "contactList",
-          "default": null
-        },
-        {
-          "name": "name",
-          "default": null
-        },
-        {
-          "name": "time",
-          "default": null
-        },
-        {
-          "name": "tone",
-          "default": "professional"
-        },
-        {
-          "name": "your_name",
-          "default": null
-        },
-        {
-          "name": "your_phone_number",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ef6d74f75e7.json"
     }
   ]
 }

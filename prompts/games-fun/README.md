@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**20 prompts in this category**
+**21 prompts in this category**
 
 ## Table of Contents
 
@@ -17,6 +17,7 @@
 - [Google Docs Wizard](google-docs-wizard.md)
 - [Horror Story in Hindi](horror-story-in-hindi.md)
 - [House Viewing Screener](house-viewing-screener.md)
+- [Infographic](infographic.md)
 - [MDCT Step-by-Step Calculation](mdct-step-by-step-calculation.md)
 - [Opposing Narratives - Dialogue Simulation](opposing-narratives-dialogue-simulation.md)
 - [Prompt Editor - Mimic Structured Output](prompt-editor-mimic-structured-output.md)

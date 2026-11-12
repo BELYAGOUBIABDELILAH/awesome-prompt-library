@@ -1,8 +1,8 @@
 {
   "folder": "games-fun",
   "name": "Games & Fun",
-  "last_updated": "2026-11-12T06:20:41.268Z",
-  "total": 20,
+  "last_updated": "2026-11-12T07:20:41.468Z",
+  "total": 21,
   "prompts": [
     {
       "id": "opl_c177d8efdfc8",
@@ -179,6 +179,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4b5938f0879.json"
+    },
+    {
+      "id": "opl_b29d5c1f2bc8",
+      "slug": "infographic",
+      "title": "Infographic",
+      "prompt": "Generate info graphics that depict story of how an given event with the context of that event can have impact on multiple zones, harm on the direct system it belongs to etc",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_78bb0370907d"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b29d5c1f2bc8.json"
     },
     {
       "id": "opl_53c4a03dfd2a",

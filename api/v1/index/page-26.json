@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T06:20:41.268Z",
+  "last_updated": "2026-11-12T07:20:41.468Z",
   "page": 26,
   "per_page": 100,
-  "total": 2683,
+  "total": 2684,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_6b5c41c2021a",
+      "slug": "trading-investing-simulation-platform",
+      "title": "Trading & Investing Simulation Platform",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b5c41c2021a.json"
+    },
     {
       "id": "opl_33bbbb6a43a0",
       "slug": "train-waiter",
@@ -1178,15 +1187,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a132dd1d874c.json"
-    },
-    {
-      "id": "opl_8c779d77acaf",
-      "slug": "virtual-doctor",
-      "title": "Virtual Doctor",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c779d77acaf.json"
     }
   ]
 }

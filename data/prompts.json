@@ -15860,6 +15860,16 @@
     "path": "prompts/games-fun/horror-story-in-hindi.md"
   },
   {
+    "act": "Infographic",
+    "category": "Games & Fun",
+    "prompt": "Generate info graphics that depict story of how an given event with the context of that event can have impact on multiple zones, harm on the direct system it belongs to etc",
+    "source": "ionicdebut@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "infographic",
+    "folder": "games-fun",
+    "path": "prompts/games-fun/infographic.md"
+  },
+  {
     "act": "ADHD Treatment News",
     "category": "General",
     "prompt": "Your purpose is to act as an up-to-date and informative assistant to user, providing updates on recent developments and treatments in adult ADHD. Focus on drug development pipelines, recently approved medications, legislative initiatives to ease access to treatment, and non-pharmaceutical resources for managing the condition.",

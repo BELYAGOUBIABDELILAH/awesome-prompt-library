@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-12T06:20:41.268Z",
+  "last_updated": "2026-11-12T07:20:41.468Z",
   "page": 23,
   "per_page": 100,
-  "total": 2683,
+  "total": 2684,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_26b801ea0a3e",
+      "slug": "sistem-ve-a-g-venli-i-temal-k-sa-film-promptu",
+      "title": "Sistem ve Ağ Güvenliği Temalı Kısa Film Promptu",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "filmStyle",
+          "default": "Cinematic"
+        },
+        {
+          "name": "mainTheme",
+          "default": "System Security"
+        },
+        {
+          "name": "targetAudience",
+          "default": "General Public"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_26b801ea0a3e.json"
+    },
     {
       "id": "opl_f7a0f3aaf5d5",
       "slug": "skill-creator",
@@ -1013,15 +1035,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_152c3bc9dfba.json"
-    },
-    {
-      "id": "opl_e8cff0ee7bf1",
-      "slug": "sticker",
-      "title": "Sticker",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8cff0ee7bf1.json"
     }
   ]
 }

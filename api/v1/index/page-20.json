@@ -1,12 +1,50 @@
 {
-  "last_updated": "2026-11-12T06:20:41.268Z",
+  "last_updated": "2026-11-12T07:20:41.468Z",
   "page": 20,
   "per_page": 100,
-  "total": 2683,
+  "total": 2684,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_6ef6d74f75e7",
+      "slug": "professional-real-estate-appointment-setter",
+      "title": "Professional Real Estate Appointment Setter",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "communicationMethod",
+          "default": "email"
+        },
+        {
+          "name": "contactList",
+          "default": null
+        },
+        {
+          "name": "name",
+          "default": null
+        },
+        {
+          "name": "time",
+          "default": null
+        },
+        {
+          "name": "tone",
+          "default": "professional"
+        },
+        {
+          "name": "your_name",
+          "default": null
+        },
+        {
+          "name": "your_phone_number",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ef6d74f75e7.json"
+    },
     {
       "id": "opl_2ccdcad450fa",
       "slug": "professional-vision-statement-for-transportation-company",
@@ -1061,15 +1099,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0177dc22c47d.json"
-    },
-    {
-      "id": "opl_e0a7da6bc9ef",
-      "slug": "real-time-and-news-data",
-      "title": "Real time and news data",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0a7da6bc9ef.json"
     }
   ]
 }

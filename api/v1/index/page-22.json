@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T06:20:41.268Z",
+  "last_updated": "2026-11-12T07:20:41.468Z",
   "page": 22,
   "per_page": 100,
-  "total": 2683,
+  "total": 2684,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_d0fe31b8ce3b",
+      "slug": "salesperson",
+      "title": "Salesperson",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0fe31b8ce3b.json"
+    },
     {
       "id": "opl_ad2cdcfefc62",
       "slug": "sap-abap-carbon-footprint-module-graduation-project-document",
@@ -1230,28 +1239,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a49f447c5385.json"
-    },
-    {
-      "id": "opl_26b801ea0a3e",
-      "slug": "sistem-ve-a-g-venli-i-temal-k-sa-film-promptu",
-      "title": "Sistem ve Ağ Güvenliği Temalı Kısa Film Promptu",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "filmStyle",
-          "default": "Cinematic"
-        },
-        {
-          "name": "mainTheme",
-          "default": "System Security"
-        },
-        {
-          "name": "targetAudience",
-          "default": "General Public"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_26b801ea0a3e.json"
     }
   ]
 }

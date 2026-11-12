@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T06:20:41.268Z",
+  "last_updated": "2026-11-12T07:20:41.468Z",
   "page": 14,
   "per_page": 100,
-  "total": 2683,
+  "total": 2684,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_b3ced1bba22b",
+      "slug": "interactive-place-review-generator",
+      "title": "Interactive Place Review Generator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3ced1bba22b.json"
+    },
     {
       "id": "opl_33183651c769",
       "slug": "interactive-quiz",
@@ -1053,15 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f50c76da9b88.json"
-    },
-    {
-      "id": "opl_92a278e05baa",
-      "slug": "lazy-ai-email-detector",
-      "title": "Lazy AI Email Detector",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_92a278e05baa.json"
     }
   ]
 }

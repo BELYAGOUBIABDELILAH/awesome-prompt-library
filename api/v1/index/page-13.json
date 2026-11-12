@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T06:20:41.268Z",
+  "last_updated": "2026-11-12T07:20:41.468Z",
   "page": 13,
   "per_page": 100,
-  "total": 2683,
+  "total": 2684,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
@@ -957,6 +957,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ed657de4f7d.json"
     },
     {
+      "id": "opl_b29d5c1f2bc8",
+      "slug": "infographic",
+      "title": "Infographic",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b29d5c1f2bc8.json"
+    },
+    {
       "id": "opl_0f993ed15f32",
       "slug": "informal-text-editor",
       "title": "Informal Text Editor",
@@ -1109,15 +1118,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a8e0e8a12c89.json"
-    },
-    {
-      "id": "opl_b3ced1bba22b",
-      "slug": "interactive-place-review-generator",
-      "title": "Interactive Place Review Generator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3ced1bba22b.json"
     }
   ]
 }

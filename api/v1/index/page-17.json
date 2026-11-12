@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T06:20:41.268Z",
+  "last_updated": "2026-11-12T07:20:41.468Z",
   "page": 17,
   "per_page": 100,
-  "total": 2683,
+  "total": 2684,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_25710f160a27",
+      "slug": "modern-web-development-assistant",
+      "title": "Modern Web Development Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25710f160a27.json"
+    },
     {
       "id": "opl_29e3b6041588",
       "slug": "modernize-legacy-code",
@@ -1077,15 +1086,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f5e599ff3733.json"
-    },
-    {
-      "id": "opl_f0542746a92c",
-      "slug": "notebooklm-lecture-notes",
-      "title": "notebooklm_lecture_notes",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0542746a92c.json"
     }
   ]
 }
