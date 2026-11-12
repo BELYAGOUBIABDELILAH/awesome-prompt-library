@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T15:20:40.942Z",
+  "last_updated": "2026-11-12T16:20:46.184Z",
   "page": 22,
   "per_page": 100,
-  "total": 2692,
+  "total": 2693,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_54ef6a6a84bf",
+      "slug": "saas-payment-plan-options",
+      "title": "SaaS Payment Plan Options",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "centerCard",
+          "default": null
+        },
+        {
+          "name": "selectedCardColor",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54ef6a6a84bf.json"
+    },
     {
       "id": "opl_400bb13cbf42",
       "slug": "saas-pricing-strategist",
@@ -1226,15 +1244,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb37fb995c83.json"
-    },
-    {
-      "id": "opl_3e7755133515",
-      "slug": "show-direct-impact",
-      "title": "Show Direct Impact",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e7755133515.json"
     }
   ]
 }

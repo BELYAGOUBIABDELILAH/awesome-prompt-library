@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T15:20:40.942Z",
+  "last_updated": "2026-11-12T16:20:46.184Z",
   "page": 26,
   "per_page": 100,
-  "total": 2692,
+  "total": 2693,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_3ae5ca96ef04",
+      "slug": "todo-list",
+      "title": "Todo List",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ae5ca96ef04.json"
+    },
     {
       "id": "opl_d9972b3bc945",
       "slug": "token-architecture",
@@ -1126,15 +1135,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0eb330068127.json"
-    },
-    {
-      "id": "opl_b4d4b36d7a95",
-      "slug": "vibrant-fauvist-style-sunlit-living-room-illustration",
-      "title": "Vibrant Fauvist Style Sunlit Living Room Illustration",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4d4b36d7a95.json"
     }
   ]
 }

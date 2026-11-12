@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**17 prompts in this category**
+**18 prompts in this category**
 
 ## Table of Contents
 
@@ -14,6 +14,7 @@
 - [Growth Product Manager](growth-product-manager.md)
 - [Hardware OEM Lookup](hardware-oem-lookup.md)
 - [Innovative Use Case Generator for New Tools](innovative-use-case-generator-for-new-tools.md)
+- [Instructional Video on Muscles for Students](instructional-video-on-muscles-for-students.md)
 - [PRD Writer](prd-writer.md)
 - [Realistic Selfie of Girl with Transparent Glasses and Pink Hair](realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair.md)
 - [SaaS Pricing Strategist](saas-pricing-strategist.md)

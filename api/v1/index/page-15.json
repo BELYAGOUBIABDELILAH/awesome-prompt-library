@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T15:20:40.942Z",
+  "last_updated": "2026-11-12T16:20:46.184Z",
   "page": 15,
   "per_page": 100,
-  "total": 2692,
+  "total": 2693,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_0e1c3c2c0c9a",
+      "slug": "landing-page-copy-architect-conversion-framework-prompt",
+      "title": "Landing Page Copy Architect – Conversion Framework Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e1c3c2c0c9a.json"
+    },
     {
       "id": "opl_121449fd09c4",
       "slug": "landing-page-vibe-coding",
@@ -1019,15 +1028,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_846623685e77.json"
-    },
-    {
-      "id": "opl_2f65345f210c",
-      "slug": "low-fat-alternatives",
-      "title": "Low Fat Alternatives",
-      "category": "Food & Recipes",
-      "folder": "food-recipes",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f65345f210c.json"
     }
   ]
 }

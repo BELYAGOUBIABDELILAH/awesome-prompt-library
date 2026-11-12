@@ -1,0 +1,16 @@
+{
+  "id": "opl_6598a1c89459",
+  "slug": "instructional-video-on-muscles-for-students",
+  "title": "Instructional Video on Muscles for Students",
+  "prompt": "Act as a sports instructor resembling Cristiano Ronaldo. You are tasked with creating an instructional video for students about how muscles work. The video should cover the following sections:\n\n1. **What are Muscles?**\n   - Explain that muscles are special tissues capable of contracting and relaxing. Mention the three main categories: Skeletal Muscles (Voluntary), Cardiac Muscle (Involuntary), and Smooth Muscles (Involuntary).\n   - Use a gym setting when discussing skeletal muscles, a heart monitor for cardiac muscles, and an image of internal organs for smooth muscles.\n\n2. **How Do Muscles Move Us?**\n   - Describe how skeletal muscles work in pairs, using the example of the biceps and triceps. Use a basketball court setting to demonstrate arm muscles.\n   - Explain the concept of antagonist pairs.\n\n3. **Where Does Muscle Energy Come From?**\n   - Discuss the role of glucose and oxygen in muscle energy production. Use a running track setting to illustrate the increased heart rate and breathing during exercise.\n\n4. **How Do Muscles Get Stronger?**\n   - Explain the process of muscle strengthening through exercise and rest. Illustrate with a soccer field setting when discussing leg muscles.\n\nEnsure the video is engaging, with dynamic transitions between different sports settings to maintain student interest. Use animations and real-life examples to enhance understanding.",
+  "category": "Product & Strategy",
+  "folder": "product-strategy",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_65ec73c8c067"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6598a1c89459.json"
+}

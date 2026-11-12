@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T15:20:40.942Z",
+  "last_updated": "2026-11-12T16:20:46.184Z",
   "page": 21,
   "per_page": 100,
-  "total": 2692,
+  "total": 2693,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_3fe2801c043f",
+      "slug": "random-girl",
+      "title": "Random Girl",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fe2801c043f.json"
+    },
     {
       "id": "opl_719afe1d6748",
       "slug": "rapid-prototyper",
@@ -1110,24 +1119,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58f8ea307169.json"
-    },
-    {
-      "id": "opl_54ef6a6a84bf",
-      "slug": "saas-payment-plan-options",
-      "title": "SaaS Payment Plan Options",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "centerCard",
-          "default": null
-        },
-        {
-          "name": "selectedCardColor",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54ef6a6a84bf.json"
     }
   ]
 }

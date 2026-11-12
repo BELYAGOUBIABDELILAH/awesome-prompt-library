@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T15:20:40.942Z",
+  "last_updated": "2026-11-12T16:20:46.184Z",
   "page": 14,
   "per_page": 100,
-  "total": 2692,
+  "total": 2693,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
@@ -15,6 +15,15 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_88f5f5fd7534.json"
+    },
+    {
+      "id": "opl_6598a1c89459",
+      "slug": "instructional-video-on-muscles-for-students",
+      "title": "Instructional Video on Muscles for Students",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6598a1c89459.json"
     },
     {
       "id": "opl_07ae135f958f",
@@ -1040,15 +1049,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aff5e396fb2d.json"
-    },
-    {
-      "id": "opl_0e1c3c2c0c9a",
-      "slug": "landing-page-copy-architect-conversion-framework-prompt",
-      "title": "Landing Page Copy Architect – Conversion Framework Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e1c3c2c0c9a.json"
     }
   ]
 }
