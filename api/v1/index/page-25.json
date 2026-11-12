@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 25,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_f509c8f48173",
+      "slug": "system-prompt-reviewer",
+      "title": "System Prompt Reviewer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f509c8f48173.json"
+    },
     {
       "id": "opl_4822efb16b35",
       "slug": "system-prompt-text-to-structured",
@@ -998,15 +1007,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1bbef2c8c5e.json"
-    },
-    {
-      "id": "opl_c1853f62840f",
-      "slug": "top-failing-jobs",
-      "title": "Top Failing Jobs",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1853f62840f.json"
     }
   ]
 }

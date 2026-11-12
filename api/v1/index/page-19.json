@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 19,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_2681ce74b87d",
+      "slug": "personalized-skin-whitening-plan",
+      "title": "Personalized Skin Whitening Plan",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [
+        {
+          "name": "concerns",
+          "default": null
+        },
+        {
+          "name": "productPreference",
+          "default": "None"
+        },
+        {
+          "name": "skinType",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2681ce74b87d.json"
+    },
     {
       "id": "opl_ec7b895ad10a",
       "slug": "personalized-technical-intelligence-briefing-for-edge-ai-in",
@@ -1292,15 +1314,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_157ae6a3efd2.json"
-    },
-    {
-      "id": "opl_524e2f608c11",
-      "slug": "professional-linguistic-expert-and-translator",
-      "title": "professional linguistic expert and translator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_524e2f608c11.json"
     }
   ]
 }

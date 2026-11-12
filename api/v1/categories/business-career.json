@@ -1,8 +1,8 @@
 {
   "folder": "business-career",
   "name": "Business & Career",
-  "last_updated": "2026-11-12T12:20:44.263Z",
-  "total": 58,
+  "last_updated": "2026-11-12T13:20:42.760Z",
+  "total": 59,
   "prompts": [
     {
       "id": "opl_9051647e5ce0",
@@ -182,6 +182,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8140bb4248b.json"
+    },
+    {
+      "id": "opl_ceb75b8c3ad9",
+      "slug": "bamboo-app",
+      "title": "Bamboo app",
+      "prompt": "I want you to teach me like the best investor in the word on how to use bamboo app what to buy what not to buy and explain every detail",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_bfd7b1396796"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ceb75b8c3ad9.json"
     },
     {
       "id": "opl_b88da5158534",

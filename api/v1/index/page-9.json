@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 9,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_b7b70a62188d",
+      "slug": "design-app-store-style-icons",
+      "title": "Design App Store Style Icons",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7b70a62188d.json"
+    },
     {
       "id": "opl_1419660e6cf1",
       "slug": "design-brief",
@@ -1156,15 +1165,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_016b7348c594.json"
-    },
-    {
-      "id": "opl_0be80301e7ea",
-      "slug": "dual-lighting-narrative-scene",
-      "title": "Dual Lighting Narrative Scene",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0be80301e7ea.json"
     }
   ]
 }

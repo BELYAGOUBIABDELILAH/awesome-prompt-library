@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**58 prompts in this category**
+**59 prompts in this category**
 
 ## Table of Contents
 
@@ -15,6 +15,7 @@
 - [Annual Leave Balance Adjustment Processor](annual-leave-balance-adjustment-processor.md)
 - [Annual Summary Creator](annual-summary-creator.md)
 - [Audit Codebase for Compliance](audit-codebase-for-compliance.md)
+- [Bamboo app](bamboo-app.md)
 - [Bilateral Relationship Analyst](bilateral-relationship-analyst.md)
 - [Business](business.md)
 - [Business Assistant Ideator](business-assistant-ideator.md)

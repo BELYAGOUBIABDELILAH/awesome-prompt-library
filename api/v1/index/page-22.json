@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 22,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_22953585b577",
+      "slug": "sacrifice-in-obedience",
+      "title": "Sacrifice in obedience",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_22953585b577.json"
+    },
     {
       "id": "opl_b0a963873333",
       "slug": "salary-research-sidekick",
@@ -1235,15 +1244,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93da60470363.json"
-    },
-    {
-      "id": "opl_ea0f65343305",
-      "slug": "sidebar-dashboard-design",
-      "title": "Sidebar Dashboard Design",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea0f65343305.json"
     }
   ]
 }

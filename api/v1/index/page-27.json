@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 27,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_d4c695a6c06c",
+      "slug": "viking",
+      "title": "Viking",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d4c695a6c06c.json"
+    },
     {
       "id": "opl_85737be60963",
       "slug": "vintage-black-and-white-photograph-of-galata-tower",

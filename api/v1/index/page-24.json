@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 24,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_afab032797e5",
+      "slug": "step-3a-technical-deep-dive",
+      "title": "Step 3a: Technical Deep Dive",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_afab032797e5.json"
+    },
     {
       "id": "opl_ac60a86ce75a",
       "slug": "step-3b-creative-exploration",
@@ -1069,15 +1078,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd6b0bb459ff.json"
-    },
-    {
-      "id": "opl_f509c8f48173",
-      "slug": "system-prompt-reviewer",
-      "title": "System Prompt Reviewer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f509c8f48173.json"
     }
   ]
 }

@@ -1,12 +1,50 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 8,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_7521fc7e0040",
+      "slug": "critical-thinking-deepthink",
+      "title": "Critical Thinking (DeepThink)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "critical_audit",
+          "default": null
+        },
+        {
+          "name": "insight",
+          "default": null
+        },
+        {
+          "name": "main_conclusion",
+          "default": null
+        },
+        {
+          "name": "mode_name",
+          "default": null
+        },
+        {
+          "name": "name",
+          "default": null
+        },
+        {
+          "name": "ruthless_deconstruction",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7521fc7e0040.json"
+    },
     {
       "id": "opl_7dba1a94c3f7",
       "slug": "critical-parallel-inquiry-format",
@@ -1171,15 +1209,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33ad84e729b6.json"
-    },
-    {
-      "id": "opl_b7b70a62188d",
-      "slug": "design-app-store-style-icons",
-      "title": "Design App Store Style Icons",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7b70a62188d.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 16,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_3dc2ea6e93d0",
+      "slug": "lunatic",
+      "title": "Lunatic",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3dc2ea6e93d0.json"
+    },
     {
       "id": "opl_e0d53800c8ac",
       "slug": "lunch-atop-a-skyscraper-robotic-power-armor-recreation",
@@ -1176,15 +1185,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f104422907b1.json"
-    },
-    {
-      "id": "opl_1b4f876341f8",
-      "slug": "model-context-protocol-mcp-info",
-      "title": "Model Context Protocol (MCP) - Info",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1b4f876341f8.json"
     }
   ]
 }

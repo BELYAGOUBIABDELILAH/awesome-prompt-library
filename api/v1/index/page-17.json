@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 17,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_1b4f876341f8",
+      "slug": "model-context-protocol-mcp-info",
+      "title": "Model Context Protocol (MCP) - Info",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1b4f876341f8.json"
+    },
     {
       "id": "opl_b6d9e1302aee",
       "slug": "modern-fashion-photography",
@@ -1056,15 +1065,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4484fe99e3d6.json"
-    },
-    {
-      "id": "opl_7186b754819f",
-      "slug": "nostalgic-road-trip-atmospheric-35mm-film-photograph-prompt",
-      "title": "Nostalgic Road Trip - Atmospheric 35mm Film Photograph Prompt",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7186b754819f.json"
     }
   ]
 }

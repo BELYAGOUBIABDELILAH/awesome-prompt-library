@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 10,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_0be80301e7ea",
+      "slug": "dual-lighting-narrative-scene",
+      "title": "Dual Lighting Narrative Scene",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0be80301e7ea.json"
+    },
     {
       "id": "opl_e4151342a6d6",
       "slug": "dummy-tech-project-ideator",
@@ -1277,15 +1286,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d530a6928d69.json"
-    },
-    {
-      "id": "opl_7e1c759f4b7f",
-      "slug": "fake-email-removal-requestor",
-      "title": "Fake Email Removal Requestor",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e1c759f4b7f.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 11,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_7e1c759f4b7f",
+      "slug": "fake-email-removal-requestor",
+      "title": "Fake Email Removal Requestor",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e1c759f4b7f.json"
+    },
     {
       "id": "opl_ff36ef14d35e",
       "slug": "fallacy-finder",
@@ -1046,15 +1055,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c9aa5b7acdf.json"
-    },
-    {
-      "id": "opl_3b76d7456377",
-      "slug": "geopolitical-relationship-briefer",
-      "title": "Geopolitical Relationship Briefer",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b76d7456377.json"
     }
   ]
 }

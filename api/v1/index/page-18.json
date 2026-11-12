@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T12:20:44.263Z",
+  "last_updated": "2026-11-12T13:20:42.760Z",
   "page": 18,
   "per_page": 100,
-  "total": 2689,
+  "total": 2690,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_7186b754819f",
+      "slug": "nostalgic-road-trip-atmospheric-35mm-film-photograph-prompt",
+      "title": "Nostalgic Road Trip - Atmospheric 35mm Film Photograph Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7186b754819f.json"
+    },
     {
       "id": "opl_1472379e8395",
       "slug": "note",
@@ -1052,28 +1061,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0157fe07616d.json"
-    },
-    {
-      "id": "opl_2681ce74b87d",
-      "slug": "personalized-skin-whitening-plan",
-      "title": "Personalized Skin Whitening Plan",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [
-        {
-          "name": "concerns",
-          "default": null
-        },
-        {
-          "name": "productPreference",
-          "default": "None"
-        },
-        {
-          "name": "skinType",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2681ce74b87d.json"
     }
   ]
 }
