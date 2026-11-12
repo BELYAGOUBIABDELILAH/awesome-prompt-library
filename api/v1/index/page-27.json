@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T11:20:47.252Z",
+  "last_updated": "2026-11-12T12:20:44.263Z",
   "page": 27,
   "per_page": 100,
-  "total": 2688,
+  "total": 2689,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_85737be60963",
+      "slug": "vintage-black-and-white-photograph-of-galata-tower",
+      "title": "Vintage Black and White Photograph of Galata Tower",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85737be60963.json"
+    },
     {
       "id": "opl_5ac7ce92f9c7",
       "slug": "vintage-botanical-illustration-generator",

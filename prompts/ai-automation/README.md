@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**121 prompts in this category**
+**122 prompts in this category**
 
 ## Table of Contents
 
@@ -62,6 +62,7 @@
 - [Generate an enhanced command prompt](generate-an-enhanced-command-prompt.md)
 - [Generate GitLab CI Templates](generate-gitlab-ci-templates.md)
 - [Gmail Search Strings](gmail-search-strings.md)
+- [god mode](god-mode.md)
 - [Google Sheets Wizard](google-sheets-wizard.md)
 - [GRAPHICS](graphics.md)
 - [How To AI This?](how-to-ai-this.md)

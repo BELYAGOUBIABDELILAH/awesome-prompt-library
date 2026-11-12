@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T11:20:47.252Z",
+  "last_updated": "2026-11-12T12:20:44.263Z",
   "page": 15,
   "per_page": 100,
-  "total": 2688,
+  "total": 2689,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_18c11d7734ff",
+      "slug": "language-detector",
+      "title": "Language Detector",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_18c11d7734ff.json"
+    },
     {
       "id": "opl_634efb4e1c47",
       "slug": "large-language-models-security-specialist",
@@ -1028,15 +1037,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3dc2ea6e93d0.json"
-    },
-    {
-      "id": "opl_e0d53800c8ac",
-      "slug": "lunch-atop-a-skyscraper-robotic-power-armor-recreation",
-      "title": "Lunch atop a Skyscraper - Robotic Power Armor Recreation",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0d53800c8ac.json"
     }
   ]
 }

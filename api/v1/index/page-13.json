@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T11:20:47.252Z",
+  "last_updated": "2026-11-12T12:20:44.263Z",
   "page": 13,
   "per_page": 100,
-  "total": 2688,
+  "total": 2689,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_a837214a915b",
+      "slug": "home-network-ref-doc-creator",
+      "title": "Home Network Ref Doc Creator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a837214a915b.json"
+    },
     {
       "id": "opl_7fcc858b3a24",
       "slug": "home-networking-advice",
@@ -1109,15 +1118,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd9b6ea823c4.json"
-    },
-    {
-      "id": "opl_2399e3aa34aa",
-      "slug": "integration-and-planning-roadmap-for-calculator-content",
-      "title": "Integration and Planning Roadmap for Calculator Content",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2399e3aa34aa.json"
     }
   ]
 }

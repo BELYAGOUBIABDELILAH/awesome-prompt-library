@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T11:20:47.252Z",
+  "last_updated": "2026-11-12T12:20:44.263Z",
   "page": 24,
   "per_page": 100,
-  "total": 2688,
+  "total": 2689,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_ac60a86ce75a",
+      "slug": "step-3b-creative-exploration",
+      "title": "Step 3b: Creative Exploration",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac60a86ce75a.json"
+    },
     {
       "id": "opl_fb150cc7272c",
       "slug": "step-4a-implementation-plan",
@@ -1069,15 +1078,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f509c8f48173.json"
-    },
-    {
-      "id": "opl_4822efb16b35",
-      "slug": "system-prompt-text-to-structured",
-      "title": "System Prompt Text To Structured",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4822efb16b35.json"
     }
   ]
 }

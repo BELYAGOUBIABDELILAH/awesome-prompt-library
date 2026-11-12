@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-12T11:20:47.252Z",
-  "total_prompts": 2688,
-  "source_records": 2688,
-  "total_sources": 336,
+  "last_updated": "2026-11-12T12:20:44.263Z",
+  "total_prompts": 2689,
+  "source_records": 2689,
+  "total_sources": 337,
   "total_categories": 19,
   "total_pages": 27,
   "per_page": 100,
@@ -50,7 +50,7 @@
     {
       "folder": "ai-automation",
       "name": "AI & Automation",
-      "prompt_count": 121,
+      "prompt_count": 122,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/ai-automation.json"
     },
     {

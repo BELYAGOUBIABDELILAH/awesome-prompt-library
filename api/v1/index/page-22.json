@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T11:20:47.252Z",
+  "last_updated": "2026-11-12T12:20:44.263Z",
   "page": 22,
   "per_page": 100,
-  "total": 2688,
+  "total": 2689,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_b0a963873333",
+      "slug": "salary-research-sidekick",
+      "title": "Salary Research Sidekick",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b0a963873333.json"
+    },
     {
       "id": "opl_6c9a2504cbd9",
       "slug": "sales",
@@ -1235,15 +1244,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea0f65343305.json"
-    },
-    {
-      "id": "opl_a57acf5c8bce",
-      "slug": "similar-software-finder",
-      "title": "Similar Software Finder",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a57acf5c8bce.json"
     }
   ]
 }

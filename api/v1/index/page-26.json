@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T11:20:47.252Z",
+  "last_updated": "2026-11-12T12:20:44.263Z",
   "page": 26,
   "per_page": 100,
-  "total": 2688,
+  "total": 2689,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_d31d5c9bfa40",
+      "slug": "top-programming-expert",
+      "title": "Top Programming Expert",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d31d5c9bfa40.json"
+    },
     {
       "id": "opl_3d2a55d1ab3f",
       "slug": "topic-article",
@@ -1143,15 +1152,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d4c695a6c06c.json"
-    },
-    {
-      "id": "opl_85737be60963",
-      "slug": "vintage-black-and-white-photograph-of-galata-tower",
-      "title": "Vintage Black and White Photograph of Galata Tower",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85737be60963.json"
     }
   ]
 }

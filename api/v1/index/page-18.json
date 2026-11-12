@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T11:20:47.252Z",
+  "last_updated": "2026-11-12T12:20:44.263Z",
   "page": 18,
   "per_page": 100,
-  "total": 2688,
+  "total": 2689,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_1472379e8395",
+      "slug": "note",
+      "title": "Note",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1472379e8395.json"
+    },
     {
       "id": "opl_dbfe5a9befed",
       "slug": "note-guru",
@@ -1065,76 +1074,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2681ce74b87d.json"
-    },
-    {
-      "id": "opl_ec7b895ad10a",
-      "slug": "personalized-technical-intelligence-briefing-for-edge-ai-in",
-      "title": "Personalized Technical Intelligence Briefing for Edge AI in Defense",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "actionableInsight1",
-          "default": null
-        },
-        {
-          "name": "actionableInsight2",
-          "default": null
-        },
-        {
-          "name": "bibleVerse",
-          "default": null
-        },
-        {
-          "name": "breakthrough1",
-          "default": null
-        },
-        {
-          "name": "breakthrough2",
-          "default": null
-        },
-        {
-          "name": "headline1",
-          "default": null
-        },
-        {
-          "name": "headline2",
-          "default": null
-        },
-        {
-          "name": "implementationDetails1",
-          "default": null
-        },
-        {
-          "name": "implementationDetails2",
-          "default": null
-        },
-        {
-          "name": "relevanceScore1",
-          "default": null
-        },
-        {
-          "name": "relevanceScore2",
-          "default": null
-        },
-        {
-          "name": "sourceLink1",
-          "default": null
-        },
-        {
-          "name": "sourceLink2",
-          "default": null
-        },
-        {
-          "name": "technicalSummary1",
-          "default": null
-        },
-        {
-          "name": "technicalSummary2",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec7b895ad10a.json"
     }
   ]
 }

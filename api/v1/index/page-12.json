@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T11:20:47.252Z",
+  "last_updated": "2026-11-12T12:20:44.263Z",
   "page": 12,
   "per_page": 100,
-  "total": 2688,
+  "total": 2689,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
@@ -321,6 +321,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a4a33e19101.json"
+    },
+    {
+      "id": "opl_b034298d27c3",
+      "slug": "god-mode",
+      "title": "god mode",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b034298d27c3.json"
     },
     {
       "id": "opl_c4bf1b3c0eed",
@@ -1031,15 +1040,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_656aa62796f4.json"
-    },
-    {
-      "id": "opl_a837214a915b",
-      "slug": "home-network-ref-doc-creator",
-      "title": "Home Network Ref Doc Creator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a837214a915b.json"
     }
   ]
 }

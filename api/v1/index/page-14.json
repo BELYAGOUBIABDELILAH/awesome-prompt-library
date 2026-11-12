@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T11:20:47.252Z",
+  "last_updated": "2026-11-12T12:20:44.263Z",
   "page": 14,
   "per_page": 100,
-  "total": 2688,
+  "total": 2689,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_2399e3aa34aa",
+      "slug": "integration-and-planning-roadmap-for-calculator-content",
+      "title": "Integration and Planning Roadmap for Calculator Content",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2399e3aa34aa.json"
+    },
     {
       "id": "opl_d590af1d1b62",
       "slug": "integrity-compliance-officer-audit-protocol",
@@ -1053,15 +1062,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d606b3edf956.json"
-    },
-    {
-      "id": "opl_18c11d7734ff",
-      "slug": "language-detector",
-      "title": "Language Detector",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_18c11d7734ff.json"
     }
   ]
 }
