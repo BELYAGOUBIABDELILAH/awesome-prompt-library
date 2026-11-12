@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 23,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_a49f447c5385",
+      "slug": "simple-voice-note-transcriber",
+      "title": "Simple Voice Note Transcriber",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a49f447c5385.json"
+    },
     {
       "id": "opl_26b801ea0a3e",
       "slug": "sistem-ve-a-g-venli-i-temal-k-sa-film-promptu",
@@ -1026,15 +1035,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_071247e843fe.json"
-    },
-    {
-      "id": "opl_152c3bc9dfba",
-      "slug": "step-6-publication",
-      "title": "Step 6: Publication",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_152c3bc9dfba.json"
     }
   ]
 }

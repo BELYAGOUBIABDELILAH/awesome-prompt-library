@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 24,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_152c3bc9dfba",
+      "slug": "step-6-publication",
+      "title": "Step 6: Publication",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_152c3bc9dfba.json"
+    },
     {
       "id": "opl_e8cff0ee7bf1",
       "slug": "sticker",
@@ -1069,15 +1078,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_28e9ba661f59.json"
-    },
-    {
-      "id": "opl_f44b5c9f981d",
-      "slug": "system-prompt-updater",
-      "title": "System Prompt Updater",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f44b5c9f981d.json"
     }
   ]
 }

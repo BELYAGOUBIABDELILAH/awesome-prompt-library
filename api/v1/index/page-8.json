@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 8,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_ba48ded42bd4",
+      "slug": "crm-software-finder",
+      "title": "CRM Software Finder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba48ded42bd4.json"
+    },
     {
       "id": "opl_89da3c9de2eb",
       "slug": "cross-cultural-navigator",
@@ -1184,80 +1193,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1419660e6cf1.json"
-    },
-    {
-      "id": "opl_39f54d0cd845",
-      "slug": "design-handoff-notes-ai-first-human-readable",
-      "title": "Design Handoff Notes - AI First, Human Readable",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "action",
-          "default": null
-        },
-        {
-          "name": "componentname",
-          "default": null
-        },
-        {
-          "name": "describe_or_reference_asset",
-          "default": null
-        },
-        {
-          "name": "emptystate",
-          "default": null
-        },
-        {
-          "name": "exact_body_text_or_content_source",
-          "default": null
-        },
-        {
-          "name": "exact_heading_text_or_content_source",
-          "default": null
-        },
-        {
-          "name": "exact_text",
-          "default": null
-        },
-        {
-          "name": "list_exact_fields_with_validation_rules",
-          "default": null
-        },
-        {
-          "name": "name",
-          "default": null
-        },
-        {
-          "name": "page_name",
-          "default": null
-        },
-        {
-          "name": "path",
-          "default": null
-        },
-        {
-          "name": "section_name",
-          "default": null
-        },
-        {
-          "name": "token",
-          "default": null
-        },
-        {
-          "name": "token_or_none",
-          "default": null
-        },
-        {
-          "name": "what_component_renders_in_each_cell",
-          "default": null
-        },
-        {
-          "name": "which_layout_wrapper_to_use",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39f54d0cd845.json"
     }
   ]
 }

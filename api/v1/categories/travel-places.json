@@ -1,9 +1,25 @@
 {
   "folder": "travel-places",
   "name": "Travel & Places",
-  "last_updated": "2026-11-12T07:20:41.468Z",
-  "total": 5,
+  "last_updated": "2026-11-12T08:20:39.434Z",
+  "total": 6,
   "prompts": [
+    {
+      "id": "opl_121bcdc074d9",
+      "slug": "ai-front-desk-website-for-a-nairobi-hotel",
+      "title": "AI Front Desk Website for a Nairobi Hotel",
+      "prompt": "I wanna build an website with ai assistant for a hotel called the village in kilimani nairobi it has to have whatsapp empessa empessa prompt I want It to be an ai frondesk ai call",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_7c9114b555ad"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_121bcdc074d9.json"
+    },
     {
       "id": "opl_e49fb76cee7c",
       "slug": "dejargonizer",

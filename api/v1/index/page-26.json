@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 26,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_cf106018f032",
+      "slug": "trade-contract-review-expert",
+      "title": "Trade Contract Review Expert",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "industry",
+          "default": "global trade"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf106018f032.json"
+    },
     {
       "id": "opl_6b5c41c2021a",
       "slug": "trading-investing-simulation-platform",
@@ -1169,24 +1183,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53b13812d2f0.json"
-    },
-    {
-      "id": "opl_a132dd1d874c",
-      "slug": "viral-video-analyzer-for-tiktok-and-xiaohongshu",
-      "title": "Viral Video Analyzer for TikTok and Xiaohongshu",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "platform",
-          "default": "TikTok"
-        },
-        {
-          "name": "videoType",
-          "default": "all"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a132dd1d874c.json"
     }
   ]
 }

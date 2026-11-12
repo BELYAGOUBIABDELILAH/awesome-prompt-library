@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 18,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_f5e599ff3733",
+      "slug": "note-taking-assistant",
+      "title": "Note-Taking assistant",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f5e599ff3733.json"
+    },
     {
       "id": "opl_f0542746a92c",
       "slug": "notebooklm-lecture-notes",
@@ -1118,15 +1127,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f62c8a4452df.json"
-    },
-    {
-      "id": "opl_32f3147d1ce3",
-      "slug": "pet-behaviorist",
-      "title": "Pet Behaviorist",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_32f3147d1ce3.json"
     }
   ]
 }

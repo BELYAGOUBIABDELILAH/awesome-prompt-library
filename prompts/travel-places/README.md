@@ -2,10 +2,11 @@
 
 [← Back to main index](../../README.md)
 
-**5 prompts in this category**
+**6 prompts in this category**
 
 ## Table of Contents
 
+- [AI Front Desk Website for a Nairobi Hotel](ai-front-desk-website-for-a-nairobi-hotel.md)
 - [Dejargonizer](dejargonizer.md)
 - [Giant Object in City](giant-object-in-city.md)
 - [Israel Travel Planner](israel-travel-planner.md)

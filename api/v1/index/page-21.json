@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 21,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_0177dc22c47d",
+      "slug": "real-estate-agent",
+      "title": "Real Estate Agent",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0177dc22c47d.json"
+    },
     {
       "id": "opl_e0a7da6bc9ef",
       "slug": "real-time-and-news-data",
@@ -1119,20 +1128,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aabc0e544811.json"
-    },
-    {
-      "id": "opl_d709b3eb615d",
-      "slug": "sales-funnel-builder-from-url",
-      "title": "Sales Funnel Builder from URL",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "url",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d709b3eb615d.json"
     }
   ]
 }

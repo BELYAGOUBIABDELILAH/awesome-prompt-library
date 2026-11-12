@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 15,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_f50c76da9b88",
+      "slug": "laundry-label-decoder",
+      "title": "Laundry Label Decoder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f50c76da9b88.json"
+    },
     {
       "id": "opl_92a278e05baa",
       "slug": "lazy-ai-email-detector",
@@ -1033,15 +1042,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e315cf168bab.json"
-    },
-    {
-      "id": "opl_a6bdcd023b05",
-      "slug": "luxury-ski-resort-selfie-scene-description",
-      "title": "Luxury Ski Resort Selfie Scene Description",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6bdcd023b05.json"
     }
   ]
 }

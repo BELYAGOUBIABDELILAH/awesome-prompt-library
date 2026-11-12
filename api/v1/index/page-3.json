@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 3,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prompts": [
+    {
+      "id": "opl_fcef004515d5",
+      "slug": "ai-voice-assistant",
+      "title": "AI voice assistant",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "your services",
+          "default": null
+        },
+        {
+          "name": "your_website",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcef004515d5.json"
+    },
     {
       "id": "opl_12ec76cc0f86",
       "slug": "ai-web-search-customer",
@@ -1098,44 +1116,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39a03b1e2944.json"
-    },
-    {
-      "id": "opl_4c7230231a4a",
-      "slug": "assistente-de-gera-o-de-imagens-com-identidade-visual-padr-o",
-      "title": "Assistente de Geração de Imagens com Identidade Visual Padrão",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "accent_blue_cyan",
-          "default": "#00ffff"
-        },
-        {
-          "name": "accent_green",
-          "default": "#ebf15b"
-        },
-        {
-          "name": "brandName",
-          "default": " Suzuki Intelligence & Innovation"
-        },
-        {
-          "name": "elemento",
-          "default": null
-        },
-        {
-          "name": "message",
-          "default": " \"\""
-        },
-        {
-          "name": "position",
-          "default": " center"
-        },
-        {
-          "name": "primary_background",
-          "default": "#0a1128"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c7230231a4a.json"
     }
   ]
 }

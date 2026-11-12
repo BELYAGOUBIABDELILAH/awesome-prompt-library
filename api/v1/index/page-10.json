@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 10,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_af1877570a88",
+      "slug": "dummy-test-prompt",
+      "title": "Dummy Test Prompt",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_af1877570a88.json"
+    },
     {
       "id": "opl_5e80dce9b871",
       "slug": "duplicate-data-detector",
@@ -1277,15 +1286,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ff36ef14d35e.json"
-    },
-    {
-      "id": "opl_bd1353fc5c52",
-      "slug": "family-meeting-planner",
-      "title": "Family Meeting Planner",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd1353fc5c52.json"
     }
   ]
 }

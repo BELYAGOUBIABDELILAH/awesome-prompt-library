@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 11,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_bd1353fc5c52",
+      "slug": "family-meeting-planner",
+      "title": "Family Meeting Planner",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd1353fc5c52.json"
+    },
     {
       "id": "opl_1cdee11b50a9",
       "slug": "family-picture",
@@ -1046,20 +1055,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_18be8ed0892f.json"
-    },
-    {
-      "id": "opl_048847c45234",
-      "slug": "gerador-de-tarefas",
-      "title": "Gerador de Tarefas",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "plans_path",
-          "default": "plans"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_048847c45234.json"
     }
   ]
 }

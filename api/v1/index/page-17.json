@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 17,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_82354ac950c4",
+      "slug": "modern-video-player-with-sharp-ui",
+      "title": "Modern Video Player with Sharp UI",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82354ac950c4.json"
+    },
     {
       "id": "opl_25710f160a27",
       "slug": "modern-web-development-assistant",
@@ -1077,15 +1086,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbfe5a9befed.json"
-    },
-    {
-      "id": "opl_f5e599ff3733",
-      "slug": "note-taking-assistant",
-      "title": "Note-Taking assistant",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f5e599ff3733.json"
     }
   ]
 }

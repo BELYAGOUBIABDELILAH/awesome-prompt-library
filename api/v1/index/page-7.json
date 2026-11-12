@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 7,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_f39c1e1f7925",
+      "slug": "computer-use-agents",
+      "title": "Computer Use Agents",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f39c1e1f7925.json"
+    },
     {
       "id": "opl_f08b70baa5b6",
       "slug": "conference-finder",
@@ -1240,15 +1249,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7dba1a94c3f7.json"
-    },
-    {
-      "id": "opl_ba48ded42bd4",
-      "slug": "crm-software-finder",
-      "title": "CRM Software Finder",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba48ded42bd4.json"
     }
   ]
 }

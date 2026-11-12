@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 27,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_a132dd1d874c",
+      "slug": "viral-video-analyzer-for-tiktok-and-xiaohongshu",
+      "title": "Viral Video Analyzer for TikTok and Xiaohongshu",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "platform",
+          "default": "TikTok"
+        },
+        {
+          "name": "videoType",
+          "default": "all"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a132dd1d874c.json"
+    },
     {
       "id": "opl_8c779d77acaf",
       "slug": "virtual-doctor",

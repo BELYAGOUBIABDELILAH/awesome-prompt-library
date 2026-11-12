@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 13,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_ce6cf56a1c75",
+      "slug": "home-preparedness-expert",
+      "title": "Home Preparedness Expert",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce6cf56a1c75.json"
+    },
     {
       "id": "opl_8d5f8e1408da",
       "slug": "home-technology-helper",
@@ -1109,15 +1118,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d590af1d1b62.json"
-    },
-    {
-      "id": "opl_a8e0e8a12c89",
-      "slug": "intent-recognition-planner-agent",
-      "title": "Intent Recognition Planner Agent",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a8e0e8a12c89.json"
     }
   ]
 }

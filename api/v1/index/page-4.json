@@ -1,12 +1,50 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 4,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prompts": [
+    {
+      "id": "opl_4c7230231a4a",
+      "slug": "assistente-de-gera-o-de-imagens-com-identidade-visual-padr-o",
+      "title": "Assistente de Geração de Imagens com Identidade Visual Padrão",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "accent_blue_cyan",
+          "default": "#00ffff"
+        },
+        {
+          "name": "accent_green",
+          "default": "#ebf15b"
+        },
+        {
+          "name": "brandName",
+          "default": " Suzuki Intelligence & Innovation"
+        },
+        {
+          "name": "elemento",
+          "default": null
+        },
+        {
+          "name": "message",
+          "default": " \"\""
+        },
+        {
+          "name": "position",
+          "default": " center"
+        },
+        {
+          "name": "primary_background",
+          "default": "#0a1128"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c7230231a4a.json"
+    },
     {
       "id": "opl_fabe451f53a3",
       "slug": "ast-code-analysis-superpower",
@@ -1143,15 +1181,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbb6372786e2.json"
-    },
-    {
-      "id": "opl_065e22547d50",
-      "slug": "brsorndnsg",
-      "title": "brsorndnsg",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_065e22547d50.json"
     }
   ]
 }

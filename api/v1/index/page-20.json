@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 20,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_439b3cbb4ff7",
+      "slug": "professional-rates-researcher",
+      "title": "Professional Rates Researcher",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_439b3cbb4ff7.json"
+    },
     {
       "id": "opl_6ef6d74f75e7",
       "slug": "professional-real-estate-appointment-setter",
@@ -1090,15 +1099,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e75aed4db22e.json"
-    },
-    {
-      "id": "opl_0177dc22c47d",
-      "slug": "real-estate-agent",
-      "title": "Real Estate Agent",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0177dc22c47d.json"
     }
   ]
 }

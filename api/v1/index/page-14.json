@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 14,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_a8e0e8a12c89",
+      "slug": "intent-recognition-planner-agent",
+      "title": "Intent Recognition Planner Agent",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a8e0e8a12c89.json"
+    },
     {
       "id": "opl_b3ced1bba22b",
       "slug": "interactive-place-review-generator",
@@ -1053,15 +1062,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_634efb4e1c47.json"
-    },
-    {
-      "id": "opl_f50c76da9b88",
-      "slug": "laundry-label-decoder",
-      "title": "Laundry Label Decoder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f50c76da9b88.json"
     }
   ]
 }

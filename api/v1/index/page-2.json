@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T07:20:41.468Z",
+  "last_updated": "2026-11-12T08:20:39.434Z",
   "page": 2,
   "per_page": 100,
-  "total": 2684,
+  "total": 2685,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index.json",
@@ -909,6 +909,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_494713ca476e.json"
     },
     {
+      "id": "opl_121bcdc074d9",
+      "slug": "ai-front-desk-website-for-a-nairobi-hotel",
+      "title": "AI Front Desk Website for a Nairobi Hotel",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_121bcdc074d9.json"
+    },
+    {
       "id": "opl_a7a1aa67a0d6",
       "slug": "ai-grounding-prompt",
       "title": "AI Grounding Prompt",
@@ -1176,24 +1185,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91eb97550878.json"
-    },
-    {
-      "id": "opl_fcef004515d5",
-      "slug": "ai-voice-assistant",
-      "title": "AI voice assistant",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "your services",
-          "default": null
-        },
-        {
-          "name": "your_website",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcef004515d5.json"
     }
   ]
 }

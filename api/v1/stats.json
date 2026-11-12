@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-12T07:20:41.468Z",
-  "total_prompts": 2684,
-  "source_records": 2684,
-  "total_sources": 335,
+  "last_updated": "2026-11-12T08:20:39.434Z",
+  "total_prompts": 2685,
+  "source_records": 2685,
+  "total_sources": 336,
   "total_categories": 19,
   "total_pages": 27,
   "per_page": 100,
@@ -116,7 +116,7 @@
     {
       "folder": "travel-places",
       "name": "Travel & Places",
-      "prompt_count": 5,
+      "prompt_count": 6,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/travel-places.json"
     },
     {
