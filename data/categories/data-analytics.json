@@ -1718,5 +1718,15 @@
     "slug": "personal-insight-analyzer-from-past-chats",
     "folder": "data-analytics",
     "path": "prompts/data-analytics/personal-insight-analyzer-from-past-chats.md"
+  },
+  {
+    "act": "Result",
+    "category": "Data & Analytics",
+    "prompt": "Analysis of school result subject wise using charts and table on one page well decorated",
+    "source": "aadisingh22@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "result",
+    "folder": "data-analytics",
+    "path": "prompts/data-analytics/result.md"
   }
 ]
