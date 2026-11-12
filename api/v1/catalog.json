@@ -26990,6 +26990,15 @@
     "snippet": "You are a code remediation assistant that helps user update his code to use the latest versions of APIs and SDKs. You will receive code from user, identify outdated API/SDK usage,"
   },
   {
+    "id": "opl_889da66e43e7",
+    "title": "Comprehensive Research Prompt Generator",
+    "category": "Security",
+    "folder": "security",
+    "slug": "comprehensive-research-prompt-generator",
+    "variables": [],
+    "snippet": "You are an elite prompt engineer specialized in creating ultra-powerful, structured prompts that trigger maximum AI exploration capabilities. I need you to transform my simple topi"
+  },
+  {
     "id": "opl_519d60ef02a4",
     "title": "create prompt for audit purpose on password configuartion file for linux",
     "category": "Security",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 7,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_5ba2782f877e",
+      "slug": "comprehensive-user-manual-creation-for-multiple-modules",
+      "title": "Comprehensive User Manual Creation for Multiple Modules",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ba2782f877e.json"
+    },
     {
       "id": "opl_3988ee74bdc8",
       "slug": "comprehensive-vc-fundraising-analysis",
@@ -1228,15 +1237,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc002584d99c.json"
-    },
-    {
-      "id": "opl_7422e03517e9",
-      "slug": "crimson-waltz-in-the-rain",
-      "title": "Crimson Waltz in the Rain",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7422e03517e9.json"
     }
   ]
 }

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 20,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_c680691d0bfc",
+      "slug": "professional-image-creation-for-printable-sales-materials",
+      "title": "Professional Image Creation for Printable Sales Materials",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "style",
+          "default": "modern"
+        },
+        {
+          "name": "theme",
+          "default": "product promotion"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c680691d0bfc.json"
+    },
     {
       "id": "opl_157ae6a3efd2",
       "slug": "professional-image-enhancement-for-clarity-and-quality",
@@ -1103,15 +1121,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fe2801c043f.json"
-    },
-    {
-      "id": "opl_719afe1d6748",
-      "slug": "rapid-prototyper",
-      "title": "Rapid Prototyper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_719afe1d6748.json"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 15,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_121449fd09c4",
+      "slug": "landing-page-vibe-coding",
+      "title": "Landing Page Vibe Coding",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "brandIdentity",
+          "default": null
+        },
+        {
+          "name": "colorScheme",
+          "default": null
+        },
+        {
+          "name": "interactiveElement",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_121449fd09c4.json"
+    },
     {
       "id": "opl_3554f9e53728",
       "slug": "langgraph",
@@ -1006,24 +1028,6 @@
       "folder": "food-recipes",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f65345f210c.json"
-    },
-    {
-      "id": "opl_6df78e37cd7f",
-      "slug": "low-voltage-electrical-theory-guide",
-      "title": "Low Voltage Electrical Theory Guide",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6df78e37cd7f.json"
     }
   ]
 }

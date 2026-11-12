@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 22,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_400bb13cbf42",
+      "slug": "saas-pricing-strategist",
+      "title": "SaaS Pricing Strategist",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_400bb13cbf42.json"
+    },
     {
       "id": "opl_0b6c277fc074",
       "slug": "sabarudin-instructions-framework",
@@ -1226,15 +1235,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e7755133515.json"
-    },
-    {
-      "id": "opl_9df02b723891",
-      "slug": "showcase-top-repositories",
-      "title": "Showcase Top Repositories",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9df02b723891.json"
     }
   ]
 }

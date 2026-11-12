@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 9,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_33ad84e729b6",
+      "slug": "design-api-endpoints",
+      "title": "Design API Endpoints",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33ad84e729b6.json"
+    },
     {
       "id": "opl_b7b70a62188d",
       "slug": "design-app-store-style-icons",
@@ -1143,15 +1152,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59508c81afbc.json"
-    },
-    {
-      "id": "opl_7df8aee376ca",
-      "slug": "drunk-woman",
-      "title": "Drunk Woman",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7df8aee376ca.json"
     }
   ]
 }

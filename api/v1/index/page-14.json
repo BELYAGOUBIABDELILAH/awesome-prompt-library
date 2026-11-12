@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 14,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_88f5f5fd7534",
+      "slug": "instructional-model-advisor",
+      "title": "Instructional Model Advisor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_88f5f5fd7534.json"
+    },
     {
       "id": "opl_07ae135f958f",
       "slug": "instructor-in-a-school",
@@ -1040,28 +1049,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e1c3c2c0c9a.json"
-    },
-    {
-      "id": "opl_121449fd09c4",
-      "slug": "landing-page-vibe-coding",
-      "title": "Landing Page Vibe Coding",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "brandIdentity",
-          "default": null
-        },
-        {
-          "name": "colorScheme",
-          "default": null
-        },
-        {
-          "name": "interactiveElement",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_121449fd09c4.json"
     }
   ]
 }

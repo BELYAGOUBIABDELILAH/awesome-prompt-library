@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 24,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_128b692b759b",
+      "slug": "status-update-email-drafter",
+      "title": "Status Update Email Drafter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_128b692b759b.json"
+    },
     {
       "id": "opl_d862254f2e6f",
       "slug": "step-2-outline-creation",
@@ -1069,15 +1078,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f12c40bd0cf1.json"
-    },
-    {
-      "id": "opl_9e0f0890e366",
-      "slug": "system-prompt-parameter-calculator",
-      "title": "System Prompt Parameter Calculator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9e0f0890e366.json"
     }
   ]
 }

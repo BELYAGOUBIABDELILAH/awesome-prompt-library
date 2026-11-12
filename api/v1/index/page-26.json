@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 26,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_d9972b3bc945",
+      "slug": "token-architecture",
+      "title": "Token Architecture",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9972b3bc945.json"
+    },
     {
       "id": "opl_c1bbef2c8c5e",
       "slug": "tool-evaluator-agent-role",
@@ -1126,32 +1135,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4d4b36d7a95.json"
-    },
-    {
-      "id": "opl_1a958c678693",
-      "slug": "video-extractor-prompt",
-      "title": "Video extractor prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "code_here_with_inline_comments_explaining_what_each_line_does",
-          "default": null
-        },
-        {
-          "name": "concept_name",
-          "default": null
-        },
-        {
-          "name": "infer_the_main_topic_from_the_content",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a958c678693.json"
     }
   ]
 }

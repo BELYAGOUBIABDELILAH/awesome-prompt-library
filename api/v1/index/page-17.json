@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 17,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_4f254b2054c6",
+      "slug": "mock-data-generator-agent-role",
+      "title": "Mock Data Generator Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f254b2054c6.json"
+    },
     {
       "id": "opl_f104422907b1",
       "slug": "mockup-interview-using-gemini-live",
@@ -1061,15 +1070,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1539c67cc61.json"
-    },
-    {
-      "id": "opl_3b94005802b0",
-      "slug": "non-technical-it-help-clarity-assistant",
-      "title": "Non-Technical IT Help & Clarity Assistant",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b94005802b0.json"
     }
   ]
 }

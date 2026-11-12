@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**64 prompts in this category**
+**65 prompts in this category**
 
 ## Table of Contents
 
@@ -23,6 +23,7 @@
 - [Cloud Hosting LLMs](cloud-hosting-llms.md)
 - [Cloudflare Helper](cloudflare-helper.md)
 - [Code Editor - Update API/SDK](code-editor-update-api-sdk.md)
+- [Comprehensive Research Prompt Generator](comprehensive-research-prompt-generator.md)
 - [create prompt for audit purpose on password configuartion file for linux](create-prompt-for-audit-purpose-on-password-configuartion-file-for-linux.md)
 - [Create Security Test Cases](create-security-test-cases.md)
 - [Creative Writing: Exploring Inner Desires](creative-writing-exploring-inner-desires.md)

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 10,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_7df8aee376ca",
+      "slug": "drunk-woman",
+      "title": "Drunk Woman",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7df8aee376ca.json"
+    },
     {
       "id": "opl_016b7348c594",
       "slug": "dspy-business-partner-system",
@@ -1290,15 +1299,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d22ee34d79f.json"
-    },
-    {
-      "id": "opl_bb0109a8f584",
-      "slug": "extreme-close-up-macro-photography-of-a-young-woman-s-face",
-      "title": "Extreme Close-up Macro Photography of a Young Woman's Face",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb0109a8f584.json"
     }
   ]
 }

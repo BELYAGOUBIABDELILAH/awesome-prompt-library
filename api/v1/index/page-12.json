@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 12,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_c41d2df089bb",
+      "slug": "geopolitical-effect-modeller",
+      "title": "Geopolitical Effect Modeller",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c41d2df089bb.json"
+    },
     {
       "id": "opl_9c9aa5b7acdf",
       "slug": "geopolitical-event-simulator",
@@ -1031,15 +1040,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_72df70382c23.json"
-    },
-    {
-      "id": "opl_d98b4a8d4e5c",
-      "slug": "home-assistant-remixer",
-      "title": "Home Assistant Remixer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d98b4a8d4e5c.json"
     }
   ]
 }

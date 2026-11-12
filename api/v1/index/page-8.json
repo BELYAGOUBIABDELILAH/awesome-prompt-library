@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 8,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_7422e03517e9",
+      "slug": "crimson-waltz-in-the-rain",
+      "title": "Crimson Waltz in the Rain",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7422e03517e9.json"
+    },
     {
       "id": "opl_7521fc7e0040",
       "slug": "critical-thinking-deepthink",
@@ -1200,15 +1209,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b62b8e6bc79c.json"
-    },
-    {
-      "id": "opl_33ad84e729b6",
-      "slug": "design-api-endpoints",
-      "title": "Design API Endpoints",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33ad84e729b6.json"
     }
   ]
 }

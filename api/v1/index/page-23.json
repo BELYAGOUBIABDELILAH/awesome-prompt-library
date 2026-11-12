@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 23,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_9df02b723891",
+      "slug": "showcase-top-repositories",
+      "title": "Showcase Top Repositories",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9df02b723891.json"
+    },
     {
       "id": "opl_93da60470363",
       "slug": "shower-glass-silhouette",
@@ -1035,15 +1044,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1877c03e08f.json"
-    },
-    {
-      "id": "opl_128b692b759b",
-      "slug": "status-update-email-drafter",
-      "title": "Status Update Email Drafter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_128b692b759b.json"
     }
   ]
 }

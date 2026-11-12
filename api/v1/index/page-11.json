@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 11,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_bb0109a8f584",
+      "slug": "extreme-close-up-macro-photography-of-a-young-woman-s-face",
+      "title": "Extreme Close-up Macro Photography of a Young Woman's Face",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb0109a8f584.json"
+    },
     {
       "id": "opl_d530a6928d69",
       "slug": "fact-checking-evaluation-assistant",
@@ -1046,15 +1055,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ba773f7ba12.json"
-    },
-    {
-      "id": "opl_c41d2df089bb",
-      "slug": "geopolitical-effect-modeller",
-      "title": "Geopolitical Effect Modeller",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c41d2df089bb.json"
     }
   ]
 }

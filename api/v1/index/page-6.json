@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T14:20:40.784Z",
+  "last_updated": "2026-11-12T15:20:40.942Z",
   "page": 6,
   "per_page": 100,
-  "total": 2691,
+  "total": 2692,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
@@ -1209,6 +1209,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e117e3ee1f3.json"
     },
     {
+      "id": "opl_889da66e43e7",
+      "slug": "comprehensive-research-prompt-generator",
+      "title": "Comprehensive Research Prompt Generator",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_889da66e43e7.json"
+    },
+    {
       "id": "opl_85ebe97e6ea1",
       "slug": "comprehensive-roadmap-for-ai-and-computer-vision-specializat",
       "title": "Comprehensive Roadmap for AI and Computer Vision Specialization in Defense Systems",
@@ -1243,15 +1252,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_283ffa6fd9f8.json"
-    },
-    {
-      "id": "opl_5ba2782f877e",
-      "slug": "comprehensive-user-manual-creation-for-multiple-modules",
-      "title": "Comprehensive User Manual Creation for Multiple Modules",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ba2782f877e.json"
     }
   ]
 }
