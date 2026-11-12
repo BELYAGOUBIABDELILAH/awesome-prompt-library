@@ -3958,5 +3958,15 @@
     "slug": "cinematic-landscape-photography-of-horse-drawn-wagon",
     "folder": "image-design",
     "path": "prompts/image-design/cinematic-landscape-photography-of-horse-drawn-wagon.md"
+  },
+  {
+    "act": "Past question",
+    "category": "Image & Design",
+    "prompt": "I want it to be uniosun style of questions including mcq question and True or false explain each complex part and give a very short summary that \nwill surely come out in exam",
+    "source": "adediwuratemitope745@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "past-question",
+    "folder": "image-design",
+    "path": "prompts/image-design/past-question.md"
   }
 ]
