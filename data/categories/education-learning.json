@@ -748,5 +748,15 @@
     "slug": "physiology-pratical",
     "folder": "education-learning",
     "path": "prompts/education-learning/physiology-pratical.md"
+  },
+  {
+    "act": "exam science study notes",
+    "category": "Education & Learning",
+    "prompt": "create gpstr and hstr exam science study notes with suitable diagrams and explanation in English for year 2026",
+    "source": "researchairoot@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "exam-science-study-notes",
+    "folder": "education-learning",
+    "path": "prompts/education-learning/exam-science-study-notes.md"
   }
 ]
