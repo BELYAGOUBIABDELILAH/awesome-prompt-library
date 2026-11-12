@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1081 prompts in this category**
+**1082 prompts in this category**
 
 ## Table of Contents
 
@@ -830,6 +830,7 @@
 - [RPA/Agentic AI Process Developer Portfolio Design for Claude](rpa-agentic-ai-process-developer-portfolio-design-for-claude.md)
 - [Rubber Duck Debugging with AI](rubber-duck-debugging-with-ai.md)
 - [SABARUDIN INSTRUCTIONS FRAMEWORK](sabarudin-instructions-framework.md)
+- [Sabarudin System - Executive Architecture](sabarudin-system-executive-architecture.md)
 - [Sales](sales.md)
 - [SAP ABAP Carbon Footprint Module Graduation Project Documentation](sap-abap-carbon-footprint-module-graduation-project-document.md)
 - [Sapiosessuale](sapiosessuale.md)

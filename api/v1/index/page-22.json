@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T16:20:46.184Z",
+  "last_updated": "2026-11-12T17:20:44.793Z",
   "page": 22,
   "per_page": 100,
-  "total": 2693,
+  "total": 2694,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
@@ -42,6 +42,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b6c277fc074.json"
+    },
+    {
+      "id": "opl_e6d11b3d0a18",
+      "slug": "sabarudin-system-executive-architecture",
+      "title": "Sabarudin System - Executive Architecture",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e6d11b3d0a18.json"
     },
     {
       "id": "opl_22953585b577",
@@ -1235,15 +1244,6 @@
       "folder": "product-strategy",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd0486ec5d66.json"
-    },
-    {
-      "id": "opl_fb37fb995c83",
-      "slug": "shortcut-key-creation-assistant",
-      "title": "Shortcut Key Creation Assistant",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb37fb995c83.json"
     }
   ]
 }

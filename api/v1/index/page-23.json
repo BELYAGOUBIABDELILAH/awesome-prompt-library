@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T16:20:46.184Z",
+  "last_updated": "2026-11-12T17:20:44.793Z",
   "page": 23,
   "per_page": 100,
-  "total": 2693,
+  "total": 2694,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_fb37fb995c83",
+      "slug": "shortcut-key-creation-assistant",
+      "title": "Shortcut Key Creation Assistant",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb37fb995c83.json"
+    },
     {
       "id": "opl_3e7755133515",
       "slug": "show-direct-impact",
@@ -1035,15 +1044,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d9cff84d552.json"
-    },
-    {
-      "id": "opl_4b393f96b46c",
-      "slug": "statistics-checker",
-      "title": "Statistics Checker",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4b393f96b46c.json"
     }
   ]
 }
