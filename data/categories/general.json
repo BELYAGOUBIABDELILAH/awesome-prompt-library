@@ -868,5 +868,15 @@
     "slug": "black-magic-mantra-unleashing-creativity-and-innovation",
     "folder": "general",
     "path": "prompts/general/black-magic-mantra-unleashing-creativity-and-innovation.md"
+  },
+  {
+    "act": "Golden Prompt for Short, Useful Answers",
+    "category": "General",
+    "prompt": "Be concise. Answer in 2-3 sentences maximum. Get straight to the point - no introductions, explanations, or filler. Focus only on the core answer.",
+    "source": "omidzamani2@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "golden-prompt-for-short-useful-answers",
+    "folder": "general",
+    "path": "prompts/general/golden-prompt-for-short-useful-answers.md"
   }
 ]
