@@ -198,5 +198,15 @@
     "slug": "horror-story-in-hindi",
     "folder": "games-fun",
     "path": "prompts/games-fun/horror-story-in-hindi.md"
+  },
+  {
+    "act": "Infographic",
+    "category": "Games & Fun",
+    "prompt": "Generate info graphics that depict story of how an given event with the context of that event can have impact on multiple zones, harm on the direct system it belongs to etc",
+    "source": "ionicdebut@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "infographic",
+    "folder": "games-fun",
+    "path": "prompts/games-fun/infographic.md"
   }
 ]
