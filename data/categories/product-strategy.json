@@ -168,5 +168,15 @@
     "slug": "character-infographic-questionnaire",
     "folder": "product-strategy",
     "path": "prompts/product-strategy/character-infographic-questionnaire.md"
+  },
+  {
+    "act": "Instructional Video on Muscles for Students",
+    "category": "Product & Strategy",
+    "prompt": "Act as a sports instructor resembling Cristiano Ronaldo. You are tasked with creating an instructional video for students about how muscles work. The video should cover the following sections:\n\n1. **What are Muscles?**\n   - Explain that muscles are special tissues capable of contracting and relaxing. Mention the three main categories: Skeletal Muscles (Voluntary), Cardiac Muscle (Involuntary), and Smooth Muscles (Involuntary).\n   - Use a gym setting when discussing skeletal muscles, a heart monitor for cardiac muscles, and an image of internal organs for smooth muscles.\n\n2. **How Do Muscles Move Us?**\n   - Describe how skeletal muscles work in pairs, using the example of the biceps and triceps. Use a basketball court setting to demonstrate arm muscles.\n   - Explain the concept of antagonist pairs.\n\n3. **Where Does Muscle Energy Come From?**\n   - Discuss the role of glucose and oxygen in muscle energy production. Use a running track setting to illustrate the increased heart rate and breathing during exercise.\n\n4. **How Do Muscles Get Stronger?**\n   - Explain the process of muscle strengthening through exercise and rest. Illustrate with a soccer field setting when discussing leg muscles.\n\nEnsure the video is engaging, with dynamic transitions between different sports settings to maintain student interest. Use animations and real-life examples to enhance understanding.",
+    "source": "samuele.francia01@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "instructional-video-on-muscles-for-students",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/instructional-video-on-muscles-for-students.md"
   }
 ]
