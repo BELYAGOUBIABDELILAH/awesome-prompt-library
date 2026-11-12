@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T22:20:42.784Z",
+  "last_updated": "2026-11-12T23:20:57.405Z",
   "page": 18,
   "per_page": 100,
-  "total": 2699,
+  "total": 2700,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_7e98b3c5ec3d",
+      "slug": "nocodb-formula-generator",
+      "title": "NocoDB Formula Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e98b3c5ec3d.json"
+    },
     {
       "id": "opl_6cc5774dfeb7",
       "slug": "node-web-app-for-czech-invoice-pdf-generation",
@@ -1037,15 +1046,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b850d0dc0f1.json"
-    },
-    {
-      "id": "opl_716e5f075e80",
-      "slug": "personal-stylist",
-      "title": "Personal Stylist",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_716e5f075e80.json"
     }
   ]
 }

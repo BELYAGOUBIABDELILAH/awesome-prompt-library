@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T22:20:42.784Z",
+  "last_updated": "2026-11-12T23:20:57.405Z",
   "page": 24,
   "per_page": 100,
-  "total": 2699,
+  "total": 2700,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_5bf9c71268a1",
+      "slug": "startup-idea-generator",
+      "title": "Startup Idea Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bf9c71268a1.json"
+    },
     {
       "id": "opl_42690b79af64",
       "slug": "startup-tech-lawyer",
@@ -1069,15 +1078,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d7526f4d1134.json"
-    },
-    {
-      "id": "opl_9a6fc23d0100",
-      "slug": "system-prompt-feature-editor",
-      "title": "System Prompt Feature Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a6fc23d0100.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T22:20:42.784Z",
+  "last_updated": "2026-11-12T23:20:57.405Z",
   "page": 26,
   "per_page": 100,
-  "total": 2699,
+  "total": 2700,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_20882e97c59c",
+      "slug": "tic-tac-toe-game",
+      "title": "Tic-Tac-Toe Game",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20882e97c59c.json"
+    },
     {
       "id": "opl_90be54191b8d",
       "slug": "ticket-to-pr",
@@ -1130,28 +1139,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3880529ab96.json"
-    },
-    {
-      "id": "opl_10aae149bc50",
-      "slug": "vacuum-arc-modeling-under-transverse-magnetic-fields",
-      "title": "Vacuum Arc Modeling under Transverse Magnetic Fields",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "errorType",
-          "default": null
-        },
-        {
-          "name": "guidanceLevel",
-          "default": "beginner"
-        },
-        {
-          "name": "simulationParameter",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10aae149bc50.json"
     }
   ]
 }

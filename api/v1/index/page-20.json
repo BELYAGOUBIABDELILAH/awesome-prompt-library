@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T22:20:42.784Z",
+  "last_updated": "2026-11-12T23:20:57.405Z",
   "page": 20,
   "per_page": 100,
-  "total": 2699,
+  "total": 2700,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_ccd48e1dc1f5",
+      "slug": "professional-betting-predictions",
+      "title": "Professional Betting Predictions",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ccd48e1dc1f5.json"
+    },
     {
       "id": "opl_b7bc54633845",
       "slug": "professional-development-navigator",
@@ -1142,15 +1151,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb372e063446.json"
-    },
-    {
-      "id": "opl_32df1a87c7a7",
-      "slug": "rag-embedding-advisor",
-      "title": "RAG Embedding Advisor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_32df1a87c7a7.json"
     }
   ]
 }

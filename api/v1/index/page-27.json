@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-12T22:20:42.784Z",
+  "last_updated": "2026-11-12T23:20:57.405Z",
   "page": 27,
   "per_page": 100,
-  "total": 2699,
+  "total": 2700,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_10aae149bc50",
+      "slug": "vacuum-arc-modeling-under-transverse-magnetic-fields",
+      "title": "Vacuum Arc Modeling under Transverse Magnetic Fields",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "errorType",
+          "default": null
+        },
+        {
+          "name": "guidanceLevel",
+          "default": "beginner"
+        },
+        {
+          "name": "simulationParameter",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10aae149bc50.json"
+    },
     {
       "id": "opl_a5903db6e80c",
       "slug": "valorant-agent-style",

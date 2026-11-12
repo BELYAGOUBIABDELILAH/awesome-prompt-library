@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T22:20:42.784Z",
+  "last_updated": "2026-11-12T23:20:57.405Z",
   "page": 17,
   "per_page": 100,
-  "total": 2699,
+  "total": 2700,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_3de4486c4b3f",
+      "slug": "minimalist-landscape-illustration-by-ryo-takemasa",
+      "title": "Minimalist Landscape Illustration by Ryo Takemasa",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3de4486c4b3f.json"
+    },
     {
       "id": "opl_0b3edcf98d97",
       "slug": "minimalist-surveillance-illustration-prompt",
@@ -1043,15 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb8faa2637a6.json"
-    },
-    {
-      "id": "opl_7e98b3c5ec3d",
-      "slug": "nocodb-formula-generator",
-      "title": "NocoDB Formula Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e98b3c5ec3d.json"
     }
   ]
 }

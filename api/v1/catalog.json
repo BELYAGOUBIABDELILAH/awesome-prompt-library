@@ -9528,6 +9528,15 @@
     "snippet": "Act as a developer tasked with building a meeting room booking web app using PHP 7 and MySQL. Your task is to develop the application step by step, focusing on different roles and"
   },
   {
+    "id": "opl_f88a338b845f",
+    "title": "Meeting Summary and Action Plan Generator",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "meeting-summary-and-action-plan-generator",
+    "variables": [],
+    "snippet": "Summarize the meeting transcript by performing the following tasks: - **State the Meeting Objective**: Begin with a brief paragraph (2-3 sentences) explaining the overall objectiv"
+  },
+  {
     "id": "opl_6fa7a312abf5",
     "title": "Memory Card Game",
     "category": "Coding & Development",

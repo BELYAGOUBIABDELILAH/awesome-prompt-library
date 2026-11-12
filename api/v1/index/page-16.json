@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T22:20:42.784Z",
+  "last_updated": "2026-11-12T23:20:57.405Z",
   "page": 16,
   "per_page": 100,
-  "total": 2699,
+  "total": 2700,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
@@ -882,6 +882,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_288f7543b153.json"
     },
     {
+      "id": "opl_f88a338b845f",
+      "slug": "meeting-summary-and-action-plan-generator",
+      "title": "Meeting Summary and Action Plan Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f88a338b845f.json"
+    },
+    {
       "id": "opl_95185b1ce09d",
       "slug": "melancholic-dawn-on-the-misty-pier",
       "title": "Melancholic Dawn on the Misty Pier",
@@ -1189,15 +1198,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf2909d055c5.json"
-    },
-    {
-      "id": "opl_3de4486c4b3f",
-      "slug": "minimalist-landscape-illustration-by-ryo-takemasa",
-      "title": "Minimalist Landscape Illustration by Ryo Takemasa",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3de4486c4b3f.json"
     }
   ]
 }

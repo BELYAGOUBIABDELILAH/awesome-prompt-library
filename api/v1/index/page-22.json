@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T22:20:42.784Z",
+  "last_updated": "2026-11-12T23:20:57.405Z",
   "page": 22,
   "per_page": 100,
-  "total": 2699,
+  "total": 2700,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_6d889206e6d3",
+      "slug": "roster",
+      "title": "roster",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d889206e6d3.json"
+    },
     {
       "id": "opl_9fb5ad97d986",
       "slug": "rpa-guide",
@@ -1243,15 +1252,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34285800c9d5.json"
-    },
-    {
-      "id": "opl_700ba0bab2ac",
-      "slug": "shakespearean-text-generator-full",
-      "title": "Shakespearean Text Generator (Full)",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_700ba0bab2ac.json"
     }
   ]
 }

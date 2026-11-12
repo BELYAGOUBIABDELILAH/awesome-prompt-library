@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T22:20:42.784Z",
+  "last_updated": "2026-11-12T23:20:57.405Z",
   "page": 19,
   "per_page": 100,
-  "total": 2699,
+  "total": 2700,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_716e5f075e80",
+      "slug": "personal-stylist",
+      "title": "Personal Stylist",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_716e5f075e80.json"
+    },
     {
       "id": "opl_dbac5719f280",
       "slug": "personal-trainer",
@@ -1308,15 +1317,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf2073b81864.json"
-    },
-    {
-      "id": "opl_ccd48e1dc1f5",
-      "slug": "professional-betting-predictions",
-      "title": "Professional Betting Predictions",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ccd48e1dc1f5.json"
     }
   ]
 }

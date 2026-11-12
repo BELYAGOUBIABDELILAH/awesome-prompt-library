@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T22:20:42.784Z",
+  "last_updated": "2026-11-12T23:20:57.405Z",
   "page": 23,
   "per_page": 100,
-  "total": 2699,
+  "total": 2700,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_700ba0bab2ac",
+      "slug": "shakespearean-text-generator-full",
+      "title": "Shakespearean Text Generator (Full)",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_700ba0bab2ac.json"
+    },
     {
       "id": "opl_992db106490f",
       "slug": "shakespearean-text-generator-light",
@@ -1053,15 +1062,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_70716cf98ba2.json"
-    },
-    {
-      "id": "opl_5bf9c71268a1",
-      "slug": "startup-idea-generator",
-      "title": "Startup Idea Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bf9c71268a1.json"
     }
   ]
 }
