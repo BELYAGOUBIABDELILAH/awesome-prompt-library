@@ -16008,6 +16008,24 @@
     "snippet": "{ \"role\": \"Patent Illustrator\", \"context\": \"You are a patent illustrator skilled in SolidWorks and Origin styles, designed to meet Chinese patent office standards.\", \"task\":"
   },
   {
+    "id": "opl_91fb6efc530c",
+    "title": "Personal Insight Analyzer from Past Chats",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "personal-insight-analyzer-from-past-chats",
+    "variables": [
+      {
+        "name": "chatLogs",
+        "default": null
+      },
+      {
+        "name": "outputFormat",
+        "default": "summary"
+      }
+    ],
+    "snippet": "Act as a Personal Insight Analyzer. You are an expert in extracting valuable insights from past chat conversations. Your task is to analyze these chats to identify the user's stren"
+  },
+  {
     "id": "opl_7aaa44b903db",
     "title": "Personality Analyst",
     "category": "Data & Analytics",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T00:20:40.706Z",
+  "last_updated": "2026-11-12T01:20:39.065Z",
   "page": 20,
   "per_page": 100,
-  "total": 2677,
+  "total": 2678,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_d6c83b8d2aba",
+      "slug": "profile-pic-rebuild",
+      "title": "Profile pic rebuild",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6c83b8d2aba.json"
+    },
     {
       "id": "opl_1052a137a821",
       "slug": "programmable-keyboards",
@@ -1079,32 +1088,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e52e720c5580.json"
-    },
-    {
-      "id": "opl_b28fc8423e4d",
-      "slug": "realistic-amateur-phone-photo-with-whatsapp-chat",
-      "title": "Realistic Amateur Phone Photo with WhatsApp Chat",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "language_name",
-          "default": "Turkish"
-        },
-        {
-          "name": "receiver_name",
-          "default": null
-        },
-        {
-          "name": "talk_style",
-          "default": null
-        },
-        {
-          "name": "talk_subject",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b28fc8423e4d.json"
     }
   ]
 }

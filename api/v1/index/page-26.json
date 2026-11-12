@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T00:20:40.706Z",
+  "last_updated": "2026-11-12T01:20:39.065Z",
   "page": 26,
   "per_page": 100,
-  "total": 2677,
+  "total": 2678,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_b5e4be86fffe",
+      "slug": "translate-application-to-another-language",
+      "title": "Translate Application to Another Language",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5e4be86fffe.json"
+    },
     {
       "id": "opl_36e891d57cf5",
       "slug": "translate-document-to-arabic",
@@ -1187,15 +1196,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b12f61799c88.json"
-    },
-    {
-      "id": "opl_4a2dc69add89",
-      "slug": "visual-web-application-development",
-      "title": "Visual Web Application Development",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4a2dc69add89.json"
     }
   ]
 }

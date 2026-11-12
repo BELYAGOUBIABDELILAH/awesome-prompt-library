@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T00:20:40.706Z",
+  "last_updated": "2026-11-12T01:20:39.065Z",
   "page": 19,
   "per_page": 100,
-  "total": 2677,
+  "total": 2678,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_bd1b64e2c759",
+      "slug": "philosopher",
+      "title": "Philosopher",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd1b64e2c759.json"
+    },
     {
       "id": "opl_fd42dc46dc9a",
       "slug": "philosophy-teacher",
@@ -1238,15 +1247,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e41a8f821bc.json"
-    },
-    {
-      "id": "opl_d6c83b8d2aba",
-      "slug": "profile-pic-rebuild",
-      "title": "Profile pic rebuild",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6c83b8d2aba.json"
     }
   ]
 }

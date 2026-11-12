@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T00:20:40.706Z",
+  "last_updated": "2026-11-12T01:20:39.065Z",
   "page": 18,
   "per_page": 100,
-  "total": 2677,
+  "total": 2678,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
@@ -811,6 +811,24 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0120043966ea.json"
     },
     {
+      "id": "opl_91fb6efc530c",
+      "slug": "personal-insight-analyzer-from-past-chats",
+      "title": "Personal Insight Analyzer from Past Chats",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "chatLogs",
+          "default": null
+        },
+        {
+          "name": "outputFormat",
+          "default": "summary"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91fb6efc530c.json"
+    },
+    {
       "id": "opl_2cc8f966f5a7",
       "slug": "personal-knowledge-narrative-tool",
       "title": "Personal Knowledge & Narrative Tool",
@@ -1131,15 +1149,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb4ef32d106f.json"
-    },
-    {
-      "id": "opl_bd1b64e2c759",
-      "slug": "philosopher",
-      "title": "Philosopher",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd1b64e2c759.json"
     }
   ]
 }

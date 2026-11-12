@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T00:20:40.706Z",
+  "last_updated": "2026-11-12T01:20:39.065Z",
   "page": 22,
   "per_page": 100,
-  "total": 2677,
+  "total": 2678,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_a1e9717f7703",
+      "slug": "scan-email-thread-for-action-requests",
+      "title": "Scan Email Thread For Action Requests",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a1e9717f7703.json"
+    },
     {
       "id": "opl_d4334c8e07e4",
       "slug": "scaryface",
@@ -1221,15 +1230,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_80916cbed723.json"
-    },
-    {
-      "id": "opl_6327a46d86bf",
-      "slug": "small-batch-prompt-generator",
-      "title": "Small Batch Prompt Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6327a46d86bf.json"
     }
   ]
 }

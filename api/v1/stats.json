@@ -1,8 +1,8 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-12T00:20:40.706Z",
-  "total_prompts": 2677,
-  "source_records": 2677,
+  "last_updated": "2026-11-12T01:20:39.065Z",
+  "total_prompts": 2678,
+  "source_records": 2678,
   "total_sources": 333,
   "total_categories": 19,
   "total_pages": 27,
@@ -44,7 +44,7 @@
     {
       "folder": "data-analytics",
       "name": "Data & Analytics",
-      "prompt_count": 171,
+      "prompt_count": 172,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/data-analytics.json"
     },
     {

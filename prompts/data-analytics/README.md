@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**171 prompts in this category**
+**172 prompts in this category**
 
 ## Table of Contents
 
@@ -133,6 +133,7 @@
 - [Oxford 3000: Step-by-Step Vocabulary Coach](oxford-3000-step-by-step-vocabulary-coach.md)
 - [Passenger Seat Car Selfie (golden hour, candid)](passenger-seat-car-selfie-golden-hour-candid.md)
 - [Patent Illustration Design with SolidWorks and Origin Styles](patent-illustration-design-with-solidworks-and-origin-styles.md)
+- [Personal Insight Analyzer from Past Chats](personal-insight-analyzer-from-past-chats.md)
 - [Personality Analyst](personality-analyst.md)
 - [Photo-to-Isometric: Reality Slice Generator](photo-to-isometric-reality-slice-generator.md)
 - [Pipeline Failure and Duration Comparison](pipeline-failure-and-duration-comparison.md)
