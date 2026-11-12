@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T05:20:40.918Z",
+  "last_updated": "2026-11-12T06:20:41.268Z",
   "page": 25,
   "per_page": 100,
-  "total": 2682,
+  "total": 2683,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_b1b1626f141d",
+      "slug": "system-prompt-the-infinite-role-generator",
+      "title": "SYSTEM PROMPT: THE INFINITE ROLE GENERATOR",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "insert_your_question_or_problem_here",
+          "default": null
+        },
+        {
+          "name": "role",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1b1626f141d.json"
+    },
     {
       "id": "opl_52dd35e52d04",
       "slug": "table-in-pdf-to-csv-conversion",
@@ -994,15 +1012,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b5c41c2021a.json"
-    },
-    {
-      "id": "opl_33bbbb6a43a0",
-      "slug": "train-waiter",
-      "title": "Train Waiter",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33bbbb6a43a0.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**20 prompts in this category**
+**21 prompts in this category**
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@
 - [Objection Handling](objection-handling.md)
 - [RPA Guide](rpa-guide.md)
 - [Sales Enablement Writer](sales-enablement-writer.md)
+- [search for clients](search-for-clients.md)
 - [Self Hostable Tech Finder](self-hostable-tech-finder.md)
 - [Similar Software Finder](similar-software-finder.md)
 - [Spec Requirements Document Generator](spec-requirements-document-generator.md)

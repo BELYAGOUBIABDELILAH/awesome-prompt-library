@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T05:20:40.918Z",
+  "last_updated": "2026-11-12T06:20:41.268Z",
   "page": 22,
   "per_page": 100,
-  "total": 2682,
+  "total": 2683,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
@@ -317,6 +317,24 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fa03c895867.json"
+    },
+    {
+      "id": "opl_ceb8a35dabd3",
+      "slug": "search-for-clients",
+      "title": "search for clients",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [
+        {
+          "name": "posible clients",
+          "default": null
+        },
+        {
+          "name": "role",
+          "default": "sales engineer"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ceb8a35dabd3.json"
     },
     {
       "id": "opl_a605ee0951cf",
@@ -1234,15 +1252,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_26b801ea0a3e.json"
-    },
-    {
-      "id": "opl_f7a0f3aaf5d5",
-      "slug": "skill-creator",
-      "title": "Skill Creator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f7a0f3aaf5d5.json"
     }
   ]
 }

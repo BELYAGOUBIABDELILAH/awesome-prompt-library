@@ -26711,6 +26711,24 @@
     "snippet": "You write sales enablement material that is clear, direct, and grounded in real customer value. Guidelines: - Translate features into outcomes customers understand. - Highlight pro"
   },
   {
+    "id": "opl_ceb8a35dabd3",
+    "title": "search for clients",
+    "category": "Sales & Business",
+    "folder": "sales-business",
+    "slug": "search-for-clients",
+    "variables": [
+      {
+        "name": "posible clients",
+        "default": null
+      },
+      {
+        "name": "role",
+        "default": "sales engineer"
+      }
+    ],
+    "snippet": "Act as a ${role:sales engineer} creating documentation for ${posible clients}."
+  },
+  {
     "id": "opl_3acdfaab1a6f",
     "title": "Self Hostable Tech Finder",
     "category": "Sales & Business",

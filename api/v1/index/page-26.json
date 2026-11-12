@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T05:20:40.918Z",
+  "last_updated": "2026-11-12T06:20:41.268Z",
   "page": 26,
   "per_page": 100,
-  "total": 2682,
+  "total": 2683,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_33bbbb6a43a0",
+      "slug": "train-waiter",
+      "title": "Train Waiter",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33bbbb6a43a0.json"
+    },
     {
       "id": "opl_8748e10df19a",
       "slug": "transcript-to-notes",
@@ -1178,15 +1187,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c779d77acaf.json"
-    },
-    {
-      "id": "opl_bb6f4fedba3e",
-      "slug": "virtual-event-planner",
-      "title": "Virtual Event Planner",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb6f4fedba3e.json"
     }
   ]
 }

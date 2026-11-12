@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-12T05:20:40.918Z",
-  "total_prompts": 2682,
-  "source_records": 2682,
-  "total_sources": 333,
+  "last_updated": "2026-11-12T06:20:41.268Z",
+  "total_prompts": 2683,
+  "source_records": 2683,
+  "total_sources": 334,
   "total_categories": 19,
   "total_pages": 27,
   "per_page": 100,
@@ -96,16 +96,16 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/research-analysis.json"
     },
     {
+      "folder": "sales-business",
+      "name": "Sales & Business",
+      "prompt_count": 21,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/sales-business.json"
+    },
+    {
       "folder": "games-fun",
       "name": "Games & Fun",
       "prompt_count": 20,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/games-fun.json"
-    },
-    {
-      "folder": "sales-business",
-      "name": "Sales & Business",
-      "prompt_count": 20,
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/sales-business.json"
     },
     {
       "folder": "product-strategy",

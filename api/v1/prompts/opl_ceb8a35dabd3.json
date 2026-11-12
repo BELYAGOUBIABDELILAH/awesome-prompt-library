@@ -1,0 +1,25 @@
+{
+  "id": "opl_ceb8a35dabd3",
+  "slug": "search-for-clients",
+  "title": "search for clients",
+  "prompt": "Act as a ${role:sales engineer} creating documentation for ${posible clients}.",
+  "category": "Sales & Business",
+  "folder": "sales-business",
+  "variables": [
+    {
+      "name": "posible clients",
+      "default": null
+    },
+    {
+      "name": "role",
+      "default": "sales engineer"
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_709815b032ac"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ceb8a35dabd3.json"
+}

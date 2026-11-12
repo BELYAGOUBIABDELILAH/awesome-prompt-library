@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-12T05:20:40.918Z",
+  "last_updated": "2026-11-12T06:20:41.268Z",
   "page": 24,
   "per_page": 100,
-  "total": 2682,
+  "total": 2683,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_fb8d3cb9d2e6",
+      "slug": "sticker-image-generator",
+      "title": "Sticker Image Generator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "colorPalette",
+          "default": "vibrant"
+        },
+        {
+          "name": "details",
+          "default": null
+        },
+        {
+          "name": "icon",
+          "default": "smiley_face"
+        },
+        {
+          "name": "text",
+          "default": "Hello World"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb8d3cb9d2e6.json"
+    },
     {
       "id": "opl_5a6d284ab62c",
       "slug": "stock-analyser",
@@ -1052,24 +1078,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f7b43c3e074f.json"
-    },
-    {
-      "id": "opl_b1b1626f141d",
-      "slug": "system-prompt-the-infinite-role-generator",
-      "title": "SYSTEM PROMPT: THE INFINITE ROLE GENERATOR",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "insert_your_question_or_problem_here",
-          "default": null
-        },
-        {
-          "name": "role",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1b1626f141d.json"
     }
   ]
 }

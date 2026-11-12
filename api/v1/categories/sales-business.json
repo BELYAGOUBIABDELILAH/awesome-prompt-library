@@ -1,8 +1,8 @@
 {
   "folder": "sales-business",
   "name": "Sales & Business",
-  "last_updated": "2026-11-12T05:20:40.918Z",
-  "total": 20,
+  "last_updated": "2026-11-12T06:20:41.268Z",
+  "total": 21,
   "prompts": [
     {
       "id": "opl_3a849cab4c57",
@@ -259,6 +259,31 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aabc0e544811.json"
+    },
+    {
+      "id": "opl_ceb8a35dabd3",
+      "slug": "search-for-clients",
+      "title": "search for clients",
+      "prompt": "Act as a ${role:sales engineer} creating documentation for ${posible clients}.",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [
+        {
+          "name": "posible clients",
+          "default": null
+        },
+        {
+          "name": "role",
+          "default": "sales engineer"
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_709815b032ac"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ceb8a35dabd3.json"
     },
     {
       "id": "opl_3acdfaab1a6f",
