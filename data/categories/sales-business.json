@@ -198,5 +198,15 @@
     "slug": "birthday-message-generator-3-styles",
     "folder": "sales-business",
     "path": "prompts/sales-business/birthday-message-generator-3-styles.md"
+  },
+  {
+    "act": "search for clients",
+    "category": "Sales & Business",
+    "prompt": "Act as a ${role:sales engineer} creating documentation for ${posible clients}.",
+    "source": "engheshameletihad-stack (prompts.chat)",
+    "type": "TEXT",
+    "slug": "search-for-clients",
+    "folder": "sales-business",
+    "path": "prompts/sales-business/search-for-clients.md"
   }
 ]
