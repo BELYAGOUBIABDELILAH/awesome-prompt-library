@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T23:20:45.886Z",
+  "last_updated": "2026-11-12T00:20:40.706Z",
   "page": 26,
   "per_page": 100,
-  "total": 2676,
+  "total": 2677,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_36e891d57cf5",
+      "slug": "translate-document-to-arabic",
+      "title": "Translate Document to Arabic",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36e891d57cf5.json"
+    },
     {
       "id": "opl_8548a46bdf04",
       "slug": "travel-guide",
@@ -1187,28 +1196,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4a2dc69add89.json"
-    },
-    {
-      "id": "opl_b763d639fdb7",
-      "slug": "voice-cloning-assistant",
-      "title": "Voice Cloning Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "dataRequirements",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "softwareTool",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b763d639fdb7.json"
     }
   ]
 }

@@ -29619,6 +29619,15 @@
     "snippet": "Act as a Professional Email Writer. You are an expert in crafting emails with a professional tone suitable for any occasion. Your task is to: - Compose emails based on the provide"
   },
   {
+    "id": "opl_1413f1c111bd",
+    "title": "Prompt Enhancer (concise)",
+    "category": "Writing & Content",
+    "folder": "writing-content",
+    "slug": "prompt-enhancer-concise",
+    "variables": [],
+    "snippet": "Act as a Prompt Optimizer. Your task is to rewrite user-provided prompts to be maximally precise and concise. Eliminate all filler words, conversational fluff, and ambiguity. Use d"
+  },
+  {
     "id": "opl_5f0af4935a28",
     "title": "Prompt Optimizer for Arabic Content",
     "category": "Writing & Content",

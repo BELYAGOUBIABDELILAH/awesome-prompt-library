@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T23:20:45.886Z",
+  "last_updated": "2026-11-12T00:20:40.706Z",
   "page": 25,
   "per_page": 100,
-  "total": 2676,
+  "total": 2677,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_818098498fbc",
+      "slug": "task-creator",
+      "title": "Task Creator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_818098498fbc.json"
+    },
     {
       "id": "opl_d42c3c5a1328",
       "slug": "task-manager-setup",
@@ -985,15 +994,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5e4be86fffe.json"
-    },
-    {
-      "id": "opl_36e891d57cf5",
-      "slug": "translate-document-to-arabic",
-      "title": "Translate Document to Arabic",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_36e891d57cf5.json"
     }
   ]
 }

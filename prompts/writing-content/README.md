@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**254 prompts in this category**
+**255 prompts in this category**
 
 ## Table of Contents
 
@@ -184,6 +184,7 @@
 - [Product Manager](product-manager.md)
 - [Product Promotion Expert](product-promotion-expert.md)
 - [Professional Email Writer for Any Occasion](professional-email-writer-for-any-occasion.md)
+- [Prompt Enhancer (concise)](prompt-enhancer-concise.md)
 - [Prompt Optimizer for Arabic Content](4-optimized-versions-of-a-prompt-in-arabic.md)
 - [Proofreader](proofreader.md)
 - [Quiet Glow](quiet-glow.md)

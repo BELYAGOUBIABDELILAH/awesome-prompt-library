@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T23:20:45.886Z",
+  "last_updated": "2026-11-12T00:20:40.706Z",
   "page": 21,
   "per_page": 100,
-  "total": 2676,
+  "total": 2677,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_0afedbbc65b1",
+      "slug": "realistic-amateur-vibe-candid-photography-prompt",
+      "title": "Realistic Amateur Vibe Candid Photography Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0afedbbc65b1.json"
+    },
     {
       "id": "opl_21721b391d32",
       "slug": "realistic-food-image-generator",
@@ -1102,15 +1111,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a1e9717f7703.json"
-    },
-    {
-      "id": "opl_d4334c8e07e4",
-      "slug": "scaryface",
-      "title": "scaryface",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d4334c8e07e4.json"
     }
   ]
 }

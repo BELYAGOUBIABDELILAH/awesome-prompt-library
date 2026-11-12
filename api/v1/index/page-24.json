@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T23:20:45.886Z",
+  "last_updated": "2026-11-12T00:20:40.706Z",
   "page": 24,
   "per_page": 100,
-  "total": 2676,
+  "total": 2677,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_f5e20b0cf4e7",
+      "slug": "storage-recs-from-photos",
+      "title": "Storage Recs (From Photos)",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f5e20b0cf4e7.json"
+    },
     {
       "id": "opl_67203d55ebb7",
       "slug": "storage-solution-ideator",
@@ -1057,15 +1066,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3f0501ca6aa.json"
-    },
-    {
-      "id": "opl_818098498fbc",
-      "slug": "task-creator",
-      "title": "Task Creator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_818098498fbc.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-11T23:20:45.886Z",
+  "last_updated": "2026-11-12T00:20:40.706Z",
   "page": 20,
   "per_page": 100,
-  "total": 2676,
+  "total": 2677,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
@@ -308,6 +308,15 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c2d6807e205.json"
+    },
+    {
+      "id": "opl_1413f1c111bd",
+      "slug": "prompt-enhancer-concise",
+      "title": "Prompt Enhancer (concise)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1413f1c111bd.json"
     },
     {
       "id": "opl_eb04521cb11e",
@@ -1096,15 +1105,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b28fc8423e4d.json"
-    },
-    {
-      "id": "opl_0afedbbc65b1",
-      "slug": "realistic-amateur-vibe-candid-photography-prompt",
-      "title": "Realistic Amateur Vibe Candid Photography Prompt",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0afedbbc65b1.json"
     }
   ]
 }

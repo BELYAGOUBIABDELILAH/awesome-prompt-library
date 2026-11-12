@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-11T23:20:45.886Z",
+  "last_updated": "2026-11-12T00:20:40.706Z",
   "page": 22,
   "per_page": 100,
-  "total": 2676,
+  "total": 2677,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_d4334c8e07e4",
+      "slug": "scaryface",
+      "title": "scaryface",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d4334c8e07e4.json"
+    },
     {
       "id": "opl_e0c11649bc92",
       "slug": "school-life-mentor",
@@ -1221,24 +1230,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6327a46d86bf.json"
-    },
-    {
-      "id": "opl_2f13263bb5ca",
-      "slug": "small-business-loan-broker-agent",
-      "title": "Small Business Loan Broker Agent",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "businessType",
-          "default": null
-        },
-        {
-          "name": "product",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2f13263bb5ca.json"
     }
   ]
 }

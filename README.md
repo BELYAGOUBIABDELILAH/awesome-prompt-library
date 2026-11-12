@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C675-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-2%2C676-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -49,7 +49,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 |---|:---:|---|
 | [Coding & Development](prompts/coding-development) | 1,079 | Code generation, debugging, refactoring, and testing |
 | [Image & Design](prompts/image-design) | 396 | Image generation, composition, and visual styling |
-| [Writing & Content](prompts/writing-content) | 254 | Editing, copywriting, storytelling, and translation |
+| [Writing & Content](prompts/writing-content) | 255 | Editing, copywriting, storytelling, and translation |
 | [Marketing & Social](prompts/marketing-social) | 196 | Campaign copy, social posts, and audience research |
 | [Data & Analytics](prompts/data-analytics) | 171 | Data extraction, SQL queries, and metrics evaluation |
 | [AI & Automation](prompts/ai-automation) | 121 | Agent prompts, workflow scripts, and system setup |

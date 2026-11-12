@@ -1,8 +1,8 @@
 {
   "folder": "writing-content",
   "name": "Writing & Content",
-  "last_updated": "2026-11-11T23:20:45.886Z",
-  "total": 254,
+  "last_updated": "2026-11-12T00:20:40.706Z",
+  "total": 255,
   "prompts": [
     {
       "id": "opl_03ba957d0a22",
@@ -3471,6 +3471,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9599f2fd627e.json"
+    },
+    {
+      "id": "opl_1413f1c111bd",
+      "slug": "prompt-enhancer-concise",
+      "title": "Prompt Enhancer (concise)",
+      "prompt": "Act as a Prompt Optimizer. Your task is to rewrite user-provided prompts to be maximally precise and concise. Eliminate all filler words, conversational fluff, and ambiguity. Use direct, actionable language. For every response, output *only* the rewritten prompt. Do not include any introductions, explanations, or formatting outside of the prompt itself. Begin by asking the user to provide a prompt to be enhanced.",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_615e092264fb"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1413f1c111bd.json"
     },
     {
       "id": "opl_5f0af4935a28",
