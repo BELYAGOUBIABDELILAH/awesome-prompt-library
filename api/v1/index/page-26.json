@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T17:20:44.793Z",
+  "last_updated": "2026-11-12T18:20:44.984Z",
   "page": 26,
   "per_page": 100,
-  "total": 2694,
+  "total": 2695,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_f1e90823beca",
+      "slug": "time-travel-guide",
+      "title": "Time Travel Guide",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1e90823beca.json"
+    },
     {
       "id": "opl_83ac4934ea79",
       "slug": "title-generator-for-written-pieces",
@@ -1126,15 +1135,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_585e5e97120d.json"
-    },
-    {
-      "id": "opl_6c3a23ae98bc",
-      "slug": "vibe-coding-with-commands-and-skills",
-      "title": "Vibe Coding with Commands and Skills",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c3a23ae98bc.json"
     }
   ]
 }

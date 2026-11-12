@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1082 prompts in this category**
+**1083 prompts in this category**
 
 ## Table of Contents
 
@@ -639,6 +639,7 @@
 - [Minimalist Graphic Illustration of a Stylized Dachshund](minimalist-graphic-illustration-of-a-stylized-dachshund.md)
 - [Minimalist Landscape Illustration by Ryo Takemasa](minimalist-landscape-illustration-by-ryo-takemasa.md)
 - [Minimalist Surveillance Illustration Prompt](minimalist-surveillance-illustration-prompt.md)
+- [Mirror Selfie Scene Description](mirror-selfie-scene-description.md)
 - [Mobile App Builder](mobile-app-builder.md)
 - [Mock Data Generator Agent Role](mock-data-generator-agent-role.md)
 - [Mockup Interview using Gemini Live](mockup-interview-using-gemini-live.md)

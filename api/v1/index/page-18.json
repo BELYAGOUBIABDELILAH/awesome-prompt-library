@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T17:20:44.793Z",
+  "last_updated": "2026-11-12T18:20:44.984Z",
   "page": 18,
   "per_page": 100,
-  "total": 2694,
+  "total": 2695,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_03d000089ea2",
+      "slug": "non-medical-expense-calculator-for-hospital-bills",
+      "title": "Non-Medical Expense Calculator for Hospital Bills",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "currency",
+          "default": "USD"
+        },
+        {
+          "name": "language",
+          "default": "English"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03d000089ea2.json"
+    },
     {
       "id": "opl_f1539c67cc61",
       "slug": "non-personal-email-challenge",
@@ -1010,15 +1028,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_113c6b8e2f03.json"
-    },
-    {
-      "id": "opl_d97491f33a37",
-      "slug": "personalized-ai",
-      "title": "Personalized AI",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d97491f33a37.json"
     }
   ]
 }

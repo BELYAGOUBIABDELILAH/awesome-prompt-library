@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T17:20:44.793Z",
+  "last_updated": "2026-11-12T18:20:44.984Z",
   "page": 21,
   "per_page": 100,
-  "total": 2694,
+  "total": 2695,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_8fb9e466fe46",
+      "slug": "random-email-chain",
+      "title": "Random Email Chain",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fb9e466fe46.json"
+    },
     {
       "id": "opl_3fe2801c043f",
       "slug": "random-girl",
@@ -1105,20 +1114,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14a4f01069f7.json"
-    },
-    {
-      "id": "opl_58f8ea307169",
-      "slug": "saas-landing-page-builder",
-      "title": "SaaS Landing Page Builder",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "targetAudience",
-          "default": "business professionals"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58f8ea307169.json"
     }
   ]
 }

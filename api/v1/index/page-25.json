@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T17:20:44.793Z",
+  "last_updated": "2026-11-12T18:20:44.984Z",
   "page": 25,
   "per_page": 100,
-  "total": 2694,
+  "total": 2695,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_b41a1133ee0f",
+      "slug": "system-prompt-guide-and-write",
+      "title": "System Prompt Guide And Write",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b41a1133ee0f.json"
+    },
     {
       "id": "opl_040ce3112dce",
       "slug": "system-prompt-n8n-converter",
@@ -998,15 +1007,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d182c1d2b3c.json"
-    },
-    {
-      "id": "opl_f1e90823beca",
-      "slug": "time-travel-guide",
-      "title": "Time Travel Guide",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f1e90823beca.json"
     }
   ]
 }

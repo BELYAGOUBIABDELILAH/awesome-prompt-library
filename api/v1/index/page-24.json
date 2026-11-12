@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T17:20:44.793Z",
+  "last_updated": "2026-11-12T18:20:44.984Z",
   "page": 24,
   "per_page": 100,
-  "total": 2694,
+  "total": 2695,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_6d9cff84d552",
+      "slug": "statistician",
+      "title": "Statistician",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d9cff84d552.json"
+    },
     {
       "id": "opl_4b393f96b46c",
       "slug": "statistics-checker",
@@ -1069,15 +1078,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b243628e3295.json"
-    },
-    {
-      "id": "opl_b41a1133ee0f",
-      "slug": "system-prompt-guide-and-write",
-      "title": "System Prompt Guide And Write",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b41a1133ee0f.json"
     }
   ]
 }

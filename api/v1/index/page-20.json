@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-12T17:20:44.793Z",
+  "last_updated": "2026-11-12T18:20:44.984Z",
   "page": 20,
   "per_page": 100,
-  "total": 2694,
+  "total": 2695,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_ccf3be71d6f7",
+      "slug": "professional-github-dashboard-for-portfolio-enhancement",
+      "title": "Professional GitHub Dashboard for Portfolio Enhancement",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "githubUsername",
+          "default": null
+        },
+        {
+          "name": "technology",
+          "default": "React"
+        },
+        {
+          "name": "theme",
+          "default": "light"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ccf3be71d6f7.json"
+    },
     {
       "id": "opl_d8e252e10251",
       "slug": "professional-identity-identifier",
@@ -1112,15 +1134,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_091376dcdead.json"
-    },
-    {
-      "id": "opl_8fb9e466fe46",
-      "slug": "random-email-chain",
-      "title": "Random Email Chain",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fb9e466fe46.json"
     }
   ]
 }

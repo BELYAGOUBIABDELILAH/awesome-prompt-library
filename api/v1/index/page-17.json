@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T17:20:44.793Z",
+  "last_updated": "2026-11-12T18:20:44.984Z",
   "page": 17,
   "per_page": 100,
-  "total": 2694,
+  "total": 2695,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_06ae622d03ec",
+      "slug": "mirror-selfie-with-face-preservation",
+      "title": "Mirror Selfie with Face Preservation",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06ae622d03ec.json"
+    },
     {
       "id": "opl_bd2528abb32c",
       "slug": "mobile-app-builder",
@@ -1052,24 +1061,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c609e279a607.json"
-    },
-    {
-      "id": "opl_03d000089ea2",
-      "slug": "non-medical-expense-calculator-for-hospital-bills",
-      "title": "Non-Medical Expense Calculator for Hospital Bills",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "currency",
-          "default": "USD"
-        },
-        {
-          "name": "language",
-          "default": "English"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03d000089ea2.json"
     }
   ]
 }

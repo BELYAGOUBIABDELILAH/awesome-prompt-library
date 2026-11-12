@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-12T17:20:44.793Z",
+  "last_updated": "2026-11-12T18:20:44.984Z",
   "page": 22,
   "per_page": 100,
-  "total": 2694,
+  "total": 2695,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_58f8ea307169",
+      "slug": "saas-landing-page-builder",
+      "title": "SaaS Landing Page Builder",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "targetAudience",
+          "default": "business professionals"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58f8ea307169.json"
+    },
     {
       "id": "opl_54ef6a6a84bf",
       "slug": "saas-payment-plan-options",
@@ -1235,15 +1249,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd88a6720bd1.json"
-    },
-    {
-      "id": "opl_cd0486ec5d66",
-      "slug": "shopping-list-generator-non-food",
-      "title": "Shopping List Generator (Non-Food)",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd0486ec5d66.json"
     }
   ]
 }
