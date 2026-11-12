@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 23,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_69b984fc92b8",
+      "slug": "simple-text-editor",
+      "title": "Simple Text Editor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_69b984fc92b8.json"
+    },
     {
       "id": "opl_a49f447c5385",
       "slug": "simple-voice-note-transcriber",
@@ -1026,15 +1035,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_101a1d26588e.json"
-    },
-    {
-      "id": "opl_071247e843fe",
-      "slug": "step-5-final-review",
-      "title": "Step 5: Final Review",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_071247e843fe.json"
     }
   ]
 }

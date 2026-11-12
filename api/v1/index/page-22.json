@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 22,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_aabc0e544811",
+      "slug": "sales-enablement-writer",
+      "title": "Sales Enablement Writer",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aabc0e544811.json"
+    },
     {
       "id": "opl_d709b3eb615d",
       "slug": "sales-funnel-builder-from-url",
@@ -1235,15 +1244,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_728d6cf269a3.json"
-    },
-    {
-      "id": "opl_69b984fc92b8",
-      "slug": "simple-text-editor",
-      "title": "Simple Text Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_69b984fc92b8.json"
     }
   ]
 }

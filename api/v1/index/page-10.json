@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 10,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_e4151342a6d6",
+      "slug": "dummy-tech-project-ideator",
+      "title": "Dummy Tech Project Ideator",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4151342a6d6.json"
+    },
     {
       "id": "opl_af1877570a88",
       "slug": "dummy-test-prompt",
@@ -1277,15 +1286,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e1c759f4b7f.json"
-    },
-    {
-      "id": "opl_ff36ef14d35e",
-      "slug": "fallacy-finder",
-      "title": "Fallacy Finder",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ff36ef14d35e.json"
     }
   ]
 }

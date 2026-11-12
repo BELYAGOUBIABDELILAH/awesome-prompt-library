@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 5,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_fbb6372786e2",
+      "slug": "browser-use-agents",
+      "title": "Browser Use Agents",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbb6372786e2.json"
+    },
     {
       "id": "opl_065e22547d50",
       "slug": "brsorndnsg",
@@ -1080,20 +1089,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e6cbaeab3ed.json"
-    },
-    {
-      "id": "opl_6b8df25fcc4d",
-      "slug": "cinematic-realism",
-      "title": "Cinematic Realism",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "subject",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b8df25fcc4d.json"
     }
   ]
 }

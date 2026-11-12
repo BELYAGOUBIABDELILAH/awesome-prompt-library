@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 11,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_ff36ef14d35e",
+      "slug": "fallacy-finder",
+      "title": "Fallacy Finder",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ff36ef14d35e.json"
+    },
     {
       "id": "opl_bd1353fc5c52",
       "slug": "family-meeting-planner",
@@ -1046,15 +1055,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b76d7456377.json"
-    },
-    {
-      "id": "opl_18be8ed0892f",
-      "slug": "geopolitics-reaction-tracking",
-      "title": "Geopolitics: Reaction Tracking",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_18be8ed0892f.json"
     }
   ]
 }

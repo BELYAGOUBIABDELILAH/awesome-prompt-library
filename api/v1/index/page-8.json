@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 8,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_7dba1a94c3f7",
+      "slug": "critical-parallel-inquiry-format",
+      "title": "Critical-Parallel Inquiry Format",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7dba1a94c3f7.json"
+    },
     {
       "id": "opl_ba48ded42bd4",
       "slug": "crm-software-finder",
@@ -1171,28 +1180,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7b70a62188d.json"
-    },
-    {
-      "id": "opl_1419660e6cf1",
-      "slug": "design-brief",
-      "title": "Design Brief",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "brand",
-          "default": "AuditFlow"
-        },
-        {
-          "name": "focus",
-          "default": "government audit"
-        },
-        {
-          "name": "page_type",
-          "default": "dashboard"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1419660e6cf1.json"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 3,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prompts": [
+    {
+      "id": "opl_91eb97550878",
+      "slug": "ai-video-creation-assistant",
+      "title": "AI Video Creation Assistant",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "format",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91eb97550878.json"
+    },
     {
       "id": "opl_fcef004515d5",
       "slug": "ai-voice-assistant",
@@ -1107,15 +1129,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cea78ab8cf13.json"
-    },
-    {
-      "id": "opl_39a03b1e2944",
-      "slug": "assistant-to-agent-system-prompt-converter",
-      "title": "Assistant to Agent System Prompt Converter",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39a03b1e2944.json"
     }
   ]
 }

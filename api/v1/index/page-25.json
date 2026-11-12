@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 25,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_28e9ba661f59",
+      "slug": "system-prompt-to-user-prompt",
+      "title": "System Prompt To User Prompt",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_28e9ba661f59.json"
+    },
     {
       "id": "opl_f44b5c9f981d",
       "slug": "system-prompt-updater",
@@ -998,15 +1007,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1d2440353a8.json"
-    },
-    {
-      "id": "opl_f862f5aa3437",
-      "slug": "trace-function-usage-across-codebase",
-      "title": "Trace Function Usage Across Codebase",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f862f5aa3437.json"
     }
   ]
 }

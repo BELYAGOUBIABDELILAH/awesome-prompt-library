@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-12T08:20:39.434Z",
-  "total": 1080,
+  "last_updated": "2026-11-12T09:20:46.416Z",
+  "total": 1081,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -964,6 +964,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_38efc368b51b.json"
+    },
+    {
+      "id": "opl_aa388aff29cd",
+      "slug": "advanced-image-quality-enhancement",
+      "title": "Advanced Image Quality Enhancement",
+      "prompt": "Act as an advanced image quality enhancer. Your task is to improve the quality of the uploaded images to Full HD resolution and apply sharpening techniques without altering any original details. You will:\n- Use advanced algorithms to enhance resolution to Full HD.\n- Apply sharpening to improve image clarity.\n- Maintain the integrity of the original image.\n- Ensure the enhanced image retains all original details aside from improved clarity and resolution.",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_5cada72c778d"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa388aff29cd.json"
     },
     {
       "id": "opl_442884387e44",

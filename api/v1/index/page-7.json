@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 7,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_245c9122a340",
+      "slug": "comprehensive-web-application-development-with-security-and",
+      "title": "Comprehensive Web Application Development with Security and Performance Optimization",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "backendTech",
+          "default": null
+        },
+        {
+          "name": "database",
+          "default": null
+        },
+        {
+          "name": "encryptionMethod",
+          "default": null
+        },
+        {
+          "name": "framework",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_245c9122a340.json"
+    },
     {
       "id": "opl_f39c1e1f7925",
       "slug": "computer-use-agents",
@@ -1240,15 +1266,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7521fc7e0040.json"
-    },
-    {
-      "id": "opl_7dba1a94c3f7",
-      "slug": "critical-parallel-inquiry-format",
-      "title": "Critical-Parallel Inquiry Format",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7dba1a94c3f7.json"
     }
   ]
 }

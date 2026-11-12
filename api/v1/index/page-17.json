@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 17,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_a6910c13f54b",
+      "slug": "modern-plaza-office-selfie-corporate-aesthetic-in-istanbul",
+      "title": "Modern Plaza Office Selfie — Corporate Aesthetic in Istanbul",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6910c13f54b.json"
+    },
     {
       "id": "opl_82354ac950c4",
       "slug": "modern-video-player-with-sharp-ui",
@@ -1056,36 +1065,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1472379e8395.json"
-    },
-    {
-      "id": "opl_dbfe5a9befed",
-      "slug": "note-guru",
-      "title": "Note Guru",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "archive_folder",
-          "default": "old"
-        },
-        {
-          "name": "main_folder",
-          "default": null
-        },
-        {
-          "name": "path_to_folder",
-          "default": null
-        },
-        {
-          "name": "topic",
-          "default": "#"
-        },
-        {
-          "name": "topic_max",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbfe5a9befed.json"
     }
   ]
 }

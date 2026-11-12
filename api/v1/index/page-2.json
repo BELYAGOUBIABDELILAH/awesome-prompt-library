@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 2,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index.json",
@@ -312,6 +312,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_38efc368b51b.json"
+    },
+    {
+      "id": "opl_aa388aff29cd",
+      "slug": "advanced-image-quality-enhancement",
+      "title": "Advanced Image Quality Enhancement",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa388aff29cd.json"
     },
     {
       "id": "opl_67d275c75fac",
@@ -1163,28 +1172,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b47865ae8c4c.json"
-    },
-    {
-      "id": "opl_91eb97550878",
-      "slug": "ai-video-creation-assistant",
-      "title": "AI Video Creation Assistant",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "format",
-          "default": null
-        },
-        {
-          "name": "targetAudience",
-          "default": null
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91eb97550878.json"
     }
   ]
 }

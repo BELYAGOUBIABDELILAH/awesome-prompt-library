@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1080 prompts in this category**
+**1081 prompts in this category**
 
 ## Table of Contents
 
@@ -50,6 +50,7 @@
 - [Adjust Code to Match Style Guides](adjust-code-to-match-style-guides.md)
 - [Advanced Account Research](advanced-account-research.md)
 - [Advanced Color Picker Tool](advanced-color-picker-tool.md)
+- [Advanced Image Quality Enhancement](advanced-image-quality-enhancement.md)
 - [Agent Framework Advisor](agent-framework-advisor.md)
 - [Agent Plan Document Generator](agent-plan-document-generator.md)
 - [Agent Prompt Editor](agent-prompt-editor.md)

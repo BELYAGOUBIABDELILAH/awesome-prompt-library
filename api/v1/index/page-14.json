@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 14,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_d590af1d1b62",
+      "slug": "integrity-compliance-officer-audit-protocol",
+      "title": "Integrity & Compliance Officer Audit Protocol",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d590af1d1b62.json"
+    },
     {
       "id": "opl_a8e0e8a12c89",
       "slug": "intent-recognition-planner-agent",
@@ -1053,15 +1062,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_18c11d7734ff.json"
-    },
-    {
-      "id": "opl_634efb4e1c47",
-      "slug": "large-language-models-security-specialist",
-      "title": "Large Language Models Security Specialist",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_634efb4e1c47.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 4,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prompts": [
+    {
+      "id": "opl_39a03b1e2944",
+      "slug": "assistant-to-agent-system-prompt-converter",
+      "title": "Assistant to Agent System Prompt Converter",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39a03b1e2944.json"
+    },
     {
       "id": "opl_4c7230231a4a",
       "slug": "assistente-de-gera-o-de-imagens-com-identidade-visual-padr-o",
@@ -1172,15 +1181,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52599e753f13.json"
-    },
-    {
-      "id": "opl_fbb6372786e2",
-      "slug": "browser-use-agents",
-      "title": "Browser Use Agents",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbb6372786e2.json"
     }
   ]
 }

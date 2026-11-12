@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 9,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_1419660e6cf1",
+      "slug": "design-brief",
+      "title": "Design Brief",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "brand",
+          "default": "AuditFlow"
+        },
+        {
+          "name": "focus",
+          "default": "government audit"
+        },
+        {
+          "name": "page_type",
+          "default": "dashboard"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1419660e6cf1.json"
+    },
     {
       "id": "opl_39f54d0cd845",
       "slug": "design-handoff-notes-ai-first-human-readable",
@@ -1143,15 +1165,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0be80301e7ea.json"
-    },
-    {
-      "id": "opl_e4151342a6d6",
-      "slug": "dummy-tech-project-ideator",
-      "title": "Dummy Tech Project Ideator",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4151342a6d6.json"
     }
   ]
 }

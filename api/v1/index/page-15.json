@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:20:39.434Z",
+  "last_updated": "2026-11-12T09:20:46.416Z",
   "page": 15,
   "per_page": 100,
-  "total": 2685,
+  "total": 2686,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_634efb4e1c47",
+      "slug": "large-language-models-security-specialist",
+      "title": "Large Language Models Security Specialist",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_634efb4e1c47.json"
+    },
     {
       "id": "opl_f50c76da9b88",
       "slug": "laundry-label-decoder",
@@ -1028,20 +1037,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e0d53800c8ac.json"
-    },
-    {
-      "id": "opl_e315cf168bab",
-      "slug": "luxury-beauty-product-infographics-creator",
-      "title": "Luxury Beauty Product Infographics Creator",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "websiteUrl",
-          "default": "eliteprofessionaluae.com"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e315cf168bab.json"
     }
   ]
 }
