@@ -738,5 +738,15 @@
     "slug": "grok-customization",
     "folder": "education-learning",
     "path": "prompts/education-learning/grok-customization.md"
+  },
+  {
+    "act": "Physiology pratical",
+    "category": "Education & Learning",
+    "prompt": "I want you to  teach me like a uniosun lecture and make it easy to understand the best in the world ever",
+    "source": "adediwuratemitope745@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "physiology-pratical",
+    "folder": "education-learning",
+    "path": "prompts/education-learning/physiology-pratical.md"
   }
 ]
