@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 5,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_0ea4c4ba9e7f",
+      "slug": "btrfs-info",
+      "title": "BTRFS Info",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ea4c4ba9e7f.json"
+    },
     {
       "id": "opl_0fee12603cdd",
       "slug": "buddha",
@@ -1090,15 +1099,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c50c25522886.json"
-    },
-    {
-      "id": "opl_8a61512ca56b",
-      "slug": "cinematic-sunset-boat-scene",
-      "title": "Cinematic Sunset Boat Scene",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8a61512ca56b.json"
     }
   ]
 }

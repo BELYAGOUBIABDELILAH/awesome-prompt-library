@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 6,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_8a61512ca56b",
+      "slug": "cinematic-sunset-boat-scene",
+      "title": "Cinematic Sunset Boat Scene",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8a61512ca56b.json"
+    },
     {
       "id": "opl_b3cb1214e9e8",
       "slug": "cinematic-thriller-silhouette",
@@ -1250,15 +1259,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f39c1e1f7925.json"
-    },
-    {
-      "id": "opl_f08b70baa5b6",
-      "slug": "conference-finder",
-      "title": "Conference Finder",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f08b70baa5b6.json"
     }
   ]
 }

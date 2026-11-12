@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 17,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_10826d6810ee",
+      "slug": "modify-front-end-webpage-with-codex-and-image-input",
+      "title": "Modify Front-End Webpage with Codex and Image Input",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10826d6810ee.json"
+    },
     {
       "id": "opl_7aa81dc33df1",
       "slug": "module-wrap-up-next-steps-video-generation",
@@ -1077,15 +1086,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04491defe0ec.json"
-    },
-    {
-      "id": "opl_c6f52e30e8b4",
-      "slug": "novelist",
-      "title": "Novelist",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6f52e30e8b4.json"
     }
   ]
 }

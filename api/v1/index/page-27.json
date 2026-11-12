@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 27,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_c589d167be7b",
+      "slug": "virtualization-expert",
+      "title": "Virtualization Expert",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c589d167be7b.json"
+    },
     {
       "id": "opl_b12f61799c88",
       "slug": "vision-to-json",

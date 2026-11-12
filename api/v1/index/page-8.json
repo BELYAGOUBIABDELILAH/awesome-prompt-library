@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 8,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_89da3c9de2eb",
+      "slug": "cross-cultural-navigator",
+      "title": "Cross Cultural Navigator",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_89da3c9de2eb.json"
+    },
     {
       "id": "opl_9a853f570394",
       "slug": "cruelty-free-beauty-product-checker",
@@ -1249,15 +1258,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39f54d0cd845.json"
-    },
-    {
-      "id": "opl_fd55f06a61f9",
-      "slug": "design-new-feature-architecture",
-      "title": "Design New Feature Architecture",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd55f06a61f9.json"
     }
   ]
 }

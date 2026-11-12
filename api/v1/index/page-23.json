@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 23,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_e221c149ab35",
+      "slug": "skin-care-for-acne-and-freckles",
+      "title": "Skin care for acne and freckles",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e221c149ab35.json"
+    },
     {
       "id": "opl_80916cbed723",
       "slug": "slap-game-challenge-act-as-the-ultimate-slap-game-master",
@@ -1030,28 +1039,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f4176fff159.json"
-    },
-    {
-      "id": "opl_7eb857ebb461",
-      "slug": "stock-market-analyst-market-move-suggestions",
-      "title": "Stock Market Analyst: Market Move Suggestions",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "investmentGoal",
-          "default": "long-term"
-        },
-        {
-          "name": "marketData",
-          "default": null
-        },
-        {
-          "name": "riskTolerance",
-          "default": "medium"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7eb857ebb461.json"
     }
   ]
 }

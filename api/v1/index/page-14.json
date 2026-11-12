@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 14,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_be57fee3a0a7",
+      "slug": "interactive-quiz-application-for-tv-shows-and-movies",
+      "title": "Interactive Quiz Application for TV Shows and Movies",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be57fee3a0a7.json"
+    },
     {
       "id": "opl_a115f383422e",
       "slug": "interdisciplinary-connections-and-applications",
@@ -1053,15 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52751eedaef9.json"
-    },
-    {
-      "id": "opl_33de18a44b74",
-      "slug": "lazyvim-expert",
-      "title": "Lazyvim expert",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33de18a44b74.json"
     }
   ]
 }

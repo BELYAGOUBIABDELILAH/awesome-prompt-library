@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**86 prompts in this category**
+**87 prompts in this category**
 
 ## Table of Contents
 
@@ -12,6 +12,7 @@
 - [API cost calculator](api-cost-calculator.md)
 - [Bf](bf.md)
 - [Biography Generation Assistant](biography-generation-assistant.md)
+- [Black Magic Mantra: Unleashing Creativity and Innovation](black-magic-mantra-unleashing-creativity-and-innovation.md)
 - [Break Down Costs](break-down-costs.md)
 - [Casual day planner](casual-day-planner.md)
 - [Chemical Reactor](chemical-reactor.md)

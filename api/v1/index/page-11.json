@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 11,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_c88e55c1a24b",
+      "slug": "fancy-title-generator",
+      "title": "Fancy Title Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c88e55c1a24b.json"
+    },
     {
       "id": "opl_34403be4caf9",
       "slug": "fantasy-console-simulator",
@@ -1051,15 +1060,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_321993c6a779.json"
-    },
-    {
-      "id": "opl_5ad27c03cdb7",
-      "slug": "get-started-writing-code",
-      "title": "Get Started Writing Code",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ad27c03cdb7.json"
     }
   ]
 }

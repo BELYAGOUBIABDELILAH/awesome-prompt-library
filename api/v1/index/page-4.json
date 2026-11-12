@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 4,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
@@ -813,6 +813,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_12abff6540fb.json"
     },
     {
+      "id": "opl_62402a62cd81",
+      "slug": "black-magic-mantra-unleashing-creativity-and-innovation",
+      "title": "Black Magic Mantra: Unleashing Creativity and Innovation",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_62402a62cd81.json"
+    },
+    {
       "id": "opl_98d735cb4720",
       "slug": "blender-object-maker",
       "title": "Blender Object Maker",
@@ -1143,15 +1152,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_065e22547d50.json"
-    },
-    {
-      "id": "opl_0ea4c4ba9e7f",
-      "slug": "btrfs-info",
-      "title": "BTRFS Info",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ea4c4ba9e7f.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 13,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_9eb13dea0260",
+      "slug": "home-tools-purchasing-advice",
+      "title": "Home Tools Purchasing Advice",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9eb13dea0260.json"
+    },
     {
       "id": "opl_d0bfe077ed98",
       "slug": "horoscope-l",
@@ -1109,15 +1118,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33183651c769.json"
-    },
-    {
-      "id": "opl_be57fee3a0a7",
-      "slug": "interactive-quiz-application-for-tv-shows-and-movies",
-      "title": "Interactive Quiz Application for TV Shows and Movies",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be57fee3a0a7.json"
     }
   ]
 }

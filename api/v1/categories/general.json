@@ -1,8 +1,8 @@
 {
   "folder": "general",
   "name": "General",
-  "last_updated": "2026-11-12T02:20:38.350Z",
-  "total": 86,
+  "last_updated": "2026-11-12T03:20:40.297Z",
+  "total": 87,
   "prompts": [
     {
       "id": "opl_b382de4bccd8",
@@ -99,6 +99,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7133b635f797.json"
+    },
+    {
+      "id": "opl_62402a62cd81",
+      "slug": "black-magic-mantra-unleashing-creativity-and-innovation",
+      "title": "Black Magic Mantra: Unleashing Creativity and Innovation",
+      "prompt": "Create a Blackmagic prompt: Blackmagicmantra. A phrase chanted with the suspicious hope that reality takes bribes.\n\nMeans: a spoken formula believed to channel dark supernatural power, harm, or coercive control over others.\n\nFrom Sanskrit: 'mantra,' meaning instrument of thought, fused with black magic, the medieval European label for sorcery aimed at malice rather than blessing.\n\nDouble dose: East meets West in one ominous compound word.\n\nRepetition matters: mantras work by chant; results, allegedly, by belief.\n\nNo FDA approval: zero peer-reviewed evidence; infinite cinematic appearances.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_5c47595d2779"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_62402a62cd81.json"
     },
     {
       "id": "opl_b95275537831",

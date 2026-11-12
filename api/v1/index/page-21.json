@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T02:20:38.350Z",
+  "last_updated": "2026-11-12T03:20:40.297Z",
   "page": 21,
   "per_page": 100,
-  "total": 2679,
+  "total": 2680,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_636b4436d7ff",
+      "slug": "real-time-multiplayer-defense-game",
+      "title": "Real-Time Multiplayer Defense Game",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "clientTechnology",
+          "default": "JavaScript"
+        },
+        {
+          "name": "serverTechnology",
+          "default": "Node.js"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_636b4436d7ff.json"
+    },
     {
       "id": "opl_e52e720c5580",
       "slug": "real-time-screen-translation-assistant",
@@ -1128,15 +1146,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b3af728d903.json"
-    },
-    {
-      "id": "opl_a7bf06b3f487",
-      "slug": "satya-nadella-pobre",
-      "title": "Satya Nadella pobre",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7bf06b3f487.json"
     }
   ]
 }
