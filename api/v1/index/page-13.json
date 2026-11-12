@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T13:20:42.760Z",
+  "last_updated": "2026-11-12T14:20:40.784Z",
   "page": 13,
   "per_page": 100,
-  "total": 2690,
+  "total": 2691,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_29747750be50",
+      "slug": "home-cinema-architect",
+      "title": "Home Cinema Architect",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29747750be50.json"
+    },
     {
       "id": "opl_656aa62796f4",
       "slug": "home-electronics-project",
@@ -1109,15 +1118,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_88f5f5fd7534.json"
-    },
-    {
-      "id": "opl_07ae135f958f",
-      "slug": "instructor-in-a-school",
-      "title": "Instructor in a School",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07ae135f958f.json"
     }
   ]
 }

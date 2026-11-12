@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T13:20:42.760Z",
+  "last_updated": "2026-11-12T14:20:40.784Z",
   "page": 9,
   "per_page": 100,
-  "total": 2690,
+  "total": 2691,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
@@ -857,6 +857,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cdc54431d12.json"
     },
     {
+      "id": "opl_fe437aa25035",
+      "slug": "documentation",
+      "title": "Documentation",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fe437aa25035.json"
+    },
+    {
       "id": "opl_95e51d502563",
       "slug": "documentation-generator-general-purpose",
       "title": "Documentation Generator (General Purpose)",
@@ -1143,28 +1152,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7df8aee376ca.json"
-    },
-    {
-      "id": "opl_016b7348c594",
-      "slug": "dspy-business-partner-system",
-      "title": "DSPy Business Partner System",
-      "category": "Security",
-      "folder": "security",
-      "variables": [
-        {
-          "name": "businessModel",
-          "default": null
-        },
-        {
-          "name": "industry",
-          "default": null
-        },
-        {
-          "name": "revenueTarget",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_016b7348c594.json"
     }
   ]
 }

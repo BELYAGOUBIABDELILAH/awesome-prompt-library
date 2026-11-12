@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T13:20:42.760Z",
+  "last_updated": "2026-11-12T14:20:40.784Z",
   "page": 11,
   "per_page": 100,
-  "total": 2690,
+  "total": 2691,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_d530a6928d69",
+      "slug": "fact-checking-evaluation-assistant",
+      "title": "Fact-Checking Evaluation Assistant",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d530a6928d69.json"
+    },
     {
       "id": "opl_7e1c759f4b7f",
       "slug": "fake-email-removal-requestor",
@@ -1046,15 +1055,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c41d2df089bb.json"
-    },
-    {
-      "id": "opl_9c9aa5b7acdf",
-      "slug": "geopolitical-event-simulator",
-      "title": "Geopolitical Event Simulator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9c9aa5b7acdf.json"
     }
   ]
 }

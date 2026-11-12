@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T13:20:42.760Z",
+  "last_updated": "2026-11-12T14:20:40.784Z",
   "page": 27,
   "per_page": 100,
-  "total": 2690,
+  "total": 2691,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_275be93dda80",
+      "slug": "video-review-and-teacher",
+      "title": "Video review and teacher",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_275be93dda80.json"
+    },
     {
       "id": "opl_d4c695a6c06c",
       "slug": "viking",

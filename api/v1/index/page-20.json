@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T13:20:42.760Z",
+  "last_updated": "2026-11-12T14:20:40.784Z",
   "page": 20,
   "per_page": 100,
-  "total": 2690,
+  "total": 2691,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_157ae6a3efd2",
+      "slug": "professional-image-enhancement-for-clarity-and-quality",
+      "title": "Professional Image Enhancement for Clarity and Quality",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_157ae6a3efd2.json"
+    },
     {
       "id": "opl_524e2f608c11",
       "slug": "professional-linguistic-expert-and-translator",
@@ -1103,15 +1112,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_719afe1d6748.json"
-    },
-    {
-      "id": "opl_bc6dda44bc46",
-      "slug": "rapid-prototyper-agent-role",
-      "title": "Rapid Prototyper Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc6dda44bc46.json"
     }
   ]
 }

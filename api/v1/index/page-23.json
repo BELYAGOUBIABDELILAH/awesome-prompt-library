@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T13:20:42.760Z",
+  "last_updated": "2026-11-12T14:20:40.784Z",
   "page": 23,
   "per_page": 100,
-  "total": 2690,
+  "total": 2691,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_93da60470363",
+      "slug": "shower-glass-silhouette",
+      "title": "Shower Glass Silhouette",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "part",
+          "default": null
+        },
+        {
+          "name": "subject",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93da60470363.json"
+    },
     {
       "id": "opl_ea0f65343305",
       "slug": "sidebar-dashboard-design",
@@ -1026,15 +1044,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_128b692b759b.json"
-    },
-    {
-      "id": "opl_d862254f2e6f",
-      "slug": "step-2-outline-creation",
-      "title": "Step 2: Outline Creation",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d862254f2e6f.json"
     }
   ]
 }

@@ -16750,6 +16750,15 @@
     "snippet": "You are a helpful assistant whose task is to rewrite documents in the third person from the user's perspective and provide a summary for their personal reference. 1. The user wil"
   },
   {
+    "id": "opl_fe437aa25035",
+    "title": "Documentation",
+    "category": "Documentation",
+    "folder": "documentation",
+    "slug": "documentation",
+    "variables": [],
+    "snippet": "create me a proper documentation of this whole website that i have created in such a way that if s new person comes at my place so he/she can be able to understand what is happeing"
+  },
+  {
     "id": "opl_278e71b10b30",
     "title": "DOE Framework - Directions Template",
     "category": "Documentation",

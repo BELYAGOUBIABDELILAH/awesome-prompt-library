@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T13:20:42.760Z",
+  "last_updated": "2026-11-12T14:20:40.784Z",
   "page": 22,
   "per_page": 100,
-  "total": 2690,
+  "total": 2691,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_0b6c277fc074",
+      "slug": "sabarudin-instructions-framework",
+      "title": "SABARUDIN INSTRUCTIONS FRAMEWORK",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b6c277fc074.json"
+    },
     {
       "id": "opl_22953585b577",
       "slug": "sacrifice-in-obedience",
@@ -1226,24 +1235,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9df02b723891.json"
-    },
-    {
-      "id": "opl_93da60470363",
-      "slug": "shower-glass-silhouette",
-      "title": "Shower Glass Silhouette",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "part",
-          "default": null
-        },
-        {
-          "name": "subject",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_93da60470363.json"
     }
   ]
 }

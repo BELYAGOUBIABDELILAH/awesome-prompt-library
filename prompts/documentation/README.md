@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**57 prompts in this category**
+**58 prompts in this category**
 
 ## Table of Contents
 
@@ -18,6 +18,7 @@
 - [Create Issue from Support Ticket](create-issue-from-support-ticket.md)
 - [Desktop Upgrade Planner](desktop-upgrade-planner.md)
 - [Document Summarizer (For User)](document-summarizer-for-user.md)
+- [Documentation](documentation.md)
 - [DOE Framework - Directions Template](doe-framework-directions-template.md)
 - [Draft a memo](draft-a-memo.md)
 - [Fake Email Removal Requestor](fake-email-removal-requestor.md)

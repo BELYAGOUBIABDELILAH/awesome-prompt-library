@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T13:20:42.760Z",
+  "last_updated": "2026-11-12T14:20:40.784Z",
   "page": 25,
   "per_page": 100,
-  "total": 2690,
+  "total": 2691,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_fd6b0bb459ff",
+      "slug": "system-prompt-remixer",
+      "title": "System Prompt Remixer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd6b0bb459ff.json"
+    },
     {
       "id": "opl_f509c8f48173",
       "slug": "system-prompt-reviewer",
@@ -998,15 +1007,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d9972b3bc945.json"
-    },
-    {
-      "id": "opl_c1bbef2c8c5e",
-      "slug": "tool-evaluator-agent-role",
-      "title": "Tool Evaluator Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1bbef2c8c5e.json"
     }
   ]
 }
