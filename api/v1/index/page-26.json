@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T03:20:40.297Z",
+  "last_updated": "2026-11-12T04:20:43.456Z",
   "page": 26,
   "per_page": 100,
-  "total": 2680,
+  "total": 2681,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_65d8ac580423",
+      "slug": "transform-subjects-into-adorable-plush-forms",
+      "title": "Transform Subjects into Adorable Plush Forms",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65d8ac580423.json"
+    },
     {
       "id": "opl_7f9226b534cc",
       "slug": "transform-the-provided-clothing-product-image",
@@ -1178,24 +1187,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf524f2effa1.json"
-    },
-    {
-      "id": "opl_ba985b5bbb94",
-      "slug": "virtual-game-console-simulator",
-      "title": "Virtual Game Console Simulator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "ConsoleModel",
-          "default": null
-        },
-        {
-          "name": "GraphicsQuality",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ba985b5bbb94.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1079 prompts in this category**
+**1080 prompts in this category**
 
 ## Table of Contents
 
@@ -828,6 +828,7 @@
 - [Root Cause Architect (5 Whys Technique)](root-cause-architect-5-whys-technique.md)
 - [RPA/Agentic AI Process Developer Portfolio Design for Claude](rpa-agentic-ai-process-developer-portfolio-design-for-claude.md)
 - [Rubber Duck Debugging with AI](rubber-duck-debugging-with-ai.md)
+- [SABARUDIN INSTRUCTIONS FRAMEWORK](sabarudin-instructions-framework.md)
 - [Sales](sales.md)
 - [SAP ABAP Carbon Footprint Module Graduation Project Documentation](sap-abap-carbon-footprint-module-graduation-project-document.md)
 - [Sapiosessuale](sapiosessuale.md)

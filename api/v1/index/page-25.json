@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T03:20:40.297Z",
+  "last_updated": "2026-11-12T04:20:43.456Z",
   "page": 25,
   "per_page": 100,
-  "total": 2680,
+  "total": 2681,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_d6745f4c5b69",
+      "slug": "table-with-various-items",
+      "title": "Table with Various Items",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6745f4c5b69.json"
+    },
     {
       "id": "opl_d457ff1879ea",
       "slug": "taglish-technical-storytelling-editor",
@@ -985,15 +994,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8748e10df19a.json"
-    },
-    {
-      "id": "opl_65d8ac580423",
-      "slug": "transform-subjects-into-adorable-plush-forms",
-      "title": "Transform Subjects into Adorable Plush Forms",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65d8ac580423.json"
     }
   ]
 }

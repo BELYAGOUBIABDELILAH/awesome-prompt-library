@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T03:20:40.297Z",
+  "last_updated": "2026-11-12T04:20:43.456Z",
   "page": 22,
   "per_page": 100,
-  "total": 2680,
+  "total": 2681,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_9b3af728d903",
+      "slug": "sapiosessuale",
+      "title": "Sapiosessuale",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b3af728d903.json"
+    },
     {
       "id": "opl_a7bf06b3f487",
       "slug": "satya-nadella-pobre",
@@ -1221,15 +1230,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_324eb65b184f.json"
-    },
-    {
-      "id": "opl_1ac296003054",
-      "slug": "skills-list-generator",
-      "title": "Skills List Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ac296003054.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T03:20:40.297Z",
+  "last_updated": "2026-11-12T04:20:43.456Z",
   "page": 21,
   "per_page": 100,
-  "total": 2680,
+  "total": 2681,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
@@ -1058,6 +1058,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_400bb13cbf42.json"
     },
     {
+      "id": "opl_0b6c277fc074",
+      "slug": "sabarudin-instructions-framework",
+      "title": "SABARUDIN INSTRUCTIONS FRAMEWORK",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b6c277fc074.json"
+    },
+    {
       "id": "opl_22953585b577",
       "slug": "sacrifice-in-obedience",
       "title": "Sacrifice in obedience",
@@ -1137,15 +1146,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2cdcfefc62.json"
-    },
-    {
-      "id": "opl_9b3af728d903",
-      "slug": "sapiosessuale",
-      "title": "Sapiosessuale",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b3af728d903.json"
     }
   ]
 }

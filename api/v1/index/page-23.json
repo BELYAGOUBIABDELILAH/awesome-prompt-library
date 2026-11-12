@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T03:20:40.297Z",
+  "last_updated": "2026-11-12T04:20:43.456Z",
   "page": 23,
   "per_page": 100,
-  "total": 2680,
+  "total": 2681,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_1ac296003054",
+      "slug": "skills-list-generator",
+      "title": "Skills List Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ac296003054.json"
+    },
     {
       "id": "opl_e221c149ab35",
       "slug": "skin-care-for-acne-and-freckles",
@@ -1030,15 +1039,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5a6d284ab62c.json"
-    },
-    {
-      "id": "opl_0f4176fff159",
-      "slug": "stock-market-analysis-expert",
-      "title": "Stock Market Analysis Expert",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f4176fff159.json"
     }
   ]
 }
