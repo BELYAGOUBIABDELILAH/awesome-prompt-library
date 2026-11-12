@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 18,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_6cc5774dfeb7",
+      "slug": "node-web-app-for-czech-invoice-pdf-generation",
+      "title": "Node Web App for Czech Invoice PDF Generation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "outputPath",
+          "default": null
+        },
+        {
+          "name": "provisionRules",
+          "default": null
+        },
+        {
+          "name": "xmlData",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6cc5774dfeb7.json"
+    },
     {
       "id": "opl_3d333aa75ece",
       "slug": "node-js-automation-script-developer",
@@ -1024,15 +1046,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_716e5f075e80.json"
-    },
-    {
-      "id": "opl_dbac5719f280",
-      "slug": "personal-trainer",
-      "title": "Personal Trainer",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbac5719f280.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 26,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_90be54191b8d",
+      "slug": "ticket-to-pr",
+      "title": "ticket-to-pr",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90be54191b8d.json"
+    },
     {
       "id": "opl_172eedc53559",
       "slug": "tiktok-marketing-visual-designer-agent",
@@ -1143,15 +1152,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10aae149bc50.json"
-    },
-    {
-      "id": "opl_a5903db6e80c",
-      "slug": "valorant-agent-style",
-      "title": "Valorant Agent Style",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5903db6e80c.json"
     }
   ]
 }

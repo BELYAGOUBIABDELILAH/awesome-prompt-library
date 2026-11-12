@@ -1,8 +1,8 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-12T21:20:44.388Z",
-  "total_prompts": 2698,
-  "source_records": 2698,
+  "last_updated": "2026-11-12T22:20:42.784Z",
+  "total_prompts": 2699,
+  "source_records": 2699,
   "total_sources": 342,
   "total_categories": 19,
   "total_pages": 27,
@@ -56,7 +56,7 @@
     {
       "folder": "general",
       "name": "General",
-      "prompt_count": 87,
+      "prompt_count": 88,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/general.json"
     },
     {

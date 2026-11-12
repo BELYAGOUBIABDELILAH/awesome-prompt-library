@@ -1,8 +1,8 @@
 {
   "folder": "general",
   "name": "General",
-  "last_updated": "2026-11-12T21:20:44.388Z",
-  "total": 87,
+  "last_updated": "2026-11-12T22:20:42.784Z",
+  "total": 88,
   "prompts": [
     {
       "id": "opl_b382de4bccd8",
@@ -444,6 +444,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_630e6aa67ea8.json"
+    },
+    {
+      "id": "opl_aa6917e30f7b",
+      "slug": "golden-prompt-for-short-useful-answers",
+      "title": "Golden Prompt for Short, Useful Answers",
+      "prompt": "Be concise. Answer in 2-3 sentences maximum. Get straight to the point - no introductions, explanations, or filler. Focus only on the core answer.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_7f8c85240f71"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa6917e30f7b.json"
     },
     {
       "id": "opl_ce6cf56a1c75",

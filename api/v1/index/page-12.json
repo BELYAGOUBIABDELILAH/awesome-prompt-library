@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 12,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
@@ -366,6 +366,15 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b034298d27c3.json"
+    },
+    {
+      "id": "opl_aa6917e30f7b",
+      "slug": "golden-prompt-for-short-useful-answers",
+      "title": "Golden Prompt for Short, Useful Answers",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aa6917e30f7b.json"
     },
     {
       "id": "opl_c4bf1b3c0eed",
@@ -1031,15 +1040,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d422e9b76bb.json"
-    },
-    {
-      "id": "opl_7c843f2206cf",
-      "slug": "home-assistant-dashboard-editor",
-      "title": "Home Assistant Dashboard Editor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c843f2206cf.json"
     }
   ]
 }

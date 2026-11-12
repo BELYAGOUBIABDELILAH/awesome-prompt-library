@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 24,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_42690b79af64",
+      "slug": "startup-tech-lawyer",
+      "title": "Startup Tech Lawyer",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42690b79af64.json"
+    },
     {
       "id": "opl_fa2c614aa356",
       "slug": "statement-of-purpose",
@@ -1069,15 +1078,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9a6fc23d0100.json"
-    },
-    {
-      "id": "opl_cbb8790fafd9",
-      "slug": "system-prompt-few-shot-learning-editor",
-      "title": "System Prompt Few Shot Learning Editor",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cbb8790fafd9.json"
     }
   ]
 }

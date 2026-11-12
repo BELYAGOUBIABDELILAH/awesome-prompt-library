@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 19,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_dbac5719f280",
+      "slug": "personal-trainer",
+      "title": "Personal Trainer",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbac5719f280.json"
+    },
     {
       "id": "opl_7aaa44b903db",
       "slug": "personality-analyst",
@@ -1308,15 +1317,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ccd48e1dc1f5.json"
-    },
-    {
-      "id": "opl_b7bc54633845",
-      "slug": "professional-development-navigator",
-      "title": "Professional Development Navigator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7bc54633845.json"
     }
   ]
 }

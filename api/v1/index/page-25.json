@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 25,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_cbb8790fafd9",
+      "slug": "system-prompt-few-shot-learning-editor",
+      "title": "System Prompt Few Shot Learning Editor",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cbb8790fafd9.json"
+    },
     {
       "id": "opl_6ae5a8f34873",
       "slug": "system-prompt-forker",
@@ -981,15 +990,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20882e97c59c.json"
-    },
-    {
-      "id": "opl_90be54191b8d",
-      "slug": "ticket-to-pr",
-      "title": "ticket-to-pr",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90be54191b8d.json"
     }
   ]
 }

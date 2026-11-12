@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 27,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_a5903db6e80c",
+      "slug": "valorant-agent-style",
+      "title": "Valorant Agent Style",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5903db6e80c.json"
+    },
     {
       "id": "opl_d6e2c5219e17",
       "slug": "vector-based-space-combat-system",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 22,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_9fb5ad97d986",
+      "slug": "rpa-guide",
+      "title": "RPA Guide",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9fb5ad97d986.json"
+    },
     {
       "id": "opl_4e4ce94e18c2",
       "slug": "rpa-agentic-ai-process-developer-portfolio-design-for-claude",
@@ -1243,15 +1252,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_700ba0bab2ac.json"
-    },
-    {
-      "id": "opl_992db106490f",
-      "slug": "shakespearean-text-generator-light",
-      "title": "Shakespearean Text Generator (Light)",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_992db106490f.json"
     }
   ]
 }

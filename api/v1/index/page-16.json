@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 16,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_00200359664e",
+      "slug": "long-running-merge-requests-table",
+      "title": "Long-Running Merge Requests Table",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_00200359664e.json"
+    },
     {
       "id": "opl_88b7740181fb",
       "slug": "lookup-table-generator-csv",
@@ -1189,15 +1198,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3de4486c4b3f.json"
-    },
-    {
-      "id": "opl_0b3edcf98d97",
-      "slug": "minimalist-surveillance-illustration-prompt",
-      "title": "Minimalist Surveillance Illustration Prompt",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b3edcf98d97.json"
     }
   ]
 }

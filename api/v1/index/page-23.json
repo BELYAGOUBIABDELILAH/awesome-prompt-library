@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 23,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_992db106490f",
+      "slug": "shakespearean-text-generator-light",
+      "title": "Shakespearean Text Generator (Light)",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_992db106490f.json"
+    },
     {
       "id": "opl_02acb4c606cb",
       "slug": "shell-script-agent-role",
@@ -1053,15 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5bf9c71268a1.json"
-    },
-    {
-      "id": "opl_42690b79af64",
-      "slug": "startup-tech-lawyer",
-      "title": "Startup Tech Lawyer",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42690b79af64.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**87 prompts in this category**
+**88 prompts in this category**
 
 ## Table of Contents
 
@@ -33,6 +33,7 @@
 - [Dummy Test Prompt](dummy-test-prompt.md)
 - [Freeform Text Converter](freeform-text-converter.md)
 - [Gaslighter](gaslighter.md)
+- [Golden Prompt for Short, Useful Answers](golden-prompt-for-short-useful-answers.md)
 - [Home Preparedness Expert](home-preparedness-expert.md)
 - [identify the key skills needed for effective project planning and proposal writing](identify-the-key-skills-needed-for-effective-project-plannin.md)
 - [Impact Metrics](impact-metrics.md)

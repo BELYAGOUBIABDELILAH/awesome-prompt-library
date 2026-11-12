@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 15,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_3a2d68122fec",
+      "slug": "kubernetes-docker-rpg-learning-engine",
+      "title": "Kubernetes & Docker RPG Learning Engine",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3a2d68122fec.json"
+    },
     {
       "id": "opl_df1871602f10",
       "slug": "label-text-extractor-ocr",
@@ -1027,15 +1036,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59fd9439af24.json"
-    },
-    {
-      "id": "opl_00200359664e",
-      "slug": "long-running-merge-requests-table",
-      "title": "Long-Running Merge Requests Table",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_00200359664e.json"
     }
   ]
 }

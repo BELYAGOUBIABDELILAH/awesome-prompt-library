@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-12T21:20:44.388Z",
+  "last_updated": "2026-11-12T22:20:42.784Z",
   "page": 14,
   "per_page": 100,
-  "total": 2698,
+  "total": 2699,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_5fb725efe068",
+      "slug": "innovative-use-case-generator-for-new-tools",
+      "title": "Innovative Use Case Generator for New Tools",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [
+        {
+          "name": "toolName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5fb725efe068.json"
+    },
     {
       "id": "opl_ce3805ab26bd",
       "slug": "instagram-profile-search-navigator",
@@ -1045,15 +1059,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0249f3dd7a45.json"
-    },
-    {
-      "id": "opl_3a2d68122fec",
-      "slug": "kubernetes-docker-rpg-learning-engine",
-      "title": "Kubernetes & Docker RPG Learning Engine",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3a2d68122fec.json"
     }
   ]
 }
