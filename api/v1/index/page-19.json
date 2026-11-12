@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T04:20:43.456Z",
+  "last_updated": "2026-11-12T05:20:40.918Z",
   "page": 19,
   "per_page": 100,
-  "total": 2681,
+  "total": 2682,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_1a7ced0fad63",
+      "slug": "phantom-strike",
+      "title": "Phantom Strike",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a7ced0fad63.json"
+    },
     {
       "id": "opl_fb4ef32d106f",
       "slug": "pharmacy-research-assistant",
@@ -1247,15 +1256,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ef6d74f75e7.json"
-    },
-    {
-      "id": "opl_2ccdcad450fa",
-      "slug": "professional-vision-statement-for-transportation-company",
-      "title": "Professional Vision Statement for Transportation Company",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ccdcad450fa.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T04:20:43.456Z",
+  "last_updated": "2026-11-12T05:20:40.918Z",
   "page": 21,
   "per_page": 100,
-  "total": 2681,
+  "total": 2682,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_f9ba627ff8ed",
+      "slug": "real-time-geological-disaster-information-query",
+      "title": "Real-Time Geological Disaster Information Query",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9ba627ff8ed.json"
+    },
     {
       "id": "opl_636b4436d7ff",
       "slug": "real-time-multiplayer-defense-game",
@@ -1124,28 +1133,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0fe31b8ce3b.json"
-    },
-    {
-      "id": "opl_ad2cdcfefc62",
-      "slug": "sap-abap-carbon-footprint-module-graduation-project-document",
-      "title": "SAP ABAP Carbon Footprint Module Graduation Project Documentation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "projectTitle",
-          "default": null
-        },
-        {
-          "name": "studentName",
-          "default": null
-        },
-        {
-          "name": "universityName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2cdcfefc62.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T04:20:43.456Z",
+  "last_updated": "2026-11-12T05:20:40.918Z",
   "page": 18,
   "per_page": 100,
-  "total": 2681,
+  "total": 2682,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_04491defe0ec",
+      "slug": "notion-transcript-designer-prompt",
+      "title": "Notion Transcript Designer Prompt",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04491defe0ec.json"
+    },
     {
       "id": "opl_c6f52e30e8b4",
       "slug": "novelist",
@@ -1131,15 +1140,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bd392616da4.json"
-    },
-    {
-      "id": "opl_1a7ced0fad63",
-      "slug": "phantom-strike",
-      "title": "Phantom Strike",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a7ced0fad63.json"
     }
   ]
 }

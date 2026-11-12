@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T04:20:43.456Z",
+  "last_updated": "2026-11-12T05:20:40.918Z",
   "page": 25,
   "per_page": 100,
-  "total": 2681,
+  "total": 2682,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_52dd35e52d04",
+      "slug": "table-in-pdf-to-csv-conversion",
+      "title": "Table in PDF to CSV conversion",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "insert_model_name",
+          "default": null
+        },
+        {
+          "name": "unclear",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52dd35e52d04.json"
+    },
     {
       "id": "opl_d6745f4c5b69",
       "slug": "table-with-various-items",
@@ -985,15 +1003,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33bbbb6a43a0.json"
-    },
-    {
-      "id": "opl_8748e10df19a",
-      "slug": "transcript-to-notes",
-      "title": "transcript_to_notes",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8748e10df19a.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T04:20:43.456Z",
+  "last_updated": "2026-11-12T05:20:40.918Z",
   "page": 23,
   "per_page": 100,
-  "total": 2681,
+  "total": 2682,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_324eb65b184f",
+      "slug": "skill-master",
+      "title": "skill-master",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_324eb65b184f.json"
+    },
     {
       "id": "opl_1ac296003054",
       "slug": "skills-list-generator",
@@ -1030,15 +1039,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb8d3cb9d2e6.json"
-    },
-    {
-      "id": "opl_5a6d284ab62c",
-      "slug": "stock-analyser",
-      "title": "Stock Analyser",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5a6d284ab62c.json"
     }
   ]
 }

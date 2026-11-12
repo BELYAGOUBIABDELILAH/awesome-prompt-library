@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T04:20:43.456Z",
+  "last_updated": "2026-11-12T05:20:40.918Z",
   "page": 24,
   "per_page": 100,
-  "total": 2681,
+  "total": 2682,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_5a6d284ab62c",
+      "slug": "stock-analyser",
+      "title": "Stock Analyser",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5a6d284ab62c.json"
+    },
     {
       "id": "opl_0f4176fff159",
       "slug": "stock-market-analysis-expert",
@@ -1061,24 +1070,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1b1626f141d.json"
-    },
-    {
-      "id": "opl_52dd35e52d04",
-      "slug": "table-in-pdf-to-csv-conversion",
-      "title": "Table in PDF to CSV conversion",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "insert_model_name",
-          "default": null
-        },
-        {
-          "name": "unclear",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52dd35e52d04.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T04:20:43.456Z",
+  "last_updated": "2026-11-12T05:20:40.918Z",
   "page": 26,
   "per_page": 100,
-  "total": 2681,
+  "total": 2682,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_8748e10df19a",
+      "slug": "transcript-to-notes",
+      "title": "transcript_to_notes",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8748e10df19a.json"
+    },
     {
       "id": "opl_65d8ac580423",
       "slug": "transform-subjects-into-adorable-plush-forms",
@@ -1178,15 +1187,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb6f4fedba3e.json"
-    },
-    {
-      "id": "opl_cf524f2effa1",
-      "slug": "virtual-fitness-coach",
-      "title": "Virtual Fitness Coach",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf524f2effa1.json"
     }
   ]
 }

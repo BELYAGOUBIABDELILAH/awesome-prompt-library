@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T04:20:43.456Z",
+  "last_updated": "2026-11-12T05:20:40.918Z",
   "page": 17,
   "per_page": 100,
-  "total": 2681,
+  "total": 2682,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_29e3b6041588",
+      "slug": "modernize-legacy-code",
+      "title": "Modernize Legacy Code",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29e3b6041588.json"
+    },
     {
       "id": "opl_10826d6810ee",
       "slug": "modify-front-end-webpage-with-codex-and-image-input",
@@ -1077,15 +1086,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f0542746a92c.json"
-    },
-    {
-      "id": "opl_04491defe0ec",
-      "slug": "notion-transcript-designer-prompt",
-      "title": "Notion Transcript Designer Prompt",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04491defe0ec.json"
     }
   ]
 }

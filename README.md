@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C680-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-2%2C681-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -59,7 +59,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Business & Career](prompts/business-career) | 58 | Resumes, cover letters, and workplace communication |
 | [Documentation](prompts/documentation) | 57 | Technical specs, README files, and API docs |
 | [Health & Wellness](prompts/health-wellness) | 29 | Fitness planning, nutrition ideas, and habit tracking |
-| [Research & Analysis](prompts/research-analysis) | 25 | Literature review, synthesis, and comparative analysis |
+| [Research & Analysis](prompts/research-analysis) | 26 | Literature review, synthesis, and comparative analysis |
 | [Games & Fun](prompts/games-fun) | 20 | Interactive games, roleplay, and trivia |
 | [Sales & Business](prompts/sales-business) | 20 | Outreach emails, pitch decks, and discovery questions |
 | [Product & Strategy](prompts/product-strategy) | 17 | Feature specs, roadmaps, and competitive analysis |

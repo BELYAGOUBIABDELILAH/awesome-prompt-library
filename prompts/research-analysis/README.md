@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**25 prompts in this category**
+**26 prompts in this category**
 
 ## Table of Contents
 
@@ -13,6 +13,7 @@
 - [Competitive Intelligence Analyst](competitive-intelligence-analyst.md)
 - [Customer Feedback Analysis](customer-feedback-analysis.md)
 - [Does It Exist?](does-it-exist.md)
+- [Expert Discrete Mathematics Exam Answering](expert-discrete-mathematics-exam-answering.md)
 - [Hiring Manager Interview Prep](hiring-manager-interview-prep.md)
 - [Leadership Coach](leadership-coach.md)
 - [Medical Report Interpreter](medical-report-interpreter.md)
