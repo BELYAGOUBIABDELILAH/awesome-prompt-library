@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 11,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_1d22ee34d79f",
+      "slug": "extract-a-writing-outline-from-scientific-content",
+      "title": "Extract a Writing Outline from Scientific Content",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "content",
+          "default": null
+        },
+        {
+          "name": "format",
+          "default": "structured"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d22ee34d79f.json"
+    },
     {
       "id": "opl_bb0109a8f584",
       "slug": "extreme-close-up-macro-photography-of-a-young-woman-s-face",
@@ -1046,15 +1064,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8559bc6572a9.json"
-    },
-    {
-      "id": "opl_2ba773f7ba12",
-      "slug": "geolocation-estimator",
-      "title": "Geolocation Estimator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ba773f7ba12.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 21,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_a83a08bdedea",
+      "slug": "random-address-generator",
+      "title": "Random Address Generator",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a83a08bdedea.json"
+    },
     {
       "id": "opl_091376dcdead",
       "slug": "random-ai-assistant-ideator",
@@ -1084,36 +1093,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9fb5ad97d986.json"
-    },
-    {
-      "id": "opl_4e4ce94e18c2",
-      "slug": "rpa-agentic-ai-process-developer-portfolio-design-for-claude",
-      "title": "RPA/Agentic AI Process Developer Portfolio Design for Claude",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "domain",
-          "default": null
-        },
-        {
-          "name": "name",
-          "default": null
-        },
-        {
-          "name": "primaryColor",
-          "default": null
-        },
-        {
-          "name": "secondaryColor",
-          "default": null
-        },
-        {
-          "name": "style",
-          "default": "modern"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e4ce94e18c2.json"
     }
   ]
 }

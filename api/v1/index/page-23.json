@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 23,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_02acb4c606cb",
+      "slug": "shell-script-agent-role",
+      "title": "Shell Script Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "var",
+          "default": null
+        },
+        {
+          "name": "var//pattern/replacement",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02acb4c606cb.json"
+    },
     {
       "id": "opl_84dcfb2ca90f",
       "slug": "shields-io-badge-generator",
@@ -1044,15 +1062,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_42690b79af64.json"
-    },
-    {
-      "id": "opl_fa2c614aa356",
-      "slug": "statement-of-purpose",
-      "title": "Statement of Purpose",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa2c614aa356.json"
     }
   ]
 }

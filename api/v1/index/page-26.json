@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 26,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_172eedc53559",
+      "slug": "tiktok-marketing-visual-designer-agent",
+      "title": "TikTok Marketing Visual Designer Agent",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_172eedc53559.json"
+    },
     {
       "id": "opl_c43da9d3f3e8",
       "slug": "time-commitment",
@@ -1143,15 +1152,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a5903db6e80c.json"
-    },
-    {
-      "id": "opl_d6e2c5219e17",
-      "slug": "vector-based-space-combat-system",
-      "title": "Vector-Based Space Combat System",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6e2c5219e17.json"
     }
   ]
 }

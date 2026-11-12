@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**75 prompts in this category**
+**76 prompts in this category**
 
 ## Table of Contents
 
@@ -33,6 +33,7 @@
 - [Educational Platform Support Assistant](educational-platform-support-assistant.md)
 - [English Language Tutor for Turkish Speakers](english-language-tutor-for-turkish-speakers.md)
 - [English Teacher for Translation and Cultural Explanation](english-teacher-for-translation-and-cultural-explanation.md)
+- [exam science study notes](exam-science-study-notes.md)
 - [Expert-Level Insights and Advanced Resources](expert-level-insights-and-advanced-resources.md)
 - [Explainer with Analogies](explainer-with-analogies.md)
 - [Fill in the Blank Worksheets Generator](fill-in-the-blank-worksheets-generator.md)

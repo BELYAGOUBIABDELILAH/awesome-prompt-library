@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 14,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_ce3805ab26bd",
+      "slug": "instagram-profile-search-navigator",
+      "title": "Instagram Profile Search Navigator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "creator_handle",
+          "default": null
+        },
+        {
+          "name": "topic_details",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce3805ab26bd.json"
+    },
     {
       "id": "opl_0b6007a03513",
       "slug": "institutional-video-production-expert",
@@ -1036,15 +1054,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3a2d68122fec.json"
-    },
-    {
-      "id": "opl_df1871602f10",
-      "slug": "label-text-extractor-ocr",
-      "title": "Label Text Extractor (OCR)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_df1871602f10.json"
     }
   ]
 }

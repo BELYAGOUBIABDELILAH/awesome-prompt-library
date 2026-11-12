@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 25,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_6ae5a8f34873",
+      "slug": "system-prompt-forker",
+      "title": "System Prompt Forker",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ae5a8f34873.json"
+    },
     {
       "id": "opl_1711c598fb23",
       "slug": "system-prompt-from-description",
@@ -981,15 +990,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_90be54191b8d.json"
-    },
-    {
-      "id": "opl_172eedc53559",
-      "slug": "tiktok-marketing-visual-designer-agent",
-      "title": "TikTok Marketing Visual Designer Agent",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_172eedc53559.json"
     }
   ]
 }

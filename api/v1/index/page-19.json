@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 19,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_7aaa44b903db",
+      "slug": "personality-analyst",
+      "title": "Personality Analyst",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7aaa44b903db.json"
+    },
     {
       "id": "opl_113c6b8e2f03",
       "slug": "personality-sketcher",
@@ -1308,32 +1317,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7bc54633845.json"
-    },
-    {
-      "id": "opl_9599f2fd627e",
-      "slug": "professional-email-writer-for-any-occasion",
-      "title": "Professional Email Writer for Any Occasion",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "customized_email_based_on_variables",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "length",
-          "default": "short"
-        },
-        {
-          "name": "tone",
-          "default": "formal"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9599f2fd627e.json"
     }
   ]
 }

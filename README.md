@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C696-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-2%2C697-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -54,7 +54,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [Data & Analytics](prompts/data-analytics) | 173 | Data extraction, SQL queries, and metrics evaluation |
 | [AI & Automation](prompts/ai-automation) | 122 | Agent prompts, workflow scripts, and system setup |
 | [General](prompts/general) | 87 | Everyday productivity, brainstorming, and utilities |
-| [Education & Learning](prompts/education-learning) | 75 | Explanations, study guides, and concept breakdowns |
+| [Education & Learning](prompts/education-learning) | 76 | Explanations, study guides, and concept breakdowns |
 | [Security](prompts/security) | 65 | Code auditing, threat modeling, and security policy |
 | [Business & Career](prompts/business-career) | 59 | Resumes, cover letters, and workplace communication |
 | [Documentation](prompts/documentation) | 58 | Technical specs, README files, and API docs |

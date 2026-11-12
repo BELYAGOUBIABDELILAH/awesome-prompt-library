@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 16,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_88b7740181fb",
+      "slug": "lookup-table-generator-csv",
+      "title": "Lookup Table Generator (CSV)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_88b7740181fb.json"
+    },
     {
       "id": "opl_846623685e77",
       "slug": "lost-in-country-with-chatgpt-image-2",
@@ -1189,24 +1198,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0b3edcf98d97.json"
-    },
-    {
-      "id": "opl_379013e57673",
-      "slug": "mirror-product-photo",
-      "title": "Mirror Product Photo",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "aspectratio",
-          "default": null
-        },
-        {
-          "name": "product",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_379013e57673.json"
     }
   ]
 }

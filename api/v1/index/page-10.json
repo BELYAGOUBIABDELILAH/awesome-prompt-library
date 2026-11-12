@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 10,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
@@ -1023,6 +1023,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_41b8f05ecd31.json"
     },
     {
+      "id": "opl_2730dbde5543",
+      "slug": "exam-science-study-notes",
+      "title": "exam science study notes",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2730dbde5543.json"
+    },
+    {
       "id": "opl_90948faae56c",
       "slug": "excel-data-to-figma-presentation-designer",
       "title": "Excel Data to Figma Presentation Designer",
@@ -1281,24 +1290,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_08c39334e97a.json"
-    },
-    {
-      "id": "opl_1d22ee34d79f",
-      "slug": "extract-a-writing-outline-from-scientific-content",
-      "title": "Extract a Writing Outline from Scientific Content",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "content",
-          "default": null
-        },
-        {
-          "name": "format",
-          "default": "structured"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d22ee34d79f.json"
     }
   ]
 }

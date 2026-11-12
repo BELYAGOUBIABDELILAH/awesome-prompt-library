@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 18,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_3d333aa75ece",
+      "slug": "node-js-automation-script-developer",
+      "title": "Node.js Automation Script Developer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "taskType",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d333aa75ece.json"
+    },
     {
       "id": "opl_c609e279a607",
       "slug": "noise-sensitivity-support",
@@ -1019,15 +1033,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbac5719f280.json"
-    },
-    {
-      "id": "opl_7aaa44b903db",
-      "slug": "personality-analyst",
-      "title": "Personality Analyst",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7aaa44b903db.json"
     }
   ]
 }

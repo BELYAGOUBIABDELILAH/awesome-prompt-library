@@ -1,8 +1,8 @@
 {
   "folder": "education-learning",
   "name": "Education & Learning",
-  "last_updated": "2026-11-12T20:20:40.147Z",
-  "total": 75,
+  "last_updated": "2026-11-12T21:20:44.388Z",
+  "total": 76,
   "prompts": [
     {
       "id": "opl_eed064e780bd",
@@ -566,6 +566,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_746e630b2ec4.json"
+    },
+    {
+      "id": "opl_2730dbde5543",
+      "slug": "exam-science-study-notes",
+      "title": "exam science study notes",
+      "prompt": "create gpstr and hstr exam science study notes with suitable diagrams and explanation in English for year 2026",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_a2862c3d2116"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2730dbde5543.json"
     },
     {
       "id": "opl_8107251e8391",

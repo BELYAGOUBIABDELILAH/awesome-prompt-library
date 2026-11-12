@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-12T20:20:40.147Z",
-  "total_prompts": 2697,
-  "source_records": 2697,
-  "total_sources": 341,
+  "last_updated": "2026-11-12T21:20:44.388Z",
+  "total_prompts": 2698,
+  "source_records": 2698,
+  "total_sources": 342,
   "total_categories": 19,
   "total_pages": 27,
   "per_page": 100,
@@ -62,7 +62,7 @@
     {
       "folder": "education-learning",
       "name": "Education & Learning",
-      "prompt_count": 75,
+      "prompt_count": 76,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/education-learning.json"
     },
     {

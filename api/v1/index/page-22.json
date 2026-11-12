@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-12T20:20:40.147Z",
+  "last_updated": "2026-11-12T21:20:44.388Z",
   "page": 22,
   "per_page": 100,
-  "total": 2697,
+  "total": 2698,
   "total_pages": 27,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_4e4ce94e18c2",
+      "slug": "rpa-agentic-ai-process-developer-portfolio-design-for-claude",
+      "title": "RPA/Agentic AI Process Developer Portfolio Design for Claude",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "domain",
+          "default": null
+        },
+        {
+          "name": "name",
+          "default": null
+        },
+        {
+          "name": "primaryColor",
+          "default": null
+        },
+        {
+          "name": "secondaryColor",
+          "default": null
+        },
+        {
+          "name": "style",
+          "default": "modern"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4e4ce94e18c2.json"
+    },
     {
       "id": "opl_376138fabaff",
       "slug": "rubber-duck-debugging-with-ai",
@@ -1222,24 +1252,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_992db106490f.json"
-    },
-    {
-      "id": "opl_02acb4c606cb",
-      "slug": "shell-script-agent-role",
-      "title": "Shell Script Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "var",
-          "default": null
-        },
-        {
-          "name": "var//pattern/replacement",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02acb4c606cb.json"
     }
   ]
 }
