@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T18:20:45.062Z",
+  "last_updated": "2026-11-13T19:20:44.819Z",
   "page": 26,
   "per_page": 100,
-  "total": 2719,
+  "total": 2720,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_85b155f35397",
+      "slug": "the-lovelyline",
+      "title": "The Lovelyline",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85b155f35397.json"
+    },
     {
       "id": "opl_1aee54f7cb21",
       "slug": "the-midnight-informant",
@@ -1039,15 +1048,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f76626e440e.json"
-    },
-    {
-      "id": "opl_1a1e5a26206d",
-      "slug": "underwater-veo-3-video",
-      "title": "Underwater Veo 3 video",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a1e5a26206d.json"
     }
   ]
 }

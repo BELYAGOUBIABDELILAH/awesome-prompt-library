@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T18:20:45.062Z",
+  "last_updated": "2026-11-13T19:20:44.819Z",
   "page": 23,
   "per_page": 100,
-  "total": 2719,
+  "total": 2720,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_f90a3143523e",
+      "slug": "serene-moonlit-street-illustration",
+      "title": "Serene Moonlit Street Illustration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f90a3143523e.json"
+    },
     {
       "id": "opl_4f22b03fbff1",
       "slug": "serene-yoga-mindfulness-lifestyle-photography",
@@ -1097,15 +1106,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6ca31099d90.json"
-    },
-    {
-      "id": "opl_a055d0735baf",
-      "slug": "sprint-prioritizer",
-      "title": "Sprint Prioritizer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a055d0735baf.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T18:20:45.062Z",
+  "last_updated": "2026-11-13T19:20:44.819Z",
   "page": 22,
   "per_page": 100,
-  "total": 2719,
+  "total": 2720,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_236a63502e08",
+      "slug": "review-test-coverage-gaps",
+      "title": "Review Test Coverage Gaps",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_236a63502e08.json"
+    },
     {
       "id": "opl_b19d00293443",
       "slug": "review-the-social-media-content",
@@ -1224,15 +1233,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0593010aecc7.json"
-    },
-    {
-      "id": "opl_f90a3143523e",
-      "slug": "serene-moonlit-street-illustration",
-      "title": "Serene Moonlit Street Illustration",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f90a3143523e.json"
     }
   ]
 }

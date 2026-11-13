@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T18:20:45.062Z",
+  "last_updated": "2026-11-13T19:20:44.819Z",
   "page": 25,
   "per_page": 100,
-  "total": 2719,
+  "total": 2720,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_3f82dc3f18e6",
+      "slug": "synthesis-architect-pro",
+      "title": "Synthesis Architect Pro",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f82dc3f18e6.json"
+    },
     {
       "id": "opl_54ca5d9953a4",
       "slug": "synthetic-data-creation-assistant",
@@ -963,15 +972,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ac4ecf03761.json"
-    },
-    {
-      "id": "opl_85b155f35397",
-      "slug": "the-lovelyline",
-      "title": "The Lovelyline",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85b155f35397.json"
     }
   ]
 }
