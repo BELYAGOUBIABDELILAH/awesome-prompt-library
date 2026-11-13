@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**65 prompts in this category**
+**66 prompts in this category**
 
 ## Table of Contents
 
@@ -71,3 +71,4 @@
 - [Walking back home](walking-back-home.md)
 - [Writing a Book on Causes of Death from Data Sources](writing-a-book-on-causes-of-death-from-data-sources.md)
 - [Writing Advisor Prompt](writing-advisor-prompt.md)
+- [Writing Style Replication](writing-style-replication.md)

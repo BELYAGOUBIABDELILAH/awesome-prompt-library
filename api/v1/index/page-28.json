@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T09:20:42.937Z",
+  "last_updated": "2026-11-13T10:20:43.424Z",
   "page": 28,
   "per_page": 100,
-  "total": 2710,
+  "total": 2711,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_66d7398a272d",
+      "slug": "zero-to-one-solo-founder-launch-system",
+      "title": "Zero to One Solo-Founder Launch System",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66d7398a272d.json"
+    },
     {
       "id": "opl_b65067587389",
       "slug": "untitled-b65067",

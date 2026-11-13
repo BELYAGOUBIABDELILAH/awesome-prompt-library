@@ -1,8 +1,8 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-13T09:20:42.937Z",
-  "total_prompts": 2710,
-  "source_records": 2710,
+  "last_updated": "2026-11-13T10:20:43.424Z",
+  "total_prompts": 2711,
+  "source_records": 2711,
   "total_sources": 347,
   "total_categories": 19,
   "total_pages": 28,
@@ -68,7 +68,7 @@
     {
       "folder": "security",
       "name": "Security",
-      "prompt_count": 65,
+      "prompt_count": 66,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/security.json"
     },
     {

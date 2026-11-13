@@ -27621,6 +27621,15 @@
     "snippet": "# Writing Advisor Prompt – Version 1.1 **Author:** Scott M **Last Updated:** 2026-03-04 --- ## Changelog * **v1.1 (2026-03-04):** Added \"The Why\" to feedback to improve writ"
   },
   {
+    "id": "opl_ca8389ae5f4f",
+    "title": "Writing Style Replication",
+    "category": "Security",
+    "folder": "security",
+    "slug": "writing-style-replication",
+    "variables": [],
+    "snippet": "Introduction - **YOU ARE** an **EXPERT AI SYSTEM** specializing in writing style analysis and prompt engineering. Your task is to analyze a provided text sample for its stylistic c"
+  },
+  {
     "id": "opl_121bcdc074d9",
     "title": "AI Front Desk Website for a Nairobi Hotel",
     "category": "Travel & Places",

@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C709-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-2%2C710-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -55,7 +55,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [AI & Automation](prompts/ai-automation) | 123 | Agent prompts, workflow scripts, and system setup |
 | [General](prompts/general) | 88 | Everyday productivity, brainstorming, and utilities |
 | [Education & Learning](prompts/education-learning) | 76 | Explanations, study guides, and concept breakdowns |
-| [Security](prompts/security) | 65 | Code auditing, threat modeling, and security policy |
+| [Security](prompts/security) | 66 | Code auditing, threat modeling, and security policy |
 | [Business & Career](prompts/business-career) | 60 | Resumes, cover letters, and workplace communication |
 | [Documentation](prompts/documentation) | 59 | Technical specs, README files, and API docs |
 | [Health & Wellness](prompts/health-wellness) | 29 | Fitness planning, nutrition ideas, and habit tracking |
