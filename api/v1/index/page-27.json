@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 27,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_c17e84fa7fca",
+      "slug": "url-title-and-description-analysis-tool-with-lsi-keywords",
+      "title": "URL, Title, and Description Analysis Tool with LSI Keywords",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "region",
+          "default": "Global"
+        },
+        {
+          "name": "url",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c17e84fa7fca.json"
+    },
     {
       "id": "opl_f46e4a091584",
       "slug": "user-acquisition-data-analysis",
@@ -1263,20 +1285,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bbc49b5106c9.json"
-    },
-    {
-      "id": "opl_ed3955766c66",
-      "slug": "untitled-4",
-      "title": "网络故障报告撰写",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "networkIssue",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed3955766c66.json"
     }
   ]
 }

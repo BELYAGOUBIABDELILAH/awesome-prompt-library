@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 25,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_e37da1dd32ea",
+      "slug": "system-prompt-editor-output-format-instructions",
+      "title": "System Prompt Editor - Output Format Instructions",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e37da1dd32ea.json"
+    },
     {
       "id": "opl_27eda67c6b0c",
       "slug": "system-prompt-editor-general",
@@ -976,15 +985,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fafeb3aea5b0.json"
-    },
-    {
-      "id": "opl_06fd8e8af52b",
-      "slug": "the-ultimate-typescript-code-review",
-      "title": "The Ultimate TypeScript Code Review",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06fd8e8af52b.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 26,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_06fd8e8af52b",
+      "slug": "the-ultimate-typescript-code-review",
+      "title": "The Ultimate TypeScript Code Review",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06fd8e8af52b.json"
+    },
     {
       "id": "opl_eb7c70456c9d",
       "slug": "the-witcher-double-exposure-effect",
@@ -1122,28 +1131,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a44bdd3e417.json"
-    },
-    {
-      "id": "opl_c17e84fa7fca",
-      "slug": "url-title-and-description-analysis-tool-with-lsi-keywords",
-      "title": "URL, Title, and Description Analysis Tool with LSI Keywords",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "region",
-          "default": "Global"
-        },
-        {
-          "name": "url",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c17e84fa7fca.json"
     }
   ]
 }

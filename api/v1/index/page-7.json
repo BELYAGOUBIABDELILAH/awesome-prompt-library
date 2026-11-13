@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 7,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_85ebe97e6ea1",
+      "slug": "comprehensive-roadmap-for-ai-and-computer-vision-specializat",
+      "title": "Comprehensive Roadmap for AI and Computer Vision Specialization in Defense Systems",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "focusArea",
+          "default": "Computer Vision and AI in Defense"
+        },
+        {
+          "name": "learningFormat",
+          "default": "Online"
+        },
+        {
+          "name": "startMonth",
+          "default": "January"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85ebe97e6ea1.json"
+    },
     {
       "id": "opl_283ffa6fd9f8",
       "slug": "comprehensive-ui-ux-mobile-app-analysis",
@@ -1233,15 +1255,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e21df68371c.json"
-    },
-    {
-      "id": "opl_07da2668908a",
-      "slug": "crew-ai-implementation-planner",
-      "title": "Crew AI Implementation Planner",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07da2668908a.json"
     }
   ]
 }

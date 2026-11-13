@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 17,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_aacaa502b2b9",
+      "slug": "minimalist-fisherman-illustration",
+      "title": "Minimalist Fisherman Illustration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aacaa502b2b9.json"
+    },
     {
       "id": "opl_bf2909d055c5",
       "slug": "minimalist-graphic-illustration-of-a-stylized-dachshund",
@@ -1043,15 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e93c08f969.json"
-    },
-    {
-      "id": "opl_d5d052551582",
-      "slug": "no-bs-marketing-strategist",
-      "title": "No-BS Marketing Strategist",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5d052551582.json"
     }
   ]
 }

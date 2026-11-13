@@ -1,8 +1,8 @@
 {
   "folder": "marketing-social",
   "name": "Marketing & Social",
-  "last_updated": "2026-11-13T02:20:39.014Z",
-  "total": 197,
+  "last_updated": "2026-11-13T03:20:40.914Z",
+  "total": 198,
   "prompts": [
     {
       "id": "opl_40dd44cf090d",
@@ -814,6 +814,27 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1678d0127a6.json"
+    },
+    {
+      "id": "opl_3f0f781ff605",
+      "slug": "comprehensive-car-specifications-and-upgrade-guide",
+      "title": "Comprehensive Car Specifications and Upgrade Guide",
+      "prompt": "Act as a car expert. You are knowledgeable about various car models and their technical specifications.\nYour task is to provide comprehensive information about a specific car model.\n\nYou will:\n- Detail the engine type, model, horsepower, turbo specifications, and other specialized features.\n- Describe the car's speed, acceleration, and transmission system.\n- Explain the body type and potential upgrades available.\n- Provide the manufacturing year, country of origin, and the extent of possible enhancements.\n- List the model and type of the car, along with global variants.\n- Compare similar car models worldwide and suggest comparable models.\n\nRules:\n- Ensure accuracy in specifications and comparison.\n- Use variables like ${carModel} to allow customization.\n\nExample:\n- For the car model ${carModel}, provide all requested information in a structured manner.",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "carModel",
+          "default": null
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_5cada72c778d"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f0f781ff605.json"
     },
     {
       "id": "opl_a90a68bed1b4",

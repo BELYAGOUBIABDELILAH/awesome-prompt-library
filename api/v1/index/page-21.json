@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 21,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_226f87d1647d",
+      "slug": "r-programming-interpreter",
+      "title": "R Programming Interpreter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_226f87d1647d.json"
+    },
     {
       "id": "opl_c8d1e2d16c6d",
       "slug": "radical-responsibility-mirror-shadow-work",
@@ -1089,15 +1098,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db038361a788.json"
-    },
-    {
-      "id": "opl_04ab3bc83fc4",
-      "slug": "rooftop-sunset-lookback-half-body",
-      "title": "Rooftop Sunset Lookback (half-body)",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04ab3bc83fc4.json"
     }
   ]
 }

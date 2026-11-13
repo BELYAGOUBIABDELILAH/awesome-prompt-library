@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 13,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_cf8cb2fd6b6d",
+      "slug": "home-assistant-code-redactor",
+      "title": "Home Assistant Code Redactor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf8cb2fd6b6d.json"
+    },
     {
       "id": "opl_3d422e9b76bb",
       "slug": "home-assistant-copilot",
@@ -1086,15 +1095,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7067ce7fb771.json"
-    },
-    {
-      "id": "opl_a3a7ee2f697b",
-      "slug": "innovative-math-teaching-method",
-      "title": "Innovative Math Teaching Method",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3a7ee2f697b.json"
     }
   ]
 }

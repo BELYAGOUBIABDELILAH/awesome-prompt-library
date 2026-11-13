@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 19,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_2cc8f966f5a7",
+      "slug": "personal-knowledge-narrative-tool",
+      "title": "Personal Knowledge & Narrative Tool",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cc8f966f5a7.json"
+    },
     {
       "id": "opl_649563b73533",
       "slug": "personal-learning-guide",
@@ -1308,15 +1317,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_003ea1e1c2d3.json"
-    },
-    {
-      "id": "opl_de8c032672a2",
-      "slug": "productivity-stack-streamliner",
-      "title": "Productivity Stack Streamliner",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_de8c032672a2.json"
     }
   ]
 }

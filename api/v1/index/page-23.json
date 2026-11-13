@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 23,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_a429eb23eef0",
+      "slug": "shakespearean-email-writer",
+      "title": "Shakespearean Email Writer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a429eb23eef0.json"
+    },
     {
       "id": "opl_5504ce787665",
       "slug": "shakespearean-text-converter",
@@ -1044,15 +1053,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6da9845e1803.json"
-    },
-    {
-      "id": "opl_e332f5ca27db",
-      "slug": "star-marshal-raycast-tactical-shooter",
-      "title": "Star-Marshal: Raycast Tactical Shooter",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e332f5ca27db.json"
     }
   ]
 }

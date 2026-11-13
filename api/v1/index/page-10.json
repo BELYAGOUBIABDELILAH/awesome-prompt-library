@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 10,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_1043457e0e97",
+      "slug": "driftcraft",
+      "title": "Driftcraft",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1043457e0e97.json"
+    },
     {
       "id": "opl_59508c81afbc",
       "slug": "drunk-person",
@@ -1272,24 +1281,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b6d17e7607e0.json"
-    },
-    {
-      "id": "opl_6c31963a167d",
-      "slug": "exploring-jung-s-understanding-of-spirit-through-rumi-s-poem",
-      "title": "Exploring Jung's Understanding of Spirit through Rumi's Poem",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "example",
-          "default": null
-        },
-        {
-          "name": "insight",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c31963a167d.json"
     }
   ]
 }

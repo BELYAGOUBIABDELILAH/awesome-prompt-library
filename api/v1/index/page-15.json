@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 15,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_391cb510a0ec",
+      "slug": "knowledge-base-documentation-software-finder",
+      "title": "Knowledge Base & Documentation Software Finder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_391cb510a0ec.json"
+    },
     {
       "id": "opl_0249f3dd7a45",
       "slug": "knowledgeable-software-development-mentor",
@@ -1027,15 +1036,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c4eeda6f980d.json"
-    },
-    {
-      "id": "opl_67900bbe126f",
-      "slug": "long-tail-llms",
-      "title": "Long Tail LLMs",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_67900bbe126f.json"
     }
   ]
 }

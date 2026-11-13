@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 14,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_a3a7ee2f697b",
+      "slug": "innovative-math-teaching-method",
+      "title": "Innovative Math Teaching Method",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3a7ee2f697b.json"
+    },
     {
       "id": "opl_6ae4c598c0ed",
       "slug": "innovative-research-enhancement-ideas-generator",
@@ -1050,15 +1059,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_24c242558fe5.json"
-    },
-    {
-      "id": "opl_391cb510a0ec",
-      "slug": "knowledge-base-documentation-software-finder",
-      "title": "Knowledge Base & Documentation Software Finder",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_391cb510a0ec.json"
     }
   ]
 }

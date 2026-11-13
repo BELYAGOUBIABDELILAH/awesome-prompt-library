@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**197 prompts in this category**
+**198 prompts in this category**
 
 ## Table of Contents
 
@@ -47,6 +47,7 @@
 - [Communicate In Rhymes](communicate-in-rhymes.md)
 - [Communications Tools-Finder](communications-tools-finder.md)
 - [Compare Top Virtualization Solutions](compare-top-virtualization-solutions.md)
+- [Comprehensive Car Specifications and Upgrade Guide](comprehensive-car-specifications-and-upgrade-guide.md)
 - [Conference Invitation Email](conference-invitation-email.md)
 - [Context-Aware Email Assistant](context-aware-email-assistant.md)
 - [Corporate Studio Portrait (Auto Outfit for Men/Women)](corporate-studio-portrait-auto-outfit-for-men-women.md)

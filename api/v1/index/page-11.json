@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 11,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_6c31963a167d",
+      "slug": "exploring-jung-s-understanding-of-spirit-through-rumi-s-poem",
+      "title": "Exploring Jung's Understanding of Spirit through Rumi's Poem",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "example",
+          "default": null
+        },
+        {
+          "name": "insight",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c31963a167d.json"
+    },
     {
       "id": "opl_08c39334e97a",
       "slug": "expo-supabase-edge-function-cold-start-mobile-performance-an",
@@ -1055,15 +1073,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be2657304004.json"
-    },
-    {
-      "id": "opl_33ec4643119c",
-      "slug": "generate-unit-tests",
-      "title": "Generate Unit Tests",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33ec4643119c.json"
     }
   ]
 }

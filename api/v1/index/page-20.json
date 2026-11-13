@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 20,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_de8c032672a2",
+      "slug": "productivity-stack-streamliner",
+      "title": "Productivity Stack Streamliner",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_de8c032672a2.json"
+    },
     {
       "id": "opl_b2d3bb6b2236",
       "slug": "professional-associations-explorer",
@@ -1137,15 +1146,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25ed4ed275e8.json"
-    },
-    {
-      "id": "opl_226f87d1647d",
-      "slug": "r-programming-interpreter",
-      "title": "R Programming Interpreter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_226f87d1647d.json"
     }
   ]
 }

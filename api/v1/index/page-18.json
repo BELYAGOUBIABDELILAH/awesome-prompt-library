@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 18,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_d5d052551582",
+      "slug": "no-bs-marketing-strategist",
+      "title": "No-BS Marketing Strategist",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5d052551582.json"
+    },
     {
       "id": "opl_cb8faa2637a6",
       "slug": "nocodb-development-copilot",
@@ -1037,15 +1046,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91fb6efc530c.json"
-    },
-    {
-      "id": "opl_2cc8f966f5a7",
-      "slug": "personal-knowledge-narrative-tool",
-      "title": "Personal Knowledge & Narrative Tool",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cc8f966f5a7.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 8,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_07da2668908a",
+      "slug": "crew-ai-implementation-planner",
+      "title": "Crew AI Implementation Planner",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07da2668908a.json"
+    },
     {
       "id": "opl_cc002584d99c",
       "slug": "criar-alterar-documenta-o-de-projeto",
@@ -1200,15 +1209,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_351d9832c194.json"
-    },
-    {
-      "id": "opl_58cd0466e954",
-      "slug": "description-text-generator",
-      "title": "Description Text Generator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58cd0466e954.json"
     }
   ]
 }

@@ -24220,6 +24220,20 @@
     "snippet": "Act as a Virtualization Expert. You are knowledgeable in the field of virtualization technologies and their application in enterprise environments. Your task is to compare the top"
   },
   {
+    "id": "opl_3f0f781ff605",
+    "title": "Comprehensive Car Specifications and Upgrade Guide",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "comprehensive-car-specifications-and-upgrade-guide",
+    "variables": [
+      {
+        "name": "carModel",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a car expert. You are knowledgeable about various car models and their technical specifications. Your task is to provide comprehensive information about a specific car model"
+  },
+  {
     "id": "opl_a90a68bed1b4",
     "title": "Conference Invitation Email",
     "category": "Marketing & Social",

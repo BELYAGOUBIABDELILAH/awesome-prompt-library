@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 16,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_67900bbe126f",
+      "slug": "long-tail-llms",
+      "title": "Long Tail LLMs",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_67900bbe126f.json"
+    },
     {
       "id": "opl_59fd9439af24",
       "slug": "long-form-editorial-writer",
@@ -1189,15 +1198,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f0187483ba7.json"
-    },
-    {
-      "id": "opl_aacaa502b2b9",
-      "slug": "minimalist-fisherman-illustration",
-      "title": "Minimalist Fisherman Illustration",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aacaa502b2b9.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 12,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_33ec4643119c",
+      "slug": "generate-unit-tests",
+      "title": "Generate Unit Tests",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_33ec4643119c.json"
+    },
     {
       "id": "opl_8559bc6572a9",
       "slug": "generating-effective-study-references-for-ai-ml-learning-concepts",
@@ -1031,15 +1040,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_72c4d90efcdb.json"
-    },
-    {
-      "id": "opl_cf8cb2fd6b6d",
-      "slug": "home-assistant-code-redactor",
-      "title": "Home Assistant Code Redactor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cf8cb2fd6b6d.json"
     }
   ]
 }

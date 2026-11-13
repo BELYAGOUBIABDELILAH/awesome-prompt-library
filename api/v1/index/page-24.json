@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T02:20:39.014Z",
+  "last_updated": "2026-11-13T03:20:40.914Z",
   "page": 24,
   "per_page": 100,
-  "total": 2703,
+  "total": 2704,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_e332f5ca27db",
+      "slug": "star-marshal-raycast-tactical-shooter",
+      "title": "Star-Marshal: Raycast Tactical Shooter",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e332f5ca27db.json"
+    },
     {
       "id": "opl_83e0670869b5",
       "slug": "start-page-guru",
@@ -1078,15 +1087,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_15b6edda3c3b.json"
-    },
-    {
-      "id": "opl_e37da1dd32ea",
-      "slug": "system-prompt-editor-output-format-instructions",
-      "title": "System Prompt Editor - Output Format Instructions",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e37da1dd32ea.json"
     }
   ]
 }
