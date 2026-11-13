@@ -218,5 +218,15 @@
     "slug": "text-to-concise-tweets-converter",
     "folder": "games-fun",
     "path": "prompts/games-fun/text-to-concise-tweets-converter.md"
+  },
+  {
+    "act": "Surprise Point-and-Click Game Generator",
+    "category": "Games & Fun",
+    "prompt": "Create a point and click game with the theme and mechanic of the AI choice, make me surprise",
+    "source": "dinhducthanh130320006@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "surprise-point-and-click-game-generator",
+    "folder": "games-fun",
+    "path": "prompts/games-fun/surprise-point-and-click-game-generator.md"
   }
 ]
