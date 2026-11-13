@@ -20799,6 +20799,15 @@
     "snippet": "I want you to act as a Decision Filter. Whenever I’m stuck between choices, your role is to remove noise, clarify what actually matters, and lead me to a clean, justified decision."
   },
   {
+    "id": "opl_45a99671ebb8",
+    "title": "Design shirt",
+    "category": "Image & Design",
+    "folder": "image-design",
+    "slug": "design-shirt",
+    "variables": [],
+    "snippet": "I want u design me a premium shirt iconic,no much details on shirt and cool"
+  },
+  {
     "id": "opl_29e94698a289",
     "title": "Design User Interface Components",
     "category": "Image & Design",

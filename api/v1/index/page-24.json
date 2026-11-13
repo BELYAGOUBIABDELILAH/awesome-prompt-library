@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 24,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_b4650db742c4",
+      "slug": "stale-bug-issues-table",
+      "title": "Stale Bug Issues Table",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4650db742c4.json"
+    },
     {
       "id": "opl_6da9845e1803",
       "slug": "stand-up-comedian",
@@ -1078,15 +1087,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_772ab46d36a6.json"
-    },
-    {
-      "id": "opl_82ce913e9a7c",
-      "slug": "system-prompt-doctor",
-      "title": "System Prompt Doctor",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82ce913e9a7c.json"
     }
   ]
 }

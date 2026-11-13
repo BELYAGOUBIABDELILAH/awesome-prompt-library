@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 16,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_f2045ace71d6",
+      "slug": "logistician",
+      "title": "Logistician",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2045ace71d6.json"
+    },
     {
       "id": "opl_c4eeda6f980d",
       "slug": "lonely-girl",
@@ -1189,15 +1198,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c4c4541149e.json"
-    },
-    {
-      "id": "opl_fa66840a8624",
-      "slug": "minimalist-editorial-beauty-analysis-with-european-model",
-      "title": "Minimalist Editorial Beauty Analysis with European Model",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa66840a8624.json"
     }
   ]
 }

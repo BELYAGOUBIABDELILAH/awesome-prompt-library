@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 21,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_788ce3359555",
+      "slug": "quizflix-app-development",
+      "title": "Quizflix App Development",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_788ce3359555.json"
+    },
     {
       "id": "opl_25ed4ed275e8",
       "slug": "quizflix-mobile-app-design-for-university-students",
@@ -1089,15 +1098,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ecf0fabf5012.json"
-    },
-    {
-      "id": "opl_b9a7f7afdb3c",
-      "slug": "rocket-launcher",
-      "title": "Rocket launcher",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9a7f7afdb3c.json"
     }
   ]
 }

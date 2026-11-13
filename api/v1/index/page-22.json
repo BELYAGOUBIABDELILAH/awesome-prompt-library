@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 22,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_b9a7f7afdb3c",
+      "slug": "rocket-launcher",
+      "title": "Rocket launcher",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9a7f7afdb3c.json"
+    },
     {
       "id": "opl_db038361a788",
       "slug": "romantic-rainy-scene-video",
@@ -1243,15 +1252,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f979cd849797.json"
-    },
-    {
-      "id": "opl_bc07016e9f26",
-      "slug": "shadows-of-the-cold-war-the-1962-exchange",
-      "title": "Shadows of the Cold War: The 1962 Exchange",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc07016e9f26.json"
     }
   ]
 }

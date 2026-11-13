@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 23,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_bc07016e9f26",
+      "slug": "shadows-of-the-cold-war-the-1962-exchange",
+      "title": "Shadows of the Cold War: The 1962 Exchange",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc07016e9f26.json"
+    },
     {
       "id": "opl_49fa2c413bd1",
       "slug": "shakespearean-document-generator",
@@ -1044,15 +1053,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_01a9b697898b.json"
-    },
-    {
-      "id": "opl_b4650db742c4",
-      "slug": "stale-bug-issues-table",
-      "title": "Stale Bug Issues Table",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4650db742c4.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 15,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_2cad77d1f145",
+      "slug": "kitchen-morning-window-light-candid-cozy",
+      "title": "Kitchen Morning Window Light (candid, cozy)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cad77d1f145.json"
+    },
     {
       "id": "opl_24c242558fe5",
       "slug": "kjv-harmony-companion",
@@ -1027,15 +1036,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_484433823f6f.json"
-    },
-    {
-      "id": "opl_f2045ace71d6",
-      "slug": "logistician",
-      "title": "Logistician",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f2045ace71d6.json"
     }
   ]
 }

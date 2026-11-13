@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 11,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_556d76e9eee0",
+      "slug": "explore-jerusalem",
+      "title": "Explore Jerusalem",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_556d76e9eee0.json"
+    },
     {
       "id": "opl_b6d17e7607e0",
       "slug": "exploring-gaps-in-thesis-writing-literature-with-chatgpt",
@@ -1064,15 +1073,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b57a3fd5943e.json"
-    },
-    {
-      "id": "opl_ac83ce32e8cd",
-      "slug": "generate-security-documentation",
-      "title": "Generate Security Documentation",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac83ce32e8cd.json"
     }
   ]
 }

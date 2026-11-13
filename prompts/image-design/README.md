@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**397 prompts in this category**
+**398 prompts in this category**
 
 ## Table of Contents
 
@@ -121,6 +121,7 @@
 - [Data Visualization Ideator](data-visualization-ideator.md)
 - [Debate Coach](debate-coach.md)
 - [Decision Filter](decision-filter.md)
+- [Design shirt](design-shirt.md)
 - [Design User Interface Components](design-user-interface-components.md)
 - [Dev Ops Assistant](dev-ops-assistant.md)
 - [Dev Ops Tool Finder](dev-ops-tool-finder.md)

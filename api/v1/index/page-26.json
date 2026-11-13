@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 26,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_65c5bb7d8a36",
+      "slug": "the-tyrant-king",
+      "title": "The tyrant King",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65c5bb7d8a36.json"
+    },
     {
       "id": "opl_fafeb3aea5b0",
       "slug": "the-ultimate-podcast-format-audio-branding-architect",
@@ -1126,24 +1135,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_511c40c3aae2.json"
-    },
-    {
-      "id": "opl_c16f23e99887",
-      "slug": "urban-casual-confidence",
-      "title": "Urban Casual Confidence",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "gender",
-          "default": "man"
-        },
-        {
-          "name": "position",
-          "default": "leaning against weathered brick wall"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c16f23e99887.json"
     }
   ]
 }

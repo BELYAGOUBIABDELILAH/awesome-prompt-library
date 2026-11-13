@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 20,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_6f64f72405c4",
+      "slug": "production-grade-posthog-integration-for-next-js-15-app-rout",
+      "title": "Production-Grade PostHog Integration for Next.js 15 (App Router)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6f64f72405c4.json"
+    },
     {
       "id": "opl_003ea1e1c2d3",
       "slug": "productive-peer-mentor-friendly-tech-savvy-thinking-partner",
@@ -1137,15 +1146,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed7ecf6b765e.json"
-    },
-    {
-      "id": "opl_788ce3359555",
-      "slug": "quizflix-app-development",
-      "title": "Quizflix App Development",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_788ce3359555.json"
     }
   ]
 }

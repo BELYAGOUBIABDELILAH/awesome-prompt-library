@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 28,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_0aec25f3c003",
+      "slug": "untitled-3-0aec25",
+      "title": "电商与社交平台内容创作提示词",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "audience",
+          "default": null
+        },
+        {
+          "name": "platform",
+          "default": "Douyin"
+        },
+        {
+          "name": "product",
+          "default": null
+        },
+        {
+          "name": "tone",
+          "default": "engaging"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0aec25f3c003.json"
+    },
     {
       "id": "opl_bbc49b5106c9",
       "slug": "untitled-bbc49b",

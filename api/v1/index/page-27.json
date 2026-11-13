@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 27,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_c16f23e99887",
+      "slug": "urban-casual-confidence",
+      "title": "Urban Casual Confidence",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "gender",
+          "default": "man"
+        },
+        {
+          "name": "position",
+          "default": "leaning against weathered brick wall"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c16f23e99887.json"
+    },
     {
       "id": "opl_0a44bdd3e417",
       "slug": "url-shortener",
@@ -1259,32 +1277,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37079d138c08.json"
-    },
-    {
-      "id": "opl_0aec25f3c003",
-      "slug": "untitled-3-0aec25",
-      "title": "电商与社交平台内容创作提示词",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "audience",
-          "default": null
-        },
-        {
-          "name": "platform",
-          "default": "Douyin"
-        },
-        {
-          "name": "product",
-          "default": null
-        },
-        {
-          "name": "tone",
-          "default": "engaging"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0aec25f3c003.json"
     }
   ]
 }

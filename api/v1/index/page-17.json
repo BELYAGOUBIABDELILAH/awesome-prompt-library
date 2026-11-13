@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 17,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_fa66840a8624",
+      "slug": "minimalist-editorial-beauty-analysis-with-european-model",
+      "title": "Minimalist Editorial Beauty Analysis with European Model",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa66840a8624.json"
+    },
     {
       "id": "opl_5f0187483ba7",
       "slug": "minimalist-editorial-beauty-analysis-with-turkish-model",
@@ -1043,15 +1052,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d94ee619fb1.json"
-    },
-    {
-      "id": "opl_f3553b7a95a7",
-      "slug": "nightlife-candid-flash-photography",
-      "title": "Nightlife Candid Flash Photography",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3553b7a95a7.json"
     }
   ]
 }

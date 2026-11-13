@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 19,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_0120043966ea",
+      "slug": "personal-growth-plan-for-bnwo-enthusiasts",
+      "title": "Personal Growth Plan for BNWO Enthusiasts",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0120043966ea.json"
+    },
     {
       "id": "opl_91fb6efc530c",
       "slug": "personal-insight-analyzer-from-past-chats",
@@ -1317,15 +1326,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0531d6bcc978.json"
-    },
-    {
-      "id": "opl_6f64f72405c4",
-      "slug": "production-grade-posthog-integration-for-next-js-15-app-rout",
-      "title": "Production-Grade PostHog Integration for Next.js 15 (App Router)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6f64f72405c4.json"
     }
   ]
 }

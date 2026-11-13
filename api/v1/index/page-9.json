@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T04:20:43.579Z",
+  "last_updated": "2026-11-13T05:20:43.121Z",
   "page": 9,
   "per_page": 100,
-  "total": 2705,
+  "total": 2706,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
@@ -173,6 +173,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd55f06a61f9.json"
+    },
+    {
+      "id": "opl_45a99671ebb8",
+      "slug": "design-shirt",
+      "title": "Design shirt",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45a99671ebb8.json"
     },
     {
       "id": "opl_29e94698a289",
@@ -1160,15 +1169,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b316625c9fe6.json"
-    },
-    {
-      "id": "opl_1e6920e528ad",
-      "slug": "dreamy-artistic-photograph-of-a-young-woman-in-a-meadow",
-      "title": "Dreamy Artistic Photograph of a Young Woman in a Meadow",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e6920e528ad.json"
     }
   ]
 }

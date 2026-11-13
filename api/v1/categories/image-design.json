@@ -1,8 +1,8 @@
 {
   "folder": "image-design",
   "name": "Image & Design",
-  "last_updated": "2026-11-13T04:20:43.579Z",
-  "total": 397,
+  "last_updated": "2026-11-13T05:20:43.121Z",
+  "total": 398,
   "prompts": [
     {
       "id": "opl_71932c41e62e",
@@ -2111,6 +2111,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a0d747b73e7a.json"
+    },
+    {
+      "id": "opl_45a99671ebb8",
+      "slug": "design-shirt",
+      "title": "Design shirt",
+      "prompt": "I want u design me a premium shirt iconic,no much details on shirt and \n\ncool",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_da9e755467a6"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45a99671ebb8.json"
     },
     {
       "id": "opl_29e94698a289",
