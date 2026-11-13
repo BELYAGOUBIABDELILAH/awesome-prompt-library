@@ -578,5 +578,15 @@
     "slug": "documentation",
     "folder": "documentation",
     "path": "prompts/documentation/documentation.md"
+  },
+  {
+    "act": "Civil Service Job Application Writer",
+    "category": "Documentation",
+    "prompt": "Generate a prompt that I can use to write the civil service job applications while considering the job specific requirements, criteria and person specifications to align with the required civil service behaviours",
+    "source": "kunledayo2000@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "civil-service-job-application-writer",
+    "folder": "documentation",
+    "path": "prompts/documentation/civil-service-job-application-writer.md"
   }
 ]
