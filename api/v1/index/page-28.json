@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T06:20:41.312Z",
+  "last_updated": "2026-11-13T07:20:43.549Z",
   "page": 28,
   "per_page": 100,
-  "total": 2707,
+  "total": 2708,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_11a3ba7b2871",
+      "slug": "untitled-2-11a3ba",
+      "title": "小红书邮轮项目推广提示词",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "projectName",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": "Travel Enthusiasts"
+        },
+        {
+          "name": "uniqueFeature",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11a3ba7b2871.json"
+    },
     {
       "id": "opl_37079d138c08",
       "slug": "json",

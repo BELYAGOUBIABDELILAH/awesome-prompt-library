@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T06:20:41.312Z",
+  "last_updated": "2026-11-13T07:20:43.549Z",
   "page": 26,
   "per_page": 100,
-  "total": 2707,
+  "total": 2708,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_a3270af8d7e3",
+      "slug": "the-solar-priestess-of-amun",
+      "title": "The Solar Priestess of Amun",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3270af8d7e3.json"
+    },
     {
       "id": "opl_562dd2a9ff54",
       "slug": "the-technical-co-founder-building-real-products-together",
@@ -1109,15 +1118,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3abd0c0b27f.json"
-    },
-    {
-      "id": "opl_40841affb943",
-      "slug": "update-documentation-after-code-changes",
-      "title": "Update Documentation After Code Changes",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40841affb943.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T06:20:41.312Z",
+  "last_updated": "2026-11-13T07:20:43.549Z",
   "page": 19,
   "per_page": 100,
-  "total": 2707,
+  "total": 2708,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
@@ -688,6 +688,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_39f738036191.json"
     },
     {
+      "id": "opl_268362f1cf35",
+      "slug": "plan-check-agent",
+      "title": "Plan Check Agent",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_268362f1cf35.json"
+    },
+    {
       "id": "opl_e6dff90a630b",
       "slug": "plan-database-schema-changes",
       "title": "Plan Database Schema Changes",
@@ -1317,15 +1326,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c889f2d0e329.json"
-    },
-    {
-      "id": "opl_04c4257a6a1b",
-      "slug": "product-planner-agent-role",
-      "title": "Product Planner Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04c4257a6a1b.json"
     }
   ]
 }

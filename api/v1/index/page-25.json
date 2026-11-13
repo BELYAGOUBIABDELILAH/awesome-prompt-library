@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T06:20:41.312Z",
+  "last_updated": "2026-11-13T07:20:43.549Z",
   "page": 25,
   "per_page": 100,
-  "total": 2707,
+  "total": 2708,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_5b60ad5a52a1",
+      "slug": "system-prompt-creator-q-a-workflow",
+      "title": "System Prompt Creator - Q&A Workflow",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5b60ad5a52a1.json"
+    },
     {
       "id": "opl_772ab46d36a6",
       "slug": "system-prompt-depersonaliser",
@@ -963,15 +972,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c30d347133ee.json"
-    },
-    {
-      "id": "opl_a3270af8d7e3",
-      "slug": "the-solar-priestess-of-amun",
-      "title": "The Solar Priestess of Amun",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3270af8d7e3.json"
     }
   ]
 }

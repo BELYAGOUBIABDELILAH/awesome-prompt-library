@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T06:20:41.312Z",
+  "last_updated": "2026-11-13T07:20:43.549Z",
   "page": 27,
   "per_page": 100,
-  "total": 2707,
+  "total": 2708,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_40841affb943",
+      "slug": "update-documentation-after-code-changes",
+      "title": "Update Documentation After Code Changes",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40841affb943.json"
+    },
     {
       "id": "opl_511c40c3aae2",
       "slug": "update-sync-prompt",
@@ -1272,28 +1281,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9aee2a423e55.json"
-    },
-    {
-      "id": "opl_11a3ba7b2871",
-      "slug": "untitled-2-11a3ba",
-      "title": "小红书邮轮项目推广提示词",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "projectName",
-          "default": null
-        },
-        {
-          "name": "targetAudience",
-          "default": "Travel Enthusiasts"
-        },
-        {
-          "name": "uniqueFeature",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11a3ba7b2871.json"
     }
   ]
 }

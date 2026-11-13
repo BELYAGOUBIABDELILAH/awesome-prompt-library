@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-13T06:20:41.312Z",
-  "total": 122,
+  "last_updated": "2026-11-13T07:20:43.549Z",
+  "total": 123,
   "prompts": [
     {
       "id": "opl_75367788da77",
@@ -1643,6 +1643,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4656768fe78d.json"
+    },
+    {
+      "id": "opl_268362f1cf35",
+      "slug": "plan-check-agent",
+      "title": "Plan Check Agent",
+      "prompt": "Are you 100% confident in this strategy/plan? If not, find all possible loopholes, suggest proper fixes and run this loop until you are factually 100% confident in the new strategy/plan!",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_0fbfbc37b8fc"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_268362f1cf35.json"
     },
     {
       "id": "opl_53df5ecf3e0f",

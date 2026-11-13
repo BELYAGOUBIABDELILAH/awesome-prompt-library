@@ -1017,6 +1017,15 @@
     "snippet": "# ========================================================== # Prompt Name: Plain-English Security Concept Explainer # Author: Scott M # Version: 1.5 # Last Modified: March 11, 202"
   },
   {
+    "id": "opl_268362f1cf35",
+    "title": "Plan Check Agent",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "plan-check-agent",
+    "variables": [],
+    "snippet": "Are you 100% confident in this strategy/plan? If not, find all possible loopholes, suggest proper fixes and run this loop until you are factually 100% confident in the new strategy"
+  },
+  {
     "id": "opl_53df5ecf3e0f",
     "title": "Premortem Analysis",
     "category": "AI & Automation",

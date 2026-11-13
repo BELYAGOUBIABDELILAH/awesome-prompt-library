@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**122 prompts in this category**
+**123 prompts in this category**
 
 ## Table of Contents
 
@@ -95,6 +95,7 @@
 - [Pirate](pirate.md)
 - [Pixar-Style Family Wallpaper Prompt](pixar-style-family-wallpaper-prompt.md)
 - [Plain-English Security Concept Explainer](plain-english-security-concept-explainer.md)
+- [Plan Check Agent](plan-check-agent.md)
 - [Premortem Analysis](premortem-analysis.md)
 - [Productive Peer Mentor (Friendly Tech-Savvy Thinking Partner)](productive-peer-mentor-friendly-tech-savvy-thinking-partner.md)
 - [Prompt Eng Assistant Ideator](prompt-eng-assistant-ideator.md)
