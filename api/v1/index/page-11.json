@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 11,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_5c4741d60816",
+      "slug": "explainer-with-analogies",
+      "title": "Explainer with Analogies",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c4741d60816.json"
+    },
     {
       "id": "opl_622b6b44afe7",
       "slug": "exploratory-code-understanding",
@@ -1064,15 +1073,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_872cd23b943f.json"
-    },
-    {
-      "id": "opl_29aef7d58bb2",
-      "slug": "generate-mr-description",
-      "title": "Generate MR Description",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29aef7d58bb2.json"
     }
   ]
 }

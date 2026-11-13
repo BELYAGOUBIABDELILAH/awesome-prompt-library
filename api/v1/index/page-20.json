@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 20,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_c889f2d0e329",
+      "slug": "product-picker",
+      "title": "Product Picker",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c889f2d0e329.json"
+    },
     {
       "id": "opl_04c4257a6a1b",
       "slug": "product-planner-agent-role",
@@ -1128,24 +1137,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d35cee58a22.json"
-    },
-    {
-      "id": "opl_882a19f67b15",
-      "slug": "question-list-for-reaserch",
-      "title": "question list for reaserch",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "community",
-          "default": null
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_882a19f67b15.json"
     }
   ]
 }

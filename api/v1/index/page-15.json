@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 15,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_b2b7f894a606",
+      "slug": "key-concepts-and-essential-definitions-for-exam",
+      "title": "Key Concepts and Essential Definitions for Exam",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b2b7f894a606.json"
+    },
     {
       "id": "opl_1cab1e7ff822",
       "slug": "kickstart-prompt-for-web-ux-ui-design",
@@ -1040,15 +1049,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_61c42a7d0d66.json"
-    },
-    {
-      "id": "opl_ee8836aa7c40",
-      "slug": "logic-builder-tool",
-      "title": "Logic Builder Tool",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee8836aa7c40.json"
     }
   ]
 }

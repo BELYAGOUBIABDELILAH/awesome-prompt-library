@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 17,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_3f6de879debf",
+      "slug": "minimal-web-compatible-food-order-app-development",
+      "title": "Minimal Web-Compatible Food Order App Development",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "appName",
+          "default": "FoodOrderApp"
+        },
+        {
+          "name": "featureSet",
+          "default": null
+        },
+        {
+          "name": "platform",
+          "default": "web"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f6de879debf.json"
+    },
     {
       "id": "opl_1c4c4541149e",
       "slug": "minimalist-editorial-beauty-analysis-with-east-asian-model",
@@ -1043,15 +1065,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4725ab756a4.json"
-    },
-    {
-      "id": "opl_a1ea772ae7a0",
-      "slug": "nightclub-booth-flash-half-body-party-candids",
-      "title": "Nightclub Booth Flash (half-body, party candids)",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a1ea772ae7a0.json"
     }
   ]
 }

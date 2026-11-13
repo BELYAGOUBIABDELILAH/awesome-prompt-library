@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 5,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
@@ -402,6 +402,15 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4ae7ae702c5a.json"
+    },
+    {
+      "id": "opl_34677c85871b",
+      "slug": "business-management",
+      "title": "Business management",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34677c85871b.json"
     },
     {
       "id": "opl_daeca2d00527",
@@ -1080,15 +1089,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa6745a266d2.json"
-    },
-    {
-      "id": "opl_cb426f49a4ac",
-      "slug": "cinematic-ink-color-illustration-generator-gary-frank-style",
-      "title": "Cinematic Ink & Color Illustration Generator — Gary Frank Style",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb426f49a4ac.json"
     }
   ]
 }

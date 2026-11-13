@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 13,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_b7b16063e5be",
+      "slug": "highly-impressive-product",
+      "title": "Highly Impressive Product",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7b16063e5be.json"
+    },
     {
       "id": "opl_722a951acb09",
       "slug": "hiring-manager-interview-prep",
@@ -1081,15 +1090,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ed657de4f7d.json"
-    },
-    {
-      "id": "opl_b29d5c1f2bc8",
-      "slug": "infographic",
-      "title": "Infographic",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b29d5c1f2bc8.json"
     }
   ]
 }

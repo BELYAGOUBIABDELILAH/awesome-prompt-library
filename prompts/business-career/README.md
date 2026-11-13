@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**59 prompts in this category**
+**60 prompts in this category**
 
 ## Table of Contents
 
@@ -21,6 +21,7 @@
 - [Business Assistant Ideator](business-assistant-ideator.md)
 - [Business Coaching Mentor](business-coaching-mentor.md)
 - [Business Legal Assistant](business-legal-assistant.md)
+- [Business management](business-management.md)
 - [Career Path Deliberation Assistant](career-path-deliberation-assistant.md)
 - [China Business Law Assistant](china-business-law-assistant.md)
 - [Create Disaster Recovery Plan](create-disaster-recovery-plan.md)

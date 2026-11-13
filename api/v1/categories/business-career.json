@@ -1,8 +1,8 @@
 {
   "folder": "business-career",
   "name": "Business & Career",
-  "last_updated": "2026-11-13T07:20:43.549Z",
-  "total": 59,
+  "last_updated": "2026-11-13T08:20:40.709Z",
+  "total": 60,
   "prompts": [
     {
       "id": "opl_9051647e5ce0",
@@ -278,6 +278,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4ae7ae702c5a.json"
+    },
+    {
+      "id": "opl_34677c85871b",
+      "slug": "business-management",
+      "title": "Business management",
+      "prompt": "I own a tree service company and I have no clue what I'm doing I need help with everything I'm lost I need help in every aspect",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_29f6116bdfb4"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34677c85871b.json"
     },
     {
       "id": "opl_bd7d81204755",

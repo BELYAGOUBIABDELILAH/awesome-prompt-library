@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 9,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_c1765c7b0436",
+      "slug": "dentist",
+      "title": "Dentist",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1765c7b0436.json"
+    },
     {
       "id": "opl_1e6f1e05fb73",
       "slug": "dependency-manager-agent-role",
@@ -1160,15 +1169,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_99ae708305f2.json"
-    },
-    {
-      "id": "opl_e3a3bd258844",
-      "slug": "drawing-app",
-      "title": "Drawing App",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3a3bd258844.json"
     }
   ]
 }

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 21,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_882a19f67b15",
+      "slug": "question-list-for-reaserch",
+      "title": "question list for reaserch",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "community",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_882a19f67b15.json"
+    },
     {
       "id": "opl_298fe192c92e",
       "slug": "question-quality-lab-game",
@@ -1047,44 +1065,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94e1b305e346.json"
-    },
-    {
-      "id": "opl_f6145e29ee64",
-      "slug": "rip-mckinsey-here-are-10-prompts-to-replace-expensive-busine",
-      "title": "RIP McKinsey: Here are 10 prompts to replace expensive business consultants",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "company",
-          "default": null
-        },
-        {
-          "name": "describe_funnel",
-          "default": null
-        },
-        {
-          "name": "describe_operations",
-          "default": null
-        },
-        {
-          "name": "insert_data",
-          "default": null
-        },
-        {
-          "name": "insert_primary_goal",
-          "default": null
-        },
-        {
-          "name": "product",
-          "default": null
-        },
-        {
-          "name": "target_market",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f6145e29ee64.json"
     }
   ]
 }

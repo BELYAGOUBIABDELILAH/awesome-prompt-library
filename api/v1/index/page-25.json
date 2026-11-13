@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 25,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_5fb1f78f9f47",
+      "slug": "system-prompt-brancher",
+      "title": "System Prompt Brancher",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5fb1f78f9f47.json"
+    },
     {
       "id": "opl_5b60ad5a52a1",
       "slug": "system-prompt-creator-q-a-workflow",
@@ -963,15 +972,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76dd8eff0795.json"
-    },
-    {
-      "id": "opl_c30d347133ee",
-      "slug": "the-silent-standoff",
-      "title": "The Silent Standoff",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c30d347133ee.json"
     }
   ]
 }

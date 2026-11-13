@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 24,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_31460b67ba03",
+      "slug": "stack-research-prompt-optimiser",
+      "title": "Stack Research Prompt Optimiser",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31460b67ba03.json"
+    },
     {
       "id": "opl_68788623f98f",
       "slug": "stackoverflow-post",
@@ -1078,15 +1087,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c5d259e88b9.json"
-    },
-    {
-      "id": "opl_5fb1f78f9f47",
-      "slug": "system-prompt-brancher",
-      "title": "System Prompt Brancher",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5fb1f78f9f47.json"
     }
   ]
 }

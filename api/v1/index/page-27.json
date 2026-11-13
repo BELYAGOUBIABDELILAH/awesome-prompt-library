@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 27,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_d3abd0c0b27f",
+      "slug": "update-checker",
+      "title": "Update checker",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3abd0c0b27f.json"
+    },
     {
       "id": "opl_40841affb943",
       "slug": "update-documentation-after-code-changes",
@@ -1247,40 +1256,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b65067587389.json"
-    },
-    {
-      "id": "opl_9aee2a423e55",
-      "slug": "untitled-9aee2a",
-      "title": "商业演示设计专家指南",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "coreContent",
-          "default": null
-        },
-        {
-          "name": "existingMaterials",
-          "default": null
-        },
-        {
-          "name": "presentationGoals",
-          "default": null
-        },
-        {
-          "name": "presentationObjective",
-          "default": null
-        },
-        {
-          "name": "targetAudience",
-          "default": null
-        },
-        {
-          "name": "timeLimit",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9aee2a423e55.json"
     }
   ]
 }

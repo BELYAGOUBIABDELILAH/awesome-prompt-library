@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 18,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_a1ea772ae7a0",
+      "slug": "nightclub-booth-flash-half-body-party-candids",
+      "title": "Nightclub Booth Flash (half-body, party candids)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a1ea772ae7a0.json"
+    },
     {
       "id": "opl_6d94ee619fb1",
       "slug": "nightclub-mirror-selfie",
@@ -1028,15 +1037,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_462a202d3fb3.json"
-    },
-    {
-      "id": "opl_05283eb734f5",
-      "slug": "personal-financial-adviosr",
-      "title": "Personal Financial Adviosr",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_05283eb734f5.json"
     }
   ]
 }

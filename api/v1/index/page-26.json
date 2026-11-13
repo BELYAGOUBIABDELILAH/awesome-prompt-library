@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 26,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_c30d347133ee",
+      "slug": "the-silent-standoff",
+      "title": "The Silent Standoff",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c30d347133ee.json"
+    },
     {
       "id": "opl_a3270af8d7e3",
       "slug": "the-solar-priestess-of-amun",
@@ -1109,15 +1118,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_044c526f663e.json"
-    },
-    {
-      "id": "opl_d3abd0c0b27f",
-      "slug": "update-checker",
-      "title": "Update checker",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d3abd0c0b27f.json"
     }
   ]
 }

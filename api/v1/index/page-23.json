@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 23,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_ff51ef39935d",
+      "slug": "shabbat-times-fetcher",
+      "title": "Shabbat Times Fetcher",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ff51ef39935d.json"
+    },
     {
       "id": "opl_a24124bf633c",
       "slug": "shadcn-component-adapter-for-cursor",
@@ -1093,15 +1102,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbb206a39070.json"
-    },
-    {
-      "id": "opl_31460b67ba03",
-      "slug": "stack-research-prompt-optimiser",
-      "title": "Stack Research Prompt Optimiser",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31460b67ba03.json"
     }
   ]
 }

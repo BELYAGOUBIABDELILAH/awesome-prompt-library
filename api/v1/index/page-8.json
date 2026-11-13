@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 8,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_ad896a1c6058",
+      "slug": "creative-writing-adventure",
+      "title": "Creative Writing Adventure",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad896a1c6058.json"
+    },
     {
       "id": "opl_b6716ceb4714",
       "slug": "creative-writing-exploring-inner-desires",
@@ -1196,15 +1205,6 @@
       "folder": "travel-places",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e49fb76cee7c.json"
-    },
-    {
-      "id": "opl_c1765c7b0436",
-      "slug": "dentist",
-      "title": "Dentist",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1765c7b0436.json"
     }
   ]
 }

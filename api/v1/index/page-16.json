@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 16,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_ee8836aa7c40",
+      "slug": "logic-builder-tool",
+      "title": "Logic Builder Tool",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee8836aa7c40.json"
+    },
     {
       "id": "opl_484433823f6f",
       "slug": "logic-flow-educational-puzzle",
@@ -1176,28 +1185,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_835166ad7289.json"
-    },
-    {
-      "id": "opl_3f6de879debf",
-      "slug": "minimal-web-compatible-food-order-app-development",
-      "title": "Minimal Web-Compatible Food Order App Development",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "appName",
-          "default": "FoodOrderApp"
-        },
-        {
-          "name": "featureSet",
-          "default": null
-        },
-        {
-          "name": "platform",
-          "default": "web"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f6de879debf.json"
     }
   ]
 }

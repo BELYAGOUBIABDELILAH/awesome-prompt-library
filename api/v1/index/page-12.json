@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 12,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_29aef7d58bb2",
+      "slug": "generate-mr-description",
+      "title": "Generate MR Description",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29aef7d58bb2.json"
+    },
     {
       "id": "opl_b57a3fd5943e",
       "slug": "generate-release-notes-from-mrs",
@@ -1031,15 +1040,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_885eeb4b0741.json"
-    },
-    {
-      "id": "opl_b7b16063e5be",
-      "slug": "highly-impressive-product",
-      "title": "Highly Impressive Product",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7b16063e5be.json"
     }
   ]
 }

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 7,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_5db9dac2bee8",
+      "slug": "comprehensive-repository-analysis-and-bug-fixing-framework",
+      "title": "Comprehensive Repository Analysis and Bug Fixing Framework",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "repositoryName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5db9dac2bee8.json"
+    },
     {
       "id": "opl_1e117e3ee1f3",
       "slug": "comprehensive-repository-audit-remediation-prompt",
@@ -1233,15 +1247,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d8dabb04406.json"
-    },
-    {
-      "id": "opl_ad896a1c6058",
-      "slug": "creative-writing-adventure",
-      "title": "Creative Writing Adventure",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad896a1c6058.json"
     }
   ]
 }

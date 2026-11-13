@@ -1,12 +1,50 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 22,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_f6145e29ee64",
+      "slug": "rip-mckinsey-here-are-10-prompts-to-replace-expensive-busine",
+      "title": "RIP McKinsey: Here are 10 prompts to replace expensive business consultants",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "company",
+          "default": null
+        },
+        {
+          "name": "describe_funnel",
+          "default": null
+        },
+        {
+          "name": "describe_operations",
+          "default": null
+        },
+        {
+          "name": "insert_data",
+          "default": null
+        },
+        {
+          "name": "insert_primary_goal",
+          "default": null
+        },
+        {
+          "name": "product",
+          "default": null
+        },
+        {
+          "name": "target_market",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f6145e29ee64.json"
+    },
     {
       "id": "opl_31dd1cda63c5",
       "slug": "risk-ready-disaster-scenario-prepper",
@@ -1207,15 +1245,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae8e9aab7202.json"
-    },
-    {
-      "id": "opl_ff51ef39935d",
-      "slug": "shabbat-times-fetcher",
-      "title": "Shabbat Times Fetcher",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ff51ef39935d.json"
     }
   ]
 }

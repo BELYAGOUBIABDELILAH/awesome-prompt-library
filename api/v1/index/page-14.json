@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T07:20:43.549Z",
+  "last_updated": "2026-11-13T08:20:40.709Z",
   "page": 14,
   "per_page": 100,
-  "total": 2708,
+  "total": 2709,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_b29d5c1f2bc8",
+      "slug": "infographic",
+      "title": "Infographic",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b29d5c1f2bc8.json"
+    },
     {
       "id": "opl_0f993ed15f32",
       "slug": "informal-text-editor",
@@ -1042,15 +1051,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_331f0194b93a.json"
-    },
-    {
-      "id": "opl_b2b7f894a606",
-      "slug": "key-concepts-and-essential-definitions-for-exam",
-      "title": "Key Concepts and Essential Definitions for Exam",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b2b7f894a606.json"
     }
   ]
 }
