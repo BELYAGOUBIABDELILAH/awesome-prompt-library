@@ -258,5 +258,15 @@
     "slug": "expert-discrete-mathematics-exam-answering",
     "folder": "research-analysis",
     "path": "prompts/research-analysis/expert-discrete-mathematics-exam-answering.md"
+  },
+  {
+    "act": "Paper Lantern Harbor at Dusk",
+    "category": "Research & Analysis",
+    "prompt": "A quiet wooden harbor at dusk, hundreds of warm paper lanterns hanging from boats and piers, calm water reflecting orange and rose light, soft fog, cinematic wide shot, ultra-detailed, peaceful atmosphere, no people in foreground",
+    "source": "f (prompts.chat)",
+    "type": "TEXT",
+    "slug": "paper-lantern-harbor-at-dusk",
+    "folder": "research-analysis",
+    "path": "prompts/research-analysis/paper-lantern-harbor-at-dusk.md"
   }
 ]
