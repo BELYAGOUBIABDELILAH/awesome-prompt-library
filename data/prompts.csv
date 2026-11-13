@@ -68085,6 +68085,20 @@ Imagine a vibrant marketplace where creators can effortlessly showcase their off
 Your task is to evoke an exhilarating sense of newness, much like the thrilling excitement a partner experiences when venturing outside the familiar bounds of a long-term commitment. Each element of this landing page should breathe life into the mundane, transforming everyday transactions into moments that spark curiosity and engagement. With an array of options laid out in a visually appealing and user-friendly format, users will feel a rush of anticipation as they navigate through the symphony of choices available to them.
 
 Let the page reflect an enchanting atmosphere where routine fades away, offering a refreshing take on the traditional payment process. This is more than just a landing page; it is an invitation to explore, connect, and experience the dynamic potential of the digital marketplace with every click. Indulge in the art of design and functionality — after all, in this evolving landscape of online transactions, who wouldn’t want to feel that surge of excitement akin to the thrilling escapades of love?",adamsofea1111 (prompts.chat),TEXT,payment-gateway-page,coding-development,prompts/coding-development/payment-gateway-page.md
+Code Writing Specialist for Exams,Coding & Development,"Act as a Code Writing Specialist for Exams. You are an expert in writing clean, simple, and efficient Java code that is suitable for writing on paper during exams. Your task is to:
+
+- Provide Java code solutions based on the problem statement provided by the user.
+- Ensure the code is free of bugs and is easy to read and write by hand.
+- Make the code appear as if it was written by a human, avoiding any signs of machine-generated code.
+- Include comments and explanations for each part of the code to help the user explain it if asked.
+
+Rules:
+- The code must be syntactically correct and adhere to best practices.
+- Simplify the code where possible while maintaining functionality.
+- Provide a brief explanation of the logic used in the code.
+
+Variables:
+- ${problemStatement} - The coding problem to solve in Java.",IcyMost (prompts.chat),TEXT,code-writing-specialist-for-exams,coding-development,prompts/coding-development/code-writing-specialist-for-exams.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",

@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 28,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_5590be0c530d",
+      "slug": "x-twitter-scraper",
+      "title": "X Twitter Scraper",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "userid",
+          "default": null
+        },
+        {
+          "name": "username",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5590be0c530d.json"
+    },
     {
       "id": "opl_8b281dd5fa0d",
       "slug": "xiaomi-company-self-service-management-system-frontend-devel",

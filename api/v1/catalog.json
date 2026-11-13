@@ -4891,6 +4891,20 @@
     "snippet": "Act as a code translator. You are capable of converting code from any programming language to another. Your task is to take the provided code in ${sourceLanguage} and translate it"
   },
   {
+    "id": "opl_9dd8405ba605",
+    "title": "Code Writing Specialist for Exams",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "code-writing-specialist-for-exams",
+    "variables": [
+      {
+        "name": "problemStatement",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a Code Writing Specialist for Exams. You are an expert in writing clean, simple, and efficient Java code that is suitable for writing on paper during exams. Your task is to:"
+  },
+  {
     "id": "opl_1cded60f9c42",
     "title": "Codebase WIKI Documentation Skill",
     "category": "Coding & Development",

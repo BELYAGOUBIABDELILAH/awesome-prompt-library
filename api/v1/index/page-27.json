@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 27,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_20c1f02c7466",
+      "slug": "understand-data-flow-through-system",
+      "title": "Understand Data Flow Through System",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20c1f02c7466.json"
+    },
     {
       "id": "opl_fbbf6ce6fde3",
       "slug": "understand-error-handling-patterns",
@@ -1265,24 +1274,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca8389ae5f4f.json"
-    },
-    {
-      "id": "opl_5590be0c530d",
-      "slug": "x-twitter-scraper",
-      "title": "X Twitter Scraper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "userid",
-          "default": null
-        },
-        {
-          "name": "username",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5590be0c530d.json"
     }
   ]
 }

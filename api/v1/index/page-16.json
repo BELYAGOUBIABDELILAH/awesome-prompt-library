@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 16,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_86b630f502a2",
+      "slug": "local-fine-tuning",
+      "title": "Local Fine-Tuning",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_86b630f502a2.json"
+    },
     {
       "id": "opl_bcbefcd1bd38",
       "slug": "local-llm-explainer-quantization-and-variants",
@@ -1176,15 +1185,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4344c6213a50.json"
-    },
-    {
-      "id": "opl_9d2c9ac2bea8",
-      "slug": "mindful-mandala-zen-geometric-patterns",
-      "title": "Mindful Mandala & Zen Geometric Patterns",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9d2c9ac2bea8.json"
     }
   ]
 }

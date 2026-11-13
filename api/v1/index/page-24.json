@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 24,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_383b13944508",
+      "slug": "spotify-playlist-cover-generator",
+      "title": "Spotify Playlist Cover Generator",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "category",
+          "default": null
+        },
+        {
+          "name": "playlistName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_383b13944508.json"
+    },
     {
       "id": "opl_3ae27700ebc3",
       "slug": "spotify-room-cinematic",
@@ -1070,15 +1088,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_692fd2378be0.json"
-    },
-    {
-      "id": "opl_24c39a277224",
-      "slug": "swiftui-ios-app-development-guide",
-      "title": "SwiftUI iOS App Development Guide",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_24c39a277224.json"
     }
   ]
 }

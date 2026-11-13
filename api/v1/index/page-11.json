@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 11,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_2bfac609cb08",
+      "slug": "explain-mr-impact-on-performance",
+      "title": "Explain MR Impact on Performance",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2bfac609cb08.json"
+    },
     {
       "id": "opl_3c1caffe27c4",
       "slug": "explain-technical-concepts-to-non-technical-users",
@@ -1051,15 +1060,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_491193224e1a.json"
-    },
-    {
-      "id": "opl_13baafad159c",
-      "slug": "generate-hardware-interface-code",
-      "title": "Generate Hardware Interface Code",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_13baafad159c.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 19,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_8a9b6e81b93a",
+      "slug": "person-behaviour",
+      "title": "person behaviour",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8a9b6e81b93a.json"
+    },
     {
       "id": "opl_c89eebb7ee14",
       "slug": "personal-profesional-branding-advisor",
@@ -1291,28 +1300,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6fb5280aea1.json"
-    },
-    {
-      "id": "opl_29fcc11f51ba",
-      "slug": "privacy-first-chat-app-with-multi-feature-support",
-      "title": "Privacy-First Chat App with Multi-Feature Support",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "defaultLanguage",
-          "default": "English"
-        },
-        {
-          "name": "encryptionLevel",
-          "default": "high"
-        },
-        {
-          "name": "maxFileSize",
-          "default": "10MB"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29fcc11f51ba.json"
     }
   ]
 }

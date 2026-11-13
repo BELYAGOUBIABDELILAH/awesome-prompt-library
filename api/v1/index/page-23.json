@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 23,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_3fa4ec3a2422",
+      "slug": "serene-autumn-lakeside-illustration",
+      "title": "Serene Autumn Lakeside Illustration",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fa4ec3a2422.json"
+    },
     {
       "id": "opl_b3f7c6705433",
       "slug": "serene-evening-rowboat-scene-in-illustrative-realism",
@@ -1088,24 +1097,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0cecdd5bfcc.json"
-    },
-    {
-      "id": "opl_383b13944508",
-      "slug": "spotify-playlist-cover-generator",
-      "title": "Spotify Playlist Cover Generator",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "category",
-          "default": null
-        },
-        {
-          "name": "playlistName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_383b13944508.json"
     }
   ]
 }

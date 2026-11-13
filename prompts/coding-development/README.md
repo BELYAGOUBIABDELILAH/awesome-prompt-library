@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1088 prompts in this category**
+**1089 prompts in this category**
 
 ## Table of Contents
 
@@ -227,6 +227,7 @@
 - [Code Reviewer Agent Role](code-reviewer-agent-role.md)
 - [Code Snippet Manager](code-snippet-manager.md)
 - [Code Translator: Any Language to Any Language](code-translator-any-language-to-any-language.md)
+- [Code Writing Specialist for Exams](code-writing-specialist-for-exams.md)
 - [Codebase WIKI Documentation Skill](codebase-wiki-documentation-skill.md)
 - [Coding Structure with MVC and SOLID Principles](coding-structure-with-mvc-and-solid-principles.md)
 - [Cold Start Safe Architecture](cold-start-safe-architecture.md)

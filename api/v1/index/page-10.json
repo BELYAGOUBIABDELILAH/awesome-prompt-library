@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 10,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_a6e3a433d4c6",
+      "slug": "draft-social-media-post-for-event",
+      "title": "Draft Social Media Post for Event",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e3a433d4c6.json"
+    },
     {
       "id": "opl_f79433021405",
       "slug": "dramatic-digital-painting-of-a-solitary-figure-in-a-snowy-landscape",
@@ -1272,15 +1281,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4261ef864ea.json"
-    },
-    {
-      "id": "opl_2bfac609cb08",
-      "slug": "explain-mr-impact-on-performance",
-      "title": "Explain MR Impact on Performance",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2bfac609cb08.json"
     }
   ]
 }

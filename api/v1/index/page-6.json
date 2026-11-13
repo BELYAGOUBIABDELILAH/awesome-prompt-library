@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 6,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
@@ -676,6 +676,20 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c674be23f13f.json"
     },
     {
+      "id": "opl_9dd8405ba605",
+      "slug": "code-writing-specialist-for-exams",
+      "title": "Code Writing Specialist for Exams",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "problemStatement",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9dd8405ba605.json"
+    },
+    {
       "id": "opl_1cded60f9c42",
       "slug": "codebase-wiki-documentation-skill",
       "title": "Codebase WIKI Documentation Skill",
@@ -1179,15 +1193,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_87b6012204f9.json"
-    },
-    {
-      "id": "opl_79efcfccb3f5",
-      "slug": "comprehensive-image-analysis-report",
-      "title": "Comprehensive Image Analysis Report",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_79efcfccb3f5.json"
     }
   ]
 }

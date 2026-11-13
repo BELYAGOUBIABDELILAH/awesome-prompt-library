@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 7,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_79efcfccb3f5",
+      "slug": "comprehensive-image-analysis-report",
+      "title": "Comprehensive Image Analysis Report",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_79efcfccb3f5.json"
+    },
     {
       "id": "opl_eea30a6592e2",
       "slug": "comprehensive-integrative-medical-writing",
@@ -1262,15 +1271,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fd49a47da16.json"
-    },
-    {
-      "id": "opl_8caba0b3d5e9",
-      "slug": "creative-perks",
-      "title": "Creative Perks",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8caba0b3d5e9.json"
     }
   ]
 }

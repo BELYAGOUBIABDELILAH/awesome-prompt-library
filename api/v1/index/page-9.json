@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 9,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_00f974471413",
+      "slug": "deep-research-agent-role",
+      "title": "Deep Research Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_00f974471413.json"
+    },
     {
       "id": "opl_8e50cdbc4c83",
       "slug": "deep-research-architect",
@@ -1165,15 +1174,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68a6c8b46bdd.json"
-    },
-    {
-      "id": "opl_a6e3a433d4c6",
-      "slug": "draft-social-media-post-for-event",
-      "title": "Draft Social Media Post for Event",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e3a433d4c6.json"
     }
   ]
 }

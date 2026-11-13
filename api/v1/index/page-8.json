@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 8,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_8caba0b3d5e9",
+      "slug": "creative-perks",
+      "title": "Creative Perks",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8caba0b3d5e9.json"
+    },
     {
       "id": "opl_fca6c167ff32",
       "slug": "creative-short-story-writing",
@@ -1213,15 +1222,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2df5a2ac21e8.json"
-    },
-    {
-      "id": "opl_00f974471413",
-      "slug": "deep-research-agent-role",
-      "title": "Deep Research Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_00f974471413.json"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 20,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_29fcc11f51ba",
+      "slug": "privacy-first-chat-app-with-multi-feature-support",
+      "title": "Privacy-First Chat App with Multi-Feature Support",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "defaultLanguage",
+          "default": "English"
+        },
+        {
+          "name": "encryptionLevel",
+          "default": "high"
+        },
+        {
+          "name": "maxFileSize",
+          "default": "10MB"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29fcc11f51ba.json"
+    },
     {
       "id": "opl_58017e8642df",
       "slug": "private-group-coaching-infrastructure",
@@ -1141,15 +1163,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b028390fd5cb.json"
-    },
-    {
-      "id": "opl_a3f11dad8c8c",
-      "slug": "python-helper",
-      "title": "Python Helper",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3f11dad8c8c.json"
     }
   ]
 }

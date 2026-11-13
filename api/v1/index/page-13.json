@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 13,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_b51d47701394",
+      "slug": "high-conversion-cold-email",
+      "title": "High Conversion Cold Email",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "describe_pain",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b51d47701394.json"
+    },
     {
       "id": "opl_2fe43bf53c7f",
       "slug": "high-end-beauty-editorial-photo-shoot-specification",
@@ -1059,15 +1073,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6794696e4202.json"
-    },
-    {
-      "id": "opl_cfac3d3bf3f4",
-      "slug": "in-flight-vacation-selfie-natural-front-camera-perspective",
-      "title": "In-Flight Vacation Selfie — Natural Front Camera Perspective",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cfac3d3bf3f4.json"
     }
   ]
 }

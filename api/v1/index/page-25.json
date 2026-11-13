@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 25,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_24c39a277224",
+      "slug": "swiftui-ios-app-development-guide",
+      "title": "SwiftUI iOS App Development Guide",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_24c39a277224.json"
+    },
     {
       "id": "opl_dee61f047436",
       "slug": "swot-analysis-for-political-risk-and-international-relations",
@@ -980,28 +989,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9d03f9660c82.json"
-    },
-    {
-      "id": "opl_203bba3cd7af",
-      "slug": "the-elite-seo-blog-architect-ghostwriter",
-      "title": "The Elite SEO Blog Architect & Ghostwriter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "Core_Topic",
-          "default": null
-        },
-        {
-          "name": "Primary_Keyword",
-          "default": null
-        },
-        {
-          "name": "Target_Audience",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_203bba3cd7af.json"
     }
   ]
 }

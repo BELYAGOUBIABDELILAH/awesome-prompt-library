@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 26,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_203bba3cd7af",
+      "slug": "the-elite-seo-blog-architect-ghostwriter",
+      "title": "The Elite SEO Blog Architect & Ghostwriter",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "Core_Topic",
+          "default": null
+        },
+        {
+          "name": "Primary_Keyword",
+          "default": null
+        },
+        {
+          "name": "Target_Audience",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_203bba3cd7af.json"
+    },
     {
       "id": "opl_68fe08e3cb9d",
       "slug": "the-glass-doppelg-nger",
@@ -1030,15 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_143870cdafab.json"
-    },
-    {
-      "id": "opl_20c1f02c7466",
-      "slug": "understand-data-flow-through-system",
-      "title": "Understand Data Flow Through System",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20c1f02c7466.json"
     }
   ]
 }

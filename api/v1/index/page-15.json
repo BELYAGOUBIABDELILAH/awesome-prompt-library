@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T22:20:43.297Z",
+  "last_updated": "2026-11-13T23:20:44.564Z",
   "page": 15,
   "per_page": 100,
-  "total": 2723,
+  "total": 2724,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_f7984c7ddbd2",
+      "slug": "json-to-natural-language",
+      "title": "JSON To Natural Language",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f7984c7ddbd2.json"
+    },
     {
       "id": "opl_7bb07164997f",
       "slug": "json-to-openapi-json-converter",
@@ -1040,15 +1049,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcf97333b23c.json"
-    },
-    {
-      "id": "opl_86b630f502a2",
-      "slug": "local-fine-tuning",
-      "title": "Local Fine-Tuning",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_86b630f502a2.json"
     }
   ]
 }
