@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 5,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
@@ -750,6 +750,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37927f86c6b6.json"
     },
     {
+      "id": "opl_a8f95bf19a89",
+      "slug": "chat-summary-and-export-instructions",
+      "title": "Chat Summary and Export Instructions",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a8f95bf19a89.json"
+    },
+    {
       "id": "opl_b6bef6783864",
       "slug": "chatgpt-prompt-generator",
       "title": "ChatGPT Prompt Generator",
@@ -1080,15 +1089,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_348e92d9ec80.json"
-    },
-    {
-      "id": "opl_fb8c75dce03d",
-      "slug": "cinematic-neon-alley-urban-night-walk-album-cover-style",
-      "title": "Cinematic Neon Alley – Urban Night Walk (Album Cover Style)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb8c75dce03d.json"
     }
   ]
 }

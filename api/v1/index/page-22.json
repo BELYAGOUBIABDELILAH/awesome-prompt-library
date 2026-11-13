@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 22,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_3db69b9d2bfb",
+      "slug": "root-cause-analysis-agent-role",
+      "title": "Root Cause Analysis Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3db69b9d2bfb.json"
+    },
     {
       "id": "opl_6bd81e8355b3",
       "slug": "root-cause-architect-5-whys-technique",
@@ -1243,15 +1252,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a429eb23eef0.json"
-    },
-    {
-      "id": "opl_5504ce787665",
-      "slug": "shakespearean-text-converter",
-      "title": "Shakespearean Text Converter",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5504ce787665.json"
     }
   ]
 }

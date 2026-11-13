@@ -1,8 +1,8 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-13T00:20:40.858Z",
-  "total_prompts": 2701,
-  "source_records": 2701,
+  "last_updated": "2026-11-13T01:20:46.372Z",
+  "total_prompts": 2702,
+  "source_records": 2702,
   "total_sources": 342,
   "total_categories": 19,
   "total_pages": 28,
@@ -20,7 +20,7 @@
     {
       "folder": "coding-development",
       "name": "Coding & Development",
-      "prompt_count": 1084,
+      "prompt_count": 1085,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/coding-development.json"
     },
     {

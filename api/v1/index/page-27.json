@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 27,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_8254c6ba3c0b",
+      "slug": "using-stanfordvl-behavior-1k-for-robotics-and-ai-tasks",
+      "title": "Using StanfordVL/BEHAVIOR-1K for Robotics and AI Tasks",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8254c6ba3c0b.json"
+    },
     {
       "id": "opl_f3880529ab96",
       "slug": "ux-ui-developer",
@@ -1281,20 +1290,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f36eb0db09cc.json"
-    },
-    {
-      "id": "opl_5f45fcccf1e2",
-      "slug": "untitled-6",
-      "title": "论文降重指南",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "input",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f45fcccf1e2.json"
     }
   ]
 }

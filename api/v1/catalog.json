@@ -4415,6 +4415,15 @@
     "snippet": "============================================================ PROMPT NAME: Cascading Failure Simulator VERSION: 1.3 AUTHOR: Scott M LAST UPDATED: January 15, 2026 =================="
   },
   {
+    "id": "opl_a8f95bf19a89",
+    "title": "Chat Summary and Export Instructions",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "chat-summary-and-export-instructions",
+    "variables": [],
+    "snippet": "Summarize and export all important points, instructions, and contextual information exchanged in this chat, structured per your requirements. - Use section headers for each major"
+  },
+  {
     "id": "opl_95dc6490eedf",
     "title": "Check MR Against Coding Standards",
     "category": "Coding & Development",

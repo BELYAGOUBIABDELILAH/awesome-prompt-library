@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 15,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_0249f3dd7a45",
+      "slug": "knowledgeable-software-development-mentor",
+      "title": "Knowledgeable Software Development Mentor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0249f3dd7a45.json"
+    },
     {
       "id": "opl_3a2d68122fec",
       "slug": "kubernetes-docker-rpg-learning-engine",
@@ -1027,15 +1036,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_67900bbe126f.json"
-    },
-    {
-      "id": "opl_59fd9439af24",
-      "slug": "long-form-editorial-writer",
-      "title": "Long-Form Editorial Writer",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59fd9439af24.json"
     }
   ]
 }

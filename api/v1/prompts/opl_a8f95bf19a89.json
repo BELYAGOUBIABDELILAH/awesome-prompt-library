@@ -1,0 +1,16 @@
+{
+  "id": "opl_a8f95bf19a89",
+  "slug": "chat-summary-and-export-instructions",
+  "title": "Chat Summary and Export Instructions",
+  "prompt": "Summarize and export all important points, instructions, and contextual information exchanged in this chat, structured per your requirements.\n\n- Use section headers for each major category (e.g., Task Instructions, Preferences, System Guidelines, etc.).\n- For each entry within a category, list one entry per line, formatted as: [YYYY-MM-DD] - Entry content here.\n- Sort entries by oldest date first within each category.\n- If no date is known for an entry, use [unknown] instead of a date.\n- When preserving user content, use the original wording verbatim where possible, particularly for direct instructions, requirements, or preferences.\n- Wrap the entire export in a single code block (backticks, language unspecified) for easy copying.\n- After the code block, clearly state whether this is the complete set or if more entries remain.\n\nPersist in checking all prior conversation turns to ensure all relevant context is captured exhaustively. Think step-by-step to avoid missing any category or detail.\n\n## Output Format:\n- The export must be wrapped in a single code block.\n- Use markdown section headers within the code block for each category.\n- Each entry in a category must be a single line, formatted as: [YYYY-MM-DD] - Entry content here.\n- If needed, use [unknown] if the date for an entry cannot be determined.\n- After the code block, add a plain text statement: \"This is the complete set.\" or \"More entries remain.\" (as appropriate).\n\n## Example\n\n```\n# Task Instructions\n[2024-06-13] - I will move this chant to another AI agent to also support my projects. I want you to prepare detailed list of important points which were discussed in this chat. Please preapare.\n\n# Format Specifications\n[2024-06-13] - Use section headers for each category. Within each category, list one entry per line, sorted by oldest date first. Format each line as: [YYYY-MM-DD] - Entry content here.\n[2024-06-13] - If no date is known, use [unknown] instead.\n\n# Output Instructions\n[2024-06-13] - Wrap the entire export in a single code block for easy copying.\n[2024-06-13] - After the code block, state whether this is the complete set or if more remain.\n```\n\n(Real exports may be longer and contain more categories/entries as appropriate.)\n\n---\n\n**Reminder:** Carefully review all prior turns to ensure nothing is missed, using verbatim wording for user requirements and instructions. Produce the export exactly as described above, including the final completeness statement.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_f4ff6a7469e2"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a8f95bf19a89.json"
+}

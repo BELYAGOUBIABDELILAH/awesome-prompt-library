@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1084 prompts in this category**
+**1085 prompts in this category**
 
 ## Table of Contents
 
@@ -186,6 +186,7 @@
 - [Career Profile from Resume Builder](career-profile-from-resume-builder.md)
 - [Cascade Rules Drafter](cascade-rules-drafter.md)
 - [Cascading Failure Simulator](cascading-failure-simulator.md)
+- [Chat Summary and Export Instructions](chat-summary-and-export-instructions.md)
 - [Check MR Against Coding Standards](check-mr-against-coding-standards.md)
 - [Chess Game](chess-game.md)
 - [Chimera AI-Powered Prompt Optimization System](chimera-ai-powered-prompt-optimization-system.md)

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 9,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_b62b8e6bc79c",
+      "slug": "design-a-3d-network-topology-where-particles-travel-along-predefined-paths-splines-to-represent-data-transmission",
+      "title": "Design a 3D \"Network Topology\" where particles travel along predefined paths (splines) to represent data transmission.",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b62b8e6bc79c.json"
+    },
     {
       "id": "opl_33ad84e729b6",
       "slug": "design-api-endpoints",
@@ -1143,15 +1152,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1043457e0e97.json"
-    },
-    {
-      "id": "opl_59508c81afbc",
-      "slug": "drunk-person",
-      "title": "Drunk Person",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59508c81afbc.json"
     }
   ]
 }

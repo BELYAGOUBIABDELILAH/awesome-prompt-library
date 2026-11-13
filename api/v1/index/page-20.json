@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 20,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_b2d3bb6b2236",
+      "slug": "professional-associations-explorer",
+      "title": "Professional Associations Explorer",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b2d3bb6b2236.json"
+    },
     {
       "id": "opl_bf2073b81864",
       "slug": "professional-badge-photo-ready-to-use",
@@ -1137,20 +1146,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_226f87d1647d.json"
-    },
-    {
-      "id": "opl_c8d1e2d16c6d",
-      "slug": "radical-responsibility-mirror-shadow-work",
-      "title": "Radical Responsibility Mirror (Shadow Work)",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "area_of_life",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8d1e2d16c6d.json"
     }
   ]
 }

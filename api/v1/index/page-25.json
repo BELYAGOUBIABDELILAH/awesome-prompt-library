@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 25,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_27eda67c6b0c",
+      "slug": "system-prompt-editor-general",
+      "title": "System Prompt Editor (General)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27eda67c6b0c.json"
+    },
     {
       "id": "opl_d7526f4d1134",
       "slug": "system-prompt-enhancement-ideator",
@@ -976,20 +985,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb7c70456c9d.json"
-    },
-    {
-      "id": "opl_34ccaf201035",
-      "slug": "theme-based-art-style-fusion-meta-prompt",
-      "title": "Theme based Art Style Fusion Meta-Prompt",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "theme",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34ccaf201035.json"
     }
   ]
 }

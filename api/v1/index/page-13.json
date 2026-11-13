@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 13,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_3d422e9b76bb",
+      "slug": "home-assistant-copilot",
+      "title": "Home Assistant Copilot",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d422e9b76bb.json"
+    },
     {
       "id": "opl_7c843f2206cf",
       "slug": "home-assistant-dashboard-editor",
@@ -1086,15 +1095,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3a7ee2f697b.json"
-    },
-    {
-      "id": "opl_6ae4c598c0ed",
-      "slug": "innovative-research-enhancement-ideas-generator",
-      "title": "Innovative Research Enhancement Ideas Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ae4c598c0ed.json"
     }
   ]
 }

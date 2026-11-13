@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 21,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_c8d1e2d16c6d",
+      "slug": "radical-responsibility-mirror-shadow-work",
+      "title": "Radical Responsibility Mirror (Shadow Work)",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "area_of_life",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8d1e2d16c6d.json"
+    },
     {
       "id": "opl_bb372e063446",
       "slug": "rag-and-vector-storage-consultant",
@@ -1084,15 +1098,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04ab3bc83fc4.json"
-    },
-    {
-      "id": "opl_3db69b9d2bfb",
-      "slug": "root-cause-analysis-agent-role",
-      "title": "Root Cause Analysis Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3db69b9d2bfb.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 10,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_59508c81afbc",
+      "slug": "drunk-person",
+      "title": "Drunk Person",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59508c81afbc.json"
+    },
     {
       "id": "opl_7df8aee376ca",
       "slug": "drunk-woman",
@@ -1281,15 +1290,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c31963a167d.json"
-    },
-    {
-      "id": "opl_08c39334e97a",
-      "slug": "expo-supabase-edge-function-cold-start-mobile-performance-an",
-      "title": "Expo + Supabase Edge Function Cold Start & Mobile Performance Analysis",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_08c39334e97a.json"
     }
   ]
 }

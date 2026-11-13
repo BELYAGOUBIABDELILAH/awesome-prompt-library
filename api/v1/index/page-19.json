@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 19,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_649563b73533",
+      "slug": "personal-learning-guide",
+      "title": "Personal Learning Guide",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_649563b73533.json"
+    },
     {
       "id": "opl_2b850d0dc0f1",
       "slug": "personal-shopper",
@@ -1308,15 +1317,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_de8c032672a2.json"
-    },
-    {
-      "id": "opl_b2d3bb6b2236",
-      "slug": "professional-associations-explorer",
-      "title": "Professional Associations Explorer",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b2d3bb6b2236.json"
     }
   ]
 }

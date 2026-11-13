@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 26,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_34ccaf201035",
+      "slug": "theme-based-art-style-fusion-meta-prompt",
+      "title": "Theme based Art Style Fusion Meta-Prompt",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "theme",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34ccaf201035.json"
+    },
     {
       "id": "opl_debeaa903eca",
       "slug": "through-the-glass-one-eye-in-focus",
@@ -1130,15 +1144,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f46e4a091584.json"
-    },
-    {
-      "id": "opl_8254c6ba3c0b",
-      "slug": "using-stanfordvl-behavior-1k-for-robotics-and-ai-tasks",
-      "title": "Using StanfordVL/BEHAVIOR-1K for Robotics and AI Tasks",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8254c6ba3c0b.json"
     }
   ]
 }

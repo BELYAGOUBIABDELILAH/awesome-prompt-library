@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 7,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_283ffa6fd9f8",
+      "slug": "comprehensive-ui-ux-mobile-app-analysis",
+      "title": "Comprehensive UI/UX Mobile App Analysis",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "context",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_283ffa6fd9f8.json"
+    },
     {
       "id": "opl_5ba2782f877e",
       "slug": "comprehensive-user-manual-creation-for-multiple-modules",
@@ -1228,15 +1242,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07da2668908a.json"
-    },
-    {
-      "id": "opl_cc002584d99c",
-      "slug": "criar-alterar-documenta-o-de-projeto",
-      "title": "Criar/Alterar Documentação de Projeto",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc002584d99c.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 23,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_5504ce787665",
+      "slug": "shakespearean-text-converter",
+      "title": "Shakespearean Text Converter",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5504ce787665.json"
+    },
     {
       "id": "opl_34285800c9d5",
       "slug": "shakespearean-text-generator",
@@ -1044,15 +1053,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e332f5ca27db.json"
-    },
-    {
-      "id": "opl_83e0670869b5",
-      "slug": "start-page-guru",
-      "title": "Start Page Guru",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_83e0670869b5.json"
     }
   ]
 }

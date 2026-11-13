@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 6,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_fb8c75dce03d",
+      "slug": "cinematic-neon-alley-urban-night-walk-album-cover-style",
+      "title": "Cinematic Neon Alley – Urban Night Walk (Album Cover Style)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fb8c75dce03d.json"
+    },
     {
       "id": "opl_3e6cbaeab3ed",
       "slug": "cinematic-photography-triptych-serene-meadow-portrait",
@@ -1238,20 +1247,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85ebe97e6ea1.json"
-    },
-    {
-      "id": "opl_283ffa6fd9f8",
-      "slug": "comprehensive-ui-ux-mobile-app-analysis",
-      "title": "Comprehensive UI/UX Mobile App Analysis",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "context",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_283ffa6fd9f8.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 16,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_59fd9439af24",
+      "slug": "long-form-editorial-writer",
+      "title": "Long-Form Editorial Writer",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59fd9439af24.json"
+    },
     {
       "id": "opl_00200359664e",
       "slug": "long-running-merge-requests-table",
@@ -1189,15 +1198,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aacaa502b2b9.json"
-    },
-    {
-      "id": "opl_bf2909d055c5",
-      "slug": "minimalist-graphic-illustration-of-a-stylized-dachshund",
-      "title": "Minimalist Graphic Illustration of a Stylized Dachshund",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf2909d055c5.json"
     }
   ]
 }

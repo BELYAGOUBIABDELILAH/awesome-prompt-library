@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 17,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_bf2909d055c5",
+      "slug": "minimalist-graphic-illustration-of-a-stylized-dachshund",
+      "title": "Minimalist Graphic Illustration of a Stylized Dachshund",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf2909d055c5.json"
+    },
     {
       "id": "opl_3de4486c4b3f",
       "slug": "minimalist-landscape-illustration-by-ryo-takemasa",
@@ -1043,15 +1052,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5d052551582.json"
-    },
-    {
-      "id": "opl_cb8faa2637a6",
-      "slug": "nocodb-development-copilot",
-      "title": "NocoDB Development Copilot",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cb8faa2637a6.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:20:40.858Z",
+  "last_updated": "2026-11-13T01:20:46.372Z",
   "page": 8,
   "per_page": 100,
-  "total": 2701,
+  "total": 2702,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_cc002584d99c",
+      "slug": "criar-alterar-documenta-o-de-projeto",
+      "title": "Criar/Alterar Documentação de Projeto",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc002584d99c.json"
+    },
     {
       "id": "opl_7422e03517e9",
       "slug": "crimson-waltz-in-the-rain",
@@ -1200,15 +1209,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58cd0466e954.json"
-    },
-    {
-      "id": "opl_b62b8e6bc79c",
-      "slug": "design-a-3d-network-topology-where-particles-travel-along-predefined-paths-splines-to-represent-data-transmission",
-      "title": "Design a 3D \"Network Topology\" where particles travel along predefined paths (splines) to represent data transmission.",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b62b8e6bc79c.json"
     }
   ]
 }
