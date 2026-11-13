@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T12:20:42.192Z",
+  "last_updated": "2026-11-13T13:20:47.708Z",
   "page": 25,
   "per_page": 100,
-  "total": 2713,
+  "total": 2714,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_7e134bd3b01a",
+      "slug": "system-prompt-architect",
+      "title": "System Prompt Architect",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e134bd3b01a.json"
+    },
     {
       "id": "opl_9577f7bc7046",
       "slug": "system-prompt-auto-calibrater",
@@ -963,15 +972,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec998a24493b.json"
-    },
-    {
-      "id": "opl_909fcf10072a",
-      "slug": "the-pragmatic-architect-mastering-tech-with-humor-and-precis",
-      "title": "The Pragmatic Architect: Mastering Tech with Humor and Precision",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_909fcf10072a.json"
     }
   ]
 }

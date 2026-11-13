@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T12:20:42.192Z",
+  "last_updated": "2026-11-13T13:20:47.708Z",
   "page": 22,
   "per_page": 100,
-  "total": 2713,
+  "total": 2714,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
@@ -1051,6 +1051,20 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa0ca5ec5478.json"
     },
     {
+      "id": "opl_49ca5c26c001",
+      "slug": "sentence-expansion-and-completion-assistant",
+      "title": "Sentence Expansion and Completion Assistant",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "inputSentence",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49ca5c26c001.json"
+    },
+    {
       "id": "opl_590411d9f6e4",
       "slug": "sentry-bug-fixer",
       "title": "Sentry Bug Fixer",
@@ -1219,32 +1233,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_956475ccccf3.json"
-    },
-    {
-      "id": "opl_be44c32c5d80",
-      "slug": "set-up-w-b-and-run-pod-during-training",
-      "title": "Set Up W&B and Run Pod During Training",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "namespace",
-          "default": null
-        },
-        {
-          "name": "projectName",
-          "default": null
-        },
-        {
-          "name": "sshKey",
-          "default": null
-        },
-        {
-          "name": "trainingScript",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be44c32c5d80.json"
     }
   ]
 }

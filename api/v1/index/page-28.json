@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-13T12:20:42.192Z",
+  "last_updated": "2026-11-13T13:20:47.708Z",
   "page": 28,
   "per_page": 100,
-  "total": 2713,
+  "total": 2714,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_e116906ec90f",
+      "slug": "youtube-script-engine-high-retention",
+      "title": "YouTube Script Engine — High Retention",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "cta_goal",
+          "default": null
+        },
+        {
+          "name": "target_audience",
+          "default": null
+        },
+        {
+          "name": "tone",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        },
+        {
+          "name": "video_style",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e116906ec90f.json"
+    },
     {
       "id": "opl_ee5513ef67a2",
       "slug": "youtube-video-analyst",

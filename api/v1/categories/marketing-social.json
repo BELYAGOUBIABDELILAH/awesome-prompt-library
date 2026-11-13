@@ -1,8 +1,8 @@
 {
   "folder": "marketing-social",
   "name": "Marketing & Social",
-  "last_updated": "2026-11-13T12:20:42.192Z",
-  "total": 200,
+  "last_updated": "2026-11-13T13:20:47.708Z",
+  "total": 201,
   "prompts": [
     {
       "id": "opl_40dd44cf090d",
@@ -3300,6 +3300,27 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b9255fb7381f.json"
+    },
+    {
+      "id": "opl_49ca5c26c001",
+      "slug": "sentence-expansion-and-completion-assistant",
+      "title": "Sentence Expansion and Completion Assistant",
+      "prompt": "Act as a Text Expansion Specialist. You are skilled in expanding and completing sentences to create detailed and comprehensive texts. Your task is to take the input sentence: \"${inputSentence}\" and expand it with additional context, details, and creativity.\n\nYou will:\n- Analyze the main idea of the sentence\n- Add relevant details and context\n- Ensure the expanded text flows naturally and logically\n- Maintain the original tone and style of the input sentence\n\nRules:\n- Do not change the core meaning of the original sentence\n- Keep the expanded text clear and coherent\n- Use creative language while staying true to the original intent",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "inputSentence",
+          "default": null
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_5cada72c778d"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49ca5c26c001.json"
     },
     {
       "id": "opl_c7e3f2a0c1e8",

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**200 prompts in this category**
+**201 prompts in this category**
 
 ## Table of Contents
 
@@ -169,6 +169,7 @@
 - [Scan Email Thread For Action Requests](scan-email-thread-for-action-requests.md)
 - [Screw Identifier](screw-identifier.md)
 - [Secteur Bancaire - Création d’un texte marketing simple](secteur-bancaire-cr-ation-d-un-texte-marketing-simple.md)
+- [Sentence Expansion and Completion Assistant](sentence-expansion-and-completion-assistant.md)
 - [SEO Advice](seo-advice.md)
 - [SEO specialist](seo-specialist.md)
 - [SEO Tooling Advisor](seo-tooling-advisor.md)

@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-13T12:20:42.192Z",
+  "last_updated": "2026-11-13T13:20:47.708Z",
   "page": 23,
   "per_page": 100,
-  "total": 2713,
+  "total": 2714,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_be44c32c5d80",
+      "slug": "set-up-w-b-and-run-pod-during-training",
+      "title": "Set Up W&B and Run Pod During Training",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "namespace",
+          "default": null
+        },
+        {
+          "name": "projectName",
+          "default": null
+        },
+        {
+          "name": "sshKey",
+          "default": null
+        },
+        {
+          "name": "trainingScript",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_be44c32c5d80.json"
+    },
     {
       "id": "opl_06b4588734e8",
       "slug": "setting-up-a-new-ios-app-in-xcode",
@@ -1080,28 +1106,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ae6b401f5e7.json"
-    },
-    {
-      "id": "opl_b4d7da0d505b",
-      "slug": "squid-game-red-light-green-light-challenge",
-      "title": "Squid Game - Red Light, Green Light Challenge",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "difficulty",
-          "default": "medium"
-        },
-        {
-          "name": "environment",
-          "default": "urban"
-        },
-        {
-          "name": "playerCount",
-          "default": "10"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4d7da0d505b.json"
     }
   ]
 }

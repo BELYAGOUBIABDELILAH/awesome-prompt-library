@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T12:20:42.192Z",
+  "last_updated": "2026-11-13T13:20:47.708Z",
   "page": 26,
   "per_page": 100,
-  "total": 2713,
+  "total": 2714,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_909fcf10072a",
+      "slug": "the-pragmatic-architect-mastering-tech-with-humor-and-precis",
+      "title": "The Pragmatic Architect: Mastering Tech with Humor and Precision",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_909fcf10072a.json"
+    },
     {
       "id": "opl_890be12694b3",
       "slug": "the-prd-mastermind",
@@ -1104,15 +1113,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_64545dfe6e54.json"
-    },
-    {
-      "id": "opl_1ee9fb569d89",
-      "slug": "universal-system-design-prompt",
-      "title": "Universal System Design Prompt",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ee9fb569d89.json"
     }
   ]
 }

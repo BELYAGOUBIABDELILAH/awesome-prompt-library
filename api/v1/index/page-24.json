@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T12:20:42.192Z",
+  "last_updated": "2026-11-13T13:20:47.708Z",
   "page": 24,
   "per_page": 100,
-  "total": 2713,
+  "total": 2714,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_b4d7da0d505b",
+      "slug": "squid-game-red-light-green-light-challenge",
+      "title": "Squid Game - Red Light, Green Light Challenge",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "difficulty",
+          "default": "medium"
+        },
+        {
+          "name": "environment",
+          "default": "urban"
+        },
+        {
+          "name": "playerCount",
+          "default": "10"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4d7da0d505b.json"
+    },
     {
       "id": "opl_dc4d0ecb6b68",
       "slug": "ssml-support",
@@ -1078,15 +1100,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f13b41d091b5.json"
-    },
-    {
-      "id": "opl_7e134bd3b01a",
-      "slug": "system-prompt-architect",
-      "title": "System Prompt Architect",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e134bd3b01a.json"
     }
   ]
 }
