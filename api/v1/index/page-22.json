@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T19:20:44.819Z",
+  "last_updated": "2026-11-13T20:20:58.161Z",
   "page": 22,
   "per_page": 100,
-  "total": 2720,
+  "total": 2721,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_2e67f7ba441f",
+      "slug": "review-mr-for-logical-errors",
+      "title": "Review MR for Logical Errors",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e67f7ba441f.json"
+    },
     {
       "id": "opl_236a63502e08",
       "slug": "review-test-coverage-gaps",
@@ -1224,15 +1233,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3f7c6705433.json"
-    },
-    {
-      "id": "opl_0593010aecc7",
-      "slug": "serene-mirror-selfie-portrait-in-sunlit-bedroom",
-      "title": "Serene Mirror-Selfie Portrait in Sunlit Bedroom",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0593010aecc7.json"
     }
   ]
 }

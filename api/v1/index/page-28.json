@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-13T19:20:44.819Z",
+  "last_updated": "2026-11-13T20:20:58.161Z",
   "page": 28,
   "per_page": 100,
-  "total": 2720,
+  "total": 2721,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_4f9e2f36a3c9",
+      "slug": "yamuna-river-cleanup-plan-for-vrindavan",
+      "title": "Yamuna River Cleanup Plan for Vrindavan",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "duration",
+          "default": "6 months"
+        },
+        {
+          "name": "startDate",
+          "default": "immediately"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f9e2f36a3c9.json"
+    },
     {
       "id": "opl_dfb8b9f04e6a",
       "slug": "yapper-twitter-strategist-2026",

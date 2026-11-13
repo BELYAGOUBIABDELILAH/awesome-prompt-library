@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T19:20:44.819Z",
+  "last_updated": "2026-11-13T20:20:58.161Z",
   "page": 25,
   "per_page": 100,
-  "total": 2720,
+  "total": 2721,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_b1912b040020",
+      "slug": "synonym-finder",
+      "title": "Synonym Finder",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1912b040020.json"
+    },
     {
       "id": "opl_3f82dc3f18e6",
       "slug": "synthesis-architect-pro",
@@ -963,15 +972,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bde3892eb67d.json"
-    },
-    {
-      "id": "opl_2ac4ecf03761",
-      "slug": "the-last-adagio",
-      "title": "The Last Adagio",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ac4ecf03761.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T19:20:44.819Z",
+  "last_updated": "2026-11-13T20:20:58.161Z",
   "page": 24,
   "per_page": 100,
-  "total": 2720,
+  "total": 2721,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_c6ca31099d90",
+      "slug": "spring-boot-solid-specialist",
+      "title": "Spring Boot + SOLID Specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c6ca31099d90.json"
+    },
     {
       "id": "opl_a055d0735baf",
       "slug": "sprint-prioritizer",
@@ -1100,15 +1109,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31b38364e3c2.json"
-    },
-    {
-      "id": "opl_b1912b040020",
-      "slug": "synonym-finder",
-      "title": "Synonym Finder",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1912b040020.json"
     }
   ]
 }

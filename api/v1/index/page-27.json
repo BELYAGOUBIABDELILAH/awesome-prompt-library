@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-13T19:20:44.819Z",
+  "last_updated": "2026-11-13T20:20:58.161Z",
   "page": 27,
   "per_page": 100,
-  "total": 2720,
+  "total": 2721,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_4f76626e440e",
+      "slug": "understanding-and-utilizing-llms",
+      "title": "Understanding and Utilizing LLMs",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "task",
+          "default": "content creation"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f76626e440e.json"
+    },
     {
       "id": "opl_1a1e5a26206d",
       "slug": "underwater-veo-3-video",
@@ -1278,24 +1296,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9da44a29d350.json"
-    },
-    {
-      "id": "opl_4f9e2f36a3c9",
-      "slug": "yamuna-river-cleanup-plan-for-vrindavan",
-      "title": "Yamuna River Cleanup Plan for Vrindavan",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "duration",
-          "default": "6 months"
-        },
-        {
-          "name": "startDate",
-          "default": "immediately"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f9e2f36a3c9.json"
     }
   ]
 }

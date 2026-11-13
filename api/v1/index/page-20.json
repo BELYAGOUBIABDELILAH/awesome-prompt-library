@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T19:20:44.819Z",
+  "last_updated": "2026-11-13T20:20:58.161Z",
   "page": 20,
   "per_page": 100,
-  "total": 2720,
+  "total": 2721,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_b5297083501b",
+      "slug": "pro-closer-for-small-business-loans",
+      "title": "Pro Closer for Small Business Loans",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "clientType",
+          "default": "small business"
+        },
+        {
+          "name": "goal",
+          "default": "close the deal"
+        },
+        {
+          "name": "loanAmount",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5297083501b.json"
+    },
     {
       "id": "opl_bed233919354",
       "slug": "procedural-3d-environment-designer",
@@ -1128,15 +1150,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6e30052d809f.json"
-    },
-    {
-      "id": "opl_117d7f14a59d",
-      "slug": "python-package-finder",
-      "title": "Python Package Finder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_117d7f14a59d.json"
     }
   ]
 }

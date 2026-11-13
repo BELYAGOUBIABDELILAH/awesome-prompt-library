@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T19:20:44.819Z",
+  "last_updated": "2026-11-13T20:20:58.161Z",
   "page": 21,
   "per_page": 100,
-  "total": 2720,
+  "total": 2721,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_117d7f14a59d",
+      "slug": "python-package-finder",
+      "title": "Python Package Finder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_117d7f14a59d.json"
+    },
     {
       "id": "opl_9842a6d90eb0",
       "slug": "python-script-generator",
@@ -1056,15 +1065,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_703c56cfc374.json"
-    },
-    {
-      "id": "opl_2e67f7ba441f",
-      "slug": "review-mr-for-logical-errors",
-      "title": "Review MR for Logical Errors",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e67f7ba441f.json"
     }
   ]
 }

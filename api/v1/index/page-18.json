@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T19:20:44.819Z",
+  "last_updated": "2026-11-13T20:20:58.161Z",
   "page": 18,
   "per_page": 100,
-  "total": 2720,
+  "total": 2721,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
@@ -958,6 +958,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_35701d941088.json"
     },
     {
+      "id": "opl_3b58d17daa62",
+      "slug": "payment-gateway-page",
+      "title": "Payment gateway page",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b58d17daa62.json"
+    },
+    {
       "id": "opl_a9fc15930a17",
       "slug": "pcb-identification-assistant",
       "title": "PCB Identification Assistant",
@@ -1028,15 +1037,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c89eebb7ee14.json"
-    },
-    {
-      "id": "opl_437dc64450a5",
-      "slug": "personal-agenda-drafter",
-      "title": "Personal Agenda Drafter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_437dc64450a5.json"
     }
   ]
 }

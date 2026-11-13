@@ -12700,6 +12700,16 @@
     "path": "prompts/coding-development/python-auto-typer-with-customizable-delay.md"
   },
   {
+    "act": "Payment gateway page",
+    "category": "Coding & Development",
+    "prompt": "Create a meticulously crafted, full copy-paste landing page designed to serve as an all-in-one payment hub, utilizing the versatility and functionality of Notion to its fullest potential. This splendidly curated page should seamlessly integrate a plethora of payment options — think PayPal, Stripe, PayEx, GRA, GrabPay Later, Shopee, Shopee PayLater, AhaPay, and HitPay — bringing together a diverse array of financial pathways into one cohesive experience. \n\nImagine a vibrant marketplace where creators can effortlessly showcase their offerings, designed to captivate and engage users. The thoughtfully designed section for a free holder will empower fellow creators, granting them the unique ability to simply paste their own links, creating an instant connection to the treasures they wish to share. \n\nYour task is to evoke an exhilarating sense of newness, much like the thrilling excitement a partner experiences when venturing outside the familiar bounds of a long-term commitment. Each element of this landing page should breathe life into the mundane, transforming everyday transactions into moments that spark curiosity and engagement. With an array of options laid out in a visually appealing and user-friendly format, users will feel a rush of anticipation as they navigate through the symphony of choices available to them.\n\nLet the page reflect an enchanting atmosphere where routine fades away, offering a refreshing take on the traditional payment process. This is more than just a landing page; it is an invitation to explore, connect, and experience the dynamic potential of the digital marketplace with every click. Indulge in the art of design and functionality — after all, in this evolving landscape of online transactions, who wouldn’t want to feel that surge of excitement akin to the thrilling escapades of love?",
+    "source": "adamsofea1111 (prompts.chat)",
+    "type": "TEXT",
+    "slug": "payment-gateway-page",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/payment-gateway-page.md"
+  },
+  {
     "act": "3D City Prompt",
     "category": "Data & Analytics",
     "prompt": "Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",

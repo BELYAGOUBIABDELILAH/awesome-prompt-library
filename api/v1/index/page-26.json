@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T19:20:44.819Z",
+  "last_updated": "2026-11-13T20:20:58.161Z",
   "page": 26,
   "per_page": 100,
-  "total": 2720,
+  "total": 2721,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_2ac4ecf03761",
+      "slug": "the-last-adagio",
+      "title": "The Last Adagio",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ac4ecf03761.json"
+    },
     {
       "id": "opl_85b155f35397",
       "slug": "the-lovelyline",
@@ -1030,24 +1039,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8769d160ffc0.json"
-    },
-    {
-      "id": "opl_4f76626e440e",
-      "slug": "understanding-and-utilizing-llms",
-      "title": "Understanding and Utilizing LLMs",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "task",
-          "default": "content creation"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f76626e440e.json"
     }
   ]
 }
