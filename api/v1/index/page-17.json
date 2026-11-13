@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 17,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_5f0187483ba7",
+      "slug": "minimalist-editorial-beauty-analysis-with-turkish-model",
+      "title": "Minimalist Editorial Beauty Analysis with Turkish Model",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f0187483ba7.json"
+    },
     {
       "id": "opl_aacaa502b2b9",
       "slug": "minimalist-fisherman-illustration",
@@ -1043,15 +1052,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f3553b7a95a7.json"
-    },
-    {
-      "id": "opl_a6e93c08f969",
-      "slug": "nixos-linux-specialist",
-      "title": "NixOS Linux Specialist",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e93c08f969.json"
     }
   ]
 }

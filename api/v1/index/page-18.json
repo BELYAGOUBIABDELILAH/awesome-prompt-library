@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 18,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_a6e93c08f969",
+      "slug": "nixos-linux-specialist",
+      "title": "NixOS Linux Specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e93c08f969.json"
+    },
     {
       "id": "opl_d5d052551582",
       "slug": "no-bs-marketing-strategist",
@@ -1028,24 +1037,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0120043966ea.json"
-    },
-    {
-      "id": "opl_91fb6efc530c",
-      "slug": "personal-insight-analyzer-from-past-chats",
-      "title": "Personal Insight Analyzer from Past Chats",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "chatLogs",
-          "default": null
-        },
-        {
-          "name": "outputFormat",
-          "default": "summary"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91fb6efc530c.json"
     }
   ]
 }

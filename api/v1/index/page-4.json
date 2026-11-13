@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 4,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
@@ -204,6 +204,20 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d8fb01f57721.json"
+    },
+    {
+      "id": "opl_ec2efa83b306",
+      "slug": "automated-text-typing-every-5-minutes-with-python",
+      "title": "Automated Text Typing Every 5 Minutes with Python",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "interval",
+          "default": "5"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec2efa83b306.json"
     },
     {
       "id": "opl_cb680b3f9eac",
@@ -1172,15 +1186,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f00f2c1fe19e.json"
-    },
-    {
-      "id": "opl_c106d13aa48d",
-      "slug": "brotherhood-pressure-cn-en-en-en-street-rewrite",
-      "title": "Brotherhood Pressure — CN→EN & EN→EN Street Rewrite",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c106d13aa48d.json"
     }
   ]
 }

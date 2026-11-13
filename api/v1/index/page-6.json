@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 6,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_348e92d9ec80",
+      "slug": "cinematic-neo-noir-triptych-in-digital-art",
+      "title": "Cinematic Neo-Noir Triptych in Digital Art",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_348e92d9ec80.json"
+    },
     {
       "id": "opl_fb8c75dce03d",
       "slug": "cinematic-neon-alley-urban-night-walk-album-cover-style",
@@ -1230,15 +1239,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e117e3ee1f3.json"
-    },
-    {
-      "id": "opl_889da66e43e7",
-      "slug": "comprehensive-research-prompt-generator",
-      "title": "Comprehensive Research Prompt Generator",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_889da66e43e7.json"
     }
   ]
 }

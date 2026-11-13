@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 5,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_c106d13aa48d",
+      "slug": "brotherhood-pressure-cn-en-en-en-street-rewrite",
+      "title": "Brotherhood Pressure — CN→EN & EN→EN Street Rewrite",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c106d13aa48d.json"
+    },
     {
       "id": "opl_52599e753f13",
       "slug": "browser-automation-guide",
@@ -1080,15 +1089,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_733c61504444.json"
-    },
-    {
-      "id": "opl_348e92d9ec80",
-      "slug": "cinematic-neo-noir-triptych-in-digital-art",
-      "title": "Cinematic Neo-Noir Triptych in Digital Art",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_348e92d9ec80.json"
     }
   ]
 }

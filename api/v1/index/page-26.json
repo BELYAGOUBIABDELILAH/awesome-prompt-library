@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 26,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_fafeb3aea5b0",
+      "slug": "the-ultimate-podcast-format-audio-branding-architect",
+      "title": "The Ultimate Podcast Format & Audio Branding Architect",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "Desired_Vibe",
+          "default": null
+        },
+        {
+          "name": "Host_Background",
+          "default": null
+        },
+        {
+          "name": "Target_Niche",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fafeb3aea5b0.json"
+    },
     {
       "id": "opl_06fd8e8af52b",
       "slug": "the-ultimate-typescript-code-review",
@@ -1122,15 +1144,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c16f23e99887.json"
-    },
-    {
-      "id": "opl_0a44bdd3e417",
-      "slug": "url-shortener",
-      "title": "URL Shortener",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a44bdd3e417.json"
     }
   ]
 }

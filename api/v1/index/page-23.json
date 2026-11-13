@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 23,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_49fa2c413bd1",
+      "slug": "shakespearean-document-generator",
+      "title": "Shakespearean Document Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49fa2c413bd1.json"
+    },
     {
       "id": "opl_a429eb23eef0",
       "slug": "shakespearean-email-writer",
@@ -1044,15 +1053,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4650db742c4.json"
-    },
-    {
-      "id": "opl_6da9845e1803",
-      "slug": "stand-up-comedian",
-      "title": "Stand-up Comedian",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6da9845e1803.json"
     }
   ]
 }

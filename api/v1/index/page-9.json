@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 9,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_351d9832c194",
+      "slug": "dermatology-consultation-guide",
+      "title": "Dermatology Consultation Guide",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "lifestyleFactors",
+          "default": null
+        },
+        {
+          "name": "patientAge",
+          "default": null
+        },
+        {
+          "name": "previousTreatments",
+          "default": null
+        },
+        {
+          "name": "symptoms",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_351d9832c194.json"
+    },
     {
       "id": "opl_58cd0466e954",
       "slug": "description-text-generator",
@@ -1143,15 +1169,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e6920e528ad.json"
-    },
-    {
-      "id": "opl_4d205049bbf8",
-      "slug": "dress",
-      "title": "Dress",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d205049bbf8.json"
     }
   ]
 }

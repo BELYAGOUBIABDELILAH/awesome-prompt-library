@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 27,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_0a44bdd3e417",
+      "slug": "url-shortener",
+      "title": "URL Shortener",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a44bdd3e417.json"
+    },
     {
       "id": "opl_c17e84fa7fca",
       "slug": "url-title-and-description-analysis-tool-with-lsi-keywords",
@@ -1276,15 +1285,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0aec25f3c003.json"
-    },
-    {
-      "id": "opl_bbc49b5106c9",
-      "slug": "untitled-bbc49b",
-      "title": "电商选品助手",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bbc49b5106c9.json"
     }
   ]
 }

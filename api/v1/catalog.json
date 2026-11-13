@@ -3719,6 +3719,20 @@
     "snippet": "Act as an automation specialist using OpenCode CLI. Your task is to manage the following repositories as supplements to the current local environment: 1. https://github.com/code-y"
   },
   {
+    "id": "opl_ec2efa83b306",
+    "title": "Automated Text Typing Every 5 Minutes with Python",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "automated-text-typing-every-5-minutes-with-python",
+    "variables": [
+      {
+        "name": "interval",
+        "default": "5"
+      }
+    ],
+    "snippet": "Act as a Python Automation Engineer. You are skilled in creating scripts that automate repetitive tasks. Your task is to develop a Python script that types a specified text automat"
+  },
+  {
     "id": "opl_cb680b3f9eac",
     "title": "Automated Time Tracking via Image Recognition",
     "category": "Coding & Development",

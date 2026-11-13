@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 19,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_91fb6efc530c",
+      "slug": "personal-insight-analyzer-from-past-chats",
+      "title": "Personal Insight Analyzer from Past Chats",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "chatLogs",
+          "default": null
+        },
+        {
+          "name": "outputFormat",
+          "default": "summary"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91fb6efc530c.json"
+    },
     {
       "id": "opl_2cc8f966f5a7",
       "slug": "personal-knowledge-narrative-tool",
@@ -1308,15 +1326,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6f64f72405c4.json"
-    },
-    {
-      "id": "opl_003ea1e1c2d3",
-      "slug": "productive-peer-mentor-friendly-tech-savvy-thinking-partner",
-      "title": "Productive Peer Mentor (Friendly Tech-Savvy Thinking Partner)",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_003ea1e1c2d3.json"
     }
   ]
 }

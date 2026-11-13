@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 22,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_db038361a788",
+      "slug": "romantic-rainy-scene-video",
+      "title": "Romantic Rainy Scene Video",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_db038361a788.json"
+    },
     {
       "id": "opl_04ab3bc83fc4",
       "slug": "rooftop-sunset-lookback-half-body",
@@ -1243,15 +1252,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bc07016e9f26.json"
-    },
-    {
-      "id": "opl_49fa2c413bd1",
-      "slug": "shakespearean-document-generator",
-      "title": "Shakespearean Document Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49fa2c413bd1.json"
     }
   ]
 }

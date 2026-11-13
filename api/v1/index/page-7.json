@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 7,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_889da66e43e7",
+      "slug": "comprehensive-research-prompt-generator",
+      "title": "Comprehensive Research Prompt Generator",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_889da66e43e7.json"
+    },
     {
       "id": "opl_85ebe97e6ea1",
       "slug": "comprehensive-roadmap-for-ai-and-computer-vision-specializat",
@@ -1233,28 +1242,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b6716ceb4714.json"
-    },
-    {
-      "id": "opl_5e21df68371c",
-      "slug": "cr-er-une-carte-mentale-pour-s-ance-d-id-ation",
-      "title": "Créer une Carte Mentale pour Séance d'Idéation",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "centralTopic",
-          "default": null
-        },
-        {
-          "name": "sessionDuration",
-          "default": "60"
-        },
-        {
-          "name": "visualStyle",
-          "default": "colorful"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e21df68371c.json"
     }
   ]
 }

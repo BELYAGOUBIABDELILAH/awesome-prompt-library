@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 14,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_7067ce7fb771",
+      "slug": "i-ngilizce-t-rk-e-kelime-ve-c-mle-evirmeni",
+      "title": "İngilizce-Türkçe Kelime ve Cümle Çevirmeni",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7067ce7fb771.json"
+    },
     {
       "id": "opl_a3a7ee2f697b",
       "slug": "innovative-math-teaching-method",
@@ -1050,15 +1059,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2cad77d1f145.json"
-    },
-    {
-      "id": "opl_24c242558fe5",
-      "slug": "kjv-harmony-companion",
-      "title": "KJV Harmony Companion",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_24c242558fe5.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 16,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_c4eeda6f980d",
+      "slug": "lonely-girl",
+      "title": "Lonely Girl",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c4eeda6f980d.json"
+    },
     {
       "id": "opl_67900bbe126f",
       "slug": "long-tail-llms",
@@ -1189,15 +1198,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa66840a8624.json"
-    },
-    {
-      "id": "opl_5f0187483ba7",
-      "slug": "minimalist-editorial-beauty-analysis-with-turkish-model",
-      "title": "Minimalist Editorial Beauty Analysis with Turkish Model",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f0187483ba7.json"
     }
   ]
 }

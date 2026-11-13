@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 10,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_4d205049bbf8",
+      "slug": "dress",
+      "title": "Dress",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4d205049bbf8.json"
+    },
     {
       "id": "opl_1043457e0e97",
       "slug": "driftcraft",
@@ -1272,15 +1281,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_556d76e9eee0.json"
-    },
-    {
-      "id": "opl_b6d17e7607e0",
-      "slug": "exploring-gaps-in-thesis-writing-literature-with-chatgpt",
-      "title": "Exploring Gaps in Thesis Writing Literature with ChatGPT",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b6d17e7607e0.json"
     }
   ]
 }

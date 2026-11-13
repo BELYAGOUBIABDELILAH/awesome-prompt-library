@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1085 prompts in this category**
+**1086 prompts in this category**
 
 ## Table of Contents
 
@@ -129,6 +129,7 @@
 - [Audio Routing Automation Engineer](audio-routing-automation-engineer.md)
 - [Auditor de Código Python: Nivel Senior (Salida en Español)](auditor-de-c-digo-python-nivel-senior-salida-en-espa-ol.md)
 - [Automate Repository Management with OpenCode CLI](automate-repository-management-with-opencode-cli.md)
+- [Automated Text Typing Every 5 Minutes with Python](automated-text-typing-every-5-minutes-with-python.md)
 - [Automated Time Tracking via Image Recognition](automated-time-tracking-via-image-recognition.md)
 - [Automation And Workflow Apps Finder](automation-and-workflow-apps-finder.md)
 - [Autonomous Agent Instruction Drafter](autonomous-agent-instruction-drafter.md)

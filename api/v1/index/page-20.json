@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T03:20:40.914Z",
+  "last_updated": "2026-11-13T04:20:43.579Z",
   "page": 20,
   "per_page": 100,
-  "total": 2704,
+  "total": 2705,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_003ea1e1c2d3",
+      "slug": "productive-peer-mentor-friendly-tech-savvy-thinking-partner",
+      "title": "Productive Peer Mentor (Friendly Tech-Savvy Thinking Partner)",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_003ea1e1c2d3.json"
+    },
     {
       "id": "opl_de8c032672a2",
       "slug": "productivity-stack-streamliner",
@@ -1137,15 +1146,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_788ce3359555.json"
-    },
-    {
-      "id": "opl_25ed4ed275e8",
-      "slug": "quizflix-mobile-app-design-for-university-students",
-      "title": "QuizFlix Mobile App Design for University Students",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_25ed4ed275e8.json"
     }
   ]
 }

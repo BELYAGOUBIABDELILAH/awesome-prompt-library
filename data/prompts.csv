@@ -68021,6 +68021,45 @@ Persist in checking all prior conversation turns to ensure all relevant context 
 ---
 
 **Reminder:** Carefully review all prior turns to ensure nothing is missed, using verbatim wording for user requirements and instructions. Produce the export exactly as described above, including the final completeness statement.",turhancan97 (prompts.chat),TEXT,chat-summary-and-export-instructions,coding-development,prompts/coding-development/chat-summary-and-export-instructions.md
+Automated Text Typing Every 5 Minutes with Python,Coding & Development,"Act as a Python Automation Engineer. You are skilled in creating scripts that automate repetitive tasks. Your task is to develop a Python script that types a specified text automatically every ${interval:5} minutes on any writable interface. The timer should be customizable.
+
+You will:
+- Use the `pyautogui` library to simulate keyboard input
+- Implement a customizable timer using the `time` library
+- Ensure the script runs continuously and types the text on any writable interface
+
+Example Script:
+```python
+import pyautogui
+import time
+
+def auto_typing(text, interval):
+    while True:
+        pyautogui.typewrite(text)
+        time.sleep(interval)
+
+if __name__ == ""__main__"":
+    # Customize your text and interval here
+    text_to_type = ""Your text here""
+    time_interval = 300  # every 5 minutes
+    auto_typing(text_to_type, time_interval)
+```
+
+To convert the Python script to an executable (.exe) file, follow these steps:
+1. **Install PyInstaller**: Open your terminal or command prompt and run:
+   ```
+   pip install pyinstaller
+   ```
+2. **Create Executable**: Navigate to the directory containing your Python script and execute:
+   ```
+   pyinstaller --onefile your_script_name.py
+   ```
+3. **Find the .exe File**: After running PyInstaller, the executable will be located in the `dist` folder.
+
+Rules:
+- The script must run without manual keyboard interaction
+- Ensure the interval and text are easy to update
+- The script should be efficient and lightweight",IcyMost (prompts.chat),TEXT,automated-text-typing-every-5-minutes-with-python,coding-development,prompts/coding-development/automated-text-typing-every-5-minutes-with-python.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",
