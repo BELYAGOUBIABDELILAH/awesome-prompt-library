@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-12T23:20:57.405Z",
+  "last_updated": "2026-11-13T00:20:40.858Z",
   "page": 18,
   "per_page": 100,
-  "total": 2700,
-  "total_pages": 27,
+  "total": 2701,
+  "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
@@ -792,6 +792,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_513db88f9c50.json"
     },
     {
+      "id": "opl_6484fd20cd6e",
+      "slug": "paper-lantern-harbor-at-dusk",
+      "title": "Paper Lantern Harbor at Dusk",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6484fd20cd6e.json"
+    },
+    {
       "id": "opl_82c11b5141b0",
       "slug": "passenger-seat-car-selfie-golden-hour-candid",
       "title": "Passenger Seat Car Selfie (golden hour, candid)",
@@ -1037,15 +1046,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_649563b73533.json"
-    },
-    {
-      "id": "opl_2b850d0dc0f1",
-      "slug": "personal-shopper",
-      "title": "Personal Shopper",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2b850d0dc0f1.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "folder": "research-analysis",
   "name": "Research & Analysis",
-  "last_updated": "2026-11-12T23:20:57.405Z",
-  "total": 26,
+  "last_updated": "2026-11-13T00:20:40.858Z",
+  "total": 27,
   "prompts": [
     {
       "id": "opl_345bb5f7b9a2",
@@ -211,6 +211,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e1ba2f98c5ce.json"
+    },
+    {
+      "id": "opl_6484fd20cd6e",
+      "slug": "paper-lantern-harbor-at-dusk",
+      "title": "Paper Lantern Harbor at Dusk",
+      "prompt": "A quiet wooden harbor at dusk, hundreds of warm paper lanterns hanging from boats and piers, calm water reflecting orange and rose light, soft fog, cinematic wide shot, ultra-detailed, peaceful atmosphere, no people in foreground",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_ca7a7fd75e7b"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6484fd20cd6e.json"
     },
     {
       "id": "opl_d97491f33a37",

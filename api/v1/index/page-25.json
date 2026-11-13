@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T23:20:57.405Z",
+  "last_updated": "2026-11-13T00:20:40.858Z",
   "page": 25,
   "per_page": 100,
-  "total": 2700,
-  "total_pages": 27,
+  "total": 2701,
+  "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_d7526f4d1134",
+      "slug": "system-prompt-enhancement-ideator",
+      "title": "System Prompt Enhancement Ideator",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d7526f4d1134.json"
+    },
     {
       "id": "opl_9a6fc23d0100",
       "slug": "system-prompt-feature-editor",
@@ -981,15 +990,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_34ccaf201035.json"
-    },
-    {
-      "id": "opl_debeaa903eca",
-      "slug": "through-the-glass-one-eye-in-focus",
-      "title": "Through the Glass: One Eye in Focus",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_debeaa903eca.json"
     }
   ]
 }

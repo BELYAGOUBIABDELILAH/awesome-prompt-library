@@ -1,0 +1,33 @@
+{
+  "last_updated": "2026-11-13T00:20:40.858Z",
+  "page": 28,
+  "per_page": 100,
+  "total": 2701,
+  "total_pages": 28,
+  "next": null,
+  "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
+  "prompts": [
+    {
+      "id": "opl_ad93e0bfc503",
+      "slug": "untitled-7",
+      "title": "资深卖货短视频脚本创作者",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "keyFeatures",
+          "default": null
+        },
+        {
+          "name": "productName",
+          "default": null
+        },
+        {
+          "name": "targetAudience",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad93e0bfc503.json"
+    }
+  ]
+}

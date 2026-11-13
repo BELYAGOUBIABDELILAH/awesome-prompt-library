@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**26 prompts in this category**
+**27 prompts in this category**
 
 ## Table of Contents
 
@@ -19,6 +19,7 @@
 - [Medical Report Interpreter](medical-report-interpreter.md)
 - [Medication Travel Legality](medication-travel-legality.md)
 - [Meeting Facilitator](meeting-facilitator.md)
+- [Paper Lantern Harbor at Dusk](paper-lantern-harbor-at-dusk.md)
 - [Personalized AI](personalized-ai.md)
 - [Prompt To LLM](prompt-to-llm.md)
 - [Prompt To Parameters](prompt-to-parameters.md)

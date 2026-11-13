@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-12T23:20:57.405Z",
+  "last_updated": "2026-11-13T00:20:40.858Z",
   "page": 24,
   "per_page": 100,
-  "total": 2700,
-  "total_pages": 27,
+  "total": 2701,
+  "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_70716cf98ba2",
+      "slug": "starting-a-flutter-project",
+      "title": "Starting a Flutter Project",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "ide",
+          "default": "Android Studio"
+        },
+        {
+          "name": "operatingSystem",
+          "default": "Windows"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_70716cf98ba2.json"
+    },
     {
       "id": "opl_5bf9c71268a1",
       "slug": "startup-idea-generator",
@@ -1069,15 +1087,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27eda67c6b0c.json"
-    },
-    {
-      "id": "opl_d7526f4d1134",
-      "slug": "system-prompt-enhancement-ideator",
-      "title": "System Prompt Enhancement Ideator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d7526f4d1134.json"
     }
   ]
 }

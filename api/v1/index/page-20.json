@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-12T23:20:57.405Z",
+  "last_updated": "2026-11-13T00:20:40.858Z",
   "page": 20,
   "per_page": 100,
-  "total": 2700,
-  "total_pages": 27,
+  "total": 2701,
+  "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_bf2073b81864",
+      "slug": "professional-badge-photo-ready-to-use",
+      "title": "Professional Badge Photo, Ready to Use",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf2073b81864.json"
+    },
     {
       "id": "opl_ccd48e1dc1f5",
       "slug": "professional-betting-predictions",
@@ -1142,15 +1151,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8d1e2d16c6d.json"
-    },
-    {
-      "id": "opl_bb372e063446",
-      "slug": "rag-and-vector-storage-consultant",
-      "title": "RAG And Vector Storage Consultant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb372e063446.json"
     }
   ]
 }
