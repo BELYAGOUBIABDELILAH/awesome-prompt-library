@@ -1218,5 +1218,15 @@
     "slug": "god-mode",
     "folder": "ai-automation",
     "path": "prompts/ai-automation/god-mode.md"
+  },
+  {
+    "act": "Plan Check Agent",
+    "category": "AI & Automation",
+    "prompt": "Are you 100% confident in this strategy/plan? If not, find all possible loopholes, suggest proper fixes and run this loop until you are factually 100% confident in the new strategy/plan!",
+    "source": "bcokdilli (prompts.chat)",
+    "type": "TEXT",
+    "slug": "plan-check-agent",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/plan-check-agent.md"
   }
 ]
