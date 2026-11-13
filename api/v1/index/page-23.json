@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 23,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_f979cd849797",
+      "slug": "shadows-of-the-blue-note",
+      "title": "Shadows of the Blue Note",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f979cd849797.json"
+    },
     {
       "id": "opl_bc07016e9f26",
       "slug": "shadows-of-the-cold-war-the-1962-exchange",
@@ -1044,15 +1053,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68788623f98f.json"
-    },
-    {
-      "id": "opl_01a9b697898b",
-      "slug": "stakeholder-update",
-      "title": "Stakeholder Update",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_01a9b697898b.json"
     }
   ]
 }

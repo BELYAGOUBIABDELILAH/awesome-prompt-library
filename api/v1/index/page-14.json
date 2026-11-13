@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 14,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_0f993ed15f32",
+      "slug": "informal-text-editor",
+      "title": "Informal Text Editor",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f993ed15f32.json"
+    },
     {
       "id": "opl_ceaf9b31aaa3",
       "slug": "information-gathering-prompt",
@@ -1042,28 +1051,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b2b7f894a606.json"
-    },
-    {
-      "id": "opl_1cab1e7ff822",
-      "slug": "kickstart-prompt-for-web-ux-ui-design",
-      "title": "Kickstart Prompt for Web UX & UI Design",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "company_name",
-          "default": null
-        },
-        {
-          "name": "if_there_is_one_or_delete_this_line",
-          "default": null
-        },
-        {
-          "name": "industry",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1cab1e7ff822.json"
     }
   ]
 }

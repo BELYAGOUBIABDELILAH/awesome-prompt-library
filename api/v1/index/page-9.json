@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 9,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_1e6f1e05fb73",
+      "slug": "dependency-manager-agent-role",
+      "title": "Dependency Manager Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e6f1e05fb73.json"
+    },
     {
       "id": "opl_351d9832c194",
       "slug": "dermatology-consultation-guide",
@@ -1160,15 +1169,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3a3bd258844.json"
-    },
-    {
-      "id": "opl_b316625c9fe6",
-      "slug": "dream-interpreter",
-      "title": "Dream Interpreter",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b316625c9fe6.json"
     }
   ]
 }

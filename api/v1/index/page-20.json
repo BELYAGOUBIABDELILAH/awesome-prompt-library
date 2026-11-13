@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 20,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_0531d6bcc978",
+      "slug": "product-promotion-expert",
+      "title": "Product Promotion Expert",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0531d6bcc978.json"
+    },
     {
       "id": "opl_6f64f72405c4",
       "slug": "production-grade-posthog-integration-for-next-js-15-app-rout",
@@ -1137,15 +1146,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_298fe192c92e.json"
-    },
-    {
-      "id": "opl_ed7ecf6b765e",
-      "slug": "quiet-glow",
-      "title": "Quiet Glow",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed7ecf6b765e.json"
     }
   ]
 }

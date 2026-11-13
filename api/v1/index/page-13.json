@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 13,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_722a951acb09",
+      "slug": "hiring-manager-interview-prep",
+      "title": "Hiring Manager Interview Prep",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_722a951acb09.json"
+    },
     {
       "id": "opl_383b9d812901",
       "slug": "historian",
@@ -1081,15 +1090,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b29d5c1f2bc8.json"
-    },
-    {
-      "id": "opl_0f993ed15f32",
-      "slug": "informal-text-editor",
-      "title": "Informal Text Editor",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0f993ed15f32.json"
     }
   ]
 }

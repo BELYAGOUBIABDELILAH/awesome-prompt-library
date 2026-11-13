@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 8,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_b6716ceb4714",
+      "slug": "creative-writing-exploring-inner-desires",
+      "title": "Creative Writing: Exploring Inner Desires",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b6716ceb4714.json"
+    },
     {
       "id": "opl_5e21df68371c",
       "slug": "cr-er-une-carte-mentale-pour-s-ance-d-id-ation",
@@ -1196,15 +1205,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c1765c7b0436.json"
-    },
-    {
-      "id": "opl_1e6f1e05fb73",
-      "slug": "dependency-manager-agent-role",
-      "title": "Dependency Manager Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e6f1e05fb73.json"
     }
   ]
 }

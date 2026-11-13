@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 12,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_b57a3fd5943e",
+      "slug": "generate-release-notes-from-mrs",
+      "title": "Generate Release Notes from MRs",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b57a3fd5943e.json"
+    },
     {
       "id": "opl_ac83ce32e8cd",
       "slug": "generate-security-documentation",
@@ -1031,15 +1040,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b7b16063e5be.json"
-    },
-    {
-      "id": "opl_722a951acb09",
-      "slug": "hiring-manager-interview-prep",
-      "title": "Hiring Manager Interview Prep",
-      "category": "Research & Analysis",
-      "folder": "research-analysis",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_722a951acb09.json"
     }
   ]
 }

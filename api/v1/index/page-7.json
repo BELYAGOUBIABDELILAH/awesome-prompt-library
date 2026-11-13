@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 7,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_1e117e3ee1f3",
+      "slug": "comprehensive-repository-audit-remediation-prompt",
+      "title": "Comprehensive Repository Audit & Remediation Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e117e3ee1f3.json"
+    },
     {
       "id": "opl_889da66e43e7",
       "slug": "comprehensive-research-prompt-generator",
@@ -1233,15 +1242,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad896a1c6058.json"
-    },
-    {
-      "id": "opl_b6716ceb4714",
-      "slug": "creative-writing-exploring-inner-desires",
-      "title": "Creative Writing: Exploring Inner Desires",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b6716ceb4714.json"
     }
   ]
 }

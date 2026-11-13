@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 27,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_511c40c3aae2",
+      "slug": "update-sync-prompt",
+      "title": "Update/Sync Prompt",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "date",
+          "default": null
+        },
+        {
+          "name": "paste_or_reference_file",
+          "default": null
+        },
+        {
+          "name": "section_name",
+          "default": null
+        },
+        {
+          "name": "upload_files_or_provide_path",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_511c40c3aae2.json"
+    },
     {
       "id": "opl_c16f23e99887",
       "slug": "urban-casual-confidence",
@@ -1268,15 +1294,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_11a3ba7b2871.json"
-    },
-    {
-      "id": "opl_37079d138c08",
-      "slug": "json",
-      "title": "提取查询 json 中的查询条件",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_37079d138c08.json"
     }
   ]
 }

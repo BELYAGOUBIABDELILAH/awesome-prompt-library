@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 19,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_86840e89939c",
+      "slug": "personal-form-builder-app-design",
+      "title": "Personal Form Builder App Design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_86840e89939c.json"
+    },
     {
       "id": "opl_0120043966ea",
       "slug": "personal-growth-plan-for-bnwo-enthusiasts",
@@ -1317,15 +1326,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04c4257a6a1b.json"
-    },
-    {
-      "id": "opl_0531d6bcc978",
-      "slug": "product-promotion-expert",
-      "title": "Product Promotion Expert",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0531d6bcc978.json"
     }
   ]
 }

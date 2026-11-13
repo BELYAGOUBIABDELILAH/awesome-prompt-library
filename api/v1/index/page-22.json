@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 22,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_ecf0fabf5012",
+      "slug": "rna-seq-analysis-and-differential-gene-expression",
+      "title": "RNA-Seq Analysis and Differential Gene Expression",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "dataQuality",
+          "default": "high"
+        },
+        {
+          "name": "normalizationMethod",
+          "default": "DESeq2"
+        },
+        {
+          "name": "visualizationTools",
+          "default": "heatmap"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ecf0fabf5012.json"
+    },
     {
       "id": "opl_b9a7f7afdb3c",
       "slug": "rocket-launcher",
@@ -1243,15 +1265,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a24124bf633c.json"
-    },
-    {
-      "id": "opl_f979cd849797",
-      "slug": "shadows-of-the-blue-note",
-      "title": "Shadows of the Blue Note",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f979cd849797.json"
     }
   ]
 }

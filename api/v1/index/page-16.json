@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 16,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_484433823f6f",
+      "slug": "logic-flow-educational-puzzle",
+      "title": "Logic-Flow Educational Puzzle",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_484433823f6f.json"
+    },
     {
       "id": "opl_f2045ace71d6",
       "slug": "logistician",
@@ -1189,15 +1198,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f6de879debf.json"
-    },
-    {
-      "id": "opl_1c4c4541149e",
-      "slug": "minimalist-editorial-beauty-analysis-with-east-asian-model",
-      "title": "Minimalist Editorial Beauty Analysis with East Asian Model",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c4c4541149e.json"
     }
   ]
 }

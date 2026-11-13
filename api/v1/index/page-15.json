@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 15,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_1cab1e7ff822",
+      "slug": "kickstart-prompt-for-web-ux-ui-design",
+      "title": "Kickstart Prompt for Web UX & UI Design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "company_name",
+          "default": null
+        },
+        {
+          "name": "if_there_is_one_or_delete_this_line",
+          "default": null
+        },
+        {
+          "name": "industry",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1cab1e7ff822.json"
+    },
     {
       "id": "opl_2cad77d1f145",
       "slug": "kitchen-morning-window-light-candid-cozy",
@@ -1027,15 +1049,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee8836aa7c40.json"
-    },
-    {
-      "id": "opl_484433823f6f",
-      "slug": "logic-flow-educational-puzzle",
-      "title": "Logic-Flow Educational Puzzle",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_484433823f6f.json"
     }
   ]
 }

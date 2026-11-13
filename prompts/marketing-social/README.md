@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**198 prompts in this category**
+**199 prompts in this category**
 
 ## Table of Contents
 
@@ -31,6 +31,7 @@
 - [Barong 2](barong-2.md)
 - [Blurb text ideator](blurb-text-ideator.md)
 - [Boom & Crush - ICT strategy](boom-crush-ict-strategy.md)
+- [Boost Engagement in Artistic Telegram Channels](boost-engagement-in-artistic-telegram-channels.md)
 - [Brainstorm SEO Keywords](brainstorm-seo-keywords.md)
 - [Brandable Domain Name Finder](brandable-domain-name-finder.md)
 - [Building a community](building-a-community.md)

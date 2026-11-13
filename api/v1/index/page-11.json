@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T05:20:43.121Z",
+  "last_updated": "2026-11-13T06:20:41.312Z",
   "page": 11,
   "per_page": 100,
-  "total": 2706,
+  "total": 2707,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_622b6b44afe7",
+      "slug": "exploratory-code-understanding",
+      "title": "Exploratory Code Understanding",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_622b6b44afe7.json"
+    },
     {
       "id": "opl_556d76e9eee0",
       "slug": "explore-jerusalem",
@@ -1064,15 +1073,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29aef7d58bb2.json"
-    },
-    {
-      "id": "opl_b57a3fd5943e",
-      "slug": "generate-release-notes-from-mrs",
-      "title": "Generate Release Notes from MRs",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b57a3fd5943e.json"
     }
   ]
 }
