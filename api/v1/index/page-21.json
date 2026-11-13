@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 21,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_1d35cee58a22",
+      "slug": "quantitative-factor-research-engineer",
+      "title": "Quantitative Factor Research Engineer",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1d35cee58a22.json"
+    },
     {
       "id": "opl_882a19f67b15",
       "slug": "question-list-for-reaserch",
@@ -1056,15 +1065,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9726b9a2f65.json"
-    },
-    {
-      "id": "opl_94e1b305e346",
-      "slug": "ridiculous-conspiracy-theory",
-      "title": "Ridiculous Conspiracy Theory",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94e1b305e346.json"
     }
   ]
 }

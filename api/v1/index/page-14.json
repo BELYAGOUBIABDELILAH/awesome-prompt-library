@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 14,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_1ed657de4f7d",
+      "slug": "influencer-candid-bedtime-selfie",
+      "title": "Influencer Candid Bedtime Selfie",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ed657de4f7d.json"
+    },
     {
       "id": "opl_b29d5c1f2bc8",
       "slug": "infographic",
@@ -1042,15 +1051,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3c6b9e653c6.json"
-    },
-    {
-      "id": "opl_331f0194b93a",
-      "slug": "kde-plasma-buff",
-      "title": "KDE Plasma Buff",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_331f0194b93a.json"
     }
   ]
 }

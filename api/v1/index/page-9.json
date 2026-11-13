@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 9,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_e49fb76cee7c",
+      "slug": "dejargonizer",
+      "title": "Dejargonizer",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e49fb76cee7c.json"
+    },
     {
       "id": "opl_c1765c7b0436",
       "slug": "dentist",
@@ -1160,15 +1169,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_879628d71bc0.json"
-    },
-    {
-      "id": "opl_99ae708305f2",
-      "slug": "dramatize-this-text",
-      "title": "Dramatize This Text",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_99ae708305f2.json"
     }
   ]
 }

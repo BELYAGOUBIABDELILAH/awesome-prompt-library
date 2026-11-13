@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 11,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_1fafca0126e0",
+      "slug": "explain-unfamiliar-code-or-mr",
+      "title": "Explain Unfamiliar Code or MR",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1fafca0126e0.json"
+    },
     {
       "id": "opl_5c4741d60816",
       "slug": "explainer-with-analogies",
@@ -1064,15 +1073,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_122302ecdd01.json"
-    },
-    {
-      "id": "opl_872cd23b943f",
-      "slug": "generate-literature-search-report",
-      "title": "Generate literature search report",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_872cd23b943f.json"
     }
   ]
 }

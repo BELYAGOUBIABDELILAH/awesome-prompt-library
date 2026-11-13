@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 24,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_dbb206a39070",
+      "slug": "stack-option-ideator",
+      "title": "Stack Option Ideator",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dbb206a39070.json"
+    },
     {
       "id": "opl_31460b67ba03",
       "slug": "stack-research-prompt-optimiser",
@@ -1078,15 +1087,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9577f7bc7046.json"
-    },
-    {
-      "id": "opl_1c5d259e88b9",
-      "slug": "system-prompt-auto-enhancer",
-      "title": "System Prompt Auto-Enhancer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c5d259e88b9.json"
     }
   ]
 }

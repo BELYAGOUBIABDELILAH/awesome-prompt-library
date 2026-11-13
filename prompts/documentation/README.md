@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**58 prompts in this category**
+**59 prompts in this category**
 
 ## Table of Contents
 
@@ -13,6 +13,7 @@
 - [Baby Gear Navigator](baby-gear-navigator.md)
 - [Break Down Epic into Issues](break-down-epic-into-issues.md)
 - [Categorize Features](categorize-features.md)
+- [Civil Service Job Application Writer](civil-service-job-application-writer.md)
 - [CMOS Citation Verification](cmos-citation-verification.md)
 - [Convert Documentation to Code Comments](convert-documentation-to-code-comments.md)
 - [Create Issue from Support Ticket](create-issue-from-support-ticket.md)

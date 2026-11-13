@@ -15000,6 +15000,16 @@
     "path": "prompts/documentation/documentation.md"
   },
   {
+    "act": "Civil Service Job Application Writer",
+    "category": "Documentation",
+    "prompt": "Generate a prompt that I can use to write the civil service job applications while considering the job specific requirements, criteria and person specifications to align with the required civil service behaviours",
+    "source": "kunledayo2000@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "civil-service-job-application-writer",
+    "folder": "documentation",
+    "path": "prompts/documentation/civil-service-job-application-writer.md"
+  },
+  {
     "act": "“How It Works” Educational Dioramas",
     "category": "Education & Learning",
     "prompt": "Create a clear, 45° top-down isometric miniature 3D educational diorama explaining [PROCESS / CONCEPT].\n\nUse soft refined textures, realistic PBR materials, and gentle lifelike lighting.\n\nBuild a stepped or layered diorama base showing each stage of the process with subtle arrows or paths.\n\nInclude tiny stylized figures interacting with each stage (no facial details).\n\nUse a clean solid ${background_color} background.\nAt the top-center, display ${process_name} in large bold text, directly beneath it show a short explanation subtitle, and place a minimal symbolic icon below.\n\nAll text must automatically match the background contrast (white or black).",

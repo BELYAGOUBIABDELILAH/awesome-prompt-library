@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 22,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_94e1b305e346",
+      "slug": "ridiculous-conspiracy-theory",
+      "title": "Ridiculous Conspiracy Theory",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94e1b305e346.json"
+    },
     {
       "id": "opl_f6145e29ee64",
       "slug": "rip-mckinsey-here-are-10-prompts-to-replace-expensive-busine",
@@ -1236,15 +1245,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06b4588734e8.json"
-    },
-    {
-      "id": "opl_ae8e9aab7202",
-      "slug": "setup-and-bootstrap-a-flutter-development-environment",
-      "title": "Setup and Bootstrap a Flutter Development Environment",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae8e9aab7202.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 17,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_835166ad7289",
+      "slug": "minimal-studio-iphone-candid-pro-quality-but-awkward-framing",
+      "title": "Minimal Studio “iPhone Candid” (pro-quality but awkward framing)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_835166ad7289.json"
+    },
     {
       "id": "opl_3f6de879debf",
       "slug": "minimal-web-compatible-food-order-app-development",
@@ -1056,15 +1065,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b7fd8ba3f8a.json"
-    },
-    {
-      "id": "opl_e4725ab756a4",
-      "slug": "night-shift-dessert-shop",
-      "title": "Night Shift Dessert Shop",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4725ab756a4.json"
     }
   ]
 }

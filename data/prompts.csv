@@ -73338,6 +73338,7 @@ If I say ""recall project [name]"" → fetch all memories and files associated w
 
 Your context follows you across Claude, ChatGPT, Gemini and any AI tool — automatically.",gabrielpitrella@gmail.com (prompts.chat),TEXT,memxus-memory-stop-repeating-yourself-to-ai,documentation,prompts/documentation/memxus-memory-stop-repeating-yourself-to-ai.md
 Documentation,Documentation,create me a proper documentation of this whole website that i have created in such a way that if s new person comes at my place so he/she can be able to understand what is happeing here and be able to use it efficiently,writwik.work@gmail.com (prompts.chat),TEXT,documentation,documentation,prompts/documentation/documentation.md
+Civil Service Job Application Writer,Documentation,"Generate a prompt that I can use to write the civil service job applications while considering the job specific requirements, criteria and person specifications to align with the required civil service behaviours",kunledayo2000@gmail.com (prompts.chat),TEXT,civil-service-job-application-writer,documentation,prompts/documentation/civil-service-job-application-writer.md
 “How It Works” Educational Dioramas,Education & Learning,"Create a clear, 45° top-down isometric miniature 3D educational diorama explaining [PROCESS / CONCEPT].
 
 Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.

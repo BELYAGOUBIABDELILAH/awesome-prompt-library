@@ -16782,6 +16782,15 @@
     "snippet": "Categorize the following feature list using MoSCoW prioritization: Features to categorize: [PASTE YOUR FEATURE LIST] Context for prioritization: - Product vision: [DESCRIBE] - Ta"
   },
   {
+    "id": "opl_cc79c65a28b9",
+    "title": "Civil Service Job Application Writer",
+    "category": "Documentation",
+    "folder": "documentation",
+    "slug": "civil-service-job-application-writer",
+    "variables": [],
+    "snippet": "Generate a prompt that I can use to write the civil service job applications while considering the job specific requirements, criteria and person specifications to align with the r"
+  },
+  {
     "id": "opl_3f6a89cacd26",
     "title": "CMOS Citation Verification",
     "category": "Documentation",

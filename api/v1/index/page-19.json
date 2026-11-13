@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 19,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_462a202d3fb3",
+      "slug": "personal-finance-apps-finder",
+      "title": "Personal Finance Apps Finder",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_462a202d3fb3.json"
+    },
     {
       "id": "opl_05283eb734f5",
       "slug": "personal-financial-adviosr",
@@ -1317,15 +1326,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c0d10b45fac.json"
-    },
-    {
-      "id": "opl_9acd384ab2bb",
-      "slug": "product-name-to-product-info",
-      "title": "Product Name To Product Info",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9acd384ab2bb.json"
     }
   ]
 }

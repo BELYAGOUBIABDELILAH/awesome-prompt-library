@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 7,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_60e962801e06",
+      "slug": "comprehensive-repository-analysis",
+      "title": "Comprehensive repository analysis",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_60e962801e06.json"
+    },
     {
       "id": "opl_5db9dac2bee8",
       "slug": "comprehensive-repository-analysis-and-bug-fixing-framework",
@@ -1221,32 +1230,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a78353ba786.json"
-    },
-    {
-      "id": "opl_5d8dabb04406",
-      "slug": "creative-storytelling-guide",
-      "title": "Creative Storytelling Guide",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "centralTheme",
-          "default": "adventure"
-        },
-        {
-          "name": "genre",
-          "default": "fantasy"
-        },
-        {
-          "name": "narrativeVoice",
-          "default": "third-person"
-        },
-        {
-          "name": "wordCount",
-          "default": "1000"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d8dabb04406.json"
     }
   ]
 }

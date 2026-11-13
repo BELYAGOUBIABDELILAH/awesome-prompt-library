@@ -1,8 +1,8 @@
 {
   "folder": "documentation",
   "name": "Documentation",
-  "last_updated": "2026-11-13T08:20:40.709Z",
-  "total": 58,
+  "last_updated": "2026-11-13T09:20:42.937Z",
+  "total": 59,
   "prompts": [
     {
       "id": "opl_aa81c6913b7f",
@@ -115,6 +115,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a1550b4f327.json"
+    },
+    {
+      "id": "opl_cc79c65a28b9",
+      "slug": "civil-service-job-application-writer",
+      "title": "Civil Service Job Application Writer",
+      "prompt": "Generate a prompt that I can use to write the civil service job applications while considering the job specific requirements, criteria and person specifications to align with the required civil service behaviours",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_098eefb1558c"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cc79c65a28b9.json"
     },
     {
       "id": "opl_3f6a89cacd26",

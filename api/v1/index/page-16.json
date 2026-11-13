@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 16,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_61c42a7d0d66",
+      "slug": "local-tts-guide",
+      "title": "Local TTS Guide",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_61c42a7d0d66.json"
+    },
     {
       "id": "opl_ee8836aa7c40",
       "slug": "logic-builder-tool",
@@ -1176,15 +1185,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e60c9c63cf8b.json"
-    },
-    {
-      "id": "opl_835166ad7289",
-      "slug": "minimal-studio-iphone-candid-pro-quality-but-awkward-framing",
-      "title": "Minimal Studio “iPhone Candid” (pro-quality but awkward framing)",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_835166ad7289.json"
     }
   ]
 }

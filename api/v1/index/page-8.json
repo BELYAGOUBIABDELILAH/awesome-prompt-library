@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-13T08:20:40.709Z",
+  "last_updated": "2026-11-13T09:20:42.937Z",
   "page": 8,
   "per_page": 100,
-  "total": 2709,
+  "total": 2710,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_5d8dabb04406",
+      "slug": "creative-storytelling-guide",
+      "title": "Creative Storytelling Guide",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "centralTheme",
+          "default": "adventure"
+        },
+        {
+          "name": "genre",
+          "default": "fantasy"
+        },
+        {
+          "name": "narrativeVoice",
+          "default": "third-person"
+        },
+        {
+          "name": "wordCount",
+          "default": "1000"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d8dabb04406.json"
+    },
     {
       "id": "opl_ad896a1c6058",
       "slug": "creative-writing-adventure",
@@ -1196,15 +1222,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e019fa9133c.json"
-    },
-    {
-      "id": "opl_e49fb76cee7c",
-      "slug": "dejargonizer",
-      "title": "Dejargonizer",
-      "category": "Travel & Places",
-      "folder": "travel-places",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e49fb76cee7c.json"
     }
   ]
 }
