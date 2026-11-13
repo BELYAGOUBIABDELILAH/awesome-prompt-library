@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 12,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_122302ecdd01",
+      "slug": "generate-issue-templates",
+      "title": "Generate Issue Templates",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_122302ecdd01.json"
+    },
     {
       "id": "opl_872cd23b943f",
       "slug": "generate-literature-search-report",
@@ -1031,15 +1040,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_48cf76228afa.json"
-    },
-    {
-      "id": "opl_0c1c1132886d",
-      "slug": "high-stakes-decision-support-system",
-      "title": "High-Stakes Decision Support System",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c1c1132886d.json"
     }
   ]
 }

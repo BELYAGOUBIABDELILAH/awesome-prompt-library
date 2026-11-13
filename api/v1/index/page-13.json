@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 13,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_0c1c1132886d",
+      "slug": "high-stakes-decision-support-system",
+      "title": "High-Stakes Decision Support System",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c1c1132886d.json"
+    },
     {
       "id": "opl_885eeb4b0741",
       "slug": "high-velocity-dogfight",
@@ -1068,28 +1077,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3c0cffe621a.json"
-    },
-    {
-      "id": "opl_21cb5c12c3e9",
-      "slug": "inference-scenario-automation-tool",
-      "title": "Inference Scenario Automation Tool",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [
-        {
-          "name": "executionParameters",
-          "default": null
-        },
-        {
-          "name": "inputData",
-          "default": null
-        },
-        {
-          "name": "modelName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_21cb5c12c3e9.json"
     }
   ]
 }

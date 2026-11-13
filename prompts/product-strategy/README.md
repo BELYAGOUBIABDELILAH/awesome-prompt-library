@@ -2,13 +2,14 @@
 
 [← Back to main index](../../README.md)
 
-**18 prompts in this category**
+**19 prompts in this category**
 
 ## Table of Contents
 
 - [AI Capability Advisor](ai-capability-advisor.md)
 - [Cable Identifier](cable-identifier.md)
 - [Character Infographic Questionnaire](character-infographic-questionnaire.md)
+- [Chic Minimalist Mirror Selfie](chic-minimalist-mirror-selfie.md)
 - [Feature Prioritization Framework Builder](feature-prioritization-framework-builder.md)
 - [Google Chrome Support](google-chrome-support.md)
 - [Growth Product Manager](growth-product-manager.md)

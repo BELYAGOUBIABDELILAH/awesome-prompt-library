@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 6,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_fa6745a266d2",
+      "slug": "cinematic-close-up-portrait-generation",
+      "title": "Cinematic Close-Up Portrait Generation",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa6745a266d2.json"
+    },
     {
       "id": "opl_cb426f49a4ac",
       "slug": "cinematic-ink-color-illustration-generator-gary-frank-style",
@@ -1220,20 +1229,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eea30a6592e2.json"
-    },
-    {
-      "id": "opl_45090acb1227",
-      "slug": "comprehensive-pos-application-development-with-fifo-and-repo",
-      "title": "Comprehensive POS Application Development with FIFO and Reporting",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "language",
-          "default": "next js"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45090acb1227.json"
     }
   ]
 }

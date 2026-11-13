@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 25,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_9577f7bc7046",
+      "slug": "system-prompt-auto-calibrater",
+      "title": "System Prompt Auto-Calibrater",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9577f7bc7046.json"
+    },
     {
       "id": "opl_1c5d259e88b9",
       "slug": "system-prompt-auto-enhancer",
@@ -963,15 +972,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_909fcf10072a.json"
-    },
-    {
-      "id": "opl_890be12694b3",
-      "slug": "the-prd-mastermind",
-      "title": "The PRD Mastermind",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_890be12694b3.json"
     }
   ]
 }

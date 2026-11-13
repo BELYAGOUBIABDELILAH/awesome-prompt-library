@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 5,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
@@ -858,6 +858,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85468cbec47a.json"
     },
     {
+      "id": "opl_53939353df6e",
+      "slug": "chic-minimalist-mirror-selfie",
+      "title": "Chic Minimalist Mirror Selfie",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53939353df6e.json"
+    },
+    {
       "id": "opl_8e9af8efd31e",
       "slug": "chief-executive-officer",
       "title": "Chief Executive Officer",
@@ -1080,15 +1089,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5c69fdcf7f4.json"
-    },
-    {
-      "id": "opl_fa6745a266d2",
-      "slug": "cinematic-close-up-portrait-generation",
-      "title": "Cinematic Close-Up Portrait Generation",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa6745a266d2.json"
     }
   ]
 }

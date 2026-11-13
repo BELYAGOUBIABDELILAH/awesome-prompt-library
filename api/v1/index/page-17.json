@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 17,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_e60c9c63cf8b",
+      "slug": "miniature-claymation-adventures-on-the-mushroom-cap",
+      "title": "Miniature Claymation Adventures on the Mushroom Cap",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e60c9c63cf8b.json"
+    },
     {
       "id": "opl_835166ad7289",
       "slug": "minimal-studio-iphone-candid-pro-quality-but-awkward-framing",
@@ -1056,15 +1065,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8f263c5147e8.json"
-    },
-    {
-      "id": "opl_9b7fd8ba3f8a",
-      "slug": "night-neon-alley-half-body-edgy",
-      "title": "Night Neon Alley (half-body, edgy)",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b7fd8ba3f8a.json"
     }
   ]
 }

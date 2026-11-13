@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 7,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_45090acb1227",
+      "slug": "comprehensive-pos-application-development-with-fifo-and-repo",
+      "title": "Comprehensive POS Application Development with FIFO and Reporting",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "language",
+          "default": "next js"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_45090acb1227.json"
+    },
     {
       "id": "opl_60e962801e06",
       "slug": "comprehensive-repository-analysis",
@@ -1221,15 +1235,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fca6c167ff32.json"
-    },
-    {
-      "id": "opl_2a78353ba786",
-      "slug": "creative-story-ghostwriter",
-      "title": "Creative Story Ghostwriter",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2a78353ba786.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 18,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_9b7fd8ba3f8a",
+      "slug": "night-neon-alley-half-body-edgy",
+      "title": "Night Neon Alley (half-body, edgy)",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b7fd8ba3f8a.json"
+    },
     {
       "id": "opl_e4725ab756a4",
       "slug": "night-shift-dessert-shop",
@@ -1028,15 +1037,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1becdfe8dd49.json"
-    },
-    {
-      "id": "opl_0135866ad428",
-      "slug": "personal-chef",
-      "title": "Personal Chef",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0135866ad428.json"
     }
   ]
 }

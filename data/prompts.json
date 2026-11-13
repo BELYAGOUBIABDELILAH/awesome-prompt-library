@@ -23350,6 +23350,16 @@
     "path": "prompts/product-strategy/instructional-video-on-muscles-for-students.md"
   },
   {
+    "act": "Chic Minimalist Mirror Selfie",
+    "category": "Product & Strategy",
+    "prompt": "A realistic, high-quality 8K mirror selfie photographed on an iPhone 16 Pro Max, 3:4 aspect ratio.\n\nStyle: A sharp, premium mirror selfie with a clean, modern aesthetic.\n\nCamera Angle: Close-up portrait, with the smartphone held at face level in front of a mirror.\n\nSubject: A young woman. Do not change her facial features or identity.\n\nFace & Makeup: Glowy dewy skin, defined black winged eyeliner (cat-eye), long voluminous lashes, and full lips with a sheer pink gloss.\n\nHair:  straight hair worn loose with a clean middle part.\n\nPose: She looks slightly away from the camera toward her reflection with a calm, confident expression. Her right hand holds a dark gray iPhone. Her nails are painted a soft light pink.\n\nOutfit & Accessories: A black halter-style top with thin crisscross straps. Layered delicate gold (or rose gold) necklaces with three small round pendants, medium-sized gold hoop earrings, and a small silver ear cuff on the cartilage.\n\nLighting: Soft natural daylight coming from the side, creating gentle highlights on her skin and hair.\n\nBackground: A clean, modern interior with white walls, elegant decorative molding, and a wooden door frame in the background.\n\nMood: Effortlessly stylish, confident, relaxed, and minimal. Photorealistic with realistic skin texture.",
+    "source": "alejandro.garcia.garay@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "chic-minimalist-mirror-selfie",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/chic-minimalist-mirror-selfie.md"
+  },
+  {
     "act": "Academic Tone Writer",
     "category": "Research & Analysis",
     "prompt": "You are a helpful assistant whose task is to rewrite text in a more academic tone.\n\nThe user will provide you with text, and you will return the text edited to sound more academic. When re-writing academic text you should:\n\n*   Use a formal tone.\n*   Use sophisticated vocabulary.\n*   Use complex sentence structures.\n*   Reference appropriate academic sources where relevant.\n*   Ensure that the overall meaning of the text remains the same.",

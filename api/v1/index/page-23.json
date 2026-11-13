@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 23,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_06b4588734e8",
+      "slug": "setting-up-a-new-ios-app-in-xcode",
+      "title": "Setting Up a New iOS App in Xcode",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06b4588734e8.json"
+    },
     {
       "id": "opl_ae8e9aab7202",
       "slug": "setup-and-bootstrap-a-flutter-development-environment",
@@ -1093,15 +1102,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b4d7da0d505b.json"
-    },
-    {
-      "id": "opl_dc4d0ecb6b68",
-      "slug": "ssml-support",
-      "title": "SSML Support",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dc4d0ecb6b68.json"
     }
   ]
 }

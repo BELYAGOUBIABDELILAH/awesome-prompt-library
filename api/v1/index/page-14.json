@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 14,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_21cb5c12c3e9",
+      "slug": "inference-scenario-automation-tool",
+      "title": "Inference Scenario Automation Tool",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [
+        {
+          "name": "executionParameters",
+          "default": null
+        },
+        {
+          "name": "inputData",
+          "default": null
+        },
+        {
+          "name": "modelName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_21cb5c12c3e9.json"
+    },
     {
       "id": "opl_1ed657de4f7d",
       "slug": "influencer-candid-bedtime-selfie",
@@ -1042,15 +1064,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e041dff2f33a.json"
-    },
-    {
-      "id": "opl_e3c6b9e653c6",
-      "slug": "karpathy-guidelines",
-      "title": "karpathy-guidelines",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e3c6b9e653c6.json"
     }
   ]
 }

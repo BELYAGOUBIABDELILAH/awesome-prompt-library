@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T10:20:43.424Z",
+  "last_updated": "2026-11-13T11:20:43.009Z",
   "page": 19,
   "per_page": 100,
-  "total": 2711,
+  "total": 2712,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_0135866ad428",
+      "slug": "personal-chef",
+      "title": "Personal Chef",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0135866ad428.json"
+    },
     {
       "id": "opl_462a202d3fb3",
       "slug": "personal-finance-apps-finder",
@@ -1317,15 +1326,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57ee0e190d11.json"
-    },
-    {
-      "id": "opl_0c0d10b45fac",
-      "slug": "product-marketing-narrative-builder",
-      "title": "Product Marketing Narrative Builder",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0c0d10b45fac.json"
     }
   ]
 }
