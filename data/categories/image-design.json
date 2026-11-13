@@ -3968,5 +3968,15 @@
     "slug": "past-question",
     "folder": "image-design",
     "path": "prompts/image-design/past-question.md"
+  },
+  {
+    "act": "Design shirt",
+    "category": "Image & Design",
+    "prompt": "I want u design me a premium shirt iconic,no much details on shirt and \n\ncool",
+    "source": "emchanhengly553@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "design-shirt",
+    "folder": "image-design",
+    "path": "prompts/image-design/design-shirt.md"
   }
 ]
