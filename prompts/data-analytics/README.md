@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**173 prompts in this category**
+**174 prompts in this category**
 
 ## Table of Contents
 
@@ -168,6 +168,7 @@
 - [Statistic Finder](statistic-finder.md)
 - [Statistician](statistician.md)
 - [Statistics Checker](statistics-checker.md)
+- [Subject-Wise School Performance Dashboard Generator](subject-wise-school-performance-dashboard-generator.md)
 - [Sustainable Living Advisor](sustainable-living-advisor.md)
 - [System Prompt Editor - Add RAG](system-prompt-editor-add-rag.md)
 - [System Prompt Parameter Calculator](system-prompt-parameter-calculator.md)

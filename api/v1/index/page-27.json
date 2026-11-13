@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T14:20:41.258Z",
+  "last_updated": "2026-11-13T15:20:41.279Z",
   "page": 27,
   "per_page": 100,
-  "total": 2715,
+  "total": 2716,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_6a6f6794942e",
+      "slug": "universal-job-fit-evaluation-prompt",
+      "title": "Universal Job Fit Evaluation Prompt",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a6f6794942e.json"
+    },
     {
       "id": "opl_64545dfe6e54",
       "slug": "universal-lead-candidate-outreach-generator-hr-sales",
@@ -1296,15 +1305,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ad60a317a07.json"
-    },
-    {
-      "id": "opl_8ac7ec2469b3",
-      "slug": "young-saudi-doctor-in-a-professional-setting",
-      "title": "Young Saudi Doctor in a Professional Setting",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8ac7ec2469b3.json"
     }
   ]
 }

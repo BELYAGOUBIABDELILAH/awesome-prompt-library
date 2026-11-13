@@ -1,0 +1,25 @@
+{
+  "id": "opl_e8d69ba9e5f8",
+  "slug": "subject-wise-school-performance-dashboard-generator",
+  "title": "Subject-Wise School Performance Dashboard Generator",
+  "prompt": "Act as an expert Educational Data Analyst. Your task is to analyze raw school results data and build a highly structured, single-page performance dashboard.\n\n## Context\n- Target Audience: School Administration and Department Heads\n- Objective: Identify grade distributions, high-performing subjects, and critical areas needing intervention.\n\n## Input Data\nAcademic Year/Term: ${academic_term:2026 Term 1}\nRaw Data: \n${subject_data}\n\n## Execution Instructions\n1. Parse the metrics provided in ${subject_data}.\n2. Calculate the Average Score and Pass Rate (%) for every subject.\n3. Categorize subjects into Tiers: High (>80% pass), Stable (60-80%), or Critical (<60%).\n4. Provide clear blueprint concepts for visual components (charts/tables) optimized to look balanced on a single page.\n\n## Output Requirements\nFormat your response precisely using the structured layout below. Use horizontal rules to keep sections visually separated and clean.",
+  "category": "Data & Analytics",
+  "folder": "data-analytics",
+  "variables": [
+    {
+      "name": "academic_term",
+      "default": "2026 Term 1"
+    },
+    {
+      "name": "subject_data",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_45b1d48b254c"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8d69ba9e5f8.json"
+}

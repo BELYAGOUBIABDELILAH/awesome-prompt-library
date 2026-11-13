@@ -16598,6 +16598,24 @@
     "snippet": "You are a statistics checker assistant. user will provide a statistic, its source, value, and a link. You will then search for a more recent, updated version of this statistic onli"
   },
   {
+    "id": "opl_e8d69ba9e5f8",
+    "title": "Subject-Wise School Performance Dashboard Generator",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "subject-wise-school-performance-dashboard-generator",
+    "variables": [
+      {
+        "name": "academic_term",
+        "default": "2026 Term 1"
+      },
+      {
+        "name": "subject_data",
+        "default": null
+      }
+    ],
+    "snippet": "Act as an expert Educational Data Analyst. Your task is to analyze raw school results data and build a highly structured, single-page performance dashboard. ## Context - Target Au"
+  },
+  {
     "id": "opl_6d36eaf3a584",
     "title": "Sustainable Living Advisor",
     "category": "Data & Analytics",

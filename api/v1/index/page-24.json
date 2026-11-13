@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T14:20:41.258Z",
+  "last_updated": "2026-11-13T15:20:41.279Z",
   "page": 24,
   "per_page": 100,
-  "total": 2715,
+  "total": 2716,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
@@ -753,6 +753,24 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a948faafcb74.json"
     },
     {
+      "id": "opl_e8d69ba9e5f8",
+      "slug": "subject-wise-school-performance-dashboard-generator",
+      "title": "Subject-Wise School Performance Dashboard Generator",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [
+        {
+          "name": "academic_term",
+          "default": "2026 Term 1"
+        },
+        {
+          "name": "subject_data",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8d69ba9e5f8.json"
+    },
+    {
       "id": "opl_875a8016b02f",
       "slug": "subreddit-digest",
       "title": "Subreddit Digest",
@@ -1091,15 +1109,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bbb0ae748cd.json"
-    },
-    {
-      "id": "opl_2aace31f0fee",
-      "slug": "sys-admin-support-general",
-      "title": "Sys Admin Support (General)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2aace31f0fee.json"
     }
   ]
 }

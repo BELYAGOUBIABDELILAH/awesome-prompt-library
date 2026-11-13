@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T14:20:41.258Z",
+  "last_updated": "2026-11-13T15:20:41.279Z",
   "page": 26,
   "per_page": 100,
-  "total": 2715,
+  "total": 2716,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_7ecf558fa4b7",
+      "slug": "the-missing-woman",
+      "title": "The Missing Woman",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ecf558fa4b7.json"
+    },
     {
       "id": "opl_ec998a24493b",
       "slug": "the-paradoxical-soundscape-ancient-acoustic-mysteries-video-exploration",
@@ -1039,15 +1048,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8b5d4709d75.json"
-    },
-    {
-      "id": "opl_6a6f6794942e",
-      "slug": "universal-job-fit-evaluation-prompt",
-      "title": "Universal Job Fit Evaluation Prompt",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a6f6794942e.json"
     }
   ]
 }
