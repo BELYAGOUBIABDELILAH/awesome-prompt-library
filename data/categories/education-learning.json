@@ -758,5 +758,15 @@
     "slug": "exam-science-study-notes",
     "folder": "education-learning",
     "path": "prompts/education-learning/exam-science-study-notes.md"
+  },
+  {
+    "act": "Give me text book to learn Spanish with Myanmar language",
+    "category": "Education & Learning",
+    "prompt": "Give me note book to learn Spanish with Myanmar translation",
+    "source": "thinn666@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "give-me-text-book-to-learn-spanish-with-myanmar-language",
+    "folder": "education-learning",
+    "path": "prompts/education-learning/give-me-text-book-to-learn-spanish-with-myanmar-language.md"
   }
 ]
