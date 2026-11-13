@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T17:20:42.497Z",
+  "last_updated": "2026-11-13T18:20:45.062Z",
   "page": 27,
   "per_page": 100,
-  "total": 2718,
+  "total": 2719,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_1e6d6d6a9784",
+      "slug": "unit-tester-assistant",
+      "title": "Unit Tester Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e6d6d6a9784.json"
+    },
     {
       "id": "opl_3f755250c62c",
       "slug": "unity-architecture-specialist",
@@ -1296,15 +1305,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dfb8b9f04e6a.json"
-    },
-    {
-      "id": "opl_bf45e3b25b5b",
-      "slug": "yes-or-no-answer",
-      "title": "Yes or No answer",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf45e3b25b5b.json"
     }
   ]
 }

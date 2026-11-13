@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T17:20:42.497Z",
+  "last_updated": "2026-11-13T18:20:45.062Z",
   "page": 22,
   "per_page": 100,
-  "total": 2718,
+  "total": 2719,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_b19d00293443",
+      "slug": "review-the-social-media-content",
+      "title": "Review the social media content",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b19d00293443.json"
+    },
     {
       "id": "opl_872a6625c5f6",
       "slug": "rewrite-in-third-person",
@@ -1224,15 +1233,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f90a3143523e.json"
-    },
-    {
-      "id": "opl_4f22b03fbff1",
-      "slug": "serene-yoga-mindfulness-lifestyle-photography",
-      "title": "Serene Yoga & Mindfulness Lifestyle Photography",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f22b03fbff1.json"
     }
   ]
 }

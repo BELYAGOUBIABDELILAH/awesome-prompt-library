@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T17:20:42.497Z",
+  "last_updated": "2026-11-13T18:20:45.062Z",
   "page": 25,
   "per_page": 100,
-  "total": 2718,
+  "total": 2719,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_54ca5d9953a4",
+      "slug": "synthetic-data-creation-assistant",
+      "title": "Synthetic Data Creation Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54ca5d9953a4.json"
+    },
     {
       "id": "opl_7bbb0ae748cd",
       "slug": "synthetic-pii-data-generation",
@@ -963,15 +972,6 @@
       "folder": "product-strategy",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_85b155f35397.json"
-    },
-    {
-      "id": "opl_1aee54f7cb21",
-      "slug": "the-midnight-informant",
-      "title": "The Midnight Informant",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1aee54f7cb21.json"
     }
   ]
 }

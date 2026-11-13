@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T17:20:42.497Z",
+  "last_updated": "2026-11-13T18:20:45.062Z",
   "page": 26,
   "per_page": 100,
-  "total": 2718,
+  "total": 2719,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_1aee54f7cb21",
+      "slug": "the-midnight-informant",
+      "title": "The Midnight Informant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1aee54f7cb21.json"
+    },
     {
       "id": "opl_6275fc2ba77c",
       "slug": "the-midnight-melody-mystery",
@@ -1039,15 +1048,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a1e5a26206d.json"
-    },
-    {
-      "id": "opl_1e6d6d6a9784",
-      "slug": "unit-tester-assistant",
-      "title": "Unit Tester Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e6d6d6a9784.json"
     }
   ]
 }

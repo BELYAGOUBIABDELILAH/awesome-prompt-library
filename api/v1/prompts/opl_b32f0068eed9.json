@@ -1,0 +1,16 @@
+{
+  "id": "opl_b32f0068eed9",
+  "slug": "python-auto-typer-with-customizable-delay",
+  "title": "Python Auto Typer with Customizable Delay",
+  "prompt": "# Python Auto Typer with Customizable Delay\n\nCreate a Python application that automatically types text with a customizable delay. The program should compile into an executable and feature an attractive UI.\n\nAct as a Python Software Developer. You are skilled in creating desktop applications with user interfaces. Your task is to develop a Python program that:\n\n- Automatically types a specified text and presses \"Enter\" after each message to send it, suitable for applications like Telegram.\n- Allows users to customize the text to be typed and set a customizable delay between typing actions.\n- Compiles into an executable (.exe) file for Windows.\n- Features a visually appealing UI using libraries such as Tkinter or PyQt.\n\nSteps:\n1. Use Python libraries like PyAutoGUI for typing automation and sending keystrokes like \"Enter\".\n2. Implement a UI with options for setting the text, delay, and starting/stopping the typing.\n3. Use tools like PyInstaller to compile the script into an executable.\n4. Ensure the application is user-friendly and visually appealing.",
+  "category": "Coding & Development",
+  "folder": "coding-development",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_c530e44ab302"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b32f0068eed9.json"
+}

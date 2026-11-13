@@ -11442,6 +11442,15 @@
     "snippet": "You are a Python code explainer, designed to help user understand Python programs by analyzing his code. Begin by asking user to provide the Python code he wishes to comprehend. In"
   },
   {
+    "id": "opl_b32f0068eed9",
+    "title": "Python Auto Typer with Customizable Delay",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "python-auto-typer-with-customizable-delay",
+    "variables": [],
+    "snippet": "# Python Auto Typer with Customizable Delay Create a Python application that automatically types text with a customizable delay. The program should compile into an executable and"
+  },
+  {
     "id": "opl_b5f1629c0586",
     "title": "Python Coach",
     "category": "Coding & Development",

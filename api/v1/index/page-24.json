@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T17:20:42.497Z",
+  "last_updated": "2026-11-13T18:20:45.062Z",
   "page": 24,
   "per_page": 100,
-  "total": 2718,
+  "total": 2719,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_cddfcd9642dc",
+      "slug": "sql-query-generator-from-natural-language",
+      "title": "SQL Query Generator from Natural Language",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cddfcd9642dc.json"
+    },
     {
       "id": "opl_02d65d0b5ea1",
       "slug": "sql-terminal",
@@ -1100,15 +1109,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f82dc3f18e6.json"
-    },
-    {
-      "id": "opl_54ca5d9953a4",
-      "slug": "synthetic-data-creation-assistant",
-      "title": "Synthetic Data Creation Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54ca5d9953a4.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T17:20:42.497Z",
+  "last_updated": "2026-11-13T18:20:45.062Z",
   "page": 23,
   "per_page": 100,
-  "total": 2718,
+  "total": 2719,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_4f22b03fbff1",
+      "slug": "serene-yoga-mindfulness-lifestyle-photography",
+      "title": "Serene Yoga & Mindfulness Lifestyle Photography",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f22b03fbff1.json"
+    },
     {
       "id": "opl_4c4a8fd16e77",
       "slug": "serious-man-in-urban-setting",
@@ -1097,15 +1106,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a055d0735baf.json"
-    },
-    {
-      "id": "opl_cddfcd9642dc",
-      "slug": "sql-query-generator-from-natural-language",
-      "title": "SQL Query Generator from Natural Language",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cddfcd9642dc.json"
     }
   ]
 }

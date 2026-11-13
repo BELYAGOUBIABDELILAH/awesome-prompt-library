@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T17:20:42.497Z",
+  "last_updated": "2026-11-13T18:20:45.062Z",
   "page": 21,
   "per_page": 100,
-  "total": 2718,
+  "total": 2719,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_ced85f1028dd",
+      "slug": "python-security-vulnerability-auditor-owasp-mapped-production-hardened",
+      "title": "Python Security Vulnerability Auditor (OWASP-Mapped & Production-Hardened)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ced85f1028dd.json"
+    },
     {
       "id": "opl_9b4c2ad2ac23",
       "slug": "python-tool-finder",
@@ -1056,15 +1065,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_236a63502e08.json"
-    },
-    {
-      "id": "opl_b19d00293443",
-      "slug": "review-the-social-media-content",
-      "title": "Review the social media content",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b19d00293443.json"
     }
   ]
 }

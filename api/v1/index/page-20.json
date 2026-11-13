@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T17:20:42.497Z",
+  "last_updated": "2026-11-13T18:20:45.062Z",
   "page": 20,
   "per_page": 100,
-  "total": 2718,
+  "total": 2719,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
@@ -1039,6 +1039,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91aeadf434c6.json"
     },
     {
+      "id": "opl_b32f0068eed9",
+      "slug": "python-auto-typer-with-customizable-delay",
+      "title": "Python Auto Typer with Customizable Delay",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b32f0068eed9.json"
+    },
+    {
       "id": "opl_b5f1629c0586",
       "slug": "python-coach",
       "title": "Python Coach",
@@ -1128,15 +1137,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9842a6d90eb0.json"
-    },
-    {
-      "id": "opl_ced85f1028dd",
-      "slug": "python-security-vulnerability-auditor-owasp-mapped-production-hardened",
-      "title": "Python Security Vulnerability Auditor (OWASP-Mapped & Production-Hardened)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ced85f1028dd.json"
     }
   ]
 }

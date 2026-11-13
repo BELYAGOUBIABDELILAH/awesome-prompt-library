@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1086 prompts in this category**
+**1087 prompts in this category**
 
 ## Table of Contents
 
@@ -777,6 +777,7 @@
 - [Pull Request Review Assistant](pull-request-review-assistant.md)
 - [python](python.md)
 - [Python - Learn By Example](python-learn-by-example.md)
+- [Python Auto Typer with Customizable Delay](python-auto-typer-with-customizable-delay.md)
 - [Python Coach](python-coach.md)
 - [Python Code Generator — Clean, Optimized & Production-Ready](python-code-generator-clean-optimized-production-ready.md)
 - [Python Code Performance & Quality Enhancer](python-code-performance-quality-enhancer.md)

@@ -68062,6 +68062,22 @@ Rules:
 - The script must run without manual keyboard interaction
 - Ensure the interval and text are easy to update
 - The script should be efficient and lightweight",IcyMost (prompts.chat),TEXT,automated-text-typing-every-5-minutes-with-python,coding-development,prompts/coding-development/automated-text-typing-every-5-minutes-with-python.md
+Python Auto Typer with Customizable Delay,Coding & Development,"# Python Auto Typer with Customizable Delay
+
+Create a Python application that automatically types text with a customizable delay. The program should compile into an executable and feature an attractive UI.
+
+Act as a Python Software Developer. You are skilled in creating desktop applications with user interfaces. Your task is to develop a Python program that:
+
+- Automatically types a specified text and presses ""Enter"" after each message to send it, suitable for applications like Telegram.
+- Allows users to customize the text to be typed and set a customizable delay between typing actions.
+- Compiles into an executable (.exe) file for Windows.
+- Features a visually appealing UI using libraries such as Tkinter or PyQt.
+
+Steps:
+1. Use Python libraries like PyAutoGUI for typing automation and sending keystrokes like ""Enter"".
+2. Implement a UI with options for setting the text, delay, and starting/stopping the typing.
+3. Use tools like PyInstaller to compile the script into an executable.
+4. Ensure the application is user-friendly and visually appealing.",fennix912@gmail.com (prompts.chat),TEXT,python-auto-typer-with-customizable-delay,coding-development,prompts/coding-development/python-auto-typer-with-customizable-delay.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",
