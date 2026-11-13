@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 21,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_f951d8d6f0af",
+      "slug": "python-unit-test-generator-comprehensive-coverage-mapped-production-ready",
+      "title": "Python Unit Test Generator — Comprehensive, Coverage-Mapped & Production-Ready",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f951d8d6f0af.json"
+    },
     {
       "id": "opl_4bd7e617e524",
       "slug": "quality-engineering-agent-role",
@@ -1056,15 +1065,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_872a6625c5f6.json"
-    },
-    {
-      "id": "opl_92eb899c7b8d",
-      "slug": "rfq",
-      "title": "RFQ",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_92eb899c7b8d.json"
     }
   ]
 }

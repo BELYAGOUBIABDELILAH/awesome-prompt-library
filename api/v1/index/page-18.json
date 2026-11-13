@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 18,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_8f263c5147e8",
+      "slug": "night-club",
+      "title": "Night club",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8f263c5147e8.json"
+    },
     {
       "id": "opl_9b7fd8ba3f8a",
       "slug": "night-neon-alley-half-body-edgy",
@@ -1028,15 +1037,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53220a500f01.json"
-    },
-    {
-      "id": "opl_1becdfe8dd49",
-      "slug": "personal-branding-ideator",
-      "title": "Personal Branding Ideator",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1becdfe8dd49.json"
     }
   ]
 }

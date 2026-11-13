@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 8,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_fca6c167ff32",
+      "slug": "creative-short-story-writing",
+      "title": "Creative Short Story Writing",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "name",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fca6c167ff32.json"
+    },
     {
       "id": "opl_2a78353ba786",
       "slug": "creative-story-ghostwriter",
@@ -1208,15 +1222,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_00f974471413.json"
-    },
-    {
-      "id": "opl_8e50cdbc4c83",
-      "slug": "deep-research-architect",
-      "title": "Deep Research Architect",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e50cdbc4c83.json"
     }
   ]
 }

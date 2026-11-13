@@ -1,12 +1,86 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 27,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_64545dfe6e54",
+      "slug": "universal-lead-candidate-outreach-generator-hr-sales",
+      "title": "Universal Lead & Candidate Outreach Generator (HR, SALES)",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "calendly_link",
+          "default": null
+        },
+        {
+          "name": "company_name",
+          "default": null
+        },
+        {
+          "name": "firstname",
+          "default": null
+        },
+        {
+          "name": "functional_responsibilities",
+          "default": null
+        },
+        {
+          "name": "job_link",
+          "default": null
+        },
+        {
+          "name": "job_title",
+          "default": null
+        },
+        {
+          "name": "lastname",
+          "default": null
+        },
+        {
+          "name": "location",
+          "default": null
+        },
+        {
+          "name": "pain_point_inferred_from_pdf",
+          "default": null
+        },
+        {
+          "name": "recruiter_name",
+          "default": null
+        },
+        {
+          "name": "sales_representative_name",
+          "default": null
+        },
+        {
+          "name": "service_name",
+          "default": null
+        },
+        {
+          "name": "short_description",
+          "default": null
+        },
+        {
+          "name": "tech_stack",
+          "default": null
+        },
+        {
+          "name": "technical_scope_extracted_from_pdf",
+          "default": null
+        },
+        {
+          "name": "value_proposition",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_64545dfe6e54.json"
+    },
     {
       "id": "opl_1ee9fb569d89",
       "slug": "universal-system-design-prompt",
@@ -1231,15 +1305,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8ac7ec2469b3.json"
-    },
-    {
-      "id": "opl_3e230e2e86a5",
-      "slug": "young-woman-with-mixed-ethnicity-features",
-      "title": "Young woman with mixed ethnicity features",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e230e2e86a5.json"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**256 prompts in this category**
+**257 prompts in this category**
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@
 - [Academician](academician.md)
 - [Accessibility Auditor](accessibility-auditor.md)
 - [Act as a Resume Reviewer](act-as-a-resume-reviewer.md)
+- [Act as my Instagram reel script writer and write a script which have strong hook, engaging body,and strong end. And zero skip rate](act-as-my-instagram-reel-script-writer-and-write-a-script-wh.md)
 - [Agent Organization Expert](agent-organization-expert.md)
 - [AI Agent Security Evaluation Checklist](ai-agent-security-evaluation-checklist.md)
 - [AI Assistant for University Assignments](ai-assistant-for-university-assignments.md)

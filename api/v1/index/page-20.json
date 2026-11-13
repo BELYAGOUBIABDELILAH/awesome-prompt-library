@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 20,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_57ee0e190d11",
+      "slug": "product-manager",
+      "title": "Product Manager",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57ee0e190d11.json"
+    },
     {
       "id": "opl_0c0d10b45fac",
       "slug": "product-marketing-narrative-builder",
@@ -1128,15 +1137,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b4c2ad2ac23.json"
-    },
-    {
-      "id": "opl_f951d8d6f0af",
-      "slug": "python-unit-test-generator-comprehensive-coverage-mapped-production-ready",
-      "title": "Python Unit Test Generator — Comprehensive, Coverage-Mapped & Production-Ready",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f951d8d6f0af.json"
     }
   ]
 }

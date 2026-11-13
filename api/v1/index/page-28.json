@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 28,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_3e230e2e86a5",
+      "slug": "young-woman-with-mixed-ethnicity-features",
+      "title": "Young woman with mixed ethnicity features",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3e230e2e86a5.json"
+    },
     {
       "id": "opl_e116906ec90f",
       "slug": "youtube-script-engine-high-retention",

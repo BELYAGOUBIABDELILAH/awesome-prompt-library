@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 17,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_bf5922525f7d",
+      "slug": "minecraft-image",
+      "title": "Minecraft image",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf5922525f7d.json"
+    },
     {
       "id": "opl_e60c9c63cf8b",
       "slug": "miniature-claymation-adventures-on-the-mushroom-cap",
@@ -1056,15 +1065,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b02b76ece173.json"
-    },
-    {
-      "id": "opl_8f263c5147e8",
-      "slug": "night-club",
-      "title": "Night club",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8f263c5147e8.json"
     }
   ]
 }

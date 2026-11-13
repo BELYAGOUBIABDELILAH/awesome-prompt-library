@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 14,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_a3c0cffe621a",
+      "slug": "industry-market-intelligence",
+      "title": "Industry/Market Intelligence",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "Date Range",
+          "default": null
+        },
+        {
+          "name": "Industry",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3c0cffe621a.json"
+    },
     {
       "id": "opl_21cb5c12c3e9",
       "slug": "inference-scenario-automation-tool",
@@ -1055,15 +1073,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bb07164997f.json"
-    },
-    {
-      "id": "opl_e041dff2f33a",
-      "slug": "kanban-board",
-      "title": "Kanban Board",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e041dff2f33a.json"
     }
   ]
 }

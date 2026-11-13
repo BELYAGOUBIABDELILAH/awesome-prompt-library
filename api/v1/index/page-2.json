@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 2,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index.json",
@@ -178,6 +178,15 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb1539f418b6.json"
+    },
+    {
+      "id": "opl_803587acdbc3",
+      "slug": "act-as-my-instagram-reel-script-writer-and-write-a-script-wh",
+      "title": "Act as my Instagram reel script writer and write a script which have strong hook, engaging body,and strong end. And zero skip rate",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_803587acdbc3.json"
     },
     {
       "id": "opl_b382de4bccd8",
@@ -1163,15 +1172,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ade15f194d7f.json"
-    },
-    {
-      "id": "opl_b47865ae8c4c",
-      "slug": "ai-use-case-ideation-assistant",
-      "title": "AI Use-Case Ideation Assistant",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b47865ae8c4c.json"
     }
   ]
 }

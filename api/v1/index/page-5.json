@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 5,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prompts": [
+    {
+      "id": "opl_1c634925633e",
+      "slug": "brief-generator-general-purpose",
+      "title": "Brief Generator (General Purpose)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c634925633e.json"
+    },
     {
       "id": "opl_f00f2c1fe19e",
       "slug": "brief-the-bot",
@@ -1080,15 +1089,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_98d613a70c02.json"
-    },
-    {
-      "id": "opl_d5c69fdcf7f4",
-      "slug": "cinematic-close-up-of-craftsman-with-paper-figures",
-      "title": "Cinematic Close-Up of Craftsman with Paper Figures",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5c69fdcf7f4.json"
     }
   ]
 }

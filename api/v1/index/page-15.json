@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 15,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_e041dff2f33a",
+      "slug": "kanban-board",
+      "title": "Kanban Board",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e041dff2f33a.json"
+    },
     {
       "id": "opl_e3c6b9e653c6",
       "slug": "karpathy-guidelines",
@@ -1040,15 +1049,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bcbefcd1bd38.json"
-    },
-    {
-      "id": "opl_b1800d5b54fe",
-      "slug": "local-llm-hardware-assessor",
-      "title": "Local LLM Hardware Assessor",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1800d5b54fe.json"
     }
   ]
 }

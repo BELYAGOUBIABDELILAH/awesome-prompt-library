@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 26,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_ec998a24493b",
+      "slug": "the-paradoxical-soundscape-ancient-acoustic-mysteries-video-exploration",
+      "title": "The Paradoxical Soundscape: Ancient Acoustic Mysteries Video Exploration",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec998a24493b.json"
+    },
     {
       "id": "opl_909fcf10072a",
       "slug": "the-pragmatic-architect-mastering-tech-with-humor-and-precis",
@@ -1039,80 +1048,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6a6f6794942e.json"
-    },
-    {
-      "id": "opl_64545dfe6e54",
-      "slug": "universal-lead-candidate-outreach-generator-hr-sales",
-      "title": "Universal Lead & Candidate Outreach Generator (HR, SALES)",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "calendly_link",
-          "default": null
-        },
-        {
-          "name": "company_name",
-          "default": null
-        },
-        {
-          "name": "firstname",
-          "default": null
-        },
-        {
-          "name": "functional_responsibilities",
-          "default": null
-        },
-        {
-          "name": "job_link",
-          "default": null
-        },
-        {
-          "name": "job_title",
-          "default": null
-        },
-        {
-          "name": "lastname",
-          "default": null
-        },
-        {
-          "name": "location",
-          "default": null
-        },
-        {
-          "name": "pain_point_inferred_from_pdf",
-          "default": null
-        },
-        {
-          "name": "recruiter_name",
-          "default": null
-        },
-        {
-          "name": "sales_representative_name",
-          "default": null
-        },
-        {
-          "name": "service_name",
-          "default": null
-        },
-        {
-          "name": "short_description",
-          "default": null
-        },
-        {
-          "name": "tech_stack",
-          "default": null
-        },
-        {
-          "name": "technical_scope_extracted_from_pdf",
-          "default": null
-        },
-        {
-          "name": "value_proposition",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_64545dfe6e54.json"
     }
   ]
 }

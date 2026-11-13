@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 3,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-2.json",
   "prompts": [
+    {
+      "id": "opl_b47865ae8c4c",
+      "slug": "ai-use-case-ideation-assistant",
+      "title": "AI Use-Case Ideation Assistant",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b47865ae8c4c.json"
+    },
     {
       "id": "opl_91eb97550878",
       "slug": "ai-video-creation-assistant",
@@ -1120,15 +1129,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19c100086884.json"
-    },
-    {
-      "id": "opl_cea78ab8cf13",
-      "slug": "assistant-ideator-user-defined-topic",
-      "title": "Assistant Ideator - User-Defined Topic",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cea78ab8cf13.json"
     }
   ]
 }

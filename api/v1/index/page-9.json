@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 9,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_8e50cdbc4c83",
+      "slug": "deep-research-architect",
+      "title": "Deep Research Architect",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e50cdbc4c83.json"
+    },
     {
       "id": "opl_2e019fa9133c",
       "slug": "default-meeting-summary",
@@ -1165,15 +1174,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e3a433d4c6.json"
-    },
-    {
-      "id": "opl_f79433021405",
-      "slug": "dramatic-digital-painting-of-a-solitary-figure-in-a-snowy-landscape",
-      "title": "Dramatic Digital Painting of a Solitary Figure in a Snowy Landscape",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f79433021405.json"
     }
   ]
 }

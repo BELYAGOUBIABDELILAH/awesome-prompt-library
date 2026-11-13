@@ -1,8 +1,8 @@
 {
   "folder": "writing-content",
   "name": "Writing & Content",
-  "last_updated": "2026-11-13T13:20:47.708Z",
-  "total": 256,
+  "last_updated": "2026-11-13T14:20:41.258Z",
+  "total": 257,
   "prompts": [
     {
       "id": "opl_03ba957d0a22",
@@ -320,6 +320,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_357c47f5ad7d.json"
+    },
+    {
+      "id": "opl_803587acdbc3",
+      "slug": "act-as-my-instagram-reel-script-writer-and-write-a-script-wh",
+      "title": "Act as my Instagram reel script writer and write a script which have strong hook, engaging body,and strong end. And zero skip rate",
+      "prompt": "Act as my Instagram reel script writer and write a script which have strong hook, engaging body,and strong end. And zero skip rate",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_500cff3362f3"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_803587acdbc3.json"
     },
     {
       "id": "opl_1faa6db16ee3",

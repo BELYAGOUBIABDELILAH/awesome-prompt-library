@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 11,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_3c1caffe27c4",
+      "slug": "explain-technical-concepts-to-non-technical-users",
+      "title": "Explain Technical Concepts to Non-Technical Users",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c1caffe27c4.json"
+    },
     {
       "id": "opl_c40c464b0447",
       "slug": "explain-test-failures",
@@ -1051,28 +1060,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_13baafad159c.json"
-    },
-    {
-      "id": "opl_090de360048b",
-      "slug": "generate-implementation-ideas-from-word-document",
-      "title": "Generate Implementation Ideas from Word Document",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "documentContent",
-          "default": null
-        },
-        {
-          "name": "ideaDescription",
-          "default": null
-        },
-        {
-          "name": "moduleName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_090de360048b.json"
     }
   ]
 }

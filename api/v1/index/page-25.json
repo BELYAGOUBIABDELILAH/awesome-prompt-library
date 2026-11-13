@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 25,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_f13b41d091b5",
+      "slug": "system-architect-agent-role",
+      "title": "System Architect Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f13b41d091b5.json"
+    },
     {
       "id": "opl_7e134bd3b01a",
       "slug": "system-prompt-architect",
@@ -963,15 +972,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ecf558fa4b7.json"
-    },
-    {
-      "id": "opl_ec998a24493b",
-      "slug": "the-paradoxical-soundscape-ancient-acoustic-mysteries-video-exploration",
-      "title": "The Paradoxical Soundscape: Ancient Acoustic Mysteries Video Exploration",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ec998a24493b.json"
     }
   ]
 }

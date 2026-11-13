@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 6,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_d5c69fdcf7f4",
+      "slug": "cinematic-close-up-of-craftsman-with-paper-figures",
+      "title": "Cinematic Close-Up of Craftsman with Paper Figures",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5c69fdcf7f4.json"
+    },
     {
       "id": "opl_fa6745a266d2",
       "slug": "cinematic-close-up-portrait-generation",
@@ -1179,56 +1188,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_79efcfccb3f5.json"
-    },
-    {
-      "id": "opl_eea30a6592e2",
-      "slug": "comprehensive-integrative-medical-writing",
-      "title": "Comprehensive Integrative Medical Writing",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "current_medications",
-          "default": null
-        },
-        {
-          "name": "disease_or_condition",
-          "default": null
-        },
-        {
-          "name": "lifestyle_factors",
-          "default": null
-        },
-        {
-          "name": "medical_history",
-          "default": null
-        },
-        {
-          "name": "medical_specialties",
-          "default": null
-        },
-        {
-          "name": "patient_age",
-          "default": null
-        },
-        {
-          "name": "patient_age_group",
-          "default": null
-        },
-        {
-          "name": "practitioner_role",
-          "default": null
-        },
-        {
-          "name": "primary_goals",
-          "default": null
-        },
-        {
-          "name": "risk_factors",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eea30a6592e2.json"
     }
   ]
 }

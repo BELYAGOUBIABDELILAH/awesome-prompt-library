@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 12,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_090de360048b",
+      "slug": "generate-implementation-ideas-from-word-document",
+      "title": "Generate Implementation Ideas from Word Document",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "documentContent",
+          "default": null
+        },
+        {
+          "name": "ideaDescription",
+          "default": null
+        },
+        {
+          "name": "moduleName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_090de360048b.json"
+    },
     {
       "id": "opl_122302ecdd01",
       "slug": "generate-issue-templates",
@@ -1031,15 +1053,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2fe43bf53c7f.json"
-    },
-    {
-      "id": "opl_48cf76228afa",
-      "slug": "high-end-technology-inspired-website-ui-redesign",
-      "title": "High-End Technology-Inspired Website UI Redesign",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_48cf76228afa.json"
     }
   ]
 }

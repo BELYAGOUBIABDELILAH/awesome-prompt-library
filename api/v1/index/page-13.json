@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 13,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_48cf76228afa",
+      "slug": "high-end-technology-inspired-website-ui-redesign",
+      "title": "High-End Technology-Inspired Website UI Redesign",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_48cf76228afa.json"
+    },
     {
       "id": "opl_0c1c1132886d",
       "slug": "high-stakes-decision-support-system",
@@ -1059,24 +1068,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07597432c16a.json"
-    },
-    {
-      "id": "opl_a3c0cffe621a",
-      "slug": "industry-market-intelligence",
-      "title": "Industry/Market Intelligence",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "Date Range",
-          "default": null
-        },
-        {
-          "name": "Industry",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3c0cffe621a.json"
     }
   ]
 }

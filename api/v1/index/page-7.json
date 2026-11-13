@@ -1,12 +1,62 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 7,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_eea30a6592e2",
+      "slug": "comprehensive-integrative-medical-writing",
+      "title": "Comprehensive Integrative Medical Writing",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "current_medications",
+          "default": null
+        },
+        {
+          "name": "disease_or_condition",
+          "default": null
+        },
+        {
+          "name": "lifestyle_factors",
+          "default": null
+        },
+        {
+          "name": "medical_history",
+          "default": null
+        },
+        {
+          "name": "medical_specialties",
+          "default": null
+        },
+        {
+          "name": "patient_age",
+          "default": null
+        },
+        {
+          "name": "patient_age_group",
+          "default": null
+        },
+        {
+          "name": "practitioner_role",
+          "default": null
+        },
+        {
+          "name": "primary_goals",
+          "default": null
+        },
+        {
+          "name": "risk_factors",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eea30a6592e2.json"
+    },
     {
       "id": "opl_45090acb1227",
       "slug": "comprehensive-pos-application-development-with-fifo-and-repo",
@@ -1221,20 +1271,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8caba0b3d5e9.json"
-    },
-    {
-      "id": "opl_fca6c167ff32",
-      "slug": "creative-short-story-writing",
-      "title": "Creative Short Story Writing",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "name",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fca6c167ff32.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T13:20:47.708Z",
+  "last_updated": "2026-11-13T14:20:41.258Z",
   "page": 4,
   "per_page": 100,
-  "total": 2714,
+  "total": 2715,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-3.json",
   "prompts": [
+    {
+      "id": "opl_cea78ab8cf13",
+      "slug": "assistant-ideator-user-defined-topic",
+      "title": "Assistant Ideator - User-Defined Topic",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cea78ab8cf13.json"
+    },
     {
       "id": "opl_39a03b1e2944",
       "slug": "assistant-to-agent-system-prompt-converter",
@@ -1177,15 +1186,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04e8bde45957.json"
-    },
-    {
-      "id": "opl_1c634925633e",
-      "slug": "brief-generator-general-purpose",
-      "title": "Brief Generator (General Purpose)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1c634925633e.json"
     }
   ]
 }
