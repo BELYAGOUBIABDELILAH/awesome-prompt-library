@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T16:20:41.625Z",
+  "last_updated": "2026-11-13T17:20:42.497Z",
   "page": 27,
   "per_page": 100,
-  "total": 2717,
+  "total": 2718,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_3f755250c62c",
+      "slug": "unity-architecture-specialist",
+      "title": "Unity Architecture Specialist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f755250c62c.json"
+    },
     {
       "id": "opl_c8b5d4709d75",
       "slug": "universal-context-document-ucd-generator",
@@ -1296,15 +1305,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bf45e3b25b5b.json"
-    },
-    {
-      "id": "opl_929cc45a0122",
-      "slug": "yks-ydt-vocabulary-acquisition-guide",
-      "title": "YKS-YDT Vocabulary Acquisition Guide",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_929cc45a0122.json"
     }
   ]
 }

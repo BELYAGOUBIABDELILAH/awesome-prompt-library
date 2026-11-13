@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T16:20:41.625Z",
+  "last_updated": "2026-11-13T17:20:42.497Z",
   "page": 26,
   "per_page": 100,
-  "total": 2717,
+  "total": 2718,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
@@ -739,6 +739,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b13571c9c446.json"
     },
     {
+      "id": "opl_66d4e7ee17a3",
+      "slug": "ultra-brief-one-sentence-answers",
+      "title": "Ultra Brief One-Sentence Answers",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_66d4e7ee17a3.json"
+    },
+    {
       "id": "opl_ff225bb36f30",
       "slug": "ultra-photorealistic-rooftop-pool-portrait",
       "title": "Ultra Photorealistic Rooftop Pool Portrait",
@@ -1039,15 +1048,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e6d6d6a9784.json"
-    },
-    {
-      "id": "opl_3f755250c62c",
-      "slug": "unity-architecture-specialist",
-      "title": "Unity Architecture Specialist",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3f755250c62c.json"
     }
   ]
 }
