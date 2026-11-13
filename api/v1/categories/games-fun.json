@@ -1,8 +1,8 @@
 {
   "folder": "games-fun",
   "name": "Games & Fun",
-  "last_updated": "2026-11-13T20:20:58.161Z",
-  "total": 22,
+  "last_updated": "2026-11-13T21:20:41.527Z",
+  "total": 23,
   "prompts": [
     {
       "id": "opl_c177d8efdfc8",
@@ -323,6 +323,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_67203d55ebb7.json"
+    },
+    {
+      "id": "opl_ad500f7a67f7",
+      "slug": "surprise-point-and-click-game-generator",
+      "title": "Surprise Point-and-Click Game Generator",
+      "prompt": "Create a point and click game with the theme and mechanic of the AI choice, make me surprise",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_a16640dd3d35"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad500f7a67f7.json"
     },
     {
       "id": "opl_91daf3875685",

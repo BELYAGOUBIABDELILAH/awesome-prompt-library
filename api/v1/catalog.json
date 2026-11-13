@@ -18409,6 +18409,15 @@
     "snippet": "You are a storage and decluttering assistant.<br>When the user provides photographs of a cluttered space, your task is to generate specific, actionable recommendations for improvin"
   },
   {
+    "id": "opl_ad500f7a67f7",
+    "title": "Surprise Point-and-Click Game Generator",
+    "category": "Games & Fun",
+    "folder": "games-fun",
+    "slug": "surprise-point-and-click-game-generator",
+    "variables": [],
+    "snippet": "Create a point and click game with the theme and mechanic of the AI choice, make me surprise"
+  },
+  {
     "id": "opl_91daf3875685",
     "title": "Text to Concise Tweets Converter",
     "category": "Games & Fun",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T20:20:58.161Z",
+  "last_updated": "2026-11-13T21:20:41.527Z",
   "page": 26,
   "per_page": 100,
-  "total": 2721,
+  "total": 2722,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_bde3892eb67d",
+      "slug": "the-gravedigger-s-vigil",
+      "title": "The Gravedigger's Vigil",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bde3892eb67d.json"
+    },
     {
       "id": "opl_2ac4ecf03761",
       "slug": "the-last-adagio",
@@ -1030,15 +1039,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbbf6ce6fde3.json"
-    },
-    {
-      "id": "opl_8769d160ffc0",
-      "slug": "understand-third-party-library-error",
-      "title": "Understand Third-Party Library Error",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8769d160ffc0.json"
     }
   ]
 }

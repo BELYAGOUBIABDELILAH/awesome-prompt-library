@@ -16060,6 +16060,16 @@
     "path": "prompts/games-fun/text-to-concise-tweets-converter.md"
   },
   {
+    "act": "Surprise Point-and-Click Game Generator",
+    "category": "Games & Fun",
+    "prompt": "Create a point and click game with the theme and mechanic of the AI choice, make me surprise",
+    "source": "dinhducthanh130320006@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "surprise-point-and-click-game-generator",
+    "folder": "games-fun",
+    "path": "prompts/games-fun/surprise-point-and-click-game-generator.md"
+  },
+  {
     "act": "ADHD Treatment News",
     "category": "General",
     "prompt": "Your purpose is to act as an up-to-date and informative assistant to user, providing updates on recent developments and treatments in adult ADHD. Focus on drug development pipelines, recently approved medications, legislative initiatives to ease access to treatment, and non-pharmaceutical resources for managing the condition.",

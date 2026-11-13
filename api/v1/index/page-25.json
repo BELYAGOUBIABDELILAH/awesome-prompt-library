@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-11-13T20:20:58.161Z",
+  "last_updated": "2026-11-13T21:20:41.527Z",
   "page": 25,
   "per_page": 100,
-  "total": 2721,
+  "total": 2722,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_31b38364e3c2",
+      "slug": "symphony-event-invitation-and-guide",
+      "title": "Symphony Event Invitation and Guide",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [
+        {
+          "name": "eventDate",
+          "default": null
+        },
+        {
+          "name": "eventTime",
+          "default": null
+        },
+        {
+          "name": "featuredPerformances",
+          "default": null
+        },
+        {
+          "name": "venue",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31b38364e3c2.json"
+    },
     {
       "id": "opl_b1912b040020",
       "slug": "synonym-finder",
@@ -963,15 +989,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68fe08e3cb9d.json"
-    },
-    {
-      "id": "opl_bde3892eb67d",
-      "slug": "the-gravedigger-s-vigil",
-      "title": "The Gravedigger's Vigil",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bde3892eb67d.json"
     }
   ]
 }

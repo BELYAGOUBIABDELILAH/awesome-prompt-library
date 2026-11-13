@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T20:20:58.161Z",
+  "last_updated": "2026-11-13T21:20:41.527Z",
   "page": 27,
   "per_page": 100,
-  "total": 2721,
+  "total": 2722,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_8769d160ffc0",
+      "slug": "understand-third-party-library-error",
+      "title": "Understand Third-Party Library Error",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8769d160ffc0.json"
+    },
     {
       "id": "opl_4f76626e440e",
       "slug": "understanding-and-utilizing-llms",
@@ -1287,15 +1296,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8b281dd5fa0d.json"
-    },
-    {
-      "id": "opl_9da44a29d350",
-      "slug": "ya-l-boya-tablona-bak",
-      "title": "Yağlı boya tablona bak",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9da44a29d350.json"
     }
   ]
 }
