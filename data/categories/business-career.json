@@ -588,5 +588,15 @@
     "slug": "bamboo-app",
     "folder": "business-career",
     "path": "prompts/business-career/bamboo-app.md"
+  },
+  {
+    "act": "Business management",
+    "category": "Business & Career",
+    "prompt": "I own a tree service company and I have no clue what I'm doing I need help with everything I'm lost I need help in every aspect",
+    "source": "manda.thetreesurgeon@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "business-management",
+    "folder": "business-career",
+    "path": "prompts/business-career/business-management.md"
   }
 ]
