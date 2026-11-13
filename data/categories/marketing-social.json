@@ -2008,5 +2008,15 @@
     "slug": "sentence-expansion-and-completion-assistant",
     "folder": "marketing-social",
     "path": "prompts/marketing-social/sentence-expansion-and-completion-assistant.md"
+  },
+  {
+    "act": "person behaviour",
+    "category": "Marketing & Social",
+    "prompt": "Create a prompt in which I upload a person image and it tells about person, her dressing sense, behaviour etc",
+    "source": "d2hitem@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "person-behaviour",
+    "folder": "marketing-social",
+    "path": "prompts/marketing-social/person-behaviour.md"
   }
 ]
