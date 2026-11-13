@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T21:20:41.527Z",
+  "last_updated": "2026-11-13T22:20:43.297Z",
   "page": 23,
   "per_page": 100,
-  "total": 2722,
+  "total": 2723,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_b3f7c6705433",
+      "slug": "serene-evening-rowboat-scene-in-illustrative-realism",
+      "title": "Serene Evening Rowboat Scene in Illustrative Realism",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3f7c6705433.json"
+    },
     {
       "id": "opl_0593010aecc7",
       "slug": "serene-mirror-selfie-portrait-in-sunlit-bedroom",
@@ -1097,15 +1106,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_383b13944508.json"
-    },
-    {
-      "id": "opl_3ae27700ebc3",
-      "slug": "spotify-room-cinematic",
-      "title": "Spotify room cinematic",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ae27700ebc3.json"
     }
   ]
 }

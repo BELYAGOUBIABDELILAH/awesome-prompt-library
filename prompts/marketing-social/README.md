@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**201 prompts in this category**
+**202 prompts in this category**
 
 ## Table of Contents
 
@@ -135,6 +135,7 @@
 - [operating system exam preparation](operating-system-exam-preparation.md)
 - [Optimize Blog Post for SEO](optimize-blog-post-for-seo.md)
 - [Paint](paint.md)
+- [person behaviour](person-behaviour.md)
 - [Personal Financial Adviosr](personal-financial-adviosr.md)
 - [Pet Store Advertising Campaign Strategy](pet-store-advertising-campaign-strategy.md)
 - [Photo emhanced](photo-emhanced.md)

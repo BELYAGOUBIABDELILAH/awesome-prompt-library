@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T21:20:41.527Z",
+  "last_updated": "2026-11-13T22:20:43.297Z",
   "page": 25,
   "per_page": 100,
-  "total": 2722,
+  "total": 2723,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_dee61f047436",
+      "slug": "swot-analysis-for-political-risk-and-international-relations",
+      "title": "SWOT Analysis for Political Risk and International Relations",
+      "category": "General",
+      "folder": "general",
+      "variables": [
+        {
+          "name": "region",
+          "default": null
+        },
+        {
+          "name": "scenario",
+          "default": null
+        },
+        {
+          "name": "timeline",
+          "default": "current"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dee61f047436.json"
+    },
     {
       "id": "opl_31b38364e3c2",
       "slug": "symphony-event-invitation-and-guide",
@@ -980,15 +1002,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_203bba3cd7af.json"
-    },
-    {
-      "id": "opl_68fe08e3cb9d",
-      "slug": "the-glass-doppelg-nger",
-      "title": "The Glass Doppelgänger",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_68fe08e3cb9d.json"
     }
   ]
 }

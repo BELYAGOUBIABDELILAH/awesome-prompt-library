@@ -87085,6 +87085,7 @@ Rules:
 - Do not change the core meaning of the original sentence
 - Keep the expanded text clear and coherent
 - Use creative language while staying true to the original intent",IcyMost (prompts.chat),TEXT,sentence-expansion-and-completion-assistant,marketing-social,prompts/marketing-social/sentence-expansion-and-completion-assistant.md
+person behaviour,Marketing & Social,"Create a prompt in which I upload a person image and it tells about person, her dressing sense, behaviour etc",d2hitem@gmail.com (prompts.chat),TEXT,person-behaviour,marketing-social,prompts/marketing-social/person-behaviour.md
 Socratic Method,Philosophy & Humanities,"I want you to act as Socrates. You must use the Socratic method to question my beliefs and assumptions.
 
 Rules:

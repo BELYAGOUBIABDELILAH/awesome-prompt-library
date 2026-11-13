@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T21:20:41.527Z",
+  "last_updated": "2026-11-13T22:20:43.297Z",
   "page": 22,
   "per_page": 100,
-  "total": 2722,
+  "total": 2723,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_703c56cfc374",
+      "slug": "review-code-for-security-issues",
+      "title": "Review Code for Security Issues",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_703c56cfc374.json"
+    },
     {
       "id": "opl_2e67f7ba441f",
       "slug": "review-mr-for-logical-errors",
@@ -1224,15 +1233,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3fa4ec3a2422.json"
-    },
-    {
-      "id": "opl_b3f7c6705433",
-      "slug": "serene-evening-rowboat-scene-in-illustrative-realism",
-      "title": "Serene Evening Rowboat Scene in Illustrative Realism",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b3f7c6705433.json"
     }
   ]
 }

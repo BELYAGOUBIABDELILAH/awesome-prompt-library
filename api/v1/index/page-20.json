@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T21:20:41.527Z",
+  "last_updated": "2026-11-13T22:20:43.297Z",
   "page": 20,
   "per_page": 100,
-  "total": 2722,
+  "total": 2723,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_58017e8642df",
+      "slug": "private-group-coaching-infrastructure",
+      "title": "Private Group Coaching Infrastructure",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58017e8642df.json"
+    },
     {
       "id": "opl_b5297083501b",
       "slug": "pro-closer-for-small-business-loans",
@@ -1141,15 +1150,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3f11dad8c8c.json"
-    },
-    {
-      "id": "opl_6e30052d809f",
-      "slug": "python-interpreter",
-      "title": "Python Interpreter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6e30052d809f.json"
     }
   ]
 }

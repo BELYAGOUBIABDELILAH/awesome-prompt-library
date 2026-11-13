@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T21:20:41.527Z",
+  "last_updated": "2026-11-13T22:20:43.297Z",
   "page": 24,
   "per_page": 100,
-  "total": 2722,
+  "total": 2723,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_3ae27700ebc3",
+      "slug": "spotify-room-cinematic",
+      "title": "Spotify room cinematic",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ae27700ebc3.json"
+    },
     {
       "id": "opl_c6ca31099d90",
       "slug": "spring-boot-solid-specialist",
@@ -1070,28 +1079,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_24c39a277224.json"
-    },
-    {
-      "id": "opl_dee61f047436",
-      "slug": "swot-analysis-for-political-risk-and-international-relations",
-      "title": "SWOT Analysis for Political Risk and International Relations",
-      "category": "General",
-      "folder": "general",
-      "variables": [
-        {
-          "name": "region",
-          "default": null
-        },
-        {
-          "name": "scenario",
-          "default": null
-        },
-        {
-          "name": "timeline",
-          "default": "current"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dee61f047436.json"
     }
   ]
 }

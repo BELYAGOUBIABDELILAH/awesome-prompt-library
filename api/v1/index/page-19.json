@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T21:20:41.527Z",
+  "last_updated": "2026-11-13T22:20:43.297Z",
   "page": 19,
   "per_page": 100,
-  "total": 2722,
+  "total": 2723,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_c89eebb7ee14",
+      "slug": "personal-profesional-branding-advisor",
+      "title": "Personal & Profesional Branding Advisor",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c89eebb7ee14.json"
+    },
     {
       "id": "opl_437dc64450a5",
       "slug": "personal-agenda-drafter",
@@ -1304,15 +1313,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29fcc11f51ba.json"
-    },
-    {
-      "id": "opl_58017e8642df",
-      "slug": "private-group-coaching-infrastructure",
-      "title": "Private Group Coaching Infrastructure",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58017e8642df.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T21:20:41.527Z",
+  "last_updated": "2026-11-13T22:20:43.297Z",
   "page": 27,
   "per_page": 100,
-  "total": 2722,
+  "total": 2723,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_fbbf6ce6fde3",
+      "slug": "understand-error-handling-patterns",
+      "title": "Understand Error Handling Patterns",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fbbf6ce6fde3.json"
+    },
     {
       "id": "opl_8769d160ffc0",
       "slug": "understand-third-party-library-error",
@@ -1274,28 +1283,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5590be0c530d.json"
-    },
-    {
-      "id": "opl_8b281dd5fa0d",
-      "slug": "xiaomi-company-self-service-management-system-frontend-devel",
-      "title": "Xiaomi Company Self-Service Management System Frontend Development",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "apiEndpoint",
-          "default": null
-        },
-        {
-          "name": "designFramework",
-          "default": "Bootstrap"
-        },
-        {
-          "name": "themeColor",
-          "default": "#FF6700"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8b281dd5fa0d.json"
     }
   ]
 }
