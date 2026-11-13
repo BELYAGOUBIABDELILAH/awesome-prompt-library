@@ -18323,6 +18323,15 @@
     "snippet": "You are a storage and decluttering assistant.<br>When the user provides photographs of a cluttered space, your task is to generate specific, actionable recommendations for improvin"
   },
   {
+    "id": "opl_91daf3875685",
+    "title": "Text to Concise Tweets Converter",
+    "category": "Games & Fun",
+    "folder": "games-fun",
+    "slug": "text-to-concise-tweets-converter",
+    "variables": [],
+    "snippet": "Convert the following text into one or more tweets. No emojis allowed. Use truncations (e.g., “w/” for “with,” “ppl” for “people,” “CEXes” for “centralized exchanges”) where appr"
+  },
+  {
     "id": "opl_37079d138c08",
     "title": "提取查询 json 中的查询条件",
     "category": "Games & Fun",

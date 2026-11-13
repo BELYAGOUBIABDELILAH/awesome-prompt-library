@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T01:20:46.372Z",
+  "last_updated": "2026-11-13T02:20:39.014Z",
   "page": 25,
   "per_page": 100,
-  "total": 2702,
+  "total": 2703,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
@@ -722,6 +722,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_734ca1e892c1.json"
     },
     {
+      "id": "opl_91daf3875685",
+      "slug": "text-to-concise-tweets-converter",
+      "title": "Text to Concise Tweets Converter",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91daf3875685.json"
+    },
+    {
       "id": "opl_ea1bc1c5255d",
       "slug": "text-to-image-with-reference-billiards-bar-scene",
       "title": "Text-to-Image with Reference - Billiards Bar Scene",
@@ -976,15 +985,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06fd8e8af52b.json"
-    },
-    {
-      "id": "opl_eb7c70456c9d",
-      "slug": "the-witcher-double-exposure-effect",
-      "title": "The Witcher - Double Exposure Effect",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb7c70456c9d.json"
     }
   ]
 }

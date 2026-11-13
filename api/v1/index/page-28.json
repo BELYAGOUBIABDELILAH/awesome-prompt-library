@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-13T01:20:46.372Z",
+  "last_updated": "2026-11-13T02:20:39.014Z",
   "page": 28,
   "per_page": 100,
-  "total": 2702,
+  "total": 2703,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_f36eb0db09cc",
+      "slug": "untitled-5",
+      "title": "自动写作、图片生成与发布工具",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "length",
+          "default": "500-1000"
+        },
+        {
+          "name": "platform",
+          "default": null
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f36eb0db09cc.json"
+    },
     {
       "id": "opl_5f45fcccf1e2",
       "slug": "untitled-6",

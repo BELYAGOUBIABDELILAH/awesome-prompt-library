@@ -1,8 +1,8 @@
 {
   "folder": "games-fun",
   "name": "Games & Fun",
-  "last_updated": "2026-11-13T01:20:46.372Z",
-  "total": 21,
+  "last_updated": "2026-11-13T02:20:39.014Z",
+  "total": 22,
   "prompts": [
     {
       "id": "opl_c177d8efdfc8",
@@ -323,6 +323,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_67203d55ebb7.json"
+    },
+    {
+      "id": "opl_91daf3875685",
+      "slug": "text-to-concise-tweets-converter",
+      "title": "Text to Concise Tweets Converter",
+      "prompt": "Convert the following text into one or more tweets.\n\nNo emojis allowed.\n\nUse truncations (e.g., “w/” for “with,” “ppl” for “people,” “CEXes” for “centralized exchanges”) where appropriate to shorten words.\n\nKeep each tweet concise, punchy, and under 280 characters.\n\nPreserve the original tone and intent.\n\nOutput only the tweet(s), no commentary.",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_06729541f502"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91daf3875685.json"
     },
     {
       "id": "opl_37079d138c08",

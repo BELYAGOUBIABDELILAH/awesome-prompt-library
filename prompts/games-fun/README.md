@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**21 prompts in this category**
+**22 prompts in this category**
 
 ## Table of Contents
 
@@ -26,4 +26,5 @@
 - [Split Word Rejoin](split-word-rejoin.md)
 - [Star-Marshal: Raycast Tactical Shooter](star-marshal-raycast-tactical-shooter.md)
 - [Storage Solution Ideator](storage-solution-ideator.md)
+- [Text to Concise Tweets Converter](text-to-concise-tweets-converter.md)
 - [提取查询 json 中的查询条件](json.md)

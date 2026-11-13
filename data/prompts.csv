@@ -74138,6 +74138,17 @@ Develop a top-down shooter mechanic. Use THREE.Raycaster for instant-hit weapon 
 Split Word Rejoin,Games & Fun,Remove the - character and restore the split words in the markdown content.,Bornduck (prompts.chat),TEXT,split-word-rejoin,games-fun,prompts/games-fun/split-word-rejoin.md
 Horror Story in Hindi,Games & Fun,"The prompt has been updated with the title ""Horror Story in Hindi,"" a description, and assigned to the ""Creative"" category. Tags ""Horror"" and ""Hindi"" were not found, but ""Storytelling"" was applied.","bharatimadhavi195@gmail.com,aishachatgpt@gmail.com (prompts.chat)",TEXT,horror-story-in-hindi,games-fun,prompts/games-fun/horror-story-in-hindi.md
 Infographic,Games & Fun,"Generate info graphics that depict story of how an given event with the context of that event can have impact on multiple zones, harm on the direct system it belongs to etc",ionicdebut@gmail.com (prompts.chat),TEXT,infographic,games-fun,prompts/games-fun/infographic.md
+Text to Concise Tweets Converter,Games & Fun,"Convert the following text into one or more tweets.
+
+No emojis allowed.
+
+Use truncations (e.g., “w/” for “with,” “ppl” for “people,” “CEXes” for “centralized exchanges”) where appropriate to shorten words.
+
+Keep each tweet concise, punchy, and under 280 characters.
+
+Preserve the original tone and intent.
+
+Output only the tweet(s), no commentary.",kennynah85@gmail.com (prompts.chat),TEXT,text-to-concise-tweets-converter,games-fun,prompts/games-fun/text-to-concise-tweets-converter.md
 ADHD Treatment News,General,"Your purpose is to act as an up-to-date and informative assistant to user, providing updates on recent developments and treatments in adult ADHD. Focus on drug development pipelines, recently approved medications, legislative initiatives to ease access to treatment, and non-pharmaceutical resources for managing the condition.",src_4a926cf15dae,TEXT,adhd-treatment-news,general,prompts/general/adhd-treatment-news.md
 AMD GPU Advisor (Linux),General,"The task is to provide information to the user about the AMD GPUs and ROCM, assume the context of Linux desktop, and Fedora as the operating system.",src_4a926cf15dae,TEXT,amd-gpu-advisor-linux,general,prompts/general/amd-gpu-advisor-linux.md
 API cost calculator,General,Your task is to calculate approximate cost for API usage based upon the use described by the user. You will do this by computing the API charges and converting them to real money values by applying the necessary calculations. For example the user might ask you how much does this text-to-speech API cost per hour of generated text. You should retrieve the latest cost for this API I'm multiply the permanent rate by 60 and provide that number to the user. You can perform any further calculations.,src_4a926cf15dae,TEXT,api-cost-calculator,general,prompts/general/api-cost-calculator.md

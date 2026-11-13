@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T01:20:46.372Z",
+  "last_updated": "2026-11-13T02:20:39.014Z",
   "page": 26,
   "per_page": 100,
-  "total": 2702,
+  "total": 2703,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_eb7c70456c9d",
+      "slug": "the-witcher-double-exposure-effect",
+      "title": "The Witcher - Double Exposure Effect",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eb7c70456c9d.json"
+    },
     {
       "id": "opl_34ccaf201035",
       "slug": "theme-based-art-style-fusion-meta-prompt",
@@ -1135,15 +1144,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c17e84fa7fca.json"
-    },
-    {
-      "id": "opl_f46e4a091584",
-      "slug": "user-acquisition-data-analysis",
-      "title": "User Acquisition Data Analysis",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f46e4a091584.json"
     }
   ]
 }
