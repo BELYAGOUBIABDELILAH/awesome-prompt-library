@@ -1,0 +1,16 @@
+{
+  "id": "opl_6ea05c94dc81",
+  "slug": "verbatim-chat-to-organized-notes",
+  "title": "Verbatim Chat to Organized Notes",
+  "prompt": "extract all information in this chat verbatim Capture every detail from start to finish, ensuring the notes read like a comprehensive plan or proposal, with a focus on the user's intentions and actions.",
+  "category": "Marketing & Social",
+  "folder": "marketing-social",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_949ed71cab0d"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6ea05c94dc81.json"
+}

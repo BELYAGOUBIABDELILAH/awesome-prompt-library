@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T11:20:43.009Z",
+  "last_updated": "2026-11-13T12:20:42.192Z",
   "page": 28,
   "per_page": 100,
-  "total": 2712,
+  "total": 2713,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_ee5513ef67a2",
+      "slug": "youtube-video-analyst",
+      "title": "YouTube Video Analyst",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee5513ef67a2.json"
+    },
     {
       "id": "opl_af5323816738",
       "slug": "yt-video-geopolitic-analysis",

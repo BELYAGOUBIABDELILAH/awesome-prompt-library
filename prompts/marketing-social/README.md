@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**199 prompts in this category**
+**200 prompts in this category**
 
 ## Table of Contents
 
@@ -197,6 +197,7 @@
 - [Ultra-Realistic Ankara Apartment Night Scene](ultra-realistic-ankara-apartment-night-scene.md)
 - [Ultra-Realistic Night Scene in a Turkish Kitchen](ultra-realistic-night-scene-in-a-turkish-kitchen.md)
 - [Vector-Based Space Combat System](vector-based-space-combat-system.md)
+- [Verbatim Chat to Organized Notes](verbatim-chat-to-organized-notes.md)
 - [Viral TikTok Glühwein Recipe in Five Languages](viral-tiktok-gl-hwein-recipe-in-five-languages.md)
 - [Virtual Event Planner](virtual-event-planner.md)
 - [What friendship should be all about](what-friendship-should-be-all-about.md)
