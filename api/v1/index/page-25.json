@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T15:20:41.279Z",
+  "last_updated": "2026-11-13T16:20:41.625Z",
   "page": 25,
   "per_page": 100,
-  "total": 2716,
+  "total": 2717,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_7bbb0ae748cd",
+      "slug": "synthetic-pii-data-generation",
+      "title": "Synthetic PII Data Generation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bbb0ae748cd.json"
+    },
     {
       "id": "opl_2aace31f0fee",
       "slug": "sys-admin-support-general",
@@ -963,15 +972,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1aee54f7cb21.json"
-    },
-    {
-      "id": "opl_6275fc2ba77c",
-      "slug": "the-midnight-melody-mystery",
-      "title": "The Midnight Melody Mystery",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6275fc2ba77c.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T15:20:41.279Z",
+  "last_updated": "2026-11-13T16:20:41.625Z",
   "page": 14,
   "per_page": 100,
-  "total": 2716,
+  "total": 2717,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_07597432c16a",
+      "slug": "individual-contribution-summary",
+      "title": "Individual Contribution Summary",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07597432c16a.json"
+    },
     {
       "id": "opl_a3c0cffe621a",
       "slug": "industry-market-intelligence",
@@ -1064,15 +1073,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f7984c7ddbd2.json"
-    },
-    {
-      "id": "opl_7bb07164997f",
-      "slug": "json-to-openapi-json-converter",
-      "title": "JSON To OpenAPI JSON Converter",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bb07164997f.json"
     }
   ]
 }

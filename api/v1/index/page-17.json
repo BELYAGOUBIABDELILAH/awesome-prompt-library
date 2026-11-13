@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T15:20:41.279Z",
+  "last_updated": "2026-11-13T16:20:41.625Z",
   "page": 17,
   "per_page": 100,
-  "total": 2716,
+  "total": 2717,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_801d7e9b8cab",
+      "slug": "mine",
+      "title": "Mine",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_801d7e9b8cab.json"
+    },
     {
       "id": "opl_bf5922525f7d",
       "slug": "minecraft-image",
@@ -1056,15 +1065,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_82d1ffdb9261.json"
-    },
-    {
-      "id": "opl_b02b76ece173",
-      "slug": "night-balcony-scene-in-ankara-with-efes",
-      "title": "Night Balcony Scene in Ankara with Efes",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b02b76ece173.json"
     }
   ]
 }

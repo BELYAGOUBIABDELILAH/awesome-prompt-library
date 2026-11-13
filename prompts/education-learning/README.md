@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**76 prompts in this category**
+**77 prompts in this category**
 
 ## Table of Contents
 
@@ -37,6 +37,7 @@
 - [Expert-Level Insights and Advanced Resources](expert-level-insights-and-advanced-resources.md)
 - [Explainer with Analogies](explainer-with-analogies.md)
 - [Fill in the Blank Worksheets Generator](fill-in-the-blank-worksheets-generator.md)
+- [Give me text book to learn Spanish with Myanmar language](give-me-text-book-to-learn-spanish-with-myanmar-language.md)
 - [Grok customization](grok-customization.md)
 - [Guessing Game Master](guessing-game-master.md)
 - [HCCVN-AI-VN Pro Max: Optimal AI System Design](hccvn-ai-vn-pro-max-optimal-ai-system-design.md)

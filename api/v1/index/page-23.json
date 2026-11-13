@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T15:20:41.279Z",
+  "last_updated": "2026-11-13T16:20:41.625Z",
   "page": 23,
   "per_page": 100,
-  "total": 2716,
+  "total": 2717,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_4c4a8fd16e77",
+      "slug": "serious-man-in-urban-setting",
+      "title": "Serious Man in Urban Setting",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c4a8fd16e77.json"
+    },
     {
       "id": "opl_956475ccccf3",
       "slug": "session-continuity-engine",
@@ -1097,15 +1106,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cddfcd9642dc.json"
-    },
-    {
-      "id": "opl_02d65d0b5ea1",
-      "slug": "sql-terminal",
-      "title": "SQL Terminal",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02d65d0b5ea1.json"
     }
   ]
 }

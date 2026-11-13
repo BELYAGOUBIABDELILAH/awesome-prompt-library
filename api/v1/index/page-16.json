@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T15:20:41.279Z",
+  "last_updated": "2026-11-13T16:20:41.625Z",
   "page": 16,
   "per_page": 100,
-  "total": 2716,
+  "total": 2717,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_bcbefcd1bd38",
+      "slug": "local-llm-explainer-quantization-and-variants",
+      "title": "Local LLM Explainer: Quantization And Variants",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bcbefcd1bd38.json"
+    },
     {
       "id": "opl_b1800d5b54fe",
       "slug": "local-llm-hardware-assessor",
@@ -1176,15 +1185,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9d2c9ac2bea8.json"
-    },
-    {
-      "id": "opl_801d7e9b8cab",
-      "slug": "mine",
-      "title": "Mine",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_801d7e9b8cab.json"
     }
   ]
 }

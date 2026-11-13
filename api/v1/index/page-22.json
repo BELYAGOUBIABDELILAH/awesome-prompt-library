@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T15:20:41.279Z",
+  "last_updated": "2026-11-13T16:20:41.625Z",
   "page": 22,
   "per_page": 100,
-  "total": 2716,
+  "total": 2717,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_872a6625c5f6",
+      "slug": "rewrite-in-third-person",
+      "title": "Rewrite In Third Person",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_872a6625c5f6.json"
+    },
     {
       "id": "opl_92eb899c7b8d",
       "slug": "rfq",
@@ -1224,15 +1233,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f22b03fbff1.json"
-    },
-    {
-      "id": "opl_4c4a8fd16e77",
-      "slug": "serious-man-in-urban-setting",
-      "title": "Serious Man in Urban Setting",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c4a8fd16e77.json"
     }
   ]
 }

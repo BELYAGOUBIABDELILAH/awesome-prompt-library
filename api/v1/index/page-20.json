@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T15:20:41.279Z",
+  "last_updated": "2026-11-13T16:20:41.625Z",
   "page": 20,
   "per_page": 100,
-  "total": 2716,
+  "total": 2717,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_0ff1e78dad06",
+      "slug": "product-image-highlight-extraction",
+      "title": "Product Image Highlight Extraction",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ff1e78dad06.json"
+    },
     {
       "id": "opl_57ee0e190d11",
       "slug": "product-manager",
@@ -1128,15 +1137,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ced85f1028dd.json"
-    },
-    {
-      "id": "opl_9b4c2ad2ac23",
-      "slug": "python-tool-finder",
-      "title": "Python Tool Finder",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b4c2ad2ac23.json"
     }
   ]
 }

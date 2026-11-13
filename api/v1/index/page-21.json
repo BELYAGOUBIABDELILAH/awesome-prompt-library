@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T15:20:41.279Z",
+  "last_updated": "2026-11-13T16:20:41.625Z",
   "page": 21,
   "per_page": 100,
-  "total": 2716,
+  "total": 2717,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_9b4c2ad2ac23",
+      "slug": "python-tool-finder",
+      "title": "Python Tool Finder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b4c2ad2ac23.json"
+    },
     {
       "id": "opl_f951d8d6f0af",
       "slug": "python-unit-test-generator-comprehensive-coverage-mapped-production-ready",
@@ -1056,15 +1065,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b19d00293443.json"
-    },
-    {
-      "id": "opl_872a6625c5f6",
-      "slug": "rewrite-in-third-person",
-      "title": "Rewrite In Third Person",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_872a6625c5f6.json"
     }
   ]
 }

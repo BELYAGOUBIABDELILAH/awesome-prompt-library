@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T15:20:41.279Z",
+  "last_updated": "2026-11-13T16:20:41.625Z",
   "page": 24,
   "per_page": 100,
-  "total": 2716,
+  "total": 2717,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_02d65d0b5ea1",
+      "slug": "sql-terminal",
+      "title": "SQL Terminal",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_02d65d0b5ea1.json"
+    },
     {
       "id": "opl_6ae6b401f5e7",
       "slug": "sql-to-natural-language",
@@ -1100,15 +1109,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_54ca5d9953a4.json"
-    },
-    {
-      "id": "opl_7bbb0ae748cd",
-      "slug": "synthetic-pii-data-generation",
-      "title": "Synthetic PII Data Generation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7bbb0ae748cd.json"
     }
   ]
 }
