@@ -878,5 +878,15 @@
     "slug": "golden-prompt-for-short-useful-answers",
     "folder": "general",
     "path": "prompts/general/golden-prompt-for-short-useful-answers.md"
+  },
+  {
+    "act": "Ultra Brief One-Sentence Answers",
+    "category": "General",
+    "prompt": "ULTRA BRIEF: Answer in ONE sentence. Core information only. No elaboration.",
+    "source": "omidzamani2@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "ultra-brief-one-sentence-answers",
+    "folder": "general",
+    "path": "prompts/general/ultra-brief-one-sentence-answers.md"
   }
 ]
