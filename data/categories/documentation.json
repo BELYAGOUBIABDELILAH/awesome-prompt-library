@@ -588,5 +588,15 @@
     "slug": "civil-service-job-application-writer",
     "folder": "documentation",
     "path": "prompts/documentation/civil-service-job-application-writer.md"
+  },
+  {
+    "act": "Cinematic Evolution of Cars from 1920s to Electric Vehicles",
+    "category": "Documentation",
+    "prompt": "\"Generate a video: Documentary style cinematic sequence showing the evolution of cars from vintage 1920s automobile to modern electric vehicle charging at sunset, photorealistic, dramatic lighting\"",
+    "source": "mkukaljane@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "cinematic-evolution-of-cars-from-1920s-to-electric-vehicles",
+    "folder": "documentation",
+    "path": "prompts/documentation/cinematic-evolution-of-cars-from-1920s-to-electric-vehicles.md"
   }
 ]
