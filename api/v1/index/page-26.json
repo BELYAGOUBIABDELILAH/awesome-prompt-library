@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T23:20:44.564Z",
+  "last_updated": "2026-11-14T00:20:46.309Z",
   "page": 26,
   "per_page": 100,
-  "total": 2724,
+  "total": 2725,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_9d03f9660c82",
+      "slug": "the-digital-frontier-pixelated-pioneers",
+      "title": "The Digital Frontier: Pixelated Pioneers",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9d03f9660c82.json"
+    },
     {
       "id": "opl_203bba3cd7af",
       "slug": "the-elite-seo-blog-architect-ghostwriter",
@@ -1043,15 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14027f148a0f.json"
-    },
-    {
-      "id": "opl_143870cdafab",
-      "slug": "understand-configuration-and-environment-setup",
-      "title": "Understand Configuration and Environment Setup",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_143870cdafab.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T23:20:44.564Z",
+  "last_updated": "2026-11-14T00:20:46.309Z",
   "page": 20,
   "per_page": 100,
-  "total": 2724,
+  "total": 2725,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_a6fb5280aea1",
+      "slug": "prioritize-review-comments",
+      "title": "Prioritize Review Comments",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6fb5280aea1.json"
+    },
     {
       "id": "opl_29fcc11f51ba",
       "slug": "privacy-first-chat-app-with-multi-feature-support",
@@ -1154,15 +1163,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_73185b27a490.json"
-    },
-    {
-      "id": "opl_b028390fd5cb",
-      "slug": "python-for-automation",
-      "title": "Python For Automation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b028390fd5cb.json"
     }
   ]
 }

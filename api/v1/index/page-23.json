@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T23:20:44.564Z",
+  "last_updated": "2026-11-14T00:20:46.309Z",
   "page": 23,
   "per_page": 100,
-  "total": 2724,
+  "total": 2725,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_6dbb693084a7",
+      "slug": "seo-fundamentals",
+      "title": "seo-fundamentals",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6dbb693084a7.json"
+    },
     {
       "id": "opl_3fa4ec3a2422",
       "slug": "serene-autumn-lakeside-illustration",
@@ -1088,15 +1097,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59a72110b787.json"
-    },
-    {
-      "id": "opl_d0cecdd5bfcc",
-      "slug": "sports-research-assistant",
-      "title": "Sports Research Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0cecdd5bfcc.json"
     }
   ]
 }

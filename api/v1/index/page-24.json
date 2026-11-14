@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T23:20:44.564Z",
+  "last_updated": "2026-11-14T00:20:46.309Z",
   "page": 24,
   "per_page": 100,
-  "total": 2724,
+  "total": 2725,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_d0cecdd5bfcc",
+      "slug": "sports-research-assistant",
+      "title": "Sports Research Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d0cecdd5bfcc.json"
+    },
     {
       "id": "opl_383b13944508",
       "slug": "spotify-playlist-cover-generator",
@@ -1079,15 +1088,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c93e40eee684.json"
-    },
-    {
-      "id": "opl_692fd2378be0",
-      "slug": "swap-menu-external-c",
-      "title": "SWAP MENU EXTERNAL C++",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_692fd2378be0.json"
     }
   ]
 }

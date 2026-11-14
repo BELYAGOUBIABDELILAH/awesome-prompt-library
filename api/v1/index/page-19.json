@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T23:20:44.564Z",
+  "last_updated": "2026-11-14T00:20:46.309Z",
   "page": 19,
   "per_page": 100,
-  "total": 2724,
+  "total": 2725,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_049bb36e802f",
+      "slug": "peripheral-finder",
+      "title": "Peripheral Finder",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_049bb36e802f.json"
+    },
     {
       "id": "opl_8a9b6e81b93a",
       "slug": "person-behaviour",
@@ -1291,15 +1300,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fc7a80d7633.json"
-    },
-    {
-      "id": "opl_a6fb5280aea1",
-      "slug": "prioritize-review-comments",
-      "title": "Prioritize Review Comments",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6fb5280aea1.json"
     }
   ]
 }

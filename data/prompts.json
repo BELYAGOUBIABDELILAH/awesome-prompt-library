@@ -21240,6 +21240,16 @@
     "path": "prompts/image-design/design-shirt.md"
   },
   {
+    "act": "Na",
+    "category": "Image & Design",
+    "prompt": "Please create a video with attached my photo where he is a hero",
+    "source": "erasunni@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "na",
+    "folder": "image-design",
+    "path": "prompts/image-design/na.md"
+  },
+  {
     "act": "A/B Testing Plan",
     "category": "Marketing & Social",
     "prompt": "Create a plan to test and optimize different aspects of your digital presence to improve conversion rates.\nStructure:\n- Hypothesis: What we believe will happen and why\n- Variable being tested: (headline / CTA / layout / image / copy)\n- Control version: [current]\n- Test version: [proposed change]\n- Success metric: (CVR / CTR / time on page / bounce rate)\n- Minimum sample size needed and estimated duration\n- How to declare a winner (statistical significance threshold: 95%)\nRun one test at a time. Document results before moving to the next.",

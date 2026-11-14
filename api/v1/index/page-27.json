@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T23:20:44.564Z",
+  "last_updated": "2026-11-14T00:20:46.309Z",
   "page": 27,
   "per_page": 100,
-  "total": 2724,
+  "total": 2725,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_143870cdafab",
+      "slug": "understand-configuration-and-environment-setup",
+      "title": "Understand Configuration and Environment Setup",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_143870cdafab.json"
+    },
     {
       "id": "opl_20c1f02c7466",
       "slug": "understand-data-flow-through-system",
@@ -1265,15 +1274,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_64f849870cad.json"
-    },
-    {
-      "id": "opl_ca8389ae5f4f",
-      "slug": "writing-style-replication",
-      "title": "Writing Style Replication",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ca8389ae5f4f.json"
     }
   ]
 }

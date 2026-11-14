@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T23:20:44.564Z",
+  "last_updated": "2026-11-14T00:20:46.309Z",
   "page": 22,
   "per_page": 100,
-  "total": 2724,
+  "total": 2725,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_6d5866c408c5",
+      "slug": "reverse-prompt-engineer",
+      "title": "Reverse Prompt Engineer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d5866c408c5.json"
+    },
     {
       "id": "opl_6a0facb3ed90",
       "slug": "reverse-engineering-vox-s-hybrid-video-strategy",
@@ -1224,15 +1233,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c71912e619f.json"
-    },
-    {
-      "id": "opl_6dbb693084a7",
-      "slug": "seo-fundamentals",
-      "title": "seo-fundamentals",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6dbb693084a7.json"
     }
   ]
 }

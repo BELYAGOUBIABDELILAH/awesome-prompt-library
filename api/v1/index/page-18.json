@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T23:20:44.564Z",
+  "last_updated": "2026-11-14T00:20:46.309Z",
   "page": 18,
   "per_page": 100,
-  "total": 2724,
+  "total": 2725,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_690bba1dc52d",
+      "slug": "nfc-expert",
+      "title": "NFC Expert",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_690bba1dc52d.json"
+    },
     {
       "id": "opl_82d1ffdb9261",
       "slug": "nigeria",
@@ -1028,15 +1037,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ac6b60fe3ca.json"
-    },
-    {
-      "id": "opl_049bb36e802f",
-      "slug": "peripheral-finder",
-      "title": "Peripheral Finder",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_049bb36e802f.json"
     }
   ]
 }

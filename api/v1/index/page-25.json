@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-13T23:20:44.564Z",
+  "last_updated": "2026-11-14T00:20:46.309Z",
   "page": 25,
   "per_page": 100,
-  "total": 2724,
+  "total": 2725,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_692fd2378be0",
+      "slug": "swap-menu-external-c",
+      "title": "SWAP MENU EXTERNAL C++",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_692fd2378be0.json"
+    },
     {
       "id": "opl_24c39a277224",
       "slug": "swiftui-ios-app-development-guide",
@@ -980,15 +989,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dcb4a5d45c09.json"
-    },
-    {
-      "id": "opl_9d03f9660c82",
-      "slug": "the-digital-frontier-pixelated-pioneers",
-      "title": "The Digital Frontier: Pixelated Pioneers",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9d03f9660c82.json"
     }
   ]
 }
