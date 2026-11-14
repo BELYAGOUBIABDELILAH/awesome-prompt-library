@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T14:20:40.160Z",
+  "last_updated": "2026-11-14T15:20:44.870Z",
   "page": 25,
   "per_page": 100,
-  "total": 2739,
+  "total": 2740,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_6bd013212d07",
+      "slug": "summarize-this-whiteboard",
+      "title": "Summarize This Whiteboard",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6bd013212d07.json"
+    },
     {
       "id": "opl_a7496aa40382",
       "slug": "sun-drenched-outdoor-selfie-of-a-tattooed-female-subject-wit",
@@ -996,20 +1005,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_742541c15cac.json"
-    },
-    {
-      "id": "opl_b1b5994950e3",
-      "slug": "test-first-bug-fixing-approach",
-      "title": "Test-First Bug Fixing Approach",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "bug",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b1b5994950e3.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T14:20:40.160Z",
+  "last_updated": "2026-11-14T15:20:44.870Z",
   "page": 24,
   "per_page": 100,
-  "total": 2739,
+  "total": 2740,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_c23fc8b3e8af",
+      "slug": "spec-sheet-simplifier",
+      "title": "Spec Sheet Simplifier",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c23fc8b3e8af.json"
+    },
     {
       "id": "opl_a1c4846da097",
       "slug": "speech-to-text-stt-expert",
@@ -1057,15 +1066,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac87293e2500.json"
-    },
-    {
-      "id": "opl_6bd013212d07",
-      "slug": "summarize-this-whiteboard",
-      "title": "Summarize This Whiteboard",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6bd013212d07.json"
     }
   ]
 }

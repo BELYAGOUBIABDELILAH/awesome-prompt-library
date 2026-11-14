@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T14:20:40.160Z",
+  "last_updated": "2026-11-14T15:20:44.870Z",
   "page": 27,
   "per_page": 100,
-  "total": 2739,
+  "total": 2740,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_2fc33f50ca7f",
+      "slug": "ultra-realistic-ankara-apartment-night-scene",
+      "title": "Ultra-Realistic Ankara Apartment Night Scene",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2fc33f50ca7f.json"
+    },
     {
       "id": "opl_65aca7113a6b",
       "slug": "ultra-realistic-ankara-indie-bar-scene-description",
@@ -1198,15 +1207,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c38d3273535.json"
-    },
-    {
-      "id": "opl_bd09b7603549",
-      "slug": "wikipedia-page",
-      "title": "Wikipedia Page",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd09b7603549.json"
     }
   ]
 }

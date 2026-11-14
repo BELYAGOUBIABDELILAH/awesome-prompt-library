@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T14:20:40.160Z",
+  "last_updated": "2026-11-14T15:20:44.870Z",
   "page": 19,
   "per_page": 100,
-  "total": 2739,
+  "total": 2740,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
@@ -602,6 +602,15 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fd35000200e1.json"
+    },
+    {
+      "id": "opl_ecd1d0992253",
+      "slug": "photography-trip-planning-research-backed-itinerary-builder",
+      "title": "Photography Trip Planning — Research-Backed Itinerary Builder",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ecd1d0992253.json"
     },
     {
       "id": "opl_f986350c4ad0",
@@ -1286,15 +1295,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3a23ff6e184e.json"
-    },
-    {
-      "id": "opl_f819f8127173",
-      "slug": "precious-metals-price-analyst",
-      "title": "Precious Metals Price Analyst",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f819f8127173.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T14:20:40.160Z",
+  "last_updated": "2026-11-14T15:20:44.870Z",
   "page": 28,
   "per_page": 100,
-  "total": 2739,
+  "total": 2740,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_bd09b7603549",
+      "slug": "wikipedia-page",
+      "title": "Wikipedia Page",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd09b7603549.json"
+    },
     {
       "id": "opl_910f7699eb4e",
       "slug": "wings-of-the-dust-bowl",

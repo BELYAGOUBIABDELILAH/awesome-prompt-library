@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T14:20:40.160Z",
+  "last_updated": "2026-11-14T15:20:44.870Z",
   "page": 21,
   "per_page": 100,
-  "total": 2739,
+  "total": 2740,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_58d20766e1ad",
+      "slug": "pull-quote-finder",
+      "title": "Pull Quote Finder",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_58d20766e1ad.json"
+    },
     {
       "id": "opl_3c2c02c8eda6",
       "slug": "pull-request-review-assistant",
@@ -1062,15 +1071,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06b325103a62.json"
-    },
-    {
-      "id": "opl_317ba9304618",
-      "slug": "resume-customization-prompt-strategic-integrity",
-      "title": "Resume Customization Prompt – STRATEGIC INTEGRITY",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_317ba9304618.json"
     }
   ]
 }

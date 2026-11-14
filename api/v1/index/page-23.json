@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-14T14:20:40.160Z",
+  "last_updated": "2026-11-14T15:20:44.870Z",
   "page": 23,
   "per_page": 100,
-  "total": 2739,
+  "total": 2740,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_8bda7cf67889",
+      "slug": "senior-system-architect-agent",
+      "title": "Senior System Architect Agent",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "businessObjective",
+          "default": null
+        },
+        {
+          "name": "projectName",
+          "default": null
+        },
+        {
+          "name": "technologyStack",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8bda7cf67889.json"
+    },
     {
       "id": "opl_fa0ca5ec5478",
       "slug": "sensory-processing-support",
@@ -1119,15 +1141,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19c8e3d9d1ee.json"
-    },
-    {
-      "id": "opl_c23fc8b3e8af",
-      "slug": "spec-sheet-simplifier",
-      "title": "Spec Sheet Simplifier",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c23fc8b3e8af.json"
     }
   ]
 }

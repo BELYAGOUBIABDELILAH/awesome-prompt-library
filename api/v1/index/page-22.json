@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T14:20:40.160Z",
+  "last_updated": "2026-11-14T15:20:44.870Z",
   "page": 22,
   "per_page": 100,
-  "total": 2739,
+  "total": 2740,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_317ba9304618",
+      "slug": "resume-customization-prompt-strategic-integrity",
+      "title": "Resume Customization Prompt – STRATEGIC INTEGRITY",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_317ba9304618.json"
+    },
     {
       "id": "opl_124311e8ad3f",
       "slug": "resume-quality-reviewer-green-flag-edition",
@@ -1193,28 +1202,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ae2ecafd5a0.json"
-    },
-    {
-      "id": "opl_8bda7cf67889",
-      "slug": "senior-system-architect-agent",
-      "title": "Senior System Architect Agent",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [
-        {
-          "name": "businessObjective",
-          "default": null
-        },
-        {
-          "name": "projectName",
-          "default": null
-        },
-        {
-          "name": "technologyStack",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8bda7cf67889.json"
     }
   ]
 }

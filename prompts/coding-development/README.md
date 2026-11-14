@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1092 prompts in this category**
+**1093 prompts in this category**
 
 ## Table of Contents
 
@@ -728,6 +728,7 @@
 - [Personality Sketcher](personality-sketcher.md)
 - [Personalized Exam Preparation Tutor](personalized-exam-preparation-tutor.md)
 - [Personalized Technical Intelligence Briefing for Edge AI in Defense](personalized-technical-intelligence-briefing-for-edge-ai-in.md)
+- [Photography Trip Planning — Research-Backed Itinerary Builder](photography-trip-planning-research-backed-itinerary-builder.md)
 - [Photorealistic 4K Reference Image Enhancement](photorealistic-4k-reference-image-enhancement.md)
 - [Photorealistic Selfie Portrait Description](photorealistic-selfie-portrait-description.md)
 - [PHP Interpreter](php-interpreter.md)
