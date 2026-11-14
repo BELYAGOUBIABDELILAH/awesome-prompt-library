@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 24,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_a2ddde78a719",
+      "slug": "split-word-rejoin",
+      "title": "Split Word Rejoin",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2ddde78a719.json"
+    },
     {
       "id": "opl_856be45cf0a7",
       "slug": "spoken-english-teacher-and-improver",
@@ -1070,24 +1079,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c429d029678.json"
-    },
-    {
-      "id": "opl_affc9ec672ff",
-      "slug": "surreal-city-scene",
-      "title": "Surreal City Scene",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "city_name",
-          "default": null
-        },
-        {
-          "name": "current_weather",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_affc9ec672ff.json"
     }
   ]
 }

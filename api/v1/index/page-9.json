@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 9,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_5494a68ac6ba",
+      "slug": "deep-learning-loop",
+      "title": "Deep Learning Loop",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5494a68ac6ba.json"
+    },
     {
       "id": "opl_2df5a2ac21e8",
       "slug": "deep-research-gemini",
@@ -1178,15 +1187,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d2e52f6f1948.json"
-    },
-    {
-      "id": "opl_ae8be219aa17",
-      "slug": "draft-personalized-outreach-post-sale",
-      "title": "Draft Personalized Outreach Post-Sale",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae8be219aa17.json"
     }
   ]
 }

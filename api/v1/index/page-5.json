@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 5,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-4.json",
@@ -710,6 +710,28 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_16e68d5077e5.json"
     },
     {
+      "id": "opl_4484b51e8186",
+      "slug": "casual-code-explanation-video-script",
+      "title": "Casual Code Explanation Video Script",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "audience",
+          "default": "professor"
+        },
+        {
+          "name": "codeSection",
+          "default": null
+        },
+        {
+          "name": "tone",
+          "default": "casual"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4484b51e8186.json"
+    },
+    {
       "id": "opl_00824810f0de",
       "slug": "casual-day-planner",
       "title": "Casual day planner",
@@ -1080,15 +1102,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5568a60b6b16.json"
-    },
-    {
-      "id": "opl_98d613a70c02",
-      "slug": "cinematic-3x3-focal-lengths-grid",
-      "title": "Cinematic 3x3 Focal Lengths Grid",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_98d613a70c02.json"
     }
   ]
 }

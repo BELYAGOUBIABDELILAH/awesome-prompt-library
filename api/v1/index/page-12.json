@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 12,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_0e62666b04c0",
+      "slug": "generate-compliance-reports",
+      "title": "Generate Compliance Reports",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e62666b04c0.json"
+    },
     {
       "id": "opl_cd81648e777e",
       "slug": "generate-crud-operations",
@@ -1039,15 +1048,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c4a2b100170.json"
-    },
-    {
-      "id": "opl_e58392cb74af",
-      "slug": "hebrew-calendar",
-      "title": "Hebrew Calendar",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e58392cb74af.json"
     }
   ]
 }

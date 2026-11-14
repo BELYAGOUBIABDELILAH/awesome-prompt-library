@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 16,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_1e4bc4aeefb2",
+      "slug": "llm-tool-debugger",
+      "title": "LLM Tool Debugger",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e4bc4aeefb2.json"
+    },
     {
       "id": "opl_7827010c8bf6",
       "slug": "llm-training-lookup",
@@ -1163,28 +1172,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_83a38185e2d9.json"
-    },
-    {
-      "id": "opl_8aa99afaea8d",
-      "slug": "micro-saas-vibecoder-architect",
-      "title": "Micro-SaaS \"Vibecoder\" Architect",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "Coding_Tool",
-          "default": "Cursor, v0, Lovable, Bolt.new, etc."
-        },
-        {
-          "name": "Problem_to_Solve",
-          "default": null
-        },
-        {
-          "name": "Target_User",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8aa99afaea8d.json"
     }
   ]
 }

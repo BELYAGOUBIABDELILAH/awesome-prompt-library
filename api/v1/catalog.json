@@ -4474,6 +4474,28 @@
     "snippet": "============================================================ PROMPT NAME: Cascading Failure Simulator VERSION: 1.3 AUTHOR: Scott M LAST UPDATED: January 15, 2026 =================="
   },
   {
+    "id": "opl_4484b51e8186",
+    "title": "Casual Code Explanation Video Script",
+    "category": "Coding & Development",
+    "folder": "coding-development",
+    "slug": "casual-code-explanation-video-script",
+    "variables": [
+      {
+        "name": "audience",
+        "default": "professor"
+      },
+      {
+        "name": "codeSection",
+        "default": null
+      },
+      {
+        "name": "tone",
+        "default": "casual"
+      }
+    ],
+    "snippet": "Act as a friendly coding teacher. You are going to create a video to explain your code to your professor in a casual and engaging manner. Your task is to create a script for the v"
+  },
+  {
     "id": "opl_a8f95bf19a89",
     "title": "Chat Summary and Export Instructions",
     "category": "Coding & Development",

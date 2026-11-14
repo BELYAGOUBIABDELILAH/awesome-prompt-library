@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-14T06:20:41.038Z",
-  "total": 1089,
+  "last_updated": "2026-11-14T07:20:45.112Z",
+  "total": 1090,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -3494,6 +3494,35 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_16e68d5077e5.json"
+    },
+    {
+      "id": "opl_4484b51e8186",
+      "slug": "casual-code-explanation-video-script",
+      "title": "Casual Code Explanation Video Script",
+      "prompt": "Act as a friendly coding teacher. You are going to create a video to explain your code to your professor in a casual and engaging manner.\n\nYour task is to create a script for the video in which you:\n- Introduce the purpose of your code in a friendly tone.\n- Explain each section of the code line-by-line.\n- Use informal language and relatable examples to make it engaging.\n- Ensure clarity by highlighting key functions and their roles.\n- Conclude with a summary of what the code achieves.\n\nYou should:\n- Start with a brief introduction of the project and its goals.\n- Explain the logic behind the main blocks of code in a casual way, as if explaining to a friend.\n- Keep the tone light and avoid technical jargon unless necessary.\n- Use humor or anecdotes to keep it interesting.\n\nVariables:\n- ${codeSection} - The specific section of the code you are explaining\n- ${tone:casual} - The overall tone of the explanation\n- ${audience:professor} - Your target audience for the video\n\nExample:\n\"Hi! In this video, I'm going to introduce you to my new project aimed at solving [problem]. Let's take a look at the code! First, we have the section [first section] that does [explanation]. It's like [analogy]. Let's move on to the next part...\"",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "audience",
+          "default": "professor"
+        },
+        {
+          "name": "codeSection",
+          "default": null
+        },
+        {
+          "name": "tone",
+          "default": "casual"
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_5cada72c778d"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4484b51e8186.json"
     },
     {
       "id": "opl_a8f95bf19a89",

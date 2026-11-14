@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 11,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_8107251e8391",
+      "slug": "expert-level-insights-and-advanced-resources",
+      "title": "Expert-Level Insights and Advanced Resources",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8107251e8391.json"
+    },
     {
       "id": "opl_5d863694b4ef",
       "slug": "explain-complex-code-or-patterns",
@@ -1051,15 +1060,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed57dd00d567.json"
-    },
-    {
-      "id": "opl_0e62666b04c0",
-      "slug": "generate-compliance-reports",
-      "title": "Generate Compliance Reports",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e62666b04c0.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 19,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_bb8193846c9d",
+      "slug": "pdf-shareholder-extractor",
+      "title": "PDF Shareholder Extractor",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb8193846c9d.json"
+    },
     {
       "id": "opl_333c916d297a",
       "slug": "pdf-viewer",
@@ -1273,20 +1282,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53df5ecf3e0f.json"
-    },
-    {
-      "id": "opl_483c970d834d",
-      "slug": "prepare-for-meetings-key-considerations",
-      "title": "Prepare for Meetings: Key Considerations",
-      "category": "General",
-      "folder": "general",
-      "variables": [
-        {
-          "name": "person",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_483c970d834d.json"
     }
   ]
 }

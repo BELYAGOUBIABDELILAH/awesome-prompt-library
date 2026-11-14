@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 14,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_f18874a35525",
+      "slug": "improve-ui-accessibility",
+      "title": "Improve UI Accessibility",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f18874a35525.json"
+    },
     {
       "id": "opl_3268ff0f91fe",
       "slug": "improving-business-english",
@@ -1090,15 +1099,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5a2938845d3c.json"
-    },
-    {
-      "id": "opl_ae2293fa6f0a",
-      "slug": "json-assistance",
-      "title": "JSON Assistance",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae2293fa6f0a.json"
     }
   ]
 }

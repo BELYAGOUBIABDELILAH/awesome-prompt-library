@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 27,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_177026a7d19e",
+      "slug": "ultra-realistic-winter-cinematography-series",
+      "title": "Ultra-Realistic Winter Cinematography Series",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_177026a7d19e.json"
+    },
     {
       "id": "opl_eaa80c412019",
       "slug": "ultra-realistic-young-woman-portrait-generation",
@@ -1221,20 +1230,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef9360abf756.json"
-    },
-    {
-      "id": "opl_72c6c65d1367",
-      "slug": "world-of-darkness-b-w-style",
-      "title": "World of Darkness B&W style",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "subject",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_72c6c65d1367.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 8,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_97f071b489ee",
+      "slug": "creative-ideas-generator",
+      "title": "Creative Ideas Generator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97f071b489ee.json"
+    },
     {
       "id": "opl_6fd49a47da16",
       "slug": "creative-image-generation-for-digital-art",
@@ -1200,15 +1209,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31bebe7949b1.json"
-    },
-    {
-      "id": "opl_5494a68ac6ba",
-      "slug": "deep-learning-loop",
-      "title": "Deep Learning Loop",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5494a68ac6ba.json"
     }
   ]
 }

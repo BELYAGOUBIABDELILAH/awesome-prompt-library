@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 25,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_affc9ec672ff",
+      "slug": "surreal-city-scene",
+      "title": "Surreal City Scene",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "city_name",
+          "default": null
+        },
+        {
+          "name": "current_weather",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_affc9ec672ff.json"
+    },
     {
       "id": "opl_84bb7e5d24a3",
       "slug": "surreal-miniature-cityscape-with-giant-observer",
@@ -984,15 +1002,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_734ca1e892c1.json"
-    },
-    {
-      "id": "opl_91daf3875685",
-      "slug": "text-to-concise-tweets-converter",
-      "title": "Text to Concise Tweets Converter",
-      "category": "Games & Fun",
-      "folder": "games-fun",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91daf3875685.json"
     }
   ]
 }

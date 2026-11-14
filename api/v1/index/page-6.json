@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T06:20:41.038Z",
+  "last_updated": "2026-11-14T07:20:45.112Z",
   "page": 6,
   "per_page": 100,
-  "total": 2731,
+  "total": 2732,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
   "prompts": [
+    {
+      "id": "opl_98d613a70c02",
+      "slug": "cinematic-3x3-focal-lengths-grid",
+      "title": "Cinematic 3x3 Focal Lengths Grid",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_98d613a70c02.json"
+    },
     {
       "id": "opl_d5c69fdcf7f4",
       "slug": "cinematic-close-up-of-craftsman-with-paper-figures",
@@ -1158,28 +1167,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8dda9b8c094.json"
-    },
-    {
-      "id": "opl_4efde0e3da61",
-      "slug": "comprehensive-digital-marketing-strategy-for-fashion-brand",
-      "title": "Comprehensive Digital Marketing Strategy for Fashion Brand",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "mainPlatform",
-          "default": "Instagram, TikTok"
-        },
-        {
-          "name": "priceRange",
-          "default": "$200-$600"
-        },
-        {
-          "name": "targetAudience",
-          "default": "young women 20-40"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4efde0e3da61.json"
     }
   ]
 }
