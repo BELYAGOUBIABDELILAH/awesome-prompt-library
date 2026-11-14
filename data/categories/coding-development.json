@@ -10908,5 +10908,15 @@
     "slug": "optical-optometrist",
     "folder": "coding-development",
     "path": "prompts/coding-development/optical-optometrist.md"
+  },
+  {
+    "act": "Storybook with stories creation",
+    "category": "Coding & Development",
+    "prompt": "Act you as a storybook professional: prompt for creating a storybook with basic stories in a modular way, with professional folder structure based on given screenshot, use scss for styling and tsx for scripting in below structure.\n\nsrc\n\n│\n\n├── foundations\n\n│   ├── colors\n\n│   ├── typography\n\n│   ├── spacing\n\n│   ├── shadows\n\n│   └── breakpoints\n\n│\n\n├── components\n\n│   ├── Button\n\n│   ├── Input\n\n│   ├── Select\n\n│   ├── Checkbox\n\n│   ├── Radio\n\n│   ├── Modal\n\n│   ├── Card\n\n│   └── Tooltip\n\n│\n\n├── patterns\n\n│   ├── Header\n\n│   ├── Sidebar\n\n│   ├── SearchBar\n\n│   └── Navigation\n\n│\n\n├── tokens\n\n│\n\n├── styles\n\n│\n\n└── index.ts",
+    "source": "venoogopal@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "storybook-with-stories-creation",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/storybook-with-stories-creation.md"
   }
 ]
