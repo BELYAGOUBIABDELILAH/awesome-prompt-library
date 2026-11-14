@@ -1,8 +1,8 @@
 {
   "folder": "coding-development",
   "name": "Coding & Development",
-  "last_updated": "2026-11-14T12:20:45.599Z",
-  "total": 1091,
+  "last_updated": "2026-11-14T13:20:41.406Z",
+  "total": 1092,
   "prompts": [
     {
       "id": "opl_8fbf9edcd378",
@@ -17300,6 +17300,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_52a659314c8a.json"
+    },
+    {
+      "id": "opl_9323432cb5d4",
+      "slug": "storybook-with-stories-creation",
+      "title": "Storybook with stories creation",
+      "prompt": "Act you as a storybook professional: prompt for creating a storybook with basic stories in a modular way, with professional folder structure based on given screenshot, use scss for styling and tsx for scripting in below structure.\n\nsrc\n\n│\n\n├── foundations\n\n│   ├── colors\n\n│   ├── typography\n\n│   ├── spacing\n\n│   ├── shadows\n\n│   └── breakpoints\n\n│\n\n├── components\n\n│   ├── Button\n\n│   ├── Input\n\n│   ├── Select\n\n│   ├── Checkbox\n\n│   ├── Radio\n\n│   ├── Modal\n\n│   ├── Card\n\n│   └── Tooltip\n\n│\n\n├── patterns\n\n│   ├── Header\n\n│   ├── Sidebar\n\n│   ├── SearchBar\n\n│   └── Navigation\n\n│\n\n├── tokens\n\n│\n\n├── styles\n\n│\n\n└── index.ts",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_36d586dc9c84"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9323432cb5d4.json"
     },
     {
       "id": "opl_7338177aec31",

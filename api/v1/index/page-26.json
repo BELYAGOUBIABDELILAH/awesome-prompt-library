@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T12:20:45.599Z",
+  "last_updated": "2026-11-14T13:20:41.406Z",
   "page": 26,
   "per_page": 100,
-  "total": 2737,
+  "total": 2738,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_3685695c6976",
+      "slug": "text-based-adventure-game",
+      "title": "Text Based Adventure Game",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3685695c6976.json"
+    },
     {
       "id": "opl_57738c3f8da2",
       "slug": "text-brevity-assistant",
@@ -1053,15 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65aca7113a6b.json"
-    },
-    {
-      "id": "opl_03e984fb1cbb",
-      "slug": "ultra-realistic-ankara-street-photo-with-surreal-element",
-      "title": "Ultra-Realistic Ankara Street Photo with Surreal Element",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03e984fb1cbb.json"
     }
   ]
 }

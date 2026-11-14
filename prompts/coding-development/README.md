@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1091 prompts in this category**
+**1092 prompts in this category**
 
 ## Table of Contents
 
@@ -925,6 +925,7 @@
 - [Startup Idea Generator](startup-idea-generator.md)
 - [Status Update Email Drafter](status-update-email-drafter.md)
 - [Storage Media Expert](storage-media-expert.md)
+- [Storybook with stories creation](storybook-with-stories-creation.md)
 - [Stranded in Time: The Victorian Traveler’s Panic](stranded-in-time-the-victorian-traveler-s-panic.md)
 - [Streaks Mobile App Development Prompt](streaks-mobile-app-development-prompt.md)
 - [Streamlit App Generator](streamlit-app-generator.md)

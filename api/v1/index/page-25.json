@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T12:20:45.599Z",
+  "last_updated": "2026-11-14T13:20:41.406Z",
   "page": 25,
   "per_page": 100,
-  "total": 2737,
+  "total": 2738,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_3ecd413aaca1",
+      "slug": "sunny-beach",
+      "title": "Sunny Beach",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ecd413aaca1.json"
+    },
     {
       "id": "opl_e621f9e842a6",
       "slug": "super-trader-model-for-stock-analysis",
@@ -1001,15 +1010,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d68ed59646cb.json"
-    },
-    {
-      "id": "opl_3685695c6976",
-      "slug": "text-based-adventure-game",
-      "title": "Text Based Adventure Game",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3685695c6976.json"
     }
   ]
 }

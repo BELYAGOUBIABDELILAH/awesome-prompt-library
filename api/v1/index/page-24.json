@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T12:20:45.599Z",
+  "last_updated": "2026-11-14T13:20:41.406Z",
   "page": 24,
   "per_page": 100,
-  "total": 2737,
+  "total": 2738,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
@@ -586,6 +586,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b9f9a1ef1e1.json"
     },
     {
+      "id": "opl_9323432cb5d4",
+      "slug": "storybook-with-stories-creation",
+      "title": "Storybook with stories creation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9323432cb5d4.json"
+    },
+    {
       "id": "opl_bef396ba5ecc",
       "slug": "storyteller",
       "title": "Storyteller",
@@ -1057,15 +1066,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a7496aa40382.json"
-    },
-    {
-      "id": "opl_3ecd413aaca1",
-      "slug": "sunny-beach",
-      "title": "Sunny Beach",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ecd413aaca1.json"
     }
   ]
 }
