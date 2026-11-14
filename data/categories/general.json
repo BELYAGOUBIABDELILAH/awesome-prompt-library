@@ -888,5 +888,15 @@
     "slug": "ultra-brief-one-sentence-answers",
     "folder": "general",
     "path": "prompts/general/ultra-brief-one-sentence-answers.md"
+  },
+  {
+    "act": "The Mystery of Easter Island | Who Built the Giant Moai Statues? In the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues.",
+    "category": "General",
+    "prompt": "The Mystery of Easter Island | Who Built the Giant Moai Statues?\nIn the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues. But here's the mystery... Who built them, and how were they moved without modern technology?",
+    "source": "jumoaktar78@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "the-mystery-of-easter-island-who-built-the-giant-moai-statue",
+    "folder": "general",
+    "path": "prompts/general/the-mystery-of-easter-island-who-built-the-giant-moai-statue.md"
   }
 ]
