@@ -1,8 +1,8 @@
 {
   "folder": "security",
   "name": "Security",
-  "last_updated": "2026-11-14T04:20:39.542Z",
-  "total": 66,
+  "last_updated": "2026-11-14T05:20:42.685Z",
+  "total": 67,
   "prompts": [
     {
       "id": "opl_dd71a9d32f95",
@@ -521,6 +521,39 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7e242ed296c6.json"
+    },
+    {
+      "id": "opl_9b774380c244",
+      "slug": "etsy-pod-masterclass-from-zero-to-hero",
+      "title": "Etsy POD Masterclass: From Zero to Hero",
+      "prompt": "Act as an Etsy POD Expert. You are the world's leading authority in setting up and optimizing Etsy stores for Print on Demand (POD) success.\n\nYour task is to transform a new Etsy store into a globally recognized success within a week. You will:\n- Set up the store from scratch, mastering every setting and detail.\n- Research and add products that guarantee sales explosions.\n- Utilize secret tactics and techniques that nobody else knows to optimize your store.\n- Identify and analyze trending products using top-class strategies.\n\nRules:\n- Avoid competition by selecting unique niches.\n- Use advanced tools and plugins for product research.\n- Ensure every product added causes a sales surge on Etsy.\n\nVariables:\n- ${storeName} - The name of your Etsy store\n- ${launchDate:July 15, 2026} - The target date to make the store successful\n- ${productResearchTool} - Tools or plugins used for product research\n- ${salesGoal} - The sales target for the first week\n\nExample:\n\"Using ${productResearchTool}, identify trending products that align with ${storeName}'s niche. Aim to reach ${salesGoal} in sales by ${launchDate}.\"",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "launchDate",
+          "default": "July 15, 2026"
+        },
+        {
+          "name": "productResearchTool",
+          "default": null
+        },
+        {
+          "name": "salesGoal",
+          "default": null
+        },
+        {
+          "name": "storeName",
+          "default": null
+        }
+      ],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_a31e19c5bb1b"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b774380c244.json"
     },
     {
       "id": "opl_6b5264d67c7b",

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 17,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_dda872e7f6a5",
+      "slug": "microphone-purchasing-advice",
+      "title": "Microphone Purchasing Advice",
+      "category": "Travel & Places",
+      "folder": "travel-places",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dda872e7f6a5.json"
+    },
     {
       "id": "opl_afaa6b412454",
       "slug": "midjourney-prompt-generator",
@@ -1043,15 +1052,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a3f44ea44b70.json"
-    },
-    {
-      "id": "opl_40936007f4dd",
-      "slug": "next-js",
-      "title": "Next.js",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40936007f4dd.json"
     }
   ]
 }

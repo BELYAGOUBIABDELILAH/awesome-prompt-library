@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 25,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_73b6f1f14d13",
+      "slug": "surrealist-painting-description-a-study-of-ren-magritte-s-st",
+      "title": "Surrealist Painting Description: A Study of René Magritte's Style",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_73b6f1f14d13.json"
+    },
     {
       "id": "opl_6d36eaf3a584",
       "slug": "sustainable-living-advisor",
@@ -984,15 +993,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea1bc1c5255d.json"
-    },
-    {
-      "id": "opl_3d72e5b6b961",
-      "slug": "the-aether-prince-at-the-crystal-gala",
-      "title": "The Aether Prince at the Crystal Gala",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d72e5b6b961.json"
     }
   ]
 }

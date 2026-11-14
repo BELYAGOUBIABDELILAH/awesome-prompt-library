@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 19,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_333c916d297a",
+      "slug": "pdf-viewer",
+      "title": "PDF Viewer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_333c916d297a.json"
+    },
     {
       "id": "opl_0443ecb00f39",
       "slug": "pdfcount",
@@ -1278,28 +1287,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_483c970d834d.json"
-    },
-    {
-      "id": "opl_10e752d241f4",
-      "slug": "present",
-      "title": "Present",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "desired_behavior",
-          "default": null
-        },
-        {
-          "name": "files_to_be_modified",
-          "default": null
-        },
-        {
-          "name": "symbol_and_action",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10e752d241f4.json"
     }
   ]
 }

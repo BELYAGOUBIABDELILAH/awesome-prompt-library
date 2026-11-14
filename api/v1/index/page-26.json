@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 26,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_3d72e5b6b961",
+      "slug": "the-aether-prince-at-the-crystal-gala",
+      "title": "The Aether Prince at the Crystal Gala",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d72e5b6b961.json"
+    },
     {
       "id": "opl_fedb7a959816",
       "slug": "the-aether-workshop",
@@ -1048,15 +1057,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_eaa80c412019.json"
-    },
-    {
-      "id": "opl_f9c137f76e03",
-      "slug": "ultrathinker",
-      "title": "Ultrathinker",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9c137f76e03.json"
     }
   ]
 }

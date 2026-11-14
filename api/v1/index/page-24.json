@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 24,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_d82a75859f55",
+      "slug": "spoken-word-artist-persona",
+      "title": "Spoken Word Artist Persona",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d82a75859f55.json"
+    },
     {
       "id": "opl_53d0ffbce7e6",
       "slug": "spongebob-s-magic-conch-shell",
@@ -1079,15 +1088,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84bb7e5d24a3.json"
-    },
-    {
-      "id": "opl_73b6f1f14d13",
-      "slug": "surrealist-painting-description-a-study-of-ren-magritte-s-st",
-      "title": "Surrealist Painting Description: A Study of René Magritte's Style",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_73b6f1f14d13.json"
     }
   ]
 }

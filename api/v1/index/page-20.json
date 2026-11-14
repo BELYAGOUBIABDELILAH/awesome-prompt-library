@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 20,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_10e752d241f4",
+      "slug": "present",
+      "title": "Present",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "desired_behavior",
+          "default": null
+        },
+        {
+          "name": "files_to_be_modified",
+          "default": null
+        },
+        {
+          "name": "symbol_and_action",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10e752d241f4.json"
+    },
     {
       "id": "opl_b00e5b071996",
       "slug": "presentation-making",
@@ -1144,15 +1166,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b32f0068eed9.json"
-    },
-    {
-      "id": "opl_b5f1629c0586",
-      "slug": "python-coach",
-      "title": "Python Coach",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5f1629c0586.json"
     }
   ]
 }

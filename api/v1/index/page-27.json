@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 27,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_f9c137f76e03",
+      "slug": "ultrathinker",
+      "title": "Ultrathinker",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9c137f76e03.json"
+    },
     {
       "id": "opl_03e5b9d98091",
       "slug": "unconstrained-ai-model-dan",
@@ -1231,36 +1240,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3890b19a2c8b.json"
-    },
-    {
-      "id": "opl_c41c18c9eddf",
-      "slug": "write-an-email",
-      "title": "Write an Email",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "length",
-          "default": "200"
-        },
-        {
-          "name": "recipient",
-          "default": null
-        },
-        {
-          "name": "tone",
-          "default": "professional|friendly"
-        },
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c41c18c9eddf.json"
     }
   ]
 }

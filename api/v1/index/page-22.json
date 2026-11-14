@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 22,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_502746dcff31",
+      "slug": "retro-futuristic-1970s-sci-fi",
+      "title": "Retro-futuristic 1970s sci-fi",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_502746dcff31.json"
+    },
     {
       "id": "opl_2ce7ba2fed27",
       "slug": "revenue-model-unit-economics-analyzer",
@@ -1211,15 +1220,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ad640bae0bb.json"
-    },
-    {
-      "id": "opl_e857b05a4a92",
-      "slug": "seo-prompt",
-      "title": "SEO Prompt",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e857b05a4a92.json"
     }
   ]
 }

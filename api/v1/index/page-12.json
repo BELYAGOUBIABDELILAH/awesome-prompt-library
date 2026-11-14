@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 12,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_cd81648e777e",
+      "slug": "generate-crud-operations",
+      "title": "Generate CRUD Operations",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd81648e777e.json"
+    },
     {
       "id": "opl_e7167ff6f657",
       "slug": "generate-customer-facing-error-messages",
@@ -1039,15 +1048,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e58392cb74af.json"
-    },
-    {
-      "id": "opl_07919e5780ad",
-      "slug": "hebrew-learning-coach",
-      "title": "Hebrew Learning Coach",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07919e5780ad.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 23,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_e857b05a4a92",
+      "slug": "seo-prompt",
+      "title": "SEO Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e857b05a4a92.json"
+    },
     {
       "id": "opl_a6cac2c506e8",
       "slug": "seo-specialist",
@@ -1101,15 +1110,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_856be45cf0a7.json"
-    },
-    {
-      "id": "opl_d82a75859f55",
-      "slug": "spoken-word-artist-persona",
-      "title": "Spoken Word Artist Persona",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d82a75859f55.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 18,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_40936007f4dd",
+      "slug": "next-js",
+      "title": "Next.js",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40936007f4dd.json"
+    },
     {
       "id": "opl_fa0fb6dadcfe",
       "slug": "next-js-react-comprehensive-clash-of-clans-tool",
@@ -1041,15 +1050,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb8193846c9d.json"
-    },
-    {
-      "id": "opl_333c916d297a",
-      "slug": "pdf-viewer",
-      "title": "PDF Viewer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_333c916d297a.json"
     }
   ]
 }

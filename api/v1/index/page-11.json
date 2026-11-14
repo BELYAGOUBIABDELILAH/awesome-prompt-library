@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 11,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_5d863694b4ef",
+      "slug": "explain-complex-code-or-patterns",
+      "title": "Explain Complex Code or Patterns",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d863694b4ef.json"
+    },
     {
       "id": "opl_8e6df8bc570f",
       "slug": "explain-funding-impact",
@@ -1051,15 +1060,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e62666b04c0.json"
-    },
-    {
-      "id": "opl_cd81648e777e",
-      "slug": "generate-crud-operations",
-      "title": "Generate CRUD Operations",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd81648e777e.json"
     }
   ]
 }

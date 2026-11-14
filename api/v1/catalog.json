@@ -27482,6 +27482,32 @@
     "snippet": "Verify this code meets the following compliance requirements: [PASTE CODE] Required standards: [GDPR / HIPAA / PCI-DSS / SOC2 / select applicable] ## GDPR Compliance Check (if a"
   },
   {
+    "id": "opl_9b774380c244",
+    "title": "Etsy POD Masterclass: From Zero to Hero",
+    "category": "Security",
+    "folder": "security",
+    "slug": "etsy-pod-masterclass-from-zero-to-hero",
+    "variables": [
+      {
+        "name": "launchDate",
+        "default": "July 15, 2026"
+      },
+      {
+        "name": "productResearchTool",
+        "default": null
+      },
+      {
+        "name": "salesGoal",
+        "default": null
+      },
+      {
+        "name": "storeName",
+        "default": null
+      }
+    ],
+    "snippet": "Act as an Etsy POD Expert. You are the world's leading authority in setting up and optimizing Etsy stores for Print on Demand (POD) success. Your task is to transform a new Etsy s"
+  },
+  {
     "id": "opl_6b5264d67c7b",
     "title": "Expert Legal Analyst in Tax and Commercial Law",
     "category": "Security",

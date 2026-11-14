@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 15,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_20d2c9ab447d",
+      "slug": "json-schema-editor-for-ai",
+      "title": "JSON Schema Editor For AI",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20d2c9ab447d.json"
+    },
     {
       "id": "opl_21d073c3a8ae",
       "slug": "json-schema-to-markdown-table",
@@ -1040,15 +1049,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e4bc4aeefb2.json"
-    },
-    {
-      "id": "opl_7827010c8bf6",
-      "slug": "llm-training-lookup",
-      "title": "LLM Training Lookup",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7827010c8bf6.json"
     }
   ]
 }

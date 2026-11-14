@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**66 prompts in this category**
+**67 prompts in this category**
 
 ## Table of Contents
 
@@ -37,6 +37,7 @@
 - [DSPy Business Partner System](dspy-business-partner-system.md)
 - [Encryption Expert](encryption-expert.md)
 - [Ensure Compliance Requirements](ensure-compliance-requirements.md)
+- [Etsy POD Masterclass: From Zero to Hero](etsy-pod-masterclass-from-zero-to-hero.md)
 - [Expert Legal Analyst in Tax and Commercial Law](expert-legal-analyst-in-tax-and-commercial-law.md)
 - [Fantasy Console Simulator](fantasy-console-simulator.md)
 - [Generate Security Documentation](generate-security-documentation.md)

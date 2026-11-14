@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 14,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_3268ff0f91fe",
+      "slug": "improving-business-english",
+      "title": "Improving Business English",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3268ff0f91fe.json"
+    },
     {
       "id": "opl_e415032da7bd",
       "slug": "in-depth-article-enhancement-with-research",
@@ -1090,15 +1099,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ae2293fa6f0a.json"
-    },
-    {
-      "id": "opl_20d2c9ab447d",
-      "slug": "json-schema-editor-for-ai",
-      "title": "JSON Schema Editor For AI",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20d2c9ab447d.json"
     }
   ]
 }

@@ -1,12 +1,42 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 28,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_c41c18c9eddf",
+      "slug": "write-an-email",
+      "title": "Write an Email",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "length",
+          "default": "200"
+        },
+        {
+          "name": "recipient",
+          "default": null
+        },
+        {
+          "name": "tone",
+          "default": "professional|friendly"
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c41c18c9eddf.json"
+    },
     {
       "id": "opl_9299dc67f4d0",
       "slug": "write-tier-descriptions",

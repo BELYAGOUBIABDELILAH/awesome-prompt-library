@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 13,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_07919e5780ad",
+      "slug": "hebrew-learning-coach",
+      "title": "Hebrew Learning Coach",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07919e5780ad.json"
+    },
     {
       "id": "opl_0e7d864fac51",
       "slug": "hebrew-message-writer",
@@ -1038,15 +1047,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f18874a35525.json"
-    },
-    {
-      "id": "opl_3268ff0f91fe",
-      "slug": "improving-business-english",
-      "title": "Improving Business English",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3268ff0f91fe.json"
     }
   ]
 }

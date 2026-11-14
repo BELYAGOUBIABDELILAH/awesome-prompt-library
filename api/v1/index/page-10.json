@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 10,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
@@ -1068,6 +1068,32 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e639b39b5a06.json"
     },
     {
+      "id": "opl_9b774380c244",
+      "slug": "etsy-pod-masterclass-from-zero-to-hero",
+      "title": "Etsy POD Masterclass: From Zero to Hero",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "launchDate",
+          "default": "July 15, 2026"
+        },
+        {
+          "name": "productResearchTool",
+          "default": null
+        },
+        {
+          "name": "salesGoal",
+          "default": null
+        },
+        {
+          "name": "storeName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9b774380c244.json"
+    },
+    {
       "id": "opl_0a3e96249478",
       "slug": "etymologist",
       "title": "Etymologist",
@@ -1281,15 +1307,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8107251e8391.json"
-    },
-    {
-      "id": "opl_5d863694b4ef",
-      "slug": "explain-complex-code-or-patterns",
-      "title": "Explain Complex Code or Patterns",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5d863694b4ef.json"
     }
   ]
 }

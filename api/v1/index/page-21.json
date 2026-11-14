@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T04:20:39.542Z",
+  "last_updated": "2026-11-14T05:20:42.685Z",
   "page": 21,
   "per_page": 100,
-  "total": 2729,
+  "total": 2730,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_b5f1629c0586",
+      "slug": "python-coach",
+      "title": "Python Coach",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b5f1629c0586.json"
+    },
     {
       "id": "opl_117fd1fec4c4",
       "slug": "python-code-generator-clean-optimized-production-ready",
@@ -1066,15 +1075,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49cab5b725b0.json"
-    },
-    {
-      "id": "opl_502746dcff31",
-      "slug": "retro-futuristic-1970s-sci-fi",
-      "title": "Retro-futuristic 1970s sci-fi",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_502746dcff31.json"
     }
   ]
 }
