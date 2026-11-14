@@ -228,5 +228,15 @@
     "slug": "surprise-point-and-click-game-generator",
     "folder": "games-fun",
     "path": "prompts/games-fun/surprise-point-and-click-game-generator.md"
+  },
+  {
+    "act": "Company Introduction",
+    "category": "Games & Fun",
+    "prompt": "Act as video editor and create a company introduction video based on the original video and a sample video.\nI want you to keep the content, the characteristic and the order of context.\nCut the length to 60 seconds.\nThe sample video: https://youtu.be/PBrYMBacnyM?si=azTcDzob6GRkhFDd\nThe original one:",
+    "source": "duyennguyen5593@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "company-introduction",
+    "folder": "games-fun",
+    "path": "prompts/games-fun/company-introduction.md"
   }
 ]
