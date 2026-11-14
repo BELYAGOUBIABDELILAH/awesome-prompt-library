@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T07:20:45.112Z",
+  "last_updated": "2026-11-14T08:20:41.427Z",
   "page": 21,
   "per_page": 100,
-  "total": 2732,
+  "total": 2733,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_91aeadf434c6",
+      "slug": "python-learn-by-example",
+      "title": "Python - Learn By Example",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91aeadf434c6.json"
+    },
     {
       "id": "opl_b32f0068eed9",
       "slug": "python-auto-typer-with-customizable-delay",
@@ -1066,15 +1075,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d6191af39e2.json"
-    },
-    {
-      "id": "opl_c2b5a043fdb3",
-      "slug": "resume-to-json",
-      "title": "Resume To JSON",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c2b5a043fdb3.json"
     }
   ]
 }

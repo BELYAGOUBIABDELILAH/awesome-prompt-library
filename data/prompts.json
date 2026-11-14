@@ -12750,6 +12750,16 @@
     "path": "prompts/coding-development/casual-code-explanation-video-script.md"
   },
   {
+    "act": "Optical, Optometrist",
+    "category": "Coding & Development",
+    "prompt": "i want develop a tele-ophthalmic/optometric app. i need ideas and development sop. no need any code. provide free guides. try to analyze what are efficient for tele-ophthalmic assessments and what are possible and practically and clinically worked.",
+    "source": "aprasedu@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "optical-optometrist",
+    "folder": "coding-development",
+    "path": "prompts/coding-development/optical-optometrist.md"
+  },
+  {
     "act": "3D City Prompt",
     "category": "Data & Analytics",
     "prompt": "Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",

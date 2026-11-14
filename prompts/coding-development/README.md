@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**1090 prompts in this category**
+**1091 prompts in this category**
 
 ## Table of Contents
 
@@ -701,6 +701,7 @@
 - [Open Source MCP Finder](open-source-mcp-finder.md)
 - [Open Source Project Size Comparison](open-source-project-size-comparison.md)
 - [OpenAI Create Plan Skill](openai-create-plan-skill.md)
+- [Optical, Optometrist](optical-optometrist.md)
 - [Optimization Auditor Agent Role](optimization-auditor-agent-role.md)
 - [Optimize Algorithm Performance](optimize-algorithm-performance.md)
 - [Optimize Database Queries](optimize-database-queries.md)

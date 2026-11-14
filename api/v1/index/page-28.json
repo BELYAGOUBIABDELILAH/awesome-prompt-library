@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T07:20:45.112Z",
+  "last_updated": "2026-11-14T08:20:41.427Z",
   "page": 28,
   "per_page": 100,
-  "total": 2732,
+  "total": 2733,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_ef9360abf756",
+      "slug": "world-landmarks-hyper-realistic-3d-dioramas",
+      "title": "World Landmarks: Hyper-Realistic 3D Dioramas",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [
+        {
+          "name": "Landmark Name",
+          "default": "EIFFEL TOWER"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef9360abf756.json"
+    },
     {
       "id": "opl_72c6c65d1367",
       "slug": "world-of-darkness-b-w-style",

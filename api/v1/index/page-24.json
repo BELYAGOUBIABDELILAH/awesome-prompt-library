@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T07:20:45.112Z",
+  "last_updated": "2026-11-14T08:20:41.427Z",
   "page": 24,
   "per_page": 100,
-  "total": 2732,
+  "total": 2733,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_cd61d3b9bd8d",
+      "slug": "spending-commentary-summarizer",
+      "title": "Spending Commentary Summarizer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd61d3b9bd8d.json"
+    },
     {
       "id": "opl_a2ddde78a719",
       "slug": "split-word-rejoin",
@@ -1070,15 +1079,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad500f7a67f7.json"
-    },
-    {
-      "id": "opl_2c429d029678",
-      "slug": "surreal-cgi-photography-hybrid-portrait",
-      "title": "Surreal CGI-Photography Hybrid Portrait",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c429d029678.json"
     }
   ]
 }

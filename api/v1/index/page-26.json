@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T07:20:45.112Z",
+  "last_updated": "2026-11-14T08:20:41.427Z",
   "page": 26,
   "per_page": 100,
-  "total": 2732,
+  "total": 2733,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_734ca1e892c1",
+      "slug": "text-summarizer",
+      "title": "Text Summarizer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "maxLength",
+          "default": "100"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_734ca1e892c1.json"
+    },
     {
       "id": "opl_91daf3875685",
       "slug": "text-to-concise-tweets-converter",
@@ -1048,15 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_037cbb3af3c5.json"
-    },
-    {
-      "id": "opl_635372a02b21",
-      "slug": "ultra-realistic-turkish-living-room-scene-during-football-ma",
-      "title": "Ultra-Realistic Turkish Living Room Scene During Football Match",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_635372a02b21.json"
     }
   ]
 }

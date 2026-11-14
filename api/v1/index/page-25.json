@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T07:20:45.112Z",
+  "last_updated": "2026-11-14T08:20:41.427Z",
   "page": 25,
   "per_page": 100,
-  "total": 2732,
+  "total": 2733,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_2c429d029678",
+      "slug": "surreal-cgi-photography-hybrid-portrait",
+      "title": "Surreal CGI-Photography Hybrid Portrait",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2c429d029678.json"
+    },
     {
       "id": "opl_affc9ec672ff",
       "slug": "surreal-city-scene",
@@ -988,20 +997,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c3f097db2c80.json"
-    },
-    {
-      "id": "opl_734ca1e892c1",
-      "slug": "text-summarizer",
-      "title": "Text Summarizer",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "maxLength",
-          "default": "100"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_734ca1e892c1.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T07:20:45.112Z",
+  "last_updated": "2026-11-14T08:20:41.427Z",
   "page": 20,
   "per_page": 100,
-  "total": 2732,
+  "total": 2733,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_53df5ecf3e0f",
+      "slug": "premortem-analysis",
+      "title": "Premortem Analysis",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53df5ecf3e0f.json"
+    },
     {
       "id": "opl_483c970d834d",
       "slug": "prepare-for-meetings-key-considerations",
@@ -1162,15 +1171,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_61f2f6023b43.json"
-    },
-    {
-      "id": "opl_91aeadf434c6",
-      "slug": "python-learn-by-example",
-      "title": "Python - Learn By Example",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91aeadf434c6.json"
     }
   ]
 }

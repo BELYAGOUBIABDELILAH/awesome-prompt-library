@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T07:20:45.112Z",
+  "last_updated": "2026-11-14T08:20:41.427Z",
   "page": 27,
   "per_page": 100,
-  "total": 2732,
+  "total": 2733,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_635372a02b21",
+      "slug": "ultra-realistic-turkish-living-room-scene-during-football-ma",
+      "title": "Ultra-Realistic Turkish Living Room Scene During Football Match",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_635372a02b21.json"
+    },
     {
       "id": "opl_177026a7d19e",
       "slug": "ultra-realistic-winter-cinematography-series",
@@ -1216,20 +1225,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76d47118a9c8.json"
-    },
-    {
-      "id": "opl_ef9360abf756",
-      "slug": "world-landmarks-hyper-realistic-3d-dioramas",
-      "title": "World Landmarks: Hyper-Realistic 3D Dioramas",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "Landmark Name",
-          "default": "EIFFEL TOWER"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef9360abf756.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T07:20:45.112Z",
+  "last_updated": "2026-11-14T08:20:41.427Z",
   "page": 18,
   "per_page": 100,
-  "total": 2732,
+  "total": 2733,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
@@ -636,6 +636,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5596670b5578.json"
     },
     {
+      "id": "opl_983b36f3e292",
+      "slug": "optical-optometrist",
+      "title": "Optical, Optometrist",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_983b36f3e292.json"
+    },
+    {
       "id": "opl_63c52247aaab",
       "slug": "optimization-auditor-agent-role",
       "title": "Optimization Auditor Agent Role",
@@ -1041,15 +1050,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b58d17daa62.json"
-    },
-    {
-      "id": "opl_a9fc15930a17",
-      "slug": "pcb-identification-assistant",
-      "title": "PCB Identification Assistant",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a9fc15930a17.json"
     }
   ]
 }

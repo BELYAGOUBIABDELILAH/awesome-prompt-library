@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T07:20:45.112Z",
+  "last_updated": "2026-11-14T08:20:41.427Z",
   "page": 23,
   "per_page": 100,
-  "total": 2732,
+  "total": 2733,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_c7e3f2a0c1e8",
+      "slug": "seo-advice",
+      "title": "SEO Advice",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c7e3f2a0c1e8.json"
+    },
     {
       "id": "opl_40ead337a830",
       "slug": "seo-auditor-agent-role",
@@ -1101,15 +1110,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_46b6b34e1374.json"
-    },
-    {
-      "id": "opl_cd61d3b9bd8d",
-      "slug": "spending-commentary-summarizer",
-      "title": "Spending Commentary Summarizer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd61d3b9bd8d.json"
     }
   ]
 }

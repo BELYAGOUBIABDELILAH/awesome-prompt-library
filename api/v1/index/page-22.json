@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T07:20:45.112Z",
+  "last_updated": "2026-11-14T08:20:41.427Z",
   "page": 22,
   "per_page": 100,
-  "total": 2732,
+  "total": 2733,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_c2b5a043fdb3",
+      "slug": "resume-to-json",
+      "title": "Resume To JSON",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c2b5a043fdb3.json"
+    },
     {
       "id": "opl_49cab5b725b0",
       "slug": "resume-to-side-hustle",
@@ -1211,15 +1220,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_590411d9f6e4.json"
-    },
-    {
-      "id": "opl_c7e3f2a0c1e8",
-      "slug": "seo-advice",
-      "title": "SEO Advice",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c7e3f2a0c1e8.json"
     }
   ]
 }

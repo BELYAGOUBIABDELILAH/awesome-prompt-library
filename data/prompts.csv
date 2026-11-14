@@ -68146,6 +68146,7 @@ Variables:
 
 Example:
 ""Hi! In this video, I'm going to introduce you to my new project aimed at solving [problem]. Let's take a look at the code! First, we have the section [first section] that does [explanation]. It's like [analogy]. Let's move on to the next part...""",IcyMost (prompts.chat),TEXT,casual-code-explanation-video-script,coding-development,prompts/coding-development/casual-code-explanation-video-script.md
+"Optical, Optometrist",Coding & Development,i want develop a tele-ophthalmic/optometric app. i need ideas and development sop. no need any code. provide free guides. try to analyze what are efficient for tele-ophthalmic assessments and what are possible and practically and clinically worked.,aprasedu@gmail.com (prompts.chat),TEXT,optical-optometrist,coding-development,prompts/coding-development/optical-optometrist.md
 3D City Prompt,Data & Analytics,"Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions",src_dab9fa094922,TEXT,3d-city-prompt,data-analytics,prompts/data-analytics/3d-city-prompt.md
 3D Mechanical Part Image to Technical Drawing Conversion,Data & Analytics,"{
   ""task"": ""image_to_image"",
