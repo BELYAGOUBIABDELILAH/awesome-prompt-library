@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T02:20:40.670Z",
+  "last_updated": "2026-11-14T03:20:52.743Z",
   "page": 25,
   "per_page": 100,
-  "total": 2727,
+  "total": 2728,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
@@ -64,6 +64,24 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dee61f047436.json"
+    },
+    {
+      "id": "opl_8c23d1f1eaf1",
+      "slug": "symphony-event-interviewer",
+      "title": "Symphony Event Interviewer",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [
+        {
+          "name": "date",
+          "default": null
+        },
+        {
+          "name": "eventName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c23d1f1eaf1.json"
     },
     {
       "id": "opl_31b38364e3c2",
@@ -975,15 +993,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fedb7a959816.json"
-    },
-    {
-      "id": "opl_663cd04e5c42",
-      "slug": "the-architect-hacker-protector-viral-engineer",
-      "title": "The Architect: Hacker-Protector & Viral Engineer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_663cd04e5c42.json"
     }
   ]
 }

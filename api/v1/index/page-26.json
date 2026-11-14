@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T02:20:40.670Z",
+  "last_updated": "2026-11-14T03:20:52.743Z",
   "page": 26,
   "per_page": 100,
-  "total": 2727,
+  "total": 2728,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_663cd04e5c42",
+      "slug": "the-architect-hacker-protector-viral-engineer",
+      "title": "The Architect: Hacker-Protector & Viral Engineer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_663cd04e5c42.json"
+    },
     {
       "id": "opl_e74ed364c082",
       "slug": "the-colorful-fish-learning-emotions",
@@ -1048,15 +1057,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03e5b9d98091.json"
-    },
-    {
-      "id": "opl_c81741911356",
-      "slug": "understand-async-operations-and-concurrency",
-      "title": "Understand Async Operations and Concurrency",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c81741911356.json"
     }
   ]
 }

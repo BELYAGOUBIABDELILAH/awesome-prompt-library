@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**60 prompts in this category**
+**61 prompts in this category**
 
 ## Table of Contents
 
@@ -57,6 +57,7 @@
 - [Self-Help Book](self-help-book.md)
 - [Senior System Architect Agent](senior-system-architect-agent.md)
 - [Stripe Payment Builder](stripe-payment-builder.md)
+- [Symphony Event Interviewer](symphony-event-interviewer.md)
 - [Task Manager Setup](task-manager-setup.md)
 - [Tech Tooling - Solve This Pain Point](tech-tooling-solve-this-pain-point.md)
 - [Tech With APIs](tech-with-apis.md)

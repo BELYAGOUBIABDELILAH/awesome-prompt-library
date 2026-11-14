@@ -4,7 +4,7 @@
 
 **A collection of reusable AI prompts organized by category, with a free static JSON API.**
 
-[![Prompts](https://img.shields.io/badge/prompts-2%2C726-orange?style=flat-square)](#browse-by-category)
+[![Prompts](https://img.shields.io/badge/prompts-2%2C727-orange?style=flat-square)](#browse-by-category)
 [![Categories](https://img.shields.io/badge/categories-19-blue?style=flat-square)](#browse-by-category)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
@@ -56,7 +56,7 @@ Promptstack organizes prompts into 19 task-focused categories:
 | [General](prompts/general) | 89 | Everyday productivity, brainstorming, and utilities |
 | [Education & Learning](prompts/education-learning) | 77 | Explanations, study guides, and concept breakdowns |
 | [Security](prompts/security) | 66 | Code auditing, threat modeling, and security policy |
-| [Business & Career](prompts/business-career) | 60 | Resumes, cover letters, and workplace communication |
+| [Business & Career](prompts/business-career) | 61 | Resumes, cover letters, and workplace communication |
 | [Documentation](prompts/documentation) | 59 | Technical specs, README files, and API docs |
 | [Health & Wellness](prompts/health-wellness) | 29 | Fitness planning, nutrition ideas, and habit tracking |
 | [Research & Analysis](prompts/research-analysis) | 28 | Literature review, synthesis, and comparative analysis |
