@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**77 prompts in this category**
+**78 prompts in this category**
 
 ## Table of Contents
 
@@ -77,6 +77,7 @@
 - [Subtitled Content For Language Learners](subtitled-content-for-language-learners.md)
 - [TCRE Framework - AI Prompt Engineer](tcre-framework-ai-prompt-engineer.md)
 - [Teacher of React.js](teacher-of-react-js.md)
+- [TMA help](tma-help.md)
 - [Ultra-photorealistic Infographics](ultra-photorealistic-infographics.md)
 - [University Admission Interview Simulation](university-admission-interview-simulation.md)
 - [Using StanfordVL/BEHAVIOR-1K for Robotics and AI Tasks](using-stanfordvl-behavior-1k-for-robotics-and-ai-tasks.md)

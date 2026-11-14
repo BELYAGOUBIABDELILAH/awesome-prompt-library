@@ -1,0 +1,16 @@
+{
+  "id": "opl_44843dff7ea1",
+  "slug": "tma-help",
+  "title": "TMA help",
+  "prompt": "Help me write my TMA(tutor marked assessment) assigment. First I want my Ai to make sure that all the answers come from the resource pdf book I provide. No external source is allowed to answer my TMAs. \nSecondly, use simple English words and must be UK  standards. \nMy answers should not sound like Ai wrote it rather should have complete 100% natural human tone and should pass all Ai detectors(even the professional Ai detectors used by tutors/ professors at University)\nMy TMA should also have few references (in harvard style) but End reference and within text citation should be included.",
+  "category": "Education & Learning",
+  "folder": "education-learning",
+  "variables": [],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_ed939ff1a3ee"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_44843dff7ea1.json"
+}

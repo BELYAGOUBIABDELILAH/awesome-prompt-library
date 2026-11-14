@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-14T10:20:42.423Z",
+  "last_updated": "2026-11-14T11:20:42.197Z",
   "page": 28,
   "per_page": 100,
-  "total": 2735,
+  "total": 2736,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_aeb205d7cbf2",
+      "slug": "wonder-land-adventure",
+      "title": "Wonder Land Adventure",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "adventureType",
+          "default": null
+        },
+        {
+          "name": "protagonistName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aeb205d7cbf2.json"
+    },
     {
       "id": "opl_2be25502bcb4",
       "slug": "work-on-linear-issue",

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T10:20:42.423Z",
+  "last_updated": "2026-11-14T11:20:42.197Z",
   "page": 26,
   "per_page": 100,
-  "total": 2735,
+  "total": 2736,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
@@ -415,6 +415,15 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_83ac4934ea79.json"
+    },
+    {
+      "id": "opl_44843dff7ea1",
+      "slug": "tma-help",
+      "title": "TMA help",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_44843dff7ea1.json"
     },
     {
       "id": "opl_3ae5ca96ef04",
@@ -1053,15 +1062,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96fb5f51dcb8.json"
-    },
-    {
-      "id": "opl_4f2e0f7af3e7",
-      "slug": "ultra-realistic-handwritten-hospital-note-image",
-      "title": "Ultra-Realistic Handwritten Hospital Note Image",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f2e0f7af3e7.json"
     }
   ]
 }
