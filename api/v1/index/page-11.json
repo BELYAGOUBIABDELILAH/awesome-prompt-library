@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 11,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_8c7c1996124c",
+      "slug": "expert-guidance-for-acoustic-and-deep-learning-research",
+      "title": "Expert Guidance for Acoustic and Deep Learning Research",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c7c1996124c.json"
+    },
     {
       "id": "opl_6b5264d67c7b",
       "slug": "expert-legal-analyst-in-tax-and-commercial-law",
@@ -1046,20 +1055,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_feacce82d564.json"
-    },
-    {
-      "id": "opl_bbc272113238",
-      "slug": "generate-academic-taxonomy",
-      "title": "Generate Academic Taxonomy",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bbc272113238.json"
     }
   ]
 }

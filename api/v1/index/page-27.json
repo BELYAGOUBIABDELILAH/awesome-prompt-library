@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 27,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_f4dd48a7d280",
+      "slug": "ultra-realistic-3d-character-avatar-creation",
+      "title": "Ultra-Realistic 3D Character Avatar Creation",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4dd48a7d280.json"
+    },
     {
       "id": "opl_a6e00054319e",
       "slug": "ultra-realistic-amateur-street-photo-of-ankara-scene",
@@ -1198,15 +1207,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_111ef25485cb.json"
-    },
-    {
-      "id": "opl_611c77c098de",
-      "slug": "wicked",
-      "title": "Wicked",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_611c77c098de.json"
     }
   ]
 }

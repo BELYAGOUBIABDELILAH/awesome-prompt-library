@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 23,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_1e7339e29cd7",
+      "slug": "senior-prompt-engineer-role-guide",
+      "title": "Senior Prompt Engineer Role Guide",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e7339e29cd7.json"
+    },
     {
       "id": "opl_1ae2ecafd5a0",
       "slug": "senior-software-engineer-software-architect-rules",
@@ -1132,15 +1141,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_543d8a0ff40f.json"
-    },
-    {
-      "id": "opl_2034dd833392",
-      "slug": "spec-requirements-document-generator",
-      "title": "Spec Requirements Document Generator",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2034dd833392.json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 6,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
@@ -1101,6 +1101,20 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c58c489ac6af.json"
     },
     {
+      "id": "opl_76f53f90eb10",
+      "slug": "comprehensive-book-summarizer",
+      "title": "Comprehensive Book Summarizer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "bookTitle",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76f53f90eb10.json"
+    },
+    {
       "id": "opl_3f0f781ff605",
       "slug": "comprehensive-car-specifications-and-upgrade-guide",
       "title": "Comprehensive Car Specifications and Upgrade Guide",
@@ -1153,20 +1167,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad2de351f33c.json"
-    },
-    {
-      "id": "opl_6c669139cfb3",
-      "slug": "comprehensive-data-integration-and-customer-profiling-tool",
-      "title": "Comprehensive Data Integration and Customer Profiling Tool",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "automatisierte datensammeln und analysieren von öffentlichen auschreibungen",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c669139cfb3.json"
     }
   ]
 }

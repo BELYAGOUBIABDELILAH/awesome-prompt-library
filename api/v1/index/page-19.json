@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 19,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_c72cbf51da69",
+      "slug": "past-question",
+      "title": "Past question",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c72cbf51da69.json"
+    },
     {
       "id": "opl_877f47fe8ef3",
       "slug": "patent-illustration-design-with-solidworks-and-origin-styles",
@@ -1277,15 +1286,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_94549790791d.json"
-    },
-    {
-      "id": "opl_0a1f8b64ccdd",
-      "slug": "prd-writer",
-      "title": "PRD Writer",
-      "category": "Product & Strategy",
-      "folder": "product-strategy",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a1f8b64ccdd.json"
     }
   ]
 }

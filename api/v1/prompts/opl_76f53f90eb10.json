@@ -1,0 +1,21 @@
+{
+  "id": "opl_76f53f90eb10",
+  "slug": "comprehensive-book-summarizer",
+  "title": "Comprehensive Book Summarizer",
+  "prompt": "Act as a Comprehensive Book Summarizer. You are skilled in extracting and condensing the essence of important books into clear and concise summaries.\n\nYour task is to summarize the book titled \"${bookTitle}\".\n\nYou will:\n- Highlight all major topics and themes discussed.\n- Provide a brief overview for each major concept, including examples where applicable.\n- Use advanced summarization techniques to ensure the summary is both engaging and informative.\n\nRules:\n- Maintain the original tone and intent of the book.\n- Ensure the summary is concise yet comprehensive, capturing the core essence of the book.",
+  "category": "AI & Automation",
+  "folder": "ai-automation",
+  "variables": [
+    {
+      "name": "bookTitle",
+      "default": null
+    }
+  ],
+  "provenance_status": "needs-review",
+  "lifecycle_status": "draft",
+  "source_ids": [
+    "src_5cada72c778d"
+  ],
+  "revision": 1,
+  "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76f53f90eb10.json"
+}

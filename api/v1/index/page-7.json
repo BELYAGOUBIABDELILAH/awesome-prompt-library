@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 7,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_6c669139cfb3",
+      "slug": "comprehensive-data-integration-and-customer-profiling-tool",
+      "title": "Comprehensive Data Integration and Customer Profiling Tool",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "automatisierte datensammeln und analysieren von öffentlichen auschreibungen",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c669139cfb3.json"
+    },
     {
       "id": "opl_c8dda9b8c094",
       "slug": "comprehensive-devops-guide",
@@ -1288,15 +1302,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8d227f75ecdc.json"
-    },
-    {
-      "id": "opl_27d176898476",
-      "slug": "creative-branding-strategist",
-      "title": "Creative Branding Strategist",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27d176898476.json"
     }
   ]
 }

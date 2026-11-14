@@ -363,6 +363,20 @@
     "snippet": "Close-up black and white portrait of a man and a woman standing side by side. The man has tousled hair and a rough beard, the woman has softly tousled natural hair. Both tilt their"
   },
   {
+    "id": "opl_76f53f90eb10",
+    "title": "Comprehensive Book Summarizer",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "comprehensive-book-summarizer",
+    "variables": [
+      {
+        "name": "bookTitle",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a Comprehensive Book Summarizer. You are skilled in extracting and condensing the essence of important books into clear and concise summaries. Your task is to summarize the"
+  },
+  {
     "id": "opl_87b6012204f9",
     "title": "Comprehensive Guide to Gas-Fired Pool Heaters with Visuals",
     "category": "AI & Automation",

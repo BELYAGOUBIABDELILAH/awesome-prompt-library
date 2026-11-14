@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 13,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_9e61e33b56c6",
+      "slug": "headline-copywriter",
+      "title": "Headline Copywriter",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9e61e33b56c6.json"
+    },
     {
       "id": "opl_b4165b440a5d",
       "slug": "healing-grandma",
@@ -1033,15 +1042,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7fc08efed29b.json"
-    },
-    {
-      "id": "opl_ead1420dea62",
-      "slug": "improve-my-docs",
-      "title": "Improve My Docs",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ead1420dea62.json"
     }
   ]
 }

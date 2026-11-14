@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 20,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_0a1f8b64ccdd",
+      "slug": "prd-writer",
+      "title": "PRD Writer",
+      "category": "Product & Strategy",
+      "folder": "product-strategy",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a1f8b64ccdd.json"
+    },
     {
       "id": "opl_3a23ff6e184e",
       "slug": "prd-and-technical-documentation-generator",
@@ -1162,15 +1171,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8808aa5b467d.json"
-    },
-    {
-      "id": "opl_dd2e07dbe59b",
-      "slug": "pub-crawl-itinerary-creator",
-      "title": "Pub Crawl Itinerary Creator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dd2e07dbe59b.json"
     }
   ]
 }

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 9,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prompts": [
+    {
+      "id": "opl_cfc0a82257b2",
+      "slug": "deep-github-repository-understanding",
+      "title": "Deep GitHub Repository Understanding",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "repositoryURL",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cfc0a82257b2.json"
+    },
     {
       "id": "opl_31bebe7949b1",
       "slug": "deep-immersion-study-plan-7-days",
@@ -1178,15 +1192,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_080d7862897e.json"
-    },
-    {
-      "id": "opl_61d85b94caba",
-      "slug": "draft-a-2-week-plan-on-the-basic-skills-of-computer-knowledge-for-a-company-that-has-outlets-across-the-country",
-      "title": "Draft a 2-week plan on the basic skills of computer knowledge for a company that has outlets across the country",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_61d85b94caba.json"
     }
   ]
 }

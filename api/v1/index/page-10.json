@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 10,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_61d85b94caba",
+      "slug": "draft-a-2-week-plan-on-the-basic-skills-of-computer-knowledge-for-a-company-that-has-outlets-across-the-country",
+      "title": "Draft a 2-week plan on the basic skills of computer knowledge for a company that has outlets across the country",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_61d85b94caba.json"
+    },
     {
       "id": "opl_b96954b6855a",
       "slug": "draft-a-memo",
@@ -1293,15 +1302,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_861fd85c03e6.json"
-    },
-    {
-      "id": "opl_8c7c1996124c",
-      "slug": "expert-guidance-for-acoustic-and-deep-learning-research",
-      "title": "Expert Guidance for Acoustic and Deep Learning Research",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c7c1996124c.json"
     }
   ]
 }

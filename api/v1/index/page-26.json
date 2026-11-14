@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 26,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_01ffba7d9f94",
+      "slug": "test-python-algorithmic-trading-project",
+      "title": "Test Python Algorithmic Trading Project",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "projectName",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_01ffba7d9f94.json"
+    },
     {
       "id": "opl_742541c15cac",
       "slug": "test-driven-bug-hunting-with-reproduction-agents",
@@ -1063,15 +1077,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8d2691bf68e8.json"
-    },
-    {
-      "id": "opl_f4dd48a7d280",
-      "slug": "ultra-realistic-3d-character-avatar-creation",
-      "title": "Ultra-Realistic 3D Character Avatar Creation",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4dd48a7d280.json"
     }
   ]
 }

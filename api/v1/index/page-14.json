@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 14,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_ead1420dea62",
+      "slug": "improve-my-docs",
+      "title": "Improve My Docs",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ead1420dea62.json"
+    },
     {
       "id": "opl_a12f3365ab3d",
       "slug": "improve-my-text",
@@ -1095,15 +1104,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee27a5f42243.json"
-    },
-    {
-      "id": "opl_4ba4df7682fd",
-      "slug": "joker-tech-humor-master",
-      "title": "Joker: Tech Humor Master",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4ba4df7682fd.json"
     }
   ]
 }

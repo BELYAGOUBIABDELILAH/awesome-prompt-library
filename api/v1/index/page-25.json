@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 25,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_597dca6af505",
+      "slug": "summarize-recent-changes-to-mr-issue",
+      "title": "Summarize Recent Changes to MR/Issue",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_597dca6af505.json"
+    },
     {
       "id": "opl_ac87293e2500",
       "slug": "what-does-chatgpt-knows-about-you",
@@ -986,20 +995,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f95bf8091cee.json"
-    },
-    {
-      "id": "opl_01ffba7d9f94",
-      "slug": "test-python-algorithmic-trading-project",
-      "title": "Test Python Algorithmic Trading Project",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "projectName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_01ffba7d9f94.json"
     }
   ]
 }

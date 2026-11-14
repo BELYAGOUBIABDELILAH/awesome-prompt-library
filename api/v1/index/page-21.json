@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 21,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_dd2e07dbe59b",
+      "slug": "pub-crawl-itinerary-creator",
+      "title": "Pub Crawl Itinerary Creator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dd2e07dbe59b.json"
+    },
     {
       "id": "opl_e7ace06cca44",
       "slug": "public-speaking-coach",
@@ -1062,15 +1071,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_821723c99689.json"
-    },
-    {
-      "id": "opl_5f6e8d7fe359",
-      "slug": "restaurant-owner",
-      "title": "Restaurant Owner",
-      "category": "Food & Recipes",
-      "folder": "food-recipes",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5f6e8d7fe359.json"
     }
   ]
 }

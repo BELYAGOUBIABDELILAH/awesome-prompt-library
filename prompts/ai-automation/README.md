@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**124 prompts in this category**
+**125 prompts in this category**
 
 ## Table of Contents
 
@@ -38,6 +38,7 @@
 - [Chore Helper](chore-helper.md)
 - [Claude Deep Prompt](claude-deep-prompt.md)
 - [Close-up black and white portrait](close-up-black-and-white-portrait.md)
+- [Comprehensive Book Summarizer](comprehensive-book-summarizer.md)
 - [Comprehensive Guide to Gas-Fired Pool Heaters with Visuals](comprehensive-guide-to-gas-fired-pool-heaters-with-visuals.md)
 - [Continuous Execution Mode AI](continuous-execution-mode-ai.md)
 - [Creating PWA AI Chatbot](creating-pwa-ai-chatbot.md)

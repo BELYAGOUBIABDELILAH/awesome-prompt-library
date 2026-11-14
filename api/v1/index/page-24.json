@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T16:20:46.088Z",
+  "last_updated": "2026-11-14T17:20:40.816Z",
   "page": 24,
   "per_page": 100,
-  "total": 2741,
+  "total": 2742,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_2034dd833392",
+      "slug": "spec-requirements-document-generator",
+      "title": "Spec Requirements Document Generator",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2034dd833392.json"
+    },
     {
       "id": "opl_19c8e3d9d1ee",
       "slug": "spec-sheet-retrieval",
@@ -1057,15 +1066,6 @@
       "folder": "research-analysis",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_08866ab02e63.json"
-    },
-    {
-      "id": "opl_597dca6af505",
-      "slug": "summarize-recent-changes-to-mr-issue",
-      "title": "Summarize Recent Changes to MR/Issue",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_597dca6af505.json"
     }
   ]
 }
