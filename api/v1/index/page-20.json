@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T01:20:43.234Z",
+  "last_updated": "2026-11-14T02:20:40.670Z",
   "page": 20,
   "per_page": 100,
-  "total": 2726,
+  "total": 2727,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_d5829b835a53",
+      "slug": "pricing-retrieval-bot",
+      "title": "Pricing Retrieval Bot",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5829b835a53.json"
+    },
     {
       "id": "opl_8fc7a80d7633",
       "slug": "principled",
@@ -1149,20 +1158,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_117fd1fec4c4.json"
-    },
-    {
-      "id": "opl_4f1282fc048f",
-      "slug": "python-code-performance-quality-enhancer",
-      "title": "Python Code Performance & Quality Enhancer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "paste_your_code_here",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f1282fc048f.json"
     }
   ]
 }

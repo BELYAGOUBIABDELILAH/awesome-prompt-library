@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T01:20:43.234Z",
+  "last_updated": "2026-11-14T02:20:40.670Z",
   "page": 25,
   "per_page": 100,
-  "total": 2726,
+  "total": 2727,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_435cf270347e",
+      "slug": "svg-designer",
+      "title": "SVG designer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_435cf270347e.json"
+    },
     {
       "id": "opl_c93e40eee684",
       "slug": "swagger-docs",
@@ -975,20 +984,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_663cd04e5c42.json"
-    },
-    {
-      "id": "opl_e74ed364c082",
-      "slug": "the-colorful-fish-learning-emotions",
-      "title": "The Colorful Fish Learning Emotions",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "fishName",
-          "default": "Finny"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e74ed364c082.json"
     }
   ]
 }

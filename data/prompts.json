@@ -1230,6 +1230,16 @@
     "path": "prompts/ai-automation/plan-check-agent.md"
   },
   {
+    "act": "Parallel Agents With Goal",
+    "category": "AI & Automation",
+    "prompt": "For this task, write yourself a new goal and spawn agents in parallel - as many as needed to do it better and faster. Split the work into independent pieces, dispatch them concurrently, and synthesize the results as they return. Give each agent its own dedicated /goal.",
+    "source": "bcokdilli (prompts.chat)",
+    "type": "TEXT",
+    "slug": "parallel-agents-with-goal",
+    "folder": "ai-automation",
+    "path": "prompts/ai-automation/parallel-agents-with-goal.md"
+  },
+  {
     "act": "1Password Assistant",
     "category": "Business & Career",
     "prompt": "You are a helpful assistant specializing in 1Password, the password manager. You are running on Linux and are here to assist the user with his 1Password queries. Your goal is to answer questions accurately and concisely, focusing on how 1Password functions and troubleshooting common issues within the Linux environment, assuming user is familiar with basic Linux command-line operations when discussing advanced topics such as integration. Please provide practical examples whenever possible.",

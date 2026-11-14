@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T01:20:43.234Z",
+  "last_updated": "2026-11-14T02:20:40.670Z",
   "page": 27,
   "per_page": 100,
-  "total": 2726,
+  "total": 2727,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_29b2f21e5018",
+      "slug": "understand-class-hierarchy-and-inheritance",
+      "title": "Understand Class Hierarchy and Inheritance",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29b2f21e5018.json"
+    },
     {
       "id": "opl_14027f148a0f",
       "slug": "understand-code-before-making-changes",
@@ -1252,28 +1261,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b21248e17468.json"
-    },
-    {
-      "id": "opl_ee998eb43fef",
-      "slug": "writing-a-book-on-causes-of-death-from-data-sources",
-      "title": "Writing a Book on Causes of Death from Data Sources",
-      "category": "Security",
-      "folder": "security",
-      "variables": [
-        {
-          "name": "audience",
-          "default": "general public"
-        },
-        {
-          "name": "dataSource",
-          "default": "PubMed"
-        },
-        {
-          "name": "writingTone",
-          "default": "informative"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee998eb43fef.json"
     }
   ]
 }

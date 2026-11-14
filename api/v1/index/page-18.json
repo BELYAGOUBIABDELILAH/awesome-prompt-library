@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T01:20:43.234Z",
+  "last_updated": "2026-11-14T02:20:40.670Z",
   "page": 18,
   "per_page": 100,
-  "total": 2726,
+  "total": 2727,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
@@ -927,6 +927,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_961d17fdd979.json"
     },
     {
+      "id": "opl_966e9fb5fd2d",
+      "slug": "parallel-agents-with-goal",
+      "title": "Parallel Agents With Goal",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_966e9fb5fd2d.json"
+    },
+    {
       "id": "opl_82c11b5141b0",
       "slug": "passenger-seat-car-selfie-golden-hour-candid",
       "title": "Passenger Seat Car Selfie (golden hour, candid)",
@@ -1028,15 +1037,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0443ecb00f39.json"
-    },
-    {
-      "id": "opl_7d6035432f56",
-      "slug": "performance-debugging-assistant",
-      "title": "Performance Debugging Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7d6035432f56.json"
     }
   ]
 }

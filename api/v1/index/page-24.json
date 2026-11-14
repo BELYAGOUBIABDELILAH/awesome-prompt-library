@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T01:20:43.234Z",
+  "last_updated": "2026-11-14T02:20:40.670Z",
   "page": 24,
   "per_page": 100,
-  "total": 2726,
+  "total": 2727,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_0aeb28ba80f9",
+      "slug": "sponsor-hall-of-fame",
+      "title": "Sponsor Hall of Fame",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0aeb28ba80f9.json"
+    },
     {
       "id": "opl_59a72110b787",
       "slug": "sports-events-weekly-listings-prompt",
@@ -1079,15 +1088,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d36eaf3a584.json"
-    },
-    {
-      "id": "opl_435cf270347e",
-      "slug": "svg-designer",
-      "title": "SVG designer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_435cf270347e.json"
     }
   ]
 }

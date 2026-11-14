@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**123 prompts in this category**
+**124 prompts in this category**
 
 ## Table of Contents
 
@@ -90,6 +90,7 @@
 - [NFC Expert](nfc-expert.md)
 - [Nurse](nurse.md)
 - [Orchestrate Multi-Agent Workflows](orchestrate-multi-agent-workflows.md)
+- [Parallel Agents With Goal](parallel-agents-with-goal.md)
 - [pdfcount](pdfcount.md)
 - [Pet Behaviorist](pet-behaviorist.md)
 - [Pirate](pirate.md)

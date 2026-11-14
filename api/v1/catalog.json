@@ -972,6 +972,15 @@
     "snippet": "Design a multi-agent workflow to accomplish: [GOAL] ## Workflow Architecture Define each agent in the pipeline: Agent 1 — [Name/Role]: - Trigger: [what starts it] - Input: [data/"
   },
   {
+    "id": "opl_966e9fb5fd2d",
+    "title": "Parallel Agents With Goal",
+    "category": "AI & Automation",
+    "folder": "ai-automation",
+    "slug": "parallel-agents-with-goal",
+    "variables": [],
+    "snippet": "For this task, write yourself a new goal and spawn agents in parallel - as many as needed to do it better and faster. Split the work into independent pieces, dispatch them concurre"
+  },
+  {
     "id": "opl_0443ecb00f39",
     "title": "pdfcount",
     "category": "AI & Automation",

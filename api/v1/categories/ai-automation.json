@@ -1,8 +1,8 @@
 {
   "folder": "ai-automation",
   "name": "AI & Automation",
-  "last_updated": "2026-11-14T01:20:43.234Z",
-  "total": 123,
+  "last_updated": "2026-11-14T02:20:40.670Z",
+  "total": 124,
   "prompts": [
     {
       "id": "opl_75367788da77",
@@ -1563,6 +1563,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fe4a0c2002b8.json"
+    },
+    {
+      "id": "opl_966e9fb5fd2d",
+      "slug": "parallel-agents-with-goal",
+      "title": "Parallel Agents With Goal",
+      "prompt": "For this task, write yourself a new goal and spawn agents in parallel - as many as needed to do it better and faster. Split the work into independent pieces, dispatch them concurrently, and synthesize the results as they return. Give each agent its own dedicated /goal.",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_0fbfbc37b8fc"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_966e9fb5fd2d.json"
     },
     {
       "id": "opl_0443ecb00f39",

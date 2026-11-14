@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T01:20:43.234Z",
+  "last_updated": "2026-11-14T02:20:40.670Z",
   "page": 26,
   "per_page": 100,
-  "total": 2726,
+  "total": 2727,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_e74ed364c082",
+      "slug": "the-colorful-fish-learning-emotions",
+      "title": "The Colorful Fish Learning Emotions",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "fishName",
+          "default": "Finny"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e74ed364c082.json"
+    },
     {
       "id": "opl_dcb4a5d45c09",
       "slug": "the-covert-exchange-in-the-fog",
@@ -1043,15 +1057,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c81741911356.json"
-    },
-    {
-      "id": "opl_29b2f21e5018",
-      "slug": "understand-class-hierarchy-and-inheritance",
-      "title": "Understand Class Hierarchy and Inheritance",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29b2f21e5018.json"
     }
   ]
 }

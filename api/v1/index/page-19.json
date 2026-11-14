@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T01:20:43.234Z",
+  "last_updated": "2026-11-14T02:20:40.670Z",
   "page": 19,
   "per_page": 100,
-  "total": 2726,
+  "total": 2727,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_7d6035432f56",
+      "slug": "performance-debugging-assistant",
+      "title": "Performance Debugging Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7d6035432f56.json"
+    },
     {
       "id": "opl_1ac6b60fe3ca",
       "slug": "performance-tuning-agent-role",
@@ -1291,15 +1300,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b00e5b071996.json"
-    },
-    {
-      "id": "opl_d5829b835a53",
-      "slug": "pricing-retrieval-bot",
-      "title": "Pricing Retrieval Bot",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d5829b835a53.json"
     }
   ]
 }

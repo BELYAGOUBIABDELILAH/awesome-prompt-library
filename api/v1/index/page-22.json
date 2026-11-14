@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T01:20:43.234Z",
+  "last_updated": "2026-11-14T02:20:40.670Z",
   "page": 22,
   "per_page": 100,
-  "total": 2726,
+  "total": 2727,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_e8902f5dc707",
+      "slug": "revenue-performance-report",
+      "title": "Revenue Performance Report",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8902f5dc707.json"
+    },
     {
       "id": "opl_661380492bdf",
       "slug": "reverse-pitch-writer",
@@ -1211,28 +1220,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6cac2c506e8.json"
-    },
-    {
-      "id": "opl_7244b440f22d",
-      "slug": "seo-strategy-for-container-tracking-keywords",
-      "title": "SEO Strategy for Container Tracking Keywords",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "keyword",
-          "default": "container tracking"
-        },
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "length",
-          "default": "2000"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7244b440f22d.json"
     }
   ]
 }
