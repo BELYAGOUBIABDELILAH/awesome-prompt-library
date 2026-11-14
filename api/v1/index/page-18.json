@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T13:20:41.406Z",
+  "last_updated": "2026-11-14T14:20:40.160Z",
   "page": 18,
   "per_page": 100,
-  "total": 2738,
+  "total": 2739,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
@@ -271,6 +271,15 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4484fe99e3d6.json"
+    },
+    {
+      "id": "opl_5e4f80538906",
+      "slug": "nordic-cabin-living-room-at-dusk-reverse-angle-view",
+      "title": "Nordic Cabin Living Room at Dusk (Reverse Angle View)",
+      "category": "Research & Analysis",
+      "folder": "research-analysis",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5e4f80538906.json"
     },
     {
       "id": "opl_7186b754819f",
@@ -1028,28 +1037,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_877f47fe8ef3.json"
-    },
-    {
-      "id": "opl_35701d941088",
-      "slug": "pathology-slide-analysis-assistant",
-      "title": "Pathology Slide Analysis Assistant",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "language",
-          "default": "English"
-        },
-        {
-          "name": "reportFormat",
-          "default": "PDF"
-        },
-        {
-          "name": "slideType",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_35701d941088.json"
     }
   ]
 }

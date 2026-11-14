@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-14T13:20:41.406Z",
+  "last_updated": "2026-11-14T14:20:40.160Z",
   "page": 19,
   "per_page": 100,
-  "total": 2738,
+  "total": 2739,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_35701d941088",
+      "slug": "pathology-slide-analysis-assistant",
+      "title": "Pathology Slide Analysis Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "reportFormat",
+          "default": "PDF"
+        },
+        {
+          "name": "slideType",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_35701d941088.json"
+    },
     {
       "id": "opl_3b58d17daa62",
       "slug": "payment-gateway-page",
@@ -1273,15 +1295,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f819f8127173.json"
-    },
-    {
-      "id": "opl_3029ecde2e93",
-      "slug": "predictive-eye-tracking-heatmap-generator",
-      "title": "Predictive Eye Tracking Heatmap Generator",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3029ecde2e93.json"
     }
   ]
 }

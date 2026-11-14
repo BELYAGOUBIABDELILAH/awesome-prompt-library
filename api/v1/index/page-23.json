@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T13:20:41.406Z",
+  "last_updated": "2026-11-14T14:20:40.160Z",
   "page": 23,
   "per_page": 100,
-  "total": 2738,
+  "total": 2739,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_fa0ca5ec5478",
+      "slug": "sensory-processing-support",
+      "title": "Sensory Processing Support",
+      "category": "Health & Wellness",
+      "folder": "health-wellness",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa0ca5ec5478.json"
+    },
     {
       "id": "opl_49ca5c26c001",
       "slug": "sentence-expansion-and-completion-assistant",
@@ -1119,15 +1128,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c23fc8b3e8af.json"
-    },
-    {
-      "id": "opl_a1c4846da097",
-      "slug": "speech-to-text-stt-expert",
-      "title": "Speech To Text (STT) Expert",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a1c4846da097.json"
     }
   ]
 }

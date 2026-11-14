@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T13:20:41.406Z",
+  "last_updated": "2026-11-14T14:20:40.160Z",
   "page": 28,
   "per_page": 100,
-  "total": 2738,
+  "total": 2739,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_910f7699eb4e",
+      "slug": "wings-of-the-dust-bowl",
+      "title": "Wings of the Dust Bowl",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_910f7699eb4e.json"
+    },
     {
       "id": "opl_8021e5732b82",
       "slug": "wisdom-generator",

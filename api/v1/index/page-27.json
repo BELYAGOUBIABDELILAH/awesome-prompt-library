@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T13:20:41.406Z",
+  "last_updated": "2026-11-14T14:20:40.160Z",
   "page": 27,
   "per_page": 100,
-  "total": 2738,
+  "total": 2739,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_65aca7113a6b",
+      "slug": "ultra-realistic-ankara-indie-bar-scene-description",
+      "title": "Ultra-Realistic Ankara Indie Bar Scene Description",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_65aca7113a6b.json"
+    },
     {
       "id": "opl_03e984fb1cbb",
       "slug": "ultra-realistic-ankara-street-photo-with-surreal-element",
@@ -1198,15 +1207,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bd09b7603549.json"
-    },
-    {
-      "id": "opl_910f7699eb4e",
-      "slug": "wings-of-the-dust-bowl",
-      "title": "Wings of the Dust Bowl",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_910f7699eb4e.json"
     }
   ]
 }

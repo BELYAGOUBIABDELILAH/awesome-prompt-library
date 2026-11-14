@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-11-14T13:20:41.406Z",
+  "last_updated": "2026-11-14T14:20:40.160Z",
   "page": 21,
   "per_page": 100,
-  "total": 2738,
+  "total": 2739,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_3c2c02c8eda6",
+      "slug": "pull-request-review-assistant",
+      "title": "Pull Request Review Assistant",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "gitdiff",
+          "default": null
+        },
+        {
+          "name": "jira_issue_description",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c2c02c8eda6.json"
+    },
     {
       "id": "opl_61f2f6023b43",
       "slug": "python",
@@ -1053,15 +1071,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_317ba9304618.json"
-    },
-    {
-      "id": "opl_124311e8ad3f",
-      "slug": "resume-quality-reviewer-green-flag-edition",
-      "title": "Resume Quality Reviewer – Green Flag Edition",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_124311e8ad3f.json"
     }
   ]
 }

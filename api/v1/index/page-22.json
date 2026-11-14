@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T13:20:41.406Z",
+  "last_updated": "2026-11-14T14:20:40.160Z",
   "page": 22,
   "per_page": 100,
-  "total": 2738,
+  "total": 2739,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_124311e8ad3f",
+      "slug": "resume-quality-reviewer-green-flag-edition",
+      "title": "Resume Quality Reviewer – Green Flag Edition",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_124311e8ad3f.json"
+    },
     {
       "id": "opl_0d6191af39e2",
       "slug": "resume-tailoring",
@@ -1206,15 +1215,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8bda7cf67889.json"
-    },
-    {
-      "id": "opl_fa0ca5ec5478",
-      "slug": "sensory-processing-support",
-      "title": "Sensory Processing Support",
-      "category": "Health & Wellness",
-      "folder": "health-wellness",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa0ca5ec5478.json"
     }
   ]
 }
