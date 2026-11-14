@@ -3978,5 +3978,15 @@
     "slug": "design-shirt",
     "folder": "image-design",
     "path": "prompts/image-design/design-shirt.md"
+  },
+  {
+    "act": "Na",
+    "category": "Image & Design",
+    "prompt": "Please create a video with attached my photo where he is a hero",
+    "source": "erasunni@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "na",
+    "folder": "image-design",
+    "path": "prompts/image-design/na.md"
   }
 ]
