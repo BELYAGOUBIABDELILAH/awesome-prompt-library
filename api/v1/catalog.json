@@ -18373,6 +18373,15 @@
     "snippet": "I'd like you to analyze this file containing all of my chat history with a friend of mine. Please summarize the sentiment of our conversations and list the dominant themes discusse"
   },
   {
+    "id": "opl_07faf9e9fe7d",
+    "title": "Company Introduction",
+    "category": "Games & Fun",
+    "folder": "games-fun",
+    "slug": "company-introduction",
+    "variables": [],
+    "snippet": "Act as video editor and create a company introduction video based on the original video and a sample video. I want you to keep the content, the characteristic and the order of cont"
+  },
+  {
     "id": "opl_908fe4657adc",
     "title": "Email Rhymer",
     "category": "Games & Fun",

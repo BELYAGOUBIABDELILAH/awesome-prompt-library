@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 15,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_5ee9ba0d5461",
+      "slug": "journal-reviewer",
+      "title": "Journal Reviewer",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ee9ba0d5461.json"
+    },
     {
       "id": "opl_5a2938845d3c",
       "slug": "journalist",
@@ -1040,15 +1049,6 @@
       "folder": "security",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c0a14b565b81.json"
-    },
-    {
-      "id": "opl_2e0fde5cee77",
-      "slug": "llm-test-lab-evaluation-tool",
-      "title": "LLM Test Lab (Evaluation Tool)",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e0fde5cee77.json"
     }
   ]
 }

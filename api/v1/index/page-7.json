@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 7,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_c8dda9b8c094",
+      "slug": "comprehensive-devops-guide",
+      "title": "Comprehensive DevOps Guide",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8dda9b8c094.json"
+    },
     {
       "id": "opl_4efde0e3da61",
       "slug": "comprehensive-digital-marketing-strategy-for-fashion-brand",
@@ -1288,15 +1297,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_27d176898476.json"
-    },
-    {
-      "id": "opl_8d0b093c250c",
-      "slug": "creative-coloring-book-creations",
-      "title": "Creative Coloring Book Creations",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8d0b093c250c.json"
     }
   ]
 }

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 26,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_742541c15cac",
+      "slug": "test-driven-bug-hunting-with-reproduction-agents",
+      "title": "Test-Driven Bug Hunting With Reproduction Agents",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "bug",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_742541c15cac.json"
+    },
     {
       "id": "opl_b1b5994950e3",
       "slug": "test-first-bug-fixing-approach",
@@ -1058,15 +1072,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4dd48a7d280.json"
-    },
-    {
-      "id": "opl_a6e00054319e",
-      "slug": "ultra-realistic-amateur-street-photo-of-ankara-scene",
-      "title": "Ultra-Realistic Amateur Street Photo of Ankara Scene",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e00054319e.json"
     }
   ]
 }

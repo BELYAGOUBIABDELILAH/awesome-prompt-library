@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 16,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prompts": [
+    {
+      "id": "opl_2e0fde5cee77",
+      "slug": "llm-test-lab-evaluation-tool",
+      "title": "LLM Test Lab (Evaluation Tool)",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e0fde5cee77.json"
+    },
     {
       "id": "opl_cbf5ca6cf015",
       "slug": "llm-tool-assistant",
@@ -1158,20 +1167,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20531de07f76.json"
-    },
-    {
-      "id": "opl_e90842a7ac06",
-      "slug": "meta-prompt-engineer",
-      "title": "Meta-Prompt Engineer",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "goal",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e90842a7ac06.json"
     }
   ]
 }

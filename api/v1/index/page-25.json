@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 25,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_ac87293e2500",
+      "slug": "what-does-chatgpt-knows-about-you",
+      "title": "Summarize Stored Knowledge and Preferences",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac87293e2500.json"
+    },
     {
       "id": "opl_6bd013212d07",
       "slug": "summarize-this-whiteboard",
@@ -991,20 +1000,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_01ffba7d9f94.json"
-    },
-    {
-      "id": "opl_742541c15cac",
-      "slug": "test-driven-bug-hunting-with-reproduction-agents",
-      "title": "Test-Driven Bug Hunting With Reproduction Agents",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "bug",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_742541c15cac.json"
     }
   ]
 }

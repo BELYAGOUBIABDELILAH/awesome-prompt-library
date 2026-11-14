@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 22,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_06b325103a62",
+      "slug": "result",
+      "title": "Result",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_06b325103a62.json"
+    },
     {
       "id": "opl_317ba9304618",
       "slug": "resume-customization-prompt-strategic-integrity",
@@ -1193,15 +1202,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1e7339e29cd7.json"
-    },
-    {
-      "id": "opl_1ae2ecafd5a0",
-      "slug": "senior-software-engineer-software-architect-rules",
-      "title": "Senior Software Engineer  & Software Architect Rules",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ae2ecafd5a0.json"
     }
   ]
 }

@@ -2,13 +2,14 @@
 
 [← Back to main index](../../README.md)
 
-**23 prompts in this category**
+**24 prompts in this category**
 
 ## Table of Contents
 
 - [1-Star Review Explorer](1-star-review-explorer.md)
 - [AI Engineering Expert](ai-engineering-expert.md)
 - [Analyze Chat History With User](analyze-chat-history-with-user.md)
+- [Company Introduction](company-introduction.md)
 - [Email Rhymer](email-rhymer.md)
 - [Flirting Boy](flirting-boy.md)
 - [Football Commentator](football-commentator.md)

@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 11,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_6b5264d67c7b",
+      "slug": "expert-legal-analyst-in-tax-and-commercial-law",
+      "title": "Expert Legal Analyst in Tax and Commercial Law",
+      "category": "Security",
+      "folder": "security",
+      "variables": [
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b5264d67c7b.json"
+    },
     {
       "id": "opl_04fd2c4bb56f",
       "slug": "expert-technical-blog-writer-role",
@@ -1046,20 +1060,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bbc272113238.json"
-    },
-    {
-      "id": "opl_1fa6d5536804",
-      "slug": "generate-an-enhanced-command-prompt",
-      "title": "Generate an enhanced command prompt",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "userInput",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1fa6d5536804.json"
     }
   ]
 }

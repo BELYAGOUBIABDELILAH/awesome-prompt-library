@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 8,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_8d0b093c250c",
+      "slug": "creative-coloring-book-creations",
+      "title": "Creative Coloring Book Creations",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8d0b093c250c.json"
+    },
     {
       "id": "opl_97f071b489ee",
       "slug": "creative-ideas-generator",
@@ -1200,15 +1209,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cfc0a82257b2.json"
-    },
-    {
-      "id": "opl_31bebe7949b1",
-      "slug": "deep-immersion-study-plan-7-days",
-      "title": "Deep Immersion Study Plan (7 Days)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_31bebe7949b1.json"
     }
   ]
 }

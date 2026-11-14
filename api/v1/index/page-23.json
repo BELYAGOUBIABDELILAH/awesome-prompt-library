@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 23,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_1ae2ecafd5a0",
+      "slug": "senior-software-engineer-software-architect-rules",
+      "title": "Senior Software Engineer  & Software Architect Rules",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ae2ecafd5a0.json"
+    },
     {
       "id": "opl_8bda7cf67889",
       "slug": "senior-system-architect-agent",
@@ -1132,15 +1141,6 @@
       "folder": "sales-business",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2034dd833392.json"
-    },
-    {
-      "id": "opl_19c8e3d9d1ee",
-      "slug": "spec-sheet-retrieval",
-      "title": "Spec Sheet Retrieval",
-      "category": "Sales & Business",
-      "folder": "sales-business",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19c8e3d9d1ee.json"
     }
   ]
 }

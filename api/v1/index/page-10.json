@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 10,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_b96954b6855a",
+      "slug": "draft-a-memo",
+      "title": "Draft a memo",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b96954b6855a.json"
+    },
     {
       "id": "opl_d2e52f6f1948",
       "slug": "draft-blog-from-launch-document",
@@ -1293,20 +1302,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8c7c1996124c.json"
-    },
-    {
-      "id": "opl_6b5264d67c7b",
-      "slug": "expert-legal-analyst-in-tax-and-commercial-law",
-      "title": "Expert Legal Analyst in Tax and Commercial Law",
-      "category": "Security",
-      "folder": "security",
-      "variables": [
-        {
-          "name": "topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b5264d67c7b.json"
     }
   ]
 }

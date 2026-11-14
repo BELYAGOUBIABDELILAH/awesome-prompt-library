@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 19,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_877f47fe8ef3",
+      "slug": "patent-illustration-design-with-solidworks-and-origin-styles",
+      "title": "Patent Illustration Design with SolidWorks and Origin Styles",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_877f47fe8ef3.json"
+    },
     {
       "id": "opl_35701d941088",
       "slug": "pathology-slide-analysis-assistant",
@@ -1277,24 +1286,6 @@
       "folder": "product-strategy",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0a1f8b64ccdd.json"
-    },
-    {
-      "id": "opl_3a23ff6e184e",
-      "slug": "prd-and-technical-documentation-generator",
-      "title": "prd-and-technical-documentation-generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "documentType",
-          "default": "PRD"
-        },
-        {
-          "name": "productFeature",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3a23ff6e184e.json"
     }
   ]
 }

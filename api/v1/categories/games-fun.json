@@ -1,8 +1,8 @@
 {
   "folder": "games-fun",
   "name": "Games & Fun",
-  "last_updated": "2026-11-14T15:20:44.870Z",
-  "total": 23,
+  "last_updated": "2026-11-14T16:20:46.088Z",
+  "total": 24,
   "prompts": [
     {
       "id": "opl_c177d8efdfc8",
@@ -51,6 +51,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e070efaf03a.json"
+    },
+    {
+      "id": "opl_07faf9e9fe7d",
+      "slug": "company-introduction",
+      "title": "Company Introduction",
+      "prompt": "Act as video editor and create a company introduction video based on the original video and a sample video.\nI want you to keep the content, the characteristic and the order of context.\nCut the length to 60 seconds.\nThe sample video: https://youtu.be/PBrYMBacnyM?si=azTcDzob6GRkhFDd\nThe original one:",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_3192bb58a0e1"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07faf9e9fe7d.json"
     },
     {
       "id": "opl_908fe4657adc",

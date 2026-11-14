@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 6,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
@@ -945,6 +945,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d6f162fcacc9.json"
     },
     {
+      "id": "opl_07faf9e9fe7d",
+      "slug": "company-introduction",
+      "title": "Company Introduction",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07faf9e9fe7d.json"
+    },
+    {
       "id": "opl_af2d1d87051e",
       "slug": "compare-alternative-implementations",
       "title": "Compare Alternative Implementations",
@@ -1158,15 +1167,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6c669139cfb3.json"
-    },
-    {
-      "id": "opl_c8dda9b8c094",
-      "slug": "comprehensive-devops-guide",
-      "title": "Comprehensive DevOps Guide",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c8dda9b8c094.json"
     }
   ]
 }

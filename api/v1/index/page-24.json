@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 24,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_19c8e3d9d1ee",
+      "slug": "spec-sheet-retrieval",
+      "title": "Spec Sheet Retrieval",
+      "category": "Sales & Business",
+      "folder": "sales-business",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_19c8e3d9d1ee.json"
+    },
     {
       "id": "opl_c23fc8b3e8af",
       "slug": "spec-sheet-simplifier",
@@ -1057,15 +1066,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_597dca6af505.json"
-    },
-    {
-      "id": "opl_ac87293e2500",
-      "slug": "what-does-chatgpt-knows-about-you",
-      "title": "Summarize Stored Knowledge and Preferences",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ac87293e2500.json"
     }
   ]
 }

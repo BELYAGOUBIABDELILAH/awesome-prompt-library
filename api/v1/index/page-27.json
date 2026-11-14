@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T15:20:44.870Z",
+  "last_updated": "2026-11-14T16:20:46.088Z",
   "page": 27,
   "per_page": 100,
-  "total": 2740,
+  "total": 2741,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_a6e00054319e",
+      "slug": "ultra-realistic-amateur-street-photo-of-ankara-scene",
+      "title": "Ultra-Realistic Amateur Street Photo of Ankara Scene",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6e00054319e.json"
+    },
     {
       "id": "opl_2fc33f50ca7f",
       "slug": "ultra-realistic-ankara-apartment-night-scene",
@@ -1198,15 +1207,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_611c77c098de.json"
-    },
-    {
-      "id": "opl_4c38d3273535",
-      "slug": "wickedsmaht-fun",
-      "title": "Wickedsmaht.fun",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4c38d3273535.json"
     }
   ]
 }
