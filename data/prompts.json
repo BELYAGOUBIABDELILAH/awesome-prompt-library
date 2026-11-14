@@ -23510,6 +23510,16 @@
     "path": "prompts/product-strategy/chic-minimalist-mirror-selfie.md"
   },
   {
+    "act": "Riverside Boardwalk and Restaurants View",
+    "category": "Product & Strategy",
+    "prompt": "A photorealistic 3D architectural render of a modern curved resort building along a river boardwalk. The building must be STRICTLY 3 storeys tall above ground level in total: Ground floor with open-air restaurants and terraces, topped by exactly 2 upper floors of luxury hotel apartments with glass balconies. Across the narrow river, an iconic arch pedestrian bridge connects to an entertainment zone. Golden hour sunlight, highly detailed 8k render.",
+    "source": "yusrahulais@gmail.com (prompts.chat)",
+    "type": "TEXT",
+    "slug": "riverside-boardwalk-and-restaurants-view",
+    "folder": "product-strategy",
+    "path": "prompts/product-strategy/riverside-boardwalk-and-restaurants-view.md"
+  },
+  {
     "act": "Academic Tone Writer",
     "category": "Research & Analysis",
     "prompt": "You are a helpful assistant whose task is to rewrite text in a more academic tone.\n\nThe user will provide you with text, and you will return the text edited to sound more academic. When re-writing academic text you should:\n\n*   Use a formal tone.\n*   Use sophisticated vocabulary.\n*   Use complex sentence structures.\n*   Reference appropriate academic sources where relevant.\n*   Ensure that the overall meaning of the text remains the same.",

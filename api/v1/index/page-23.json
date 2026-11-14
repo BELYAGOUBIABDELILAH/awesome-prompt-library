@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T05:20:42.685Z",
+  "last_updated": "2026-11-14T06:20:41.038Z",
   "page": 23,
   "per_page": 100,
-  "total": 2730,
+  "total": 2731,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_0ad640bae0bb",
+      "slug": "seo-optimization-agent-role",
+      "title": "SEO Optimization Agent Role",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0ad640bae0bb.json"
+    },
     {
       "id": "opl_e857b05a4a92",
       "slug": "seo-prompt",
@@ -1101,15 +1110,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a2ddde78a719.json"
-    },
-    {
-      "id": "opl_856be45cf0a7",
-      "slug": "spoken-english-teacher-and-improver",
-      "title": "Spoken English Teacher and Improver",
-      "category": "Education & Learning",
-      "folder": "education-learning",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_856be45cf0a7.json"
     }
   ]
 }

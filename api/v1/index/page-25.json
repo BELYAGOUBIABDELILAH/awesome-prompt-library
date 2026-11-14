@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T05:20:42.685Z",
+  "last_updated": "2026-11-14T06:20:41.038Z",
   "page": 25,
   "per_page": 100,
-  "total": 2730,
+  "total": 2731,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_84bb7e5d24a3",
+      "slug": "surreal-miniature-cityscape-with-giant-observer",
+      "title": "Surreal Miniature Cityscape with Giant Observer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84bb7e5d24a3.json"
+    },
     {
       "id": "opl_73b6f1f14d13",
       "slug": "surrealist-painting-description-a-study-of-ren-magritte-s-st",
@@ -984,15 +993,6 @@
       "folder": "games-fun",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_91daf3875685.json"
-    },
-    {
-      "id": "opl_ea1bc1c5255d",
-      "slug": "text-to-image-with-reference-billiards-bar-scene",
-      "title": "Text-to-Image with Reference - Billiards Bar Scene",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ea1bc1c5255d.json"
     }
   ]
 }

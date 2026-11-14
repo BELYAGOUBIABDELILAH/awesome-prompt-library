@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**19 prompts in this category**
+**20 prompts in this category**
 
 ## Table of Contents
 
@@ -18,6 +18,7 @@
 - [Instructional Video on Muscles for Students](instructional-video-on-muscles-for-students.md)
 - [PRD Writer](prd-writer.md)
 - [Realistic Selfie of Girl with Transparent Glasses and Pink Hair](realistic-selfie-of-girl-with-transparent-glasses-and-pink-hair.md)
+- [Riverside Boardwalk and Restaurants View](riverside-boardwalk-and-restaurants-view.md)
 - [SaaS Pricing Strategist](saas-pricing-strategist.md)
 - [Shopping List Generator (Non-Food)](shopping-list-generator-non-food.md)
 - [Skin care for acne and freckles](skin-care-for-acne-and-freckles.md)

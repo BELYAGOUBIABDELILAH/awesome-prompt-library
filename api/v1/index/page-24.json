@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T05:20:42.685Z",
+  "last_updated": "2026-11-14T06:20:41.038Z",
   "page": 24,
   "per_page": 100,
-  "total": 2730,
+  "total": 2731,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_856be45cf0a7",
+      "slug": "spoken-english-teacher-and-improver",
+      "title": "Spoken English Teacher and Improver",
+      "category": "Education & Learning",
+      "folder": "education-learning",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_856be45cf0a7.json"
+    },
     {
       "id": "opl_d82a75859f55",
       "slug": "spoken-word-artist-persona",
@@ -1079,15 +1088,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_affc9ec672ff.json"
-    },
-    {
-      "id": "opl_84bb7e5d24a3",
-      "slug": "surreal-miniature-cityscape-with-giant-observer",
-      "title": "Surreal Miniature Cityscape with Giant Observer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_84bb7e5d24a3.json"
     }
   ]
 }
