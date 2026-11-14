@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T08:20:41.427Z",
+  "last_updated": "2026-11-14T09:20:45.637Z",
   "page": 27,
   "per_page": 100,
-  "total": 2733,
+  "total": 2734,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_037cbb3af3c5",
+      "slug": "ultra-realistic-street-photo-prompt-turkish-woman-in-ankara",
+      "title": "Ultra-Realistic Street Photo Prompt: Turkish Woman in Ankara",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_037cbb3af3c5.json"
+    },
     {
       "id": "opl_635372a02b21",
       "slug": "ultra-realistic-turkish-living-room-scene-during-football-ma",
@@ -1207,24 +1216,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2be25502bcb4.json"
-    },
-    {
-      "id": "opl_76d47118a9c8",
-      "slug": "workplace-english-speaking-coach",
-      "title": "Workplace English Speaking Coach",
-      "category": "Image & Design",
-      "folder": "image-design",
-      "variables": [
-        {
-          "name": "industry",
-          "default": "general"
-        },
-        {
-          "name": "languageLevel",
-          "default": "intermediate"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_76d47118a9c8.json"
     }
   ]
 }

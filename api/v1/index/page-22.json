@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T08:20:41.427Z",
+  "last_updated": "2026-11-14T09:20:45.637Z",
   "page": 22,
   "per_page": 100,
-  "total": 2733,
+  "total": 2734,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
@@ -60,6 +60,15 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_661380492bdf.json"
+    },
+    {
+      "id": "opl_aca0c7cd6961",
+      "slug": "reverse-prompt",
+      "title": "Reverse Prompt",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aca0c7cd6961.json"
     },
     {
       "id": "opl_6d5866c408c5",
@@ -1198,28 +1207,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49ca5c26c001.json"
-    },
-    {
-      "id": "opl_590411d9f6e4",
-      "slug": "sentry-bug-fixer",
-      "title": "Sentry Bug Fixer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "bugSeverity",
-          "default": "high"
-        },
-        {
-          "name": "environment",
-          "default": "production"
-        },
-        {
-          "name": "projectName",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_590411d9f6e4.json"
     }
   ]
 }

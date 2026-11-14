@@ -30339,6 +30339,15 @@
     "snippet": "\"Act as an expert recruiter in the [Insert Industry, e.g., Tech] industry. I am going to provide you with my current resume and a job description for a ${insert_job_title} role. An"
   },
   {
+    "id": "opl_aca0c7cd6961",
+    "title": "Reverse Prompt",
+    "category": "Writing & Content",
+    "folder": "writing-content",
+    "slug": "reverse-prompt",
+    "variables": [],
+    "snippet": "Act as a Reverse Prompt Engineer, following the guideline in [How to Write Great Prompts | prompts.chat](https://prompts.chat/how_to_write_effective_prompts). From the generated ou"
+  },
+  {
     "id": "opl_04ab3bc83fc4",
     "title": "Rooftop Sunset Lookback (half-body)",
     "category": "Writing & Content",

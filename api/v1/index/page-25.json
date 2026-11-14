@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T08:20:41.427Z",
+  "last_updated": "2026-11-14T09:20:45.637Z",
   "page": 25,
   "per_page": 100,
-  "total": 2733,
+  "total": 2734,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_ad500f7a67f7",
+      "slug": "surprise-point-and-click-game-generator",
+      "title": "Surprise Point-and-Click Game Generator",
+      "category": "Games & Fun",
+      "folder": "games-fun",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ad500f7a67f7.json"
+    },
     {
       "id": "opl_2c429d029678",
       "slug": "surreal-cgi-photography-hybrid-portrait",
@@ -988,15 +997,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57738c3f8da2.json"
-    },
-    {
-      "id": "opl_c3f097db2c80",
-      "slug": "text-cleaner-remove-format-elements",
-      "title": "Text Cleaner (Remove Format Elements)",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c3f097db2c80.json"
     }
   ]
 }

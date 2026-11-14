@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T08:20:41.427Z",
+  "last_updated": "2026-11-14T09:20:45.637Z",
   "page": 26,
   "per_page": 100,
-  "total": 2733,
+  "total": 2734,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_c3f097db2c80",
+      "slug": "text-cleaner-remove-format-elements",
+      "title": "Text Cleaner (Remove Format Elements)",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c3f097db2c80.json"
+    },
     {
       "id": "opl_734ca1e892c1",
       "slug": "text-summarizer",
@@ -1053,15 +1062,6 @@
       "folder": "marketing-social",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce9613a16d53.json"
-    },
-    {
-      "id": "opl_037cbb3af3c5",
-      "slug": "ultra-realistic-street-photo-prompt-turkish-woman-in-ankara",
-      "title": "Ultra-Realistic Street Photo Prompt: Turkish Woman in Ankara",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_037cbb3af3c5.json"
     }
   ]
 }

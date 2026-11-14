@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**257 prompts in this category**
+**258 prompts in this category**
 
 ## Table of Contents
 
@@ -198,6 +198,7 @@
 - [Removing visual noise in the neural network's response](removing-visual-noise-in-the-neural-network-s-response.md)
 - [Research Weapon](research-weapon.md)
 - [Resume tailoring](resume-tailoring.md)
+- [Reverse Prompt](reverse-prompt.md)
 - [Rooftop Sunset Lookback (half-body)](rooftop-sunset-lookback-half-body.md)
 - [SaaS Landing Page Builder](saas-landing-page-builder.md)
 - [Screenplay Script with Cinematography Details](screenplay-script-with-cinematography-details.md)
