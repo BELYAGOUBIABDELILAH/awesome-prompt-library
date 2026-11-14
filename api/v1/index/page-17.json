@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 17,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prompts": [
+    {
+      "id": "opl_83a38185e2d9",
+      "slug": "mice-and-pointing-device",
+      "title": "Mice And Pointing Device",
+      "category": "Image & Design",
+      "folder": "image-design",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_83a38185e2d9.json"
+    },
     {
       "id": "opl_8aa99afaea8d",
       "slug": "micro-saas-vibecoder-architect",
@@ -1056,15 +1065,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ef47a924d490.json"
-    },
-    {
-      "id": "opl_7240ec79aaa7",
-      "slug": "news-brief-generator",
-      "title": "News Brief Generator",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7240ec79aaa7.json"
     }
   ]
 }

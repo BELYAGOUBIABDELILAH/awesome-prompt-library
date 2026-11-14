@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 13,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prompts": [
+    {
+      "id": "opl_5c4a2b100170",
+      "slug": "health-metrics-calculator",
+      "title": "Health Metrics Calculator",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5c4a2b100170.json"
+    },
     {
       "id": "opl_e58392cb74af",
       "slug": "hebrew-calendar",
@@ -1033,20 +1042,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a12f3365ab3d.json"
-    },
-    {
-      "id": "opl_e4bb8a2fbb89",
-      "slug": "improve-the-following-code",
-      "title": "Improve the following code",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [
-        {
-          "name": "selectedText",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4bb8a2fbb89.json"
     }
   ]
 }

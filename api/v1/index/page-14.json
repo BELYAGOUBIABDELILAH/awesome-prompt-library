@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 14,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_e4bb8a2fbb89",
+      "slug": "improve-the-following-code",
+      "title": "Improve the following code",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "selectedText",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4bb8a2fbb89.json"
+    },
     {
       "id": "opl_f18874a35525",
       "slug": "improve-ui-accessibility",
@@ -1090,15 +1104,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5ee9ba0d5461.json"
-    },
-    {
-      "id": "opl_5a2938845d3c",
-      "slug": "journalist",
-      "title": "Journalist",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5a2938845d3c.json"
     }
   ]
 }

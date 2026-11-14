@@ -15548,6 +15548,15 @@
     "snippet": "{ \"image_generation_prompt\": { \"subject\": { \"demographics\": \"Young woman\", \"hair\": { \"color\": \"Strawberry blonde / Golden blonde\", \"style\": \"Long,"
   },
   {
+    "id": "opl_1f796d691973",
+    "title": "diff",
+    "category": "Data & Analytics",
+    "folder": "data-analytics",
+    "slug": "diff",
+    "variables": [],
+    "snippet": "The \"Deep-Scan Comparative\" Prompt \"Act as an Expert Educator. I want to learn about [INSERT SUBJECT/TOPIC]. Task 1: The Core Landscape. Create a comprehensive comparison table of"
+  },
+  {
     "id": "opl_994a7be4b483",
     "title": "Document My Belief",
     "category": "Data & Analytics",

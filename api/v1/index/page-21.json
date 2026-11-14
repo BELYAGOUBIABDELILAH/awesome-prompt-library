@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 21,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_61f2f6023b43",
+      "slug": "python",
+      "title": "python",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_61f2f6023b43.json"
+    },
     {
       "id": "opl_91aeadf434c6",
       "slug": "python-learn-by-example",
@@ -1053,28 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_124311e8ad3f.json"
-    },
-    {
-      "id": "opl_0d6191af39e2",
-      "slug": "resume-tailoring",
-      "title": "Resume tailoring",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [
-        {
-          "name": "insert_job_title",
-          "default": null
-        },
-        {
-          "name": "paste_jd",
-          "default": null
-        },
-        {
-          "name": "paste_resume",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d6191af39e2.json"
     }
   ]
 }

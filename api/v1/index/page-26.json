@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 26,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_57738c3f8da2",
+      "slug": "text-brevity-assistant",
+      "title": "Text Brevity Assistant",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57738c3f8da2.json"
+    },
     {
       "id": "opl_c3f097db2c80",
       "slug": "text-cleaner-remove-format-elements",
@@ -1053,15 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f2e0f7af3e7.json"
-    },
-    {
-      "id": "opl_ce9613a16d53",
-      "slug": "ultra-realistic-night-scene-in-a-turkish-kitchen",
-      "title": "Ultra-Realistic Night Scene in a Turkish Kitchen",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce9613a16d53.json"
     }
   ]
 }

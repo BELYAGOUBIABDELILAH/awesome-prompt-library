@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 25,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_e621f9e842a6",
+      "slug": "super-trader-model-for-stock-analysis",
+      "title": "Super Trader Model for Stock Analysis",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "investmentAmount",
+          "default": null
+        },
+        {
+          "name": "riskLevel",
+          "default": "medium"
+        },
+        {
+          "name": "stockSymbol",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e621f9e842a6.json"
+    },
     {
       "id": "opl_ad500f7a67f7",
       "slug": "surprise-point-and-click-game-generator",
@@ -988,15 +1010,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3685695c6976.json"
-    },
-    {
-      "id": "opl_57738c3f8da2",
-      "slug": "text-brevity-assistant",
-      "title": "Text Brevity Assistant",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_57738c3f8da2.json"
     }
   ]
 }

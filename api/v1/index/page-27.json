@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 27,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_ce9613a16d53",
+      "slug": "ultra-realistic-night-scene-in-a-turkish-kitchen",
+      "title": "Ultra-Realistic Night Scene in a Turkish Kitchen",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ce9613a16d53.json"
+    },
     {
       "id": "opl_037cbb3af3c5",
       "slug": "ultra-realistic-street-photo-prompt-turkish-woman-in-ankara",
@@ -1207,15 +1216,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_aeb205d7cbf2.json"
-    },
-    {
-      "id": "opl_2be25502bcb4",
-      "slug": "work-on-linear-issue",
-      "title": "Work on Linear Issue",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2be25502bcb4.json"
     }
   ]
 }

@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 11,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_04fd2c4bb56f",
+      "slug": "expert-technical-blog-writer-role",
+      "title": "Expert Technical Blog Writer Role",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04fd2c4bb56f.json"
+    },
     {
       "id": "opl_8107251e8391",
       "slug": "expert-level-insights-and-advanced-resources",
@@ -1051,15 +1060,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1fa6d5536804.json"
-    },
-    {
-      "id": "opl_ed57dd00d567",
-      "slug": "generate-boilerplate-code",
-      "title": "Generate Boilerplate Code",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ed57dd00d567.json"
     }
   ]
 }

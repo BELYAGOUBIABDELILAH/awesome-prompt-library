@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 15,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_5a2938845d3c",
+      "slug": "journalist",
+      "title": "Journalist",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5a2938845d3c.json"
+    },
     {
       "id": "opl_ae2293fa6f0a",
       "slug": "json-assistance",
@@ -1040,15 +1049,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2e0fde5cee77.json"
-    },
-    {
-      "id": "opl_cbf5ca6cf015",
-      "slug": "llm-tool-assistant",
-      "title": "LLM Tool Assistant",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cbf5ca6cf015.json"
     }
   ]
 }

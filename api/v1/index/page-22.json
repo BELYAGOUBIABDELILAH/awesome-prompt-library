@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 22,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_0d6191af39e2",
+      "slug": "resume-tailoring",
+      "title": "Resume tailoring",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "insert_job_title",
+          "default": null
+        },
+        {
+          "name": "paste_jd",
+          "default": null
+        },
+        {
+          "name": "paste_resume",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0d6191af39e2.json"
+    },
     {
       "id": "opl_c2b5a043fdb3",
       "slug": "resume-to-json",
@@ -1193,20 +1215,6 @@
       "folder": "health-wellness",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa0ca5ec5478.json"
-    },
-    {
-      "id": "opl_49ca5c26c001",
-      "slug": "sentence-expansion-and-completion-assistant",
-      "title": "Sentence Expansion and Completion Assistant",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "inputSentence",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_49ca5c26c001.json"
     }
   ]
 }

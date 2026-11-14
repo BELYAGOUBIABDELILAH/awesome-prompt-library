@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 9,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
@@ -699,6 +699,15 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_16208b2a3d4c.json"
     },
     {
+      "id": "opl_1f796d691973",
+      "slug": "diff",
+      "title": "diff",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1f796d691973.json"
+    },
+    {
       "id": "opl_f1e95ab5750b",
       "slug": "diff-security-auditor-agent-role",
       "title": "Diff Security Auditor Agent Role",
@@ -1178,15 +1187,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b96954b6855a.json"
-    },
-    {
-      "id": "opl_d2e52f6f1948",
-      "slug": "draft-blog-from-launch-document",
-      "title": "Draft Blog from Launch Document",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d2e52f6f1948.json"
     }
   ]
 }

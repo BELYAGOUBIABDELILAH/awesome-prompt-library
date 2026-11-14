@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 10,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prompts": [
+    {
+      "id": "opl_d2e52f6f1948",
+      "slug": "draft-blog-from-launch-document",
+      "title": "Draft Blog from Launch Document",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d2e52f6f1948.json"
+    },
     {
       "id": "opl_ae8be219aa17",
       "slug": "draft-personalized-outreach-post-sale",
@@ -1298,15 +1307,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6b5264d67c7b.json"
-    },
-    {
-      "id": "opl_04fd2c4bb56f",
-      "slug": "expert-technical-blog-writer-role",
-      "title": "Expert Technical Blog Writer Role",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_04fd2c4bb56f.json"
     }
   ]
 }

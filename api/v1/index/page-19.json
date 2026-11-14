@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 19,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_3b58d17daa62",
+      "slug": "payment-gateway-page",
+      "title": "Payment gateway page",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3b58d17daa62.json"
+    },
     {
       "id": "opl_a9fc15930a17",
       "slug": "pcb-identification-assistant",
@@ -1273,15 +1282,6 @@
       "folder": "data-analytics",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3029ecde2e93.json"
-    },
-    {
-      "id": "opl_7c6f68640f27",
-      "slug": "premium-classy-interview-presentation-design",
-      "title": "Premium Classy Interview Presentation Design",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c6f68640f27.json"
     }
   ]
 }

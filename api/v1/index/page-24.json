@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 24,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_41275487f643",
+      "slug": "speech-language-pathologist-slp",
+      "title": "Speech-Language Pathologist (SLP)",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_41275487f643.json"
+    },
     {
       "id": "opl_46b6b34e1374",
       "slug": "spending-analyst",
@@ -1057,28 +1066,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3ecd413aaca1.json"
-    },
-    {
-      "id": "opl_e621f9e842a6",
-      "slug": "super-trader-model-for-stock-analysis",
-      "title": "Super Trader Model for Stock Analysis",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [
-        {
-          "name": "investmentAmount",
-          "default": null
-        },
-        {
-          "name": "riskLevel",
-          "default": "medium"
-        },
-        {
-          "name": "stockSymbol",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e621f9e842a6.json"
     }
   ]
 }

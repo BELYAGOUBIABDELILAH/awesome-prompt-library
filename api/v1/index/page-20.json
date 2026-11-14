@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T09:20:45.637Z",
+  "last_updated": "2026-11-14T10:20:42.423Z",
   "page": 20,
   "per_page": 100,
-  "total": 2734,
+  "total": 2735,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_7c6f68640f27",
+      "slug": "premium-classy-interview-presentation-design",
+      "title": "Premium Classy Interview Presentation Design",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c6f68640f27.json"
+    },
     {
       "id": "opl_53df5ecf3e0f",
       "slug": "premortem-analysis",
@@ -1162,15 +1171,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3c2c02c8eda6.json"
-    },
-    {
-      "id": "opl_61f2f6023b43",
-      "slug": "python",
-      "title": "python",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_61f2f6023b43.json"
     }
   ]
 }

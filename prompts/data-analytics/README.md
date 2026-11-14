@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**174 prompts in this category**
+**175 prompts in this category**
 
 ## Table of Contents
 
@@ -69,6 +69,7 @@
 - [Design a 3D "Network Topology" where particles travel along predefined paths (splines) to represent data transmission.](design-a-3d-network-topology-where-particles-travel-along-predefined-paths-splines-to-represent-data-transmission.md)
 - [Design App Store Style Icons](design-app-store-style-icons.md)
 - [Detailed Image Generation Prompt for Fashion and Portrait Photography](detailed-image-generation-prompt-for-fashion-and-portrait-ph.md)
+- [diff](diff.md)
 - [Document My Belief](document-my-belief.md)
 - [Document Stat Finder](document-stat-finder.md)
 - [Document Table Finder](document-table-finder.md)
