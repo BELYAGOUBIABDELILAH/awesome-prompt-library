@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 11,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_f4261ef864ea",
+      "slug": "explain-like-i-am-8",
+      "title": "explain like I am 8",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4261ef864ea.json"
+    },
     {
       "id": "opl_2bfac609cb08",
       "slug": "explain-mr-impact-on-performance",
@@ -1051,15 +1060,6 @@
       "folder": "business-career",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e7167ff6f657.json"
-    },
-    {
-      "id": "opl_491193224e1a",
-      "slug": "generate-gitlab-ci-templates",
-      "title": "Generate GitLab CI Templates",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_491193224e1a.json"
     }
   ]
 }

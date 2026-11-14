@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 26,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_dcb4a5d45c09",
+      "slug": "the-covert-exchange-in-the-fog",
+      "title": "The Covert Exchange in the Fog",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dcb4a5d45c09.json"
+    },
     {
       "id": "opl_9d03f9660c82",
       "slug": "the-digital-frontier-pixelated-pioneers",
@@ -1043,15 +1052,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_29b2f21e5018.json"
-    },
-    {
-      "id": "opl_14027f148a0f",
-      "slug": "understand-code-before-making-changes",
-      "title": "Understand Code Before Making Changes",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14027f148a0f.json"
     }
   ]
 }

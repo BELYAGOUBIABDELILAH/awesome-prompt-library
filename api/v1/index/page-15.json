@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 15,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_bbf6a4c0073e",
+      "slug": "json-to-csv",
+      "title": "JSON to CSV",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bbf6a4c0073e.json"
+    },
     {
       "id": "opl_f7984c7ddbd2",
       "slug": "json-to-natural-language",
@@ -1040,15 +1049,6 @@
       "folder": "documentation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_450cdf0115c7.json"
-    },
-    {
-      "id": "opl_fcf97333b23c",
-      "slug": "local-ai-llm-tools",
-      "title": "Local AI & LLM Tools",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fcf97333b23c.json"
     }
   ]
 }

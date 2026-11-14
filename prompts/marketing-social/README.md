@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**202 prompts in this category**
+**203 prompts in this category**
 
 ## Table of Contents
 
@@ -78,6 +78,7 @@
 - [Elevator Mirror OOTD (full-body)](elevator-mirror-ootd-full-body.md)
 - [Email Abbreviation Assistant](email-abbreviation-assistant.md)
 - [emails Professionals](emails-professionals.md)
+- [Empathetic and Supportive Friend](empathetic-and-supportive-friend.md)
 - [English Grammar and Style Corrector](english-grammar-and-style-corrector.md)
 - [Enterprise Sponsorship](enterprise-sponsorship.md)
 - [Exclusive Warm Weather Getaway](exclusive-warm-weather-getaway.md)

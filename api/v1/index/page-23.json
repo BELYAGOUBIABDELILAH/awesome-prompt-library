@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 23,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_7c71912e619f",
+      "slug": "seo-tooling-advisor",
+      "title": "SEO Tooling Advisor",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c71912e619f.json"
+    },
     {
       "id": "opl_6dbb693084a7",
       "slug": "seo-fundamentals",
@@ -1088,15 +1097,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0aeb28ba80f9.json"
-    },
-    {
-      "id": "opl_59a72110b787",
-      "slug": "sports-events-weekly-listings-prompt",
-      "title": "Sports Events Weekly Listings Prompt",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59a72110b787.json"
     }
   ]
 }

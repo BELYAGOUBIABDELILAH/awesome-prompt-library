@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 18,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_507d80210d04",
+      "slug": "next-js-specialized-front-end-developer",
+      "title": "Next.js Specialized Front-End Developer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_507d80210d04.json"
+    },
     {
       "id": "opl_690bba1dc52d",
       "slug": "nfc-expert",
@@ -1028,15 +1037,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7d6035432f56.json"
-    },
-    {
-      "id": "opl_1ac6b60fe3ca",
-      "slug": "performance-tuning-agent-role",
-      "title": "Performance Tuning Agent Role",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1ac6b60fe3ca.json"
     }
   ]
 }

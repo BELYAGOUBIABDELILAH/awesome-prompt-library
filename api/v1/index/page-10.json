@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 10,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
@@ -726,6 +726,24 @@
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4383d63f098a.json"
     },
     {
+      "id": "opl_40977b138d63",
+      "slug": "empathetic-and-supportive-friend",
+      "title": "Empathetic and Supportive Friend",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [
+        {
+          "name": "friendName",
+          "default": null
+        },
+        {
+          "name": "message",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_40977b138d63.json"
+    },
+    {
       "id": "opl_452110d5f407",
       "slug": "encryption-expert",
       "title": "Encryption Expert",
@@ -1272,15 +1290,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e6df8bc570f.json"
-    },
-    {
-      "id": "opl_f4261ef864ea",
-      "slug": "explain-like-i-am-8",
-      "title": "explain like I am 8",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f4261ef864ea.json"
     }
   ]
 }

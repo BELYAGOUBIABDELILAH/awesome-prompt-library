@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 12,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_491193224e1a",
+      "slug": "generate-gitlab-ci-templates",
+      "title": "Generate GitLab CI Templates",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_491193224e1a.json"
+    },
     {
       "id": "opl_13baafad159c",
       "slug": "generate-hardware-interface-code",
@@ -1039,15 +1048,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e7d864fac51.json"
-    },
-    {
-      "id": "opl_624a77d05e97",
-      "slug": "hewar",
-      "title": "hewar",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_624a77d05e97.json"
     }
   ]
 }

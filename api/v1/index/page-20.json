@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 20,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prompts": [
+    {
+      "id": "opl_8fc7a80d7633",
+      "slug": "principled",
+      "title": "Principled",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8fc7a80d7633.json"
+    },
     {
       "id": "opl_a6fb5280aea1",
       "slug": "prioritize-review-comments",
@@ -1154,15 +1163,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4f1282fc048f.json"
-    },
-    {
-      "id": "opl_73185b27a490",
-      "slug": "python-environment-explainer",
-      "title": "Python Environment Explainer",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_73185b27a490.json"
     }
   ]
 }

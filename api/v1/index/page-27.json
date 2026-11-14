@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 27,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_14027f148a0f",
+      "slug": "understand-code-before-making-changes",
+      "title": "Understand Code Before Making Changes",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_14027f148a0f.json"
+    },
     {
       "id": "opl_143870cdafab",
       "slug": "understand-configuration-and-environment-setup",
@@ -1265,15 +1274,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_ee998eb43fef.json"
-    },
-    {
-      "id": "opl_64f849870cad",
-      "slug": "writing-advisor-prompt",
-      "title": "Writing Advisor Prompt",
-      "category": "Security",
-      "folder": "security",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_64f849870cad.json"
     }
   ]
 }

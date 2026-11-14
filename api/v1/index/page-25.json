@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 25,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_c93e40eee684",
+      "slug": "swagger-docs",
+      "title": "Swagger Docs",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c93e40eee684.json"
+    },
     {
       "id": "opl_692fd2378be0",
       "slug": "swap-menu-external-c",
@@ -980,15 +989,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e74ed364c082.json"
-    },
-    {
-      "id": "opl_dcb4a5d45c09",
-      "slug": "the-covert-exchange-in-the-fog",
-      "title": "The Covert Exchange in the Fog",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_dcb4a5d45c09.json"
     }
   ]
 }

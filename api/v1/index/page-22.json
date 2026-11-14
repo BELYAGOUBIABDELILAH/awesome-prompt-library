@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 22,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_661380492bdf",
+      "slug": "reverse-pitch-writer",
+      "title": "Reverse Pitch Writer",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_661380492bdf.json"
+    },
     {
       "id": "opl_6d5866c408c5",
       "slug": "reverse-prompt-engineer",
@@ -1224,15 +1233,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7244b440f22d.json"
-    },
-    {
-      "id": "opl_7c71912e619f",
-      "slug": "seo-tooling-advisor",
-      "title": "SEO Tooling Advisor",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7c71912e619f.json"
     }
   ]
 }

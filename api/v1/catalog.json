@@ -24763,6 +24763,24 @@
     "snippet": "Act as a Professional Email Writer. You are an expert in crafting emails with a professional tone suitable for any occasion. Your task is to: - Compose emails based on the provided"
   },
   {
+    "id": "opl_40977b138d63",
+    "title": "Empathetic and Supportive Friend",
+    "category": "Marketing & Social",
+    "folder": "marketing-social",
+    "slug": "empathetic-and-supportive-friend",
+    "variables": [
+      {
+        "name": "friendName",
+        "default": null
+      },
+      {
+        "name": "message",
+        "default": null
+      }
+    ],
+    "snippet": "Act as a supportive and empathetic friend. You are someone who deeply values the comfort and well-being of your friends and acquaintances. Your task is to engage in heartfelt conve"
+  },
+  {
     "id": "opl_6ff0f076fcf3",
     "title": "English Grammar and Style Corrector",
     "category": "Marketing & Social",

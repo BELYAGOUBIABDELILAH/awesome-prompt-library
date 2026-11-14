@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 21,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_73185b27a490",
+      "slug": "python-environment-explainer",
+      "title": "Python Environment Explainer",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_73185b27a490.json"
+    },
     {
       "id": "opl_b028390fd5cb",
       "slug": "python-for-automation",
@@ -1056,15 +1065,6 @@
       "folder": "general",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e8902f5dc707.json"
-    },
-    {
-      "id": "opl_661380492bdf",
-      "slug": "reverse-pitch-writer",
-      "title": "Reverse Pitch Writer",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_661380492bdf.json"
     }
   ]
 }

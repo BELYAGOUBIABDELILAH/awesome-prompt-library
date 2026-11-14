@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T00:20:46.309Z",
+  "last_updated": "2026-11-14T01:20:43.234Z",
   "page": 24,
   "per_page": 100,
-  "total": 2725,
+  "total": 2726,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prompts": [
+    {
+      "id": "opl_59a72110b787",
+      "slug": "sports-events-weekly-listings-prompt",
+      "title": "Sports Events Weekly Listings Prompt",
+      "category": "Security",
+      "folder": "security",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_59a72110b787.json"
+    },
     {
       "id": "opl_d0cecdd5bfcc",
       "slug": "sports-research-assistant",
@@ -1079,15 +1088,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_435cf270347e.json"
-    },
-    {
-      "id": "opl_c93e40eee684",
-      "slug": "swagger-docs",
-      "title": "Swagger Docs",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c93e40eee684.json"
     }
   ]
 }
