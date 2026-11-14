@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 8,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-9.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prompts": [
+    {
+      "id": "opl_6fd49a47da16",
+      "slug": "creative-image-generation-for-digital-art",
+      "title": "Creative Image Generation for Digital Art",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fd49a47da16.json"
+    },
     {
       "id": "opl_8caba0b3d5e9",
       "slug": "creative-perks",
@@ -1200,28 +1209,6 @@
       "folder": "ai-automation",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_5494a68ac6ba.json"
-    },
-    {
-      "id": "opl_2df5a2ac21e8",
-      "slug": "deep-research-gemini",
-      "title": "Deep Research - Gemini",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [
-        {
-          "name": "your_context",
-          "default": null
-        },
-        {
-          "name": "your_field",
-          "default": null
-        },
-        {
-          "name": "your_topic",
-          "default": null
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2df5a2ac21e8.json"
     }
   ]
 }

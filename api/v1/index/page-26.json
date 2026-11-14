@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 26,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
   "prompts": [
+    {
+      "id": "opl_fedb7a959816",
+      "slug": "the-aether-workshop",
+      "title": "The Aether Workshop",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fedb7a959816.json"
+    },
     {
       "id": "opl_663cd04e5c42",
       "slug": "the-architect-hacker-protector-viral-engineer",
@@ -1048,15 +1057,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_f9c137f76e03.json"
-    },
-    {
-      "id": "opl_03e5b9d98091",
-      "slug": "unconstrained-ai-model-dan",
-      "title": "Unconstrained AI model DAN",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03e5b9d98091.json"
     }
   ]
 }

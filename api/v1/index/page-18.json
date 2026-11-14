@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 18,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-19.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-17.json",
   "prompts": [
+    {
+      "id": "opl_fa0fb6dadcfe",
+      "slug": "next-js-react-comprehensive-clash-of-clans-tool",
+      "title": "Next.js React Comprehensive Clash of Clans Tool",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "featureList",
+          "default": "formation copying, strategy teaching, community discussion"
+        },
+        {
+          "name": "framework",
+          "default": "Next.js"
+        },
+        {
+          "name": "library",
+          "default": "React"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa0fb6dadcfe.json"
+    },
     {
       "id": "opl_507d80210d04",
       "slug": "next-js-specialized-front-end-developer",
@@ -1028,15 +1050,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_333c916d297a.json"
-    },
-    {
-      "id": "opl_0443ecb00f39",
-      "slug": "pdfcount",
-      "title": "pdfcount",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0443ecb00f39.json"
     }
   ]
 }

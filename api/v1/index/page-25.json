@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 25,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prompts": [
+    {
+      "id": "opl_6d36eaf3a584",
+      "slug": "sustainable-living-advisor",
+      "title": "Sustainable Living Advisor",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6d36eaf3a584.json"
+    },
     {
       "id": "opl_435cf270347e",
       "slug": "svg-designer",
@@ -984,15 +993,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_3d72e5b6b961.json"
-    },
-    {
-      "id": "opl_fedb7a959816",
-      "slug": "the-aether-workshop",
-      "title": "The Aether Workshop",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fedb7a959816.json"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "api_version": "v1",
-  "last_updated": "2026-11-14T03:20:52.743Z",
-  "total_prompts": 2728,
-  "source_records": 2728,
-  "total_sources": 356,
+  "last_updated": "2026-11-14T04:20:39.542Z",
+  "total_prompts": 2729,
+  "source_records": 2729,
+  "total_sources": 357,
   "total_categories": 19,
   "total_pages": 28,
   "per_page": 100,
@@ -80,7 +80,7 @@
     {
       "folder": "documentation",
       "name": "Documentation",
-      "prompt_count": 59,
+      "prompt_count": 60,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/categories/documentation.json"
     },
     {

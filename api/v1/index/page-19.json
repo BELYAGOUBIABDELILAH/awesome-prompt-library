@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 19,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-18.json",
   "prompts": [
+    {
+      "id": "opl_0443ecb00f39",
+      "slug": "pdfcount",
+      "title": "pdfcount",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0443ecb00f39.json"
+    },
     {
       "id": "opl_7d6035432f56",
       "slug": "performance-debugging-assistant",
@@ -1291,15 +1300,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_10e752d241f4.json"
-    },
-    {
-      "id": "opl_b00e5b071996",
-      "slug": "presentation-making",
-      "title": "presentation making",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_b00e5b071996.json"
     }
   ]
 }

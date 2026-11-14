@@ -1,8 +1,8 @@
 {
   "folder": "documentation",
   "name": "Documentation",
-  "last_updated": "2026-11-14T03:20:52.743Z",
-  "total": 59,
+  "last_updated": "2026-11-14T04:20:39.542Z",
+  "total": 60,
   "prompts": [
     {
       "id": "opl_aa81c6913b7f",
@@ -115,6 +115,22 @@
       ],
       "revision": 1,
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_1a1550b4f327.json"
+    },
+    {
+      "id": "opl_0de22df81ebe",
+      "slug": "cinematic-evolution-of-cars-from-1920s-to-electric-vehicles",
+      "title": "Cinematic Evolution of Cars from 1920s to Electric Vehicles",
+      "prompt": "\"Generate a video: Documentary style cinematic sequence showing the evolution of cars from vintage 1920s automobile to modern electric vehicle charging at sunset, photorealistic, dramatic lighting\"",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "provenance_status": "needs-review",
+      "lifecycle_status": "draft",
+      "source_ids": [
+        "src_defeb972d066"
+      ],
+      "revision": 1,
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0de22df81ebe.json"
     },
     {
       "id": "opl_cc79c65a28b9",

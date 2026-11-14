@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 15,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-16.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-14.json",
   "prompts": [
+    {
+      "id": "opl_21d073c3a8ae",
+      "slug": "json-schema-to-markdown-table",
+      "title": "JSON Schema To Markdown Table",
+      "category": "Data & Analytics",
+      "folder": "data-analytics",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_21d073c3a8ae.json"
+    },
     {
       "id": "opl_bbf6a4c0073e",
       "slug": "json-to-csv",
@@ -1040,15 +1049,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7827010c8bf6.json"
-    },
-    {
-      "id": "opl_450cdf0115c7",
-      "slug": "llm-usage-coach",
-      "title": "LLM Usage Coach",
-      "category": "Documentation",
-      "folder": "documentation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_450cdf0115c7.json"
     }
   ]
 }

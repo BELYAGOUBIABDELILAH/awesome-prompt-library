@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 23,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-24.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prompts": [
+    {
+      "id": "opl_a6cac2c506e8",
+      "slug": "seo-specialist",
+      "title": "SEO specialist",
+      "category": "Marketing & Social",
+      "folder": "marketing-social",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6cac2c506e8.json"
+    },
     {
       "id": "opl_7244b440f22d",
       "slug": "seo-strategy-for-container-tracking-keywords",
@@ -1101,15 +1110,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_d82a75859f55.json"
-    },
-    {
-      "id": "opl_53d0ffbce7e6",
-      "slug": "spongebob-s-magic-conch-shell",
-      "title": "Spongebob's Magic Conch Shell",
-      "category": "General",
-      "folder": "general",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_53d0ffbce7e6.json"
     }
   ]
 }

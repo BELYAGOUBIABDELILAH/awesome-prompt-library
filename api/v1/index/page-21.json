@@ -1,12 +1,26 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 21,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-22.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-20.json",
   "prompts": [
+    {
+      "id": "opl_117fd1fec4c4",
+      "slug": "python-code-generator-clean-optimized-production-ready",
+      "title": "Python Code Generator — Clean, Optimized & Production-Ready",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [
+        {
+          "name": "describe_your_requirements_here",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_117fd1fec4c4.json"
+    },
     {
       "id": "opl_4f1282fc048f",
       "slug": "python-code-performance-quality-enhancer",
@@ -1061,15 +1075,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_502746dcff31.json"
-    },
-    {
-      "id": "opl_2ce7ba2fed27",
-      "slug": "revenue-model-unit-economics-analyzer",
-      "title": "Revenue Model & Unit Economics Analyzer",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ce7ba2fed27.json"
     }
   ]
 }

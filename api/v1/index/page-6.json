@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 6,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-7.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-5.json",
@@ -24,6 +24,15 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_fa6745a266d2.json"
+    },
+    {
+      "id": "opl_0de22df81ebe",
+      "slug": "cinematic-evolution-of-cars-from-1920s-to-electric-vehicles",
+      "title": "Cinematic Evolution of Cars from 1920s to Electric Vehicles",
+      "category": "Documentation",
+      "folder": "documentation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0de22df81ebe.json"
     },
     {
       "id": "opl_cb426f49a4ac",
@@ -1171,28 +1180,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_4efde0e3da61.json"
-    },
-    {
-      "id": "opl_87b6012204f9",
-      "slug": "comprehensive-guide-to-gas-fired-pool-heaters-with-visuals",
-      "title": "Comprehensive Guide to Gas-Fired Pool Heaters with Visuals",
-      "category": "AI & Automation",
-      "folder": "ai-automation",
-      "variables": [
-        {
-          "name": "heaterModel",
-          "default": null
-        },
-        {
-          "name": "issueType",
-          "default": null
-        },
-        {
-          "name": "language",
-          "default": "English"
-        }
-      ],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_87b6012204f9.json"
     }
   ]
 }

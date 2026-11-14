@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**59 prompts in this category**
+**60 prompts in this category**
 
 ## Table of Contents
 
@@ -13,6 +13,7 @@
 - [Baby Gear Navigator](baby-gear-navigator.md)
 - [Break Down Epic into Issues](break-down-epic-into-issues.md)
 - [Categorize Features](categorize-features.md)
+- [Cinematic Evolution of Cars from 1920s to Electric Vehicles](cinematic-evolution-of-cars-from-1920s-to-electric-vehicles.md)
 - [Civil Service Job Application Writer](civil-service-job-application-writer.md)
 - [CMOS Citation Verification](cmos-citation-verification.md)
 - [Convert Documentation to Code Comments](convert-documentation-to-code-comments.md)

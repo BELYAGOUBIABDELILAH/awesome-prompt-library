@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 7,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-8.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-6.json",
   "prompts": [
+    {
+      "id": "opl_87b6012204f9",
+      "slug": "comprehensive-guide-to-gas-fired-pool-heaters-with-visuals",
+      "title": "Comprehensive Guide to Gas-Fired Pool Heaters with Visuals",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [
+        {
+          "name": "heaterModel",
+          "default": null
+        },
+        {
+          "name": "issueType",
+          "default": null
+        },
+        {
+          "name": "language",
+          "default": "English"
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_87b6012204f9.json"
+    },
     {
       "id": "opl_79efcfccb3f5",
       "slug": "comprehensive-image-analysis-report",
@@ -1262,15 +1284,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_97f071b489ee.json"
-    },
-    {
-      "id": "opl_6fd49a47da16",
-      "slug": "creative-image-generation-for-digital-art",
-      "title": "Creative Image Generation for Digital Art",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_6fd49a47da16.json"
     }
   ]
 }

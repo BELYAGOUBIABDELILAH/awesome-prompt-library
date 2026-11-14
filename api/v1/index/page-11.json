@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 11,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-12.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-10.json",
   "prompts": [
+    {
+      "id": "opl_8e6df8bc570f",
+      "slug": "explain-funding-impact",
+      "title": "Explain Funding Impact",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8e6df8bc570f.json"
+    },
     {
       "id": "opl_f4261ef864ea",
       "slug": "explain-like-i-am-8",
@@ -1051,15 +1060,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_cd81648e777e.json"
-    },
-    {
-      "id": "opl_e7167ff6f657",
-      "slug": "generate-customer-facing-error-messages",
-      "title": "Generate Customer-Facing Error Messages",
-      "category": "Business & Career",
-      "folder": "business-career",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e7167ff6f657.json"
     }
   ]
 }

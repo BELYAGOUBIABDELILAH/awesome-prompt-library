@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 22,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-23.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-21.json",
   "prompts": [
+    {
+      "id": "opl_2ce7ba2fed27",
+      "slug": "revenue-model-unit-economics-analyzer",
+      "title": "Revenue Model & Unit Economics Analyzer",
+      "category": "AI & Automation",
+      "folder": "ai-automation",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_2ce7ba2fed27.json"
+    },
     {
       "id": "opl_e8902f5dc707",
       "slug": "revenue-performance-report",
@@ -1211,15 +1220,6 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e857b05a4a92.json"
-    },
-    {
-      "id": "opl_a6cac2c506e8",
-      "slug": "seo-specialist",
-      "title": "SEO specialist",
-      "category": "Marketing & Social",
-      "folder": "marketing-social",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_a6cac2c506e8.json"
     }
   ]
 }

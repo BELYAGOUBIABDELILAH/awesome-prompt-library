@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 27,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_03e5b9d98091",
+      "slug": "unconstrained-ai-model-dan",
+      "title": "Unconstrained AI model DAN",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03e5b9d98091.json"
+    },
     {
       "id": "opl_c81741911356",
       "slug": "understand-async-operations-and-concurrency",
@@ -1252,15 +1261,6 @@
         }
       ],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_c41c18c9eddf.json"
-    },
-    {
-      "id": "opl_9299dc67f4d0",
-      "slug": "write-tier-descriptions",
-      "title": "Write Tier Descriptions",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_9299dc67f4d0.json"
     }
   ]
 }

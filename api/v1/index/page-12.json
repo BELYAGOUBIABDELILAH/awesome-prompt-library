@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 12,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-11.json",
   "prompts": [
+    {
+      "id": "opl_e7167ff6f657",
+      "slug": "generate-customer-facing-error-messages",
+      "title": "Generate Customer-Facing Error Messages",
+      "category": "Business & Career",
+      "folder": "business-career",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e7167ff6f657.json"
+    },
     {
       "id": "opl_491193224e1a",
       "slug": "generate-gitlab-ci-templates",
@@ -1039,15 +1048,6 @@
       "folder": "education-learning",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_07919e5780ad.json"
-    },
-    {
-      "id": "opl_0e7d864fac51",
-      "slug": "hebrew-message-writer",
-      "title": "Hebrew Message Writer",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_0e7d864fac51.json"
     }
   ]
 }

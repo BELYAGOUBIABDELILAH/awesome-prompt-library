@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-14T03:20:52.743Z",
+  "last_updated": "2026-11-14T04:20:39.542Z",
   "page": 14,
   "per_page": 100,
-  "total": 2728,
+  "total": 2729,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-15.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-13.json",
   "prompts": [
+    {
+      "id": "opl_e415032da7bd",
+      "slug": "in-depth-article-enhancement-with-research",
+      "title": "In-Depth Article Enhancement with Research",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [
+        {
+          "name": "language",
+          "default": "English"
+        },
+        {
+          "name": "style",
+          "default": "academic"
+        },
+        {
+          "name": "topic",
+          "default": null
+        }
+      ],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e415032da7bd.json"
+    },
     {
       "id": "opl_6794696e4202",
       "slug": "in-depth-paper-and-exam-prediction-analyzer",
@@ -1077,15 +1099,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_20d2c9ab447d.json"
-    },
-    {
-      "id": "opl_21d073c3a8ae",
-      "slug": "json-schema-to-markdown-table",
-      "title": "JSON Schema To Markdown Table",
-      "category": "Data & Analytics",
-      "folder": "data-analytics",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_21d073c3a8ae.json"
     }
   ]
 }
