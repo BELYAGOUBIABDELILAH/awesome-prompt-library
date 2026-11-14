@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T11:20:42.197Z",
+  "last_updated": "2026-11-14T12:20:45.599Z",
   "page": 27,
   "per_page": 100,
-  "total": 2736,
+  "total": 2737,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-28.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-26.json",
   "prompts": [
+    {
+      "id": "opl_96fb5f51dcb8",
+      "slug": "ultra-realistic-comedic-slice-of-life-in-an-ankara-bus",
+      "title": "Ultra-Realistic Comedic Slice-of-Life in an Ankara Bus",
+      "category": "Writing & Content",
+      "folder": "writing-content",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96fb5f51dcb8.json"
+    },
     {
       "id": "opl_4f2e0f7af3e7",
       "slug": "ultra-realistic-handwritten-hospital-note-image",
@@ -1198,15 +1207,6 @@
       "folder": "image-design",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_8021e5732b82.json"
-    },
-    {
-      "id": "opl_e4d31054ee84",
-      "slug": "womanized",
-      "title": "Womanized",
-      "category": "Coding & Development",
-      "folder": "coding-development",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4d31054ee84.json"
     }
   ]
 }

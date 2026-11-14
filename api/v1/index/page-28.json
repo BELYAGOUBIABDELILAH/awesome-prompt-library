@@ -1,12 +1,21 @@
 {
-  "last_updated": "2026-11-14T11:20:42.197Z",
+  "last_updated": "2026-11-14T12:20:45.599Z",
   "page": 28,
   "per_page": 100,
-  "total": 2736,
+  "total": 2737,
   "total_pages": 28,
   "next": null,
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prompts": [
+    {
+      "id": "opl_e4d31054ee84",
+      "slug": "womanized",
+      "title": "Womanized",
+      "category": "Coding & Development",
+      "folder": "coding-development",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_e4d31054ee84.json"
+    },
     {
       "id": "opl_aeb205d7cbf2",
       "slug": "wonder-land-adventure",

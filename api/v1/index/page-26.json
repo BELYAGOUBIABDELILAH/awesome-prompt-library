@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-14T11:20:42.197Z",
+  "last_updated": "2026-11-14T12:20:45.599Z",
   "page": 26,
   "per_page": 100,
-  "total": 2736,
+  "total": 2737,
   "total_pages": 28,
   "next": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-27.json",
   "prev": "https://belyagoubiabdelilah.github.io/promptstack/v1/index/page-25.json",
@@ -200,6 +200,15 @@
       "folder": "writing-content",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_7ecf558fa4b7.json"
+    },
+    {
+      "id": "opl_bb45908fd6ee",
+      "slug": "the-mystery-of-easter-island-who-built-the-giant-moai-statue",
+      "title": "The Mystery of Easter Island | Who Built the Giant Moai Statues? In the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues.",
+      "category": "General",
+      "folder": "general",
+      "variables": [],
+      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_bb45908fd6ee.json"
     },
     {
       "id": "opl_ec998a24493b",
@@ -1053,15 +1062,6 @@
       "folder": "coding-development",
       "variables": [],
       "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_03e984fb1cbb.json"
-    },
-    {
-      "id": "opl_96fb5f51dcb8",
-      "slug": "ultra-realistic-comedic-slice-of-life-in-an-ankara-bus",
-      "title": "Ultra-Realistic Comedic Slice-of-Life in an Ankara Bus",
-      "category": "Writing & Content",
-      "folder": "writing-content",
-      "variables": [],
-      "url": "https://belyagoubiabdelilah.github.io/promptstack/v1/prompts/opl_96fb5f51dcb8.json"
     }
   ]
 }

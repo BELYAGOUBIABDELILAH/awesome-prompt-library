@@ -2,7 +2,7 @@
 
 [← Back to main index](../../README.md)
 
-**89 prompts in this category**
+**90 prompts in this category**
 
 ## Table of Contents
 
@@ -90,6 +90,7 @@
 - [Swagger Docs](swagger-docs.md)
 - [SWOT Analysis for Political Risk and International Relations](swot-analysis-for-political-risk-and-international-relations.md)
 - [Temitope](temitope.md)
+- [The Mystery of Easter Island | Who Built the Giant Moai Statues? In the middle of the Pacific Ocean lies a tiny island filled with hundreds of giant stone statues.](the-mystery-of-easter-island-who-built-the-giant-moai-statue.md)
 - [TTS Tester](tts-tester.md)
 - [TVS raider](tvs-raider.md)
 - [Ultra Brief One-Sentence Answers](ultra-brief-one-sentence-answers.md)
